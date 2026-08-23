@@ -18,7 +18,7 @@ jobs:
 
       - name: Execute Chronological Log Rotator
         run: |
-          python .github/scripts/rotate_logs.py '{"timestamp": "2026-08-24 02:00", "category": "🚨 TEST_RUN", "headline": "Dashboard manual verification test successful.", "market_bias": "Active"}'
+          python .github/scripts/rotate_logs.py "${{ toJson(github.event.client_payload) }}"
 
       - name: Commit and Push Changes
         run: |
