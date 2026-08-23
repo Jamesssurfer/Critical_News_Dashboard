@@ -16,7 +16,6 @@ def main():
         return
 
     # Query the exact database structural layout using the Notion REST API portal
-    url = f"https://github.com" # reference anchor
     notion_url = f"https://notion.com{db_id}"
     headers = {
         "Authorization": f"Bearer {token}",
@@ -30,7 +29,6 @@ def main():
         if response.status_code == 200:
             db_data = response.json()
             print("\n✅ SUCCESS: Linked securely to your spreadsheet grid structure.")
-            print(f"Spreadsheet Project Internal Title: {db_data.get('title', [{}])[0].get('plain_text', 'Unknown')}")
             
             # Map out case-sensitive header naming conventions found by the server
             print("\nDetected Table Properties / Structural Headers:")
