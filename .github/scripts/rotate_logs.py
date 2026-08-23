@@ -1,53 +1,71 @@
 import os
 import sys
 import json
+import requests
 from datetime import datetime
 
+def push_to_notion(token, database_id, timestamp, category, headline, bias):
+    url = "https://notion.com"
+    headers = {
+        "Authorization": f"Bearer {token}",
+        "Content-Type": "application/json",
+        "Notion-Version": "2022-06-28"
+    }
+    # Rigid block structural mapping for standard text properties
+    payload = {
+        "parent": {"database_id": database_id},
+        "properties": {
+            "Headline": {
+                "title": [{"text": {"content": f"[{timestamp}] {headline}"}}]
+            },
+            "Category": {
+                "rich_text": [{"text": {"content": str(category)}}]
+            },
+            "Market Bias": {
+                "rich_text": [{"text": {"content": str(bias)}}]
+            }
+        }
+    }
+    response = requests.post(url, headers=headers, json=payload)
+    print(f"Notion API Server Status Code Response: {response.status_code}")
+    if response.status_code != 200:
+        print(f"Notion Server Rejection Details: {response.text}")
+
 def main():
-    # 1. Safely extract raw text from command line arguments passed by the workflow
     if len(sys.argv) < 2:
-        print("Error: No data payload detected from the action engine.")
+        print("Error: No data payload detected.")
         return
 
     raw_data = sys.argv[1]
     
-    # 2. Parse the verified payload string into a valid Python dictionary
     try:
         payload = json.loads(raw_data)
     except Exception as e:
-        print(f"Critical Error: Failed to parse structural data packet: {e}")
-        print(f"Attempted to read raw data: {raw_data}")
+        print(f"JSON Parsing Error: {e}")
         return
 
-    # Extract macro metrics from the safe dictionary fields
     timestamp = payload.get("timestamp", datetime.utcnow().strftime("%Y-%m-%d %H:%M"))
     category = payload.get("category", "🚨 GLOBAL MACRO")
-    headline = payload.get("headline", "Unexpected market structural shift detected.")
+    headline = payload.get("headline", "Market shift detected.")
     bias = payload.get("market_bias", "Monitor Focus")
 
-    # Generate the exact structural row for our Markdown layout
+    # 1. Update GitHub README File Table
     new_row = f"| {timestamp} | {category} | {headline} | {bias} |\n"
-    
-    # 3. Inject new row directly below the dashboard target anchor tag
     readme_path = "README.md"
     if os.path.exists(readme_path):
         with open(readme_path, "r", encoding="utf-8") as f:
             content = f.read()
-
         start_anchor = "<!-- ACTIVE_LOGS_START -->"
-        
         if start_anchor in content:
-            # Performs injection directly below the hidden layout indicator anchor
             updated_content = content.replace(start_anchor, f"{start_anchor}\n{new_row}")
             with open(readme_path, "w", encoding="utf-8") as f:
                 f.write(updated_content)
-            print(f"Success: Appended new alert for {category} to your dashboard table.")
-        else:
-            print("Warning: Anchor missing from file text layout. Appending row to bottom.")
-            with open(readme_path, "a", encoding="utf-8") as f:
-                f.write(f"\n{new_row}")
-    else:
-        print("Error: README.md file could not be found in root workspace.")
+
+    # 2. Sync to Notion
+    notion_token = os.getenv("NOTION_TOKEN")
+    notion_db_id = os.getenv("NOTION_DATABASE_ID")
+    if notion_token and notion_db_id:
+        push_to_notion(notion_token, notion_db_id, timestamp, category, headline, bias)
 
 if __name__ == '__main__':
     main()
