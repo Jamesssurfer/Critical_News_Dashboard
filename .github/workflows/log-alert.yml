@@ -16,7 +16,7 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Install Python Dependencies  # ◄── THIS FIXES THE CRASH INSTANTLY!
+      - name: Install Python Dependencies
         run: |
           pip install requests
 
@@ -24,8 +24,11 @@ jobs:
         env:
           NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
           NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
+          # 💡 FIX: Storing the data layout inside a clean environment variable 
+          # completely prevents Linux from breaking the text quotes apart!
+          ALERT_DATA: '{"timestamp": "2026-08-24 03:29", "category": "🚨 TEST_RUN", "headline": "Manual pipeline validation run successful.", "market_bias": "Active"}'
         run: |
-          python .github/scripts/rotate_logs.py '{"timestamp": "2026-08-24 03:25", "category": "🚨 TEST_RUN", "headline": "Manual pipeline validation run successful.", "market_bias": "Active"}'
+          python .github/scripts/rotate_logs.py "$ALERT_DATA"
 
       - name: Commit and Push Changes
         run: |
