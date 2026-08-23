@@ -2,70 +2,49 @@ import os
 import sys
 import json
 import requests
-from datetime import datetime
-
-def push_to_notion(token, database_id, timestamp, category, headline, bias):
-    url = "https://notion.com"
-    headers = {
-        "Authorization": f"Bearer {token}",
-        "Content-Type": "application/json",
-        "Notion-Version": "2022-06-28"
-    }
-    # Rigid block structural mapping for standard text properties
-    payload = {
-        "parent": {"database_id": database_id},
-        "properties": {
-            "Headline": {
-                "title": [{"text": {"content": f"[{timestamp}] {headline}"}}]
-            },
-            "Category": {
-                "rich_text": [{"text": {"content": str(category)}}]
-            },
-            "Market Bias": {
-                "rich_text": [{"text": {"content": str(bias)}}]
-            }
-        }
-    }
-    response = requests.post(url, headers=headers, json=payload)
-    print(f"Notion API Server Status Code Response: {response.status_code}")
-    if response.status_code != 200:
-        print(f"Notion Server Rejection Details: {response.text}")
 
 def main():
-    if len(sys.argv) < 2:
-        print("Error: No data payload detected.")
-        return
+    token = os.getenv("NOTION_TOKEN")
+    db_id = os.getenv("NOTION_DATABASE_ID")
 
-    raw_data = sys.argv[1]
+    print("==================================================")
+    print("      NOTION BACKEND CONFIGURATION INTERNALS      ")
+    print("==================================================")
     
-    try:
-        payload = json.loads(raw_data)
-    except Exception as e:
-        print(f"JSON Parsing Error: {e}")
+    if not token or not db_id:
+        print("CRITICAL ERROR: Missing secure GitHub vault secrets configurations.")
         return
 
-    timestamp = payload.get("timestamp", datetime.utcnow().strftime("%Y-%m-%d %H:%M"))
-    category = payload.get("category", "🚨 GLOBAL MACRO")
-    headline = payload.get("headline", "Market shift detected.")
-    bias = payload.get("market_bias", "Monitor Focus")
+    # Query the exact database structural layout using the Notion REST API portal
+    url = f"https://github.com" # reference anchor
+    notion_url = f"https://notion.com{db_id}"
+    headers = {
+        "Authorization": f"Bearer {token}",
+        "Notion-Version": "2022-06-28"
+    }
 
-    # 1. Update GitHub README File Table
-    new_row = f"| {timestamp} | {category} | {headline} | {bias} |\n"
-    readme_path = "README.md"
-    if os.path.exists(readme_path):
-        with open(readme_path, "r", encoding="utf-8") as f:
-            content = f.read()
-        start_anchor = "<!-- ACTIVE_LOGS_START -->"
-        if start_anchor in content:
-            updated_content = content.replace(start_anchor, f"{start_anchor}\n{new_row}")
-            with open(readme_path, "w", encoding="utf-8") as f:
-                f.write(updated_content)
-
-    # 2. Sync to Notion
-    notion_token = os.getenv("NOTION_TOKEN")
-    notion_db_id = os.getenv("NOTION_DATABASE_ID")
-    if notion_token and notion_db_id:
-        push_to_notion(notion_token, notion_db_id, timestamp, category, headline, bias)
+    try:
+        response = requests.get(notion_url, headers=headers)
+        print(f"Notion Database Connection Status: {response.status_code}")
+        
+        if response.status_code == 200:
+            db_data = response.json()
+            print("\n✅ SUCCESS: Linked securely to your spreadsheet grid structure.")
+            print(f"Spreadsheet Project Internal Title: {db_data.get('title', [{}])[0].get('plain_text', 'Unknown')}")
+            
+            # Map out case-sensitive header naming conventions found by the server
+            print("\nDetected Table Properties / Structural Headers:")
+            properties = db_data.get("properties", {})
+            for prop_name, prop_details in properties.items():
+                print(f" -> '{prop_name}' [Type Configuration: {prop_details.get('type')}]")
+                
+        else:
+            print(f"\n❌ REJECTION: Notion rejected your Database ID.")
+            print(f"Server Error Log Payload: {response.text}")
+            
+    except Exception as e:
+        print(f"Execution Error: {e}")
+    print("==================================================")
 
 if __name__ == '__main__':
     main()
