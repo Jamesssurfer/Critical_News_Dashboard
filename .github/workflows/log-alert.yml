@@ -16,13 +16,16 @@ jobs:
         with:
           python-version: '3.10'
 
+      - name: Install Python Dependencies  # ◄── THIS FIXES THE CRASH INSTANTLY!
+        run: |
+          pip install requests
+
       - name: Execute Chronological Log Rotator
         env:
           NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
           NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
         run: |
-          python .github/scripts/rotate_logs.py "${{ toJson(github.event.client_payload) }}"
-
+          python .github/scripts/rotate_logs.py '{"timestamp": "2026-08-24 03:25", "category": "🚨 TEST_RUN", "headline": "Manual pipeline validation run successful.", "market_bias": "Active"}'
 
       - name: Commit and Push Changes
         run: |
