@@ -16,6 +16,8 @@
 | Timestamp (UTC) | Category | Headline / Trigger Event | Market Bias / Action |
 | :--- | :--- | :--- | :--- |
 <!-- ACTIVE_LOGS_START -->
+| 2026-08-24 02:00 | 🚨 TEST_RUN | Dashboard manual verification test successful. | Active |
+
 
 | 2026-08-24 00:34 | 🇯🇵 BOJ Intervention | BOJ conducts unscheduled rate check; heavy JPY buying detected. | DXY Short / XAU Long |
 | 2026-08-23 21:45 | 🛢️ Energy Shock | Reports of drone activity near Eastern Saudi energy corridors. | Oil Bullish / XAU Long |
@@ -86,8 +88,12 @@ with open("README.md", "r") as f:
 
 # Injects the incoming alert exactly at the top of your rolling log table
 updated_text = file_text.replace(
-    "<!-- ACTIVE_LOGS_START -->\n",
-    f"<!-- ACTIVE_LOGS_START -->\n{new_row}"
+    "<!-- ACTIVE_LOGS_START -->
+| 2026-08-24 02:00 | 🚨 TEST_RUN | Dashboard manual verification test successful. | Active |
+\n",
+    f"<!-- ACTIVE_LOGS_START -->
+| 2026-08-24 02:00 | 🚨 TEST_RUN | Dashboard manual verification test successful. | Active |
+\n{new_row}"
 )
 
 with open("README.md", "w") as f:
