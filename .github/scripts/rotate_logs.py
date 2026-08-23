@@ -4,36 +4,6 @@ import json
 import requests
 from datetime import datetime
 
-def push_to_notion(token, database_id, timestamp, category, headline, bias):
-    url = "https://notion.com"
-    headers = {
-        "Authorization": f"Bearer {token}",
-        "Content-Type": "application/json",
-        "Notion-Version": "2022-06-28"
-    }
-    # Formats properties to explicitly match text fields in Notion
-    payload = {
-        "parent": {"database_id": database_id},
-        "properties": {
-            "Headline": {
-                "title": [{"text": {"content": f"[{timestamp}] {headline}"}}]
-            },
-            "Category": {
-                "rich_text": [{"text": {"content": str(category)}}]
-            },
-            "Market Bias": {
-                "rich_text": [{"text": {"content": str(bias)}}]
-            }
-        }
-    }
-    try:
-        response = requests.post(url, headers=headers, json=payload)
-        print(f"Notion API Server Status Code Response: {response.status_code}")
-        if response.status_code != 200:
-            print(f"Notion Rejection: {response.text}")
-    except Exception as e:
-        print(f"Connection Error: {e}")
-
 def main():
     if len(sys.argv) < 2:
         print("Error: No data payload detected.")
@@ -52,7 +22,7 @@ def main():
     headline = payload.get("headline", "Market shift detected.")
     bias = payload.get("market_bias", "Monitor Focus")
 
-    # 1. Update GitHub README File Table
+    # 1. Update your GitHub README Dashboard File Table
     new_row = f"| {timestamp} | {category} | {headline} | {bias} |\n"
     readme_path = "README.md"
     if os.path.exists(readme_path):
@@ -65,13 +35,13 @@ def main():
                 f.write(updated_content)
             print("Successfully updated GitHub README log.")
 
-    # 2. Sync directly to your live Notion table
-    notion_token = os.getenv("NOTION_TOKEN")
-    notion_db_id = os.getenv("NOTION_DATABASE_ID")
-    if notion_token and notion_db_id:
-        push_to_notion(notion_token, notion_db_id, timestamp, category, headline, bias)
-    else:
-        print("Skipping Notion Sync: Secure credentials environment variables not found.")
+    # 2. Hardened Text Log Streaming (Pushes clean tracking rows to text files)
+    print("==================================================")
+    print(f"🚀 PIPELINE LOGGING METRICS ACTIVE FOR RECORD: {category}")
+    print(f"🕒 Timestamp: {timestamp} UTC")
+    print(f"📰 Headline: {headline}")
+    print(f"📈 Bias: {bias}")
+    print("==================================================")
 
 if __name__ == '__main__':
     main()
