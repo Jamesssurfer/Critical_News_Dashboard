@@ -1,0 +1,45 @@
+name: Information Agent Log & Notification Sync
+on:
+  repository_dispatch:
+    types: [info_agent_alert]
+
+jobs:
+  process-alert:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # 1. SEND INSTANT PUSH NOTIFICATION WITH CUSTOM SOUND TO YOUR PHONE
+      - name: Trigger Loud Mobile Notification
+        env:
+          PUSHOVER_USER_KEY: ${{ secrets.PUSHOVER_USER_KEY }}
+          PUSHOVER_API_TOKEN: ${{ secrets.PUSHOVER_API_TOKEN }}
+        run: |
+          curl -s \
+            --form-string "token=$PUSHOVER_API_TOKEN" \
+            --form-string "user=$PUSHOVER_USER_KEY" \
+            --form-string "title=🚨 MACRO TRADING ALERT: ${{ github.event.client_payload.category }}" \
+            --form-string "message=${{ github.event.client_payload.headline }} | Potential Gold/Oil Move" \
+            --form-string "sound=siren" \
+            --form-string "priority=1" \
+            https://pushover.net
+
+      # 2. RUN SCRIPT TO UPDATE MARKDOWN AND ROTATE LOGS
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Execute Chronological Log Rotator
+        run: |
+          python .github/scripts/rotate_logs.py '${{ json(github.event.client_payload) }}'
+
+      # 3. COMMIT UPDATED LOGS BACK TO GITHUB
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "MacroTradingBot"
+          git config --global user.email "bot@trading.internal"
+          git add .
+          git commit -m "Auto-Log & Rotate: ${{ github.event.client_payload.category }} [System]"
+          git push
