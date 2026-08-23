@@ -21,7 +21,8 @@ jobs:
           NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
           NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
         run: |
-          python .github/scripts/rotate_logs.py '{"timestamp": "2026-08-24 02:49", "category": "🚨 TEST_RUN", "headline": "Manual pipeline validation run successful.", "market_bias": "Active"}'
+          python .github/scripts/rotate_logs.py "${{ toJson(github.event.client_payload) }}"
+
 
       - name: Commit and Push Changes
         run: |
