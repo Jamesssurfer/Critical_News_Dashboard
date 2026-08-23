@@ -57,8 +57,8 @@ import os
 import requests
 
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
-REPO_OWNER = "your-username"
-REPO_NAME = "trading-dashboard"
+REPO_OWNER = "Jamesssurfer"
+REPO_NAME = "Critical_News_Dashboard"
 
 def log_agent_alert_to_github(timestamp, category, headline, bias):
     url = f"https://github.com{REPO_OWNER}/{REPO_NAME}/dispatches"
