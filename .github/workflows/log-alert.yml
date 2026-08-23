@@ -2,7 +2,7 @@ name: Information Agent Log Sync
 on:
   repository_dispatch:
     types: [info_agent_alert]
-  workflow_dispatch:  # ◄── THIS UNLOCKS THE MISSING BUTTON INSTANTLY!
+  workflow_dispatch:
 
 jobs:
   process-alert:
@@ -17,13 +17,16 @@ jobs:
           python-version: '3.10'
 
       - name: Execute Chronological Log Rotator
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
         run: |
-          python .github/scripts/rotate_logs.py "${{ toJson(github.event.client_payload) }}"
+          python .github/scripts/rotate_logs.py '{"timestamp": "2026-08-24 02:49", "category": "🚨 TEST_RUN", "headline": "Manual pipeline validation run successful.", "market_bias": "Active"}'
 
       - name: Commit and Push Changes
         run: |
           git config --global user.name "MacroTradingBot"
           git config --global user.email "bot@trading.internal"
           git add .
-          git commit -m "Manual Test Execution Row [System]" || echo "No changes to commit"
+          git commit -m "Auto-Log & Rotate: Manual Trigger [System]" || echo "No changes to commit"
           git push
