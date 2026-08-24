@@ -1,0 +1,54 @@
+# .github/workflows/critical-news-logger.yml
+name: Critical News Logger Pipeline
+
+on:
+  repository_dispatch:
+    types: [critical_news_update]
+  workflow_dispatch:
+    inputs:
+      category:
+        description: 'Geopolitical / Currency / Trade War'
+        required: true
+      title:
+        description: 'Headline'
+        required: true
+      impact_level:
+        description: 'HIGH, MEDIUM, LOW'
+        required: true
+      summary:
+        description: 'Details'
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  log-and-archive:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Run Logger Script
+        env:
+          DISPATCH_CLIENT_PAYLOAD: ${{ toJson(github.event.client_payload) }}
+          MANUAL_CATEGORY: ${{ github.event.inputs.category }}
+          MANUAL_TITLE: ${{ github.event.inputs.title }}
+          MANUAL_IMPACT: ${{ github.event.inputs.impact_level }}
+          MANUAL_SUMMARY: ${{ github.event.inputs.summary }}
+        run: python scripts/logger.py
+
+      - name: Commit Data Update
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action Bot"
+          git add data/
+          git diff-index --quiet HEAD || git commit -m "🤖 System: Updated and structured critical timeline files [skip ci]"
+          git push origin main
