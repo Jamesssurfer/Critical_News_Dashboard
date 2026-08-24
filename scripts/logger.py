@@ -7,21 +7,36 @@ DATA_DIR = "data"
 ACTIVE_FILE = os.path.join(DATA_DIR, "active_week.json")
 ARCHIVE_FILE = os.path.join(DATA_DIR, "archive.json")
 
+BUCKETS = ["past_2_weeks", "past_1_month", "past_3_months", "past_6_months", "past_1_year", "historical"]
+
+
 def load_data(path, default_type=list):
     if os.path.exists(path):
         try:
             with open(path, 'r', encoding='utf-8') as f:
                 return json.load(f)
-        except:
+        except Exception:
             return default_type()
     return default_type()
+
 
 def save_data(path, obj):
     os.makedirs(os.path.dirname(path), exist_ok=True)
     with open(path, 'w', encoding='utf-8') as f:
         json.dump(obj, f, indent=2, ensure_ascii=False)
 
+
 def get_event():
+    """
+    Returns a new event dict, or None if this run should not inject
+    any new item (e.g. a scheduled rebucket-only run, or a dispatch
+    with no usable payload).
+    """
+    # Scheduled runs exist ONLY to re-age existing data. Never fabricate
+    # an event on these.
+    if os.environ.get("REBUCKET_ONLY") == "1":
+        return None
+
     p_str = os.environ.get("DISPATCH_CLIENT_PAYLOAD")
     if p_str and p_str.strip():
         try:
@@ -34,90 +49,96 @@ def get_event():
                     "impact_level": p.get("impact_level", "MEDIUM"),
                     "summary": p.get("summary", "")
                 }
-        except:
+        except Exception:
             pass
-    return {
-        "timestamp": datetime.now(timezone.utc).isoformat(),
-        "category": os.environ.get("MANUAL_CATEGORY", "Geopolitical Risk"),
-        "title": os.environ.get("MANUAL_TITLE", "Manual Execution Backup Entry"),
-        "impact_level": os.environ.get("MANUAL_IMPACT", "HIGH"),
-        "summary": os.environ.get("MANUAL_SUMMARY", "No dispatch payload parsed. Running script framework.")
-    }
+
+    # Manual workflow_dispatch path (person filled in the Actions form).
+    manual_title = os.environ.get("MANUAL_TITLE")
+    if manual_title:
+        return {
+            "timestamp": datetime.now(timezone.utc).isoformat(),
+            "category": os.environ.get("MANUAL_CATEGORY", "Geopolitical Risk"),
+            "title": manual_title,
+            "impact_level": os.environ.get("MANUAL_IMPACT", "HIGH"),
+            "summary": os.environ.get("MANUAL_SUMMARY", "")
+        }
+
+    # No dispatch payload, no manual inputs, not rebucket-only -> nothing to log.
+    return None
+
+
+def bucket_for_age(age: timedelta) -> str | None:
+    """Returns None if item belongs in active_week (age <= 7 days)."""
+    if age <= timedelta(days=7):
+        return None
+    if age <= timedelta(days=14):
+        return "past_2_weeks"
+    if age <= timedelta(days=30):
+        return "past_1_month"
+    if age <= timedelta(days=90):
+        return "past_3_months"
+    if age <= timedelta(days=180):
+        return "past_6_months"
+    if age <= timedelta(days=365):
+        return "past_1_year"
+    return "historical"
+
 
 def main():
     evt = get_event()
     now = datetime.now(timezone.utc)
-    
+
     active_items = load_data(ACTIVE_FILE, list)
     archive_dict = load_data(ARCHIVE_FILE, dict)
-    
-    buckets = ["past_2_weeks", "past_1_month", "past_3_months", "past_6_months", "past_1_year", "historical"]
     if not isinstance(archive_dict, dict):
         archive_dict = {}
-    for b in buckets:
+    for b in BUCKETS:
         if b not in archive_dict:
             archive_dict[b] = []
 
-    combined = [evt] + active_items
+    # Pull EVERYTHING — active items, every archive bucket, and the new
+    # event (if any) — into one pool. This is what fixes archived items
+    # never re-aging: every item is re-evaluated against `now` on every run.
+    pool = []
+    if evt:
+        pool.append(evt)
+    pool.extend(active_items)
+    for b in BUCKETS:
+        pool.extend(archive_dict[b])
+
+    # Dedupe across the whole pool
     seen = set()
     unique_all = []
-    for item in combined:
+    for item in pool:
         uid = f"{item.get('title')}_{item.get('timestamp')}"
         if uid not in seen:
             seen.add(uid)
             unique_all.append(item)
 
-    # Re-bucket everything based on age thresholds from current time
+    # Re-bucket everything from scratch based on current age
     new_active = []
-    b_2w, b_1m, b_3m, b_6m, b_1y, b_hist = [], [], [], [], [], []
+    new_archive = {b: [] for b in BUCKETS}
 
     for item in unique_all:
         try:
             dt = datetime.fromisoformat(item['timestamp'].replace('Z', '+00:00'))
-        except:
+        except Exception:
             dt = now
         age = now - dt
-
-        if age <= timedelta(days=7):
+        b = bucket_for_age(age)
+        if b is None:
             new_active.append(item)
-        elif age <= timedelta(days=14):
-            b_2w.append(item)
-        elif age <= timedelta(days=30):
-            b_1m.append(item)
-        elif age <= timedelta(days=90):
-            b_3m.append(item)
-        elif age <= timedelta(days=180):
-            b_6m.append(item)
-        elif age <= timedelta(days=365):
-            b_1y.append(item)
         else:
-            b_hist.append(item)
+            new_archive[b].append(item)
 
-    # Append past contents from deep storage mapping
-    archive_dict["past_2_weeks"] = b_2w + archive_dict["past_2_weeks"]
-    archive_dict["past_1_month"] = b_1m + archive_dict["past_1_month"]
-    archive_dict["past_3_months"] = b_3m + archive_dict["past_3_months"]
-    archive_dict["past_6_months"] = b_6m + archive_dict["past_6_months"]
-    archive_dict["past_1_year"] = b_1y + archive_dict["past_1_year"]
-    archive_dict["historical"] = b_hist + archive_dict["historical"]
-
-    # Deduplicate and sort all chronological structural arrays from newest to oldest
     t_sort = lambda x: x.get('timestamp', '')
     new_active.sort(key=t_sort, reverse=True)
-    
-    for b in buckets:
-        b_seen = set()
-        b_dedup = []
-        for item in archive_dict[b]:
-            uid = f"{item.get('title')}_{item.get('timestamp')}"
-            if uid not in b_seen:
-                b_seen.add(uid)
-                b_dedup.append(item)
-        b_dedup.sort(key=t_sort, reverse=True)
-        archive_dict[b] = b_dedup
+    for b in BUCKETS:
+        new_archive[b].sort(key=t_sort, reverse=True)
 
     save_data(ACTIVE_FILE, new_active)
-    save_data(ARCHIVE_FILE, archive_dict)
+    save_data(ARCHIVE_FILE, new_archive)
+
 
 if __name__ == "__main__":
     main()
