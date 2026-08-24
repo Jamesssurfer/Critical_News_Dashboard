@@ -1,5 +1,6 @@
 # scripts/logger.py
 import os
+import re
 import json
 from datetime import datetime, timedelta, timezone
 
@@ -26,6 +27,123 @@ def save_data(path, obj):
         json.dump(obj, f, indent=2, ensure_ascii=False)
 
 
+def strip_markdown_links(text: str) -> str:
+    # [Israel](https://...) -> Israel
+    text = re.sub(r'\[([^\]]+)\]\([^)]+\)', r'\1', text)
+    # remove leftover markdown emphasis/heading markers
+    text = re.sub(r'^\#+\s*', '', text)
+    text = text.replace('**', '').replace('__', '')
+    return text.strip()
+
+
+def strip_emoji_prefix(text: str) -> str:
+    # Drop a leading emoji + following space (e.g. "🚨 Headline" -> "Headline")
+    return re.sub(r'^[^\w\s]+\s*', '', text).strip()
+
+
+CATEGORY_KEYWORDS = {
+    "Trade War": ["tariff", "trade war", "trade friction", "export control", "sanction"],
+    "Currency": ["dxy", "boj", "fed ", "federal reserve", "yen", "jpy", "usd", "dollar",
+                 "interest rate", "rate check", "rate hike", "rate cut", "central bank"],
+}
+
+IMPACT_EMOJI = {"🔴": "HIGH", "🟠": "HIGH", "🟡": "MEDIUM", "🟢": "LOW", "⚪": "LOW"}
+IMPACT_KEYWORDS = {
+    "HIGH": ["critical", "severe", "escalat", "urgent"],
+    "MEDIUM": ["elevated", "moderate", "monitor"],
+    "LOW": ["stable", "low risk", "contained"],
+}
+
+
+def parse_raw_text(raw: str) -> dict | None:
+    """
+    Best-effort parser for a pasted news/briefing blob (e.g. Google AI Mode
+    output). Not guaranteed to be perfectly accurate on formats it hasn't
+    seen — if the result looks wrong, fix it directly in the JSON or
+    re-run workflow_dispatch using the structured fields instead.
+    """
+    if not raw or not raw.strip():
+        return None
+
+    lines = [l.strip() for l in raw.strip().splitlines() if l.strip()]
+    if not lines:
+        return None
+
+    # --- timestamp: look for a "Month DD, H:MM AM/PM" line near the top ---
+    timestamp = None
+    for l in lines[:3]:
+        m = re.search(r'([A-Z][a-z]+ \d{1,2},\s*\d{1,2}:\d{2}\s*[AaPp][Mm])', l)
+        if m:
+            try:
+                now = datetime.now(timezone.utc)
+                dt = datetime.strptime(f"{m.group(1)} {now.year}", "%B %d, %I:%M %p %Y")
+                timestamp = dt.replace(tzinfo=timezone.utc).isoformat()
+            except Exception:
+                pass
+            break
+    if timestamp is None:
+        timestamp = datetime.now(timezone.utc).isoformat()
+
+    # --- title: first markdown heading ("## ...") line, else first long line ---
+    title = None
+    for l in lines:
+        if l.startswith('#'):
+            title = strip_emoji_prefix(strip_markdown_links(l))
+            break
+    if title is None:
+        for l in lines:
+            if len(l) > 25:
+                title = strip_emoji_prefix(strip_markdown_links(l))
+                break
+    if title is None:
+        title = lines[0][:120]
+    title = title.rstrip('.')[:200]
+
+    # --- summary: first real paragraph after the title, before a "----" divider ---
+    summary = ""
+    if title is not None:
+        try:
+            title_idx = next(i for i, l in enumerate(lines) if l.startswith('#'))
+        except StopIteration:
+            title_idx = 0
+        for l in lines[title_idx + 1:]:
+            if l.startswith('---') or l.startswith('#'):
+                break
+            summary = strip_markdown_links(l)
+            break
+    summary = summary[:280]
+
+    # --- category: keyword match over the whole blob ---
+    lower = raw.lower()
+    category = "Geopolitical"
+    for cat, kws in CATEGORY_KEYWORDS.items():
+        if any(kw in lower for kw in kws):
+            category = cat
+            break
+
+    # --- impact: first status emoji found, else keyword match, else MEDIUM ---
+    impact_level = None
+    for emoji, level in IMPACT_EMOJI.items():
+        if emoji in raw:
+            impact_level = level
+            break
+    if impact_level is None:
+        for level, kws in IMPACT_KEYWORDS.items():
+            if any(kw in lower for kw in kws):
+                impact_level = level
+                break
+    if impact_level is None:
+        impact_level = "MEDIUM"
+
+    return {
+        "timestamp": timestamp,
+        "category": category,
+        "title": title,
+        "impact_level": impact_level,
+        "summary": summary
+    }
+
+
 def get_event():
     """
     Returns a new event dict, or None if this run should not inject
@@ -42,6 +160,10 @@ def get_event():
         try:
             p = json.loads(p_str)
             if p:
+                if p.get("raw_text"):
+                    parsed = parse_raw_text(p["raw_text"])
+                    if parsed:
+                        return parsed
                 return {
                     "timestamp": p.get("timestamp", datetime.now(timezone.utc).isoformat()),
                     "category": p.get("category", "Geopolitical"),
