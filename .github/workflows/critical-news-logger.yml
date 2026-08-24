@@ -4,21 +4,7 @@ name: Critical News Logger Pipeline
 on:
   repository_dispatch:
     types: [critical_news_update]
-  workflow_dispatch:
-    inputs:
-      category:
-        description: 'Geopolitical / Currency / Trade War'
-        required: true
-      title:
-        description: 'Headline'
-        required: true
-      impact_level:
-        description: 'HIGH, MEDIUM, LOW'
-        required: true
-      summary:
-        description: 'Details'
-        required: true
-
+  
 permissions:
   contents: write
 
