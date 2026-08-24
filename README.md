@@ -1,4 +1,4 @@
-Critical News Dashboard: Geopolitical & Macroeconomic Information Agent
+ Critical News Dashboard: Geopolitical & Macroeconomic Information Agent
 Welcome to your automated tracking hub. This repository serves as the centralized data store and visualization platform for high-stakes geopolitical conflicts, currency interventions, and trade escalations that impact global oil prices and financial markets.
  Active Information Agent Trackers
 1. Middle East Geopolitical Conflict & Oil Risk
