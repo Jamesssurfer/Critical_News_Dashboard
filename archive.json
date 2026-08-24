@@ -1,0 +1,39 @@
+{
+  "past_2_weeks": [
+    {
+      "timestamp": "2026-08-18T03:40:00+00:00",
+      "category": "Geopolitical",
+      "title": "Crude oil spikes 4.2% overnight following regional tanker boarding incident.",
+      "impact_level": "HIGH",
+      "summary": "XAU/USD saw an initial safe-haven spike before reversing."
+    },
+    {
+      "timestamp": "2026-08-12T11:15:00+00:00",
+      "category": "Currency",
+      "title": "Treasury announces unexpected scaling up of liquidity buyback operations.",
+      "impact_level": "MEDIUM",
+      "summary": "DXY saw a brief relief drop."
+    }
+  ],
+  "past_1_month": [
+    {
+      "timestamp": "2026-07-29T16:50:00+00:00",
+      "category": "Geopolitical",
+      "title": "Israel-Turkey diplomatic channels freeze completely over Mediterranean maritime boundaries.",
+      "impact_level": "MEDIUM",
+      "summary": ""
+    }
+  ],
+  "past_3_months": [
+    {
+      "timestamp": "2026-07-15T08:30:00+00:00",
+      "category": "Currency",
+      "title": "BOJ concrete market smoothing operation pushes USD/JPY down 250 pips.",
+      "impact_level": "HIGH",
+      "summary": ""
+    }
+  ],
+  "past_6_months": [],
+  "past_1_year": [],
+  "historical": []
+}
