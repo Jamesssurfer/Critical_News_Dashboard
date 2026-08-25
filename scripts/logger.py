@@ -7,6 +7,7 @@ from datetime import datetime, timedelta, timezone
 DATA_DIR = "data"
 ACTIVE_FILE = os.path.join(DATA_DIR, "active_week.json")
 ARCHIVE_FILE = os.path.join(DATA_DIR, "archive.json")
+TRIGGERS_FILE = os.path.join(DATA_DIR, "triggers.json")
 
 BUCKETS = ["past_2_weeks", "past_1_month", "past_3_months", "past_6_months", "past_1_year", "historical"]
 
@@ -214,6 +215,74 @@ def parse_raw_text(raw: str) -> dict | None:
     }
 
 
+def compute_triggers(recent_items, max_triggers=4, recency_days=14):
+    """
+    Fully automatic — no human approval step. Rule-based, not a synthesized
+    theme name: picks the most recent headline from whichever categories
+    are currently 'hot' — either a HIGH-impact item, or a category that's
+    shown up 2+ times recently (a repeated cluster). One badge per category
+    max, most urgent first. This will read more like a headline ticker than
+    the hand-written thematic phrases it replaces — that's the honest
+    ceiling of doing this without an LLM call in the loop.
+    """
+    now = datetime.now(timezone.utc)
+    recent = []
+    for item in recent_items:
+        try:
+            dt = datetime.fromisoformat(item['timestamp'].replace('Z', '+00:00'))
+        except Exception:
+            continue
+        if now - dt <= timedelta(days=recency_days):
+            recent.append(item)
+
+    from collections import Counter
+    cat_counts = Counter(i.get('category', '') for i in recent)
+
+    def sort_key(i):
+        return i.get('timestamp', '')
+
+    high_items = sorted(
+        [i for i in recent if i.get('impact_level') == 'HIGH'],
+        key=sort_key, reverse=True
+    )
+    cluster_categories = {c for c, n in cat_counts.items() if n >= 2}
+
+    candidates = []
+    seen_categories = set()
+
+    for i in high_items:
+        cat = i.get('category', '')
+        if cat not in seen_categories:
+            candidates.append(i)
+            seen_categories.add(cat)
+        if len(candidates) >= max_triggers:
+            break
+
+    if len(candidates) < max_triggers:
+        for cat in cluster_categories:
+            if cat in seen_categories:
+                continue
+            cat_items = sorted(
+                [i for i in recent if i.get('category', '') == cat],
+                key=sort_key, reverse=True
+            )
+            if cat_items:
+                candidates.append(cat_items[0])
+                seen_categories.add(cat)
+            if len(candidates) >= max_triggers:
+                break
+
+    triggers = []
+    for c in candidates[:max_triggers]:
+        label = c.get('title', '')[:90]
+        triggers.append({
+            "label": label,
+            "category": c.get('category', ''),
+            "impact_level": c.get('impact_level', '')
+        })
+    return triggers
+
+
 def get_event():
     """
     Returns a new event dict, or None if this run should not inject
@@ -338,6 +407,10 @@ def main():
 
     save_data(ACTIVE_FILE, new_active)
     save_data(ARCHIVE_FILE, new_archive)
+
+    trigger_pool = new_active + new_archive.get("past_2_weeks", [])
+    triggers = compute_triggers(trigger_pool)
+    save_data(TRIGGERS_FILE, triggers)
 
 
 if __name__ == "__main__":
