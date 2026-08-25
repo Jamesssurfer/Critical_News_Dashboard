@@ -55,6 +55,50 @@ IMPACT_KEYWORDS = {
 }
 
 
+# Best-effort keyword rules for a "Market read: ..." style line, matching
+# the format of the original preset entries. This is pattern-matching on
+# wording, NOT real market analysis — it will be wrong on anything that
+# doesn't map cleanly to these patterns. Treat every generated line as a
+# draft to check, not a signal to trade on.
+DXY_SHORT_KEYWORDS = ["boj", "yen buying", "jpy buying", "rate check", "treasury buyback",
+                      "liquidity operation", "dovish", "rate cut"]
+DXY_LONG_KEYWORDS = ["rate hike", "hawkish", "strong dollar", "fed tightening"]
+OIL_BULLISH_KEYWORDS = ["drone", "tanker", "strait", "energy corridor", "pipeline attack",
+                        "oil field", "refinery strike", "energy infrastructure"]
+SAFE_HAVEN_KEYWORDS = ["military", "strike", "conflict", "war", "escalat", "tension",
+                       "invasion", "attack", "missile"]
+
+
+def infer_market_read(category: str, impact_level: str, raw_lower: str) -> str:
+    dxy_bias = None
+    if category == "Currency":
+        if any(kw in raw_lower for kw in DXY_SHORT_KEYWORDS):
+            dxy_bias = "short"
+        elif any(kw in raw_lower for kw in DXY_LONG_KEYWORDS):
+            dxy_bias = "long"
+
+    oil_bullish = category == "Geopolitical" and any(kw in raw_lower for kw in OIL_BULLISH_KEYWORDS)
+    safe_haven = any(kw in raw_lower for kw in SAFE_HAVEN_KEYWORDS)
+
+    if dxy_bias:
+        xau_bias = "long" if dxy_bias == "short" else "short"
+        return f"Market read: DXY {dxy_bias} / XAU {xau_bias}."
+
+    if oil_bullish:
+        return "Market read: Oil bullish / XAU long."
+
+    if category == "Trade War":
+        return "Market read: XAU long catalyst."
+
+    if safe_haven or impact_level == "HIGH":
+        return "Market read: XAU long (safe-haven flow)."
+
+    if impact_level == "MEDIUM":
+        return "Market read: XAU catalyst — monitor."
+
+    return "Market read: XAU neutral."
+
+
 def parse_raw_text(raw: str) -> dict | None:
     """
     Best-effort parser for a pasted news/briefing blob (e.g. Google AI Mode
@@ -99,19 +143,19 @@ def parse_raw_text(raw: str) -> dict | None:
         title = lines[0][:120]
     title = title.rstrip('.')[:200]
 
-    # --- summary: first real paragraph after the title, before a "----" divider ---
-    summary = ""
-    if title is not None:
-        try:
-            title_idx = next(i for i, l in enumerate(lines) if l.startswith('#'))
-        except StopIteration:
-            title_idx = 0
-        for l in lines[title_idx + 1:]:
-            if l.startswith('---') or l.startswith('#'):
-                break
-            summary = strip_markdown_links(l)
+    # --- first_paragraph: the descriptive text right after the title,
+    #     before a "----" divider. No longer shown as the row summary
+    #     (market-read line takes that spot) — feeds into 'details' below. ---
+    first_paragraph = ""
+    try:
+        title_idx = next(i for i, l in enumerate(lines) if l.startswith('#'))
+    except StopIteration:
+        title_idx = 0
+    for l in lines[title_idx + 1:]:
+        if l.startswith('---') or l.startswith('#'):
             break
-    summary = summary[:280]
+        first_paragraph = strip_markdown_links(l)
+        break
 
     # --- category: keyword match over the whole blob ---
     lower = raw.lower()
@@ -135,12 +179,38 @@ def parse_raw_text(raw: str) -> dict | None:
     if impact_level is None:
         impact_level = "MEDIUM"
 
+    original_paragraph = first_paragraph
+    summary = infer_market_read(category, impact_level, lower)
+
+    # --- details: fuller body text, starting with the original paragraph,
+    #     then the rest of the analysis sections, stopping before the
+    #     "Automated Pipeline Status" boilerplate. Used for an expandable
+    #     "read more" view since summary above is now the short market-read
+    #     line, not the description. ---
+    details_lines = [original_paragraph] if original_paragraph else []
+    try:
+        title_idx = next(i for i, l in enumerate(lines) if l.startswith('#'))
+    except StopIteration:
+        title_idx = 0
+    for l in lines[title_idx + 1:]:
+        low_l = l.lower()
+        if 'automated pipeline status' in low_l or 'i am keeping' in low_l:
+            break
+        if l.startswith('---') or l.startswith('|') or l == '*':
+            continue
+        stripped = strip_markdown_links(l)
+        if stripped == original_paragraph:
+            continue
+        details_lines.append(stripped)
+    details = "\n\n".join(d for d in details_lines if d)[:4000]
+
     return {
         "timestamp": timestamp,
         "category": category,
         "title": title,
         "impact_level": impact_level,
-        "summary": summary
+        "summary": summary,
+        "details": details
     }
 
 
@@ -160,6 +230,11 @@ def get_event():
         try:
             p = json.loads(p_str)
             if p:
+                if p.get("raw_text_list"):
+                    parsed_list = [parse_raw_text(rt) for rt in p["raw_text_list"]]
+                    parsed_list = [x for x in parsed_list if x]
+                    if parsed_list:
+                        return parsed_list
                 if p.get("raw_text"):
                     parsed = parse_raw_text(p["raw_text"])
                     if parsed:
@@ -223,7 +298,10 @@ def main():
     # never re-aging: every item is re-evaluated against `now` on every run.
     pool = []
     if evt:
-        pool.append(evt)
+        if isinstance(evt, list):
+            pool.extend(evt)
+        else:
+            pool.append(evt)
     pool.extend(active_items)
     for b in BUCKETS:
         pool.extend(archive_dict[b])
