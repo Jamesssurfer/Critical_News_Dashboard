@@ -26,6 +26,13 @@ on:
 permissions:
   contents: write
 
+# Runs one at a time — if several batches dispatch close together
+# (e.g. a large news.txt split into multiple chunks), they queue up
+# instead of racing to commit/push simultaneously.
+concurrency:
+  group: critical-news-logger
+  cancel-in-progress: false
+
 jobs:
   log-and-archive:
     runs-on: ubuntu-latest
@@ -55,5 +62,22 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action Bot"
           git add data/
-          git diff-index --quiet HEAD || git commit -m "🤖 System: Updated and structured critical timeline files [skip ci]"
-          git push origin main
+          if git diff-index --quiet HEAD; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "🤖 System: Updated and structured critical timeline files [skip ci]"
+
+          # Retry loop: pull --rebase then push, in case another run
+          # (or a manual push) landed in between checkout and now.
+          for attempt in 1 2 3 4 5; do
+            if git push origin main; then
+              echo "Pushed successfully."
+              exit 0
+            fi
+            echo "Push failed (attempt $attempt/5) — pulling and retrying..."
+            git pull --rebase origin main
+            sleep 3
+          done
+          echo "Push failed after 5 attempts."
+          exit 1
