@@ -100,6 +100,54 @@ def infer_market_read(category: str, impact_level: str, raw_lower: str) -> str:
     return "Market read: XAU neutral."
 
 
+def extract_table(lines):
+    """
+    Finds the first markdown table (header row, |---|---|---| separator,
+    data rows) and parses it into structured rows. Returns [] if no
+    table is found. Only the first table in the text is captured — a
+    story with two separate tables will lose the second one, same as
+    today's behavior of skipping table rows entirely.
+    """
+    for i in range(len(lines) - 1):
+        line = lines[i]
+        nxt = lines[i + 1]
+        if not (line.startswith('|') and line.endswith('|') and nxt.startswith('|')):
+            continue
+        # separator row is only made of |, -, :, and spaces
+        sep_check = set(nxt.replace('|', '').replace('-', '').replace(':', '').strip())
+        if sep_check:
+            continue
+
+        header_cells = [c.strip() for c in line.strip('|').split('|')]
+        rows = []
+        j = i + 2
+        while j < len(lines) and lines[j].startswith('|'):
+            data_cells = [c.strip() for c in lines[j].strip('|').split('|')]
+            rows.append(data_cells)
+            j += 1
+
+        table_rows = []
+        for cells in rows:
+            indicator = strip_markdown_links(cells[0]) if len(cells) > 0 else ''
+            signal_raw = cells[1] if len(cells) > 1 else ''
+            signal_level = None
+            for emoji, lvl in IMPACT_EMOJI.items():
+                if emoji in signal_raw:
+                    signal_level = lvl
+                    break
+            signal_label = strip_emoji_prefix(strip_markdown_links(signal_raw))
+            detail = strip_markdown_links(' '.join(cells[2:])) if len(cells) > 2 else ''
+            if indicator or signal_label or detail:
+                table_rows.append({
+                    "indicator": indicator,
+                    "signal_level": signal_level,
+                    "signal_label": signal_label,
+                    "detail": detail
+                })
+        return table_rows
+    return []
+
+
 def parse_raw_text(raw: str) -> dict | None:
     """
     Best-effort parser for a pasted news/briefing blob (e.g. Google AI Mode
@@ -205,13 +253,16 @@ def parse_raw_text(raw: str) -> dict | None:
         details_lines.append(stripped)
     details = "\n\n".join(d for d in details_lines if d)[:4000]
 
+    table = extract_table(lines)
+
     return {
         "timestamp": timestamp,
         "category": category,
         "title": title,
         "impact_level": impact_level,
         "summary": summary,
-        "details": details
+        "details": details,
+        "table": table
     }
 
 
