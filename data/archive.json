@@ -15,16 +15,16 @@
       "title": "Treasury announces unexpected scaling up of liquidity buyback operations.",
       "impact_level": "MEDIUM",
       "summary": "DXY saw a brief relief drop."
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-07-29T16:50:00+00:00",
       "category": "Geopolitical",
       "title": "Israel-Turkey diplomatic channels freeze completely over Mediterranean maritime boundaries.",
       "impact_level": "MEDIUM",
       "summary": ""
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-07-15T08:30:00+00:00",
       "category": "Currency",
