@@ -1,6 +1,14 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-08-24T05:27:00+00:00",
+      "category": "Trade War",
+      "title": "Donald Trump escalates trade tensions by accusing Canada of exploiting US farmers with long-standing tariffs",
+      "impact_level": "HIGH",
+      "summary": "Market read: XAU long catalyst.",
+      "details": "Donald Trump has intensified rhetoric regarding the US-Canada trade relationship, directly accusing Canada of charging high tariffs on American farmers for years. This public accusation signals an aggressive escalation in trade war friction and sets a tense stage for upcoming bilateral supply chain policies. [1]\n\n📉 Impact Breakdown & Trigger Analysis"
+    },
+    {
       "timestamp": "2026-08-24T00:34:00+00:00",
       "category": "Currency",
       "title": "BOJ conducts unscheduled rate check; heavy JPY buying detected.",
