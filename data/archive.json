@@ -1,6 +1,20 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-08-24T00:34:00+00:00",
+      "category": "Currency",
+      "title": "BOJ conducts unscheduled rate check; heavy JPY buying detected.",
+      "impact_level": "HIGH",
+      "summary": "Market read: DXY short / XAU long."
+    },
+    {
+      "timestamp": "2026-08-23T21:45:00+00:00",
+      "category": "Geopolitical",
+      "title": "Reports of drone activity near Eastern Saudi energy corridors.",
+      "impact_level": "HIGH",
+      "summary": "Market read: Oil bullish / XAU long."
+    },
+    {
       "timestamp": "2026-08-22T14:12:00+00:00",
       "category": "Trade War",
       "title": "Canada prepares retaliatory steel tariff list against US goods.",
