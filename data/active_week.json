@@ -1426,33 +1426,5 @@
         "detail": "U.S. Treasury bond-buying patterns and Bank of Japan (BoJ) Yen positions remain operating within baseline parameters since the previous update."
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-26T18:26:00+00:00",
-    "category": "Trade War",
-    "title": "The USS Abraham Lincoln formally exits the Middle East combat zone after a historic 250+ day uninterrupted deployment at sea",
-    "impact_level": "MEDIUM",
-    "summary": "Market read: XAU long catalyst.",
-    "details": "The USS Abraham Lincoln (CVN-72) strike group has officially departed the Middle East, bringing an end to a grueling deployment supporting U.S. operations against Iran. The nuclear-powered carrier spent more than 250 consecutive days at sea without a standard port call—marking a record-breaking stint for a modern carrier strike group. The USS George Washington has arrived in the Arabian Sea to relieve the Lincoln and take over regional maritime security operations. [1, 2, 3, 4, 5]\n\n📊 Strategic Risk Matrix & Operational Signals\n\n🗺️ Intelligence Deep Dive & Logistics Realignment## 🚢 The Crucial Indochina Detour & Rest Recovery Mandate\n\nThai and U.S. defense officials have confirmed that the weary crew of the USS Abraham Lincoln will execute a scheduled port call in eastern Thailand from September 2–6. [6, 7]\n\n* Crew Welfare Focus: The 5,000 sailors and Marines aboard will go ashore at Laem Chabang port for vital rest, logistical resupply, and recuperation. [6, 7]\n\n* Deployment Strains: The detour follows reports from family members regarding substandard quality of life, severe supply shortages (including food and fresh water), and mounting mental health crises driven by the length of the uninterrupted deployment. While Defense Secretary Pete Hegseth disputed the severity of some reports, the Pentagon approved the Thailand stop to address crew fatigue before the ship completes its final voyage home to San Diego. [3, 5, 6]\n\n* No Joint Exercises: Rear Adm. Surasant Kongsiri, spokesman for the Thailand Ministry of Defence, explicitly clarified on August 26 that the visit is strictly for logistical support and crew relaxation. No joint operations or military drills are planned with the Royal Thai Navy. [7]\n\n⚓ Guided-Missile Destroyers Remain Behind\n\nWhile the primary carrier hull is transiting homeward via the 7th Fleet, a significant portion of its defensive umbrella is staying in the volatile theater. Over 600 U.S. Navy sailors stationed aboard two guided-missile destroyers—originally deployed alongside the Lincoln—have been ordered to remain behind in the Middle East. They will continue conducting active anti-blockade and maritime patrol operations under the incoming command of the USS George Washington strike group. [1, 2, 8]",
-    "table": [
-      {
-        "indicator": "Middle East Energy",
-        "signal_level": "MEDIUM",
-        "signal_label": "Strategic Rotation",
-        "detail": "U.S. Carrier Strike Group swap complete. The USS Lincoln has transited into the Indian Ocean. The arrival of the fresher USS George Washington maintains the U.S. naval presence, but the shift subtly cools immediate escalation anxieties, stabilizing global crude baselines."
-      },
-      {
-        "indicator": "Macro Interventions",
-        "signal_level": "LOW",
-        "signal_label": "Stable Monitor",
-        "detail": "International energy benchmarks and fixed-income assets remain steady. No emergency market interventions or sudden central bank liquidations have been tracked over the last 6 hours."
-      },
-      {
-        "indicator": "Trade Friction",
-        "signal_level": "LOW",
-        "signal_label": "Stable Monitor",
-        "detail": "Cross-border tariff structures, automotive supply chain friction, and retaliatory timelines along the U.S.-Canada corridor remain unchanged since the previous update."
-      }
-    ]
   }
 ]
