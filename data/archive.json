@@ -1,6 +1,34 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-08-27T09:55:00+00:00",
+      "category": "Trade War",
+      "title": "Turkey and Israel edge toward a dangerous strategic standoff in Syria following the collapse of Assad-era power",
+      "impact_level": "HIGH",
+      "summary": "Market read: XAU long catalyst.",
+      "details": "A material new discovery has emerged in your tracked Middle East corridor regarding the post-Baath regime security order. Political and military analysis confirms that Syria has emerged as the primary theater for intense strategic competition between Turkey and Israel. Both nations are actively maneuvering to shape a new regional order, transforming weak Syrian state institutions into a permanent arena for proxy confrontations. [1]\n\n📊 Tactical Risk Matrix & Operational Signals\n\n🗺️ Intelligence Deep Dive: The Turkey-Israel Choke Point\n\nA comprehensive synthesis of the latest regional data reveals the core drivers behind this expanding geopolitical friction:\n\n* Diverging National Objectives: Turkey's primary goals focus on establishing a stable, centralized Syrian state under its direct influence to manage Kurdish border issues, advance economic interests, and restrict unilateral Israeli military operations. Conversely, Israel is executing a containment policy to minimize Iranian influence while attempting to block Turkish expansion through military repositioning and supporting local Syrian factions. [1]\n\n* Asymmetric Countermeasures: To isolate Israeli regional influence, Ankara is actively positioning itself via alternative diplomatic architectures. This includes leveraging the Gaza reconstruction file and bolstering defense ties with major regional actors through the newly minted Mecca agreement involving Saudi Arabia and Pakistan. [1]\n\n* The Cost to Sovereignty: Military analysts point out that Syria currently bears the highest financial and structural costs of this friction. Its sovereignty remains continuously threatened by localized airstrikes, and the absolute trajectory points toward persistent friction that will heavily complicate domestic stability and post-war reconstruction. [1]\n\n* Conflict Trajectory: While a direct, large-scale conventional war between Turkey and Israel is deemed highly unlikely in the short term, the risk of an accidental tactical miscalculation on the ground remains elevated. This brings additional domestic political risks for both Ankara and Tel Aviv, directly impacting upcoming election cycles. [1]",
+      "table": [
+        {
+          "indicator": "Middle East Energy",
+          "signal_level": "HIGH",
+          "signal_label": "Critical Target",
+          "detail": "Strategic vacuum drives rivalry. Following the recent Israeli strike on the Abu al-Duhur airbase, Turkey is leveraging ties with the U.S. administration—specifically regarding F-35 fighter jet acquisitions—to elevate itself to a peer competitor with Israel."
+        },
+        {
+          "indicator": "Trade Friction",
+          "signal_level": "LOW",
+          "signal_label": "Stable Baseline",
+          "detail": "Cross-border supply chain metrics and packaging industry tariff deadlocks along the U.S.-Canada corridor remain steady with no fresh escalations over the last 12 hours."
+        },
+        {
+          "indicator": "Macro Interventions",
+          "signal_level": "LOW",
+          "signal_label": "Stable Monitor",
+          "detail": "U.S. 10-year Treasury yields, fiscal buyback maneuvers, and Bank of Japan (BoJ) liquidity balances are operating within baseline parameters."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-08-27T07:04:00+00:00",
       "category": "Trade War",
       "title": "The US weighs a tactical reduction of its permanent military footprint in the Persian Gulf, pivoting to advanced economic and intelligence warfare",
