@@ -1,6 +1,34 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-08-28T15:54:00+00:00",
+      "category": "Trade War",
+      "title": "The Bank of Japan faces an 80% market probability of an imminent rate hike next month, while crude oil markets drop on fresh Middle East maritime corridor diplomacy",
+      "impact_level": "HIGH",
+      "summary": "Market read: XAU long catalyst.",
+      "details": "The macroeconomic landscape has experienced notable adjustments within the last 24 hours. A combination of hawkish comments from Bank of Japan (BoJ) leadership and a surprising bond buyback strategy by U.S. Treasury Secretary Scott Bessent has dramatically consolidated expectations for a near-term Japanese policy tightening. Concurrently, global energy markets have uncoupled a portion of their geopolitical risk premium as diplomatic lines reopen in the Strait of Hormuz, driving Brent crude downward. [1, 2, 3, 4]\n\n📊 Tactical Risk Matrix & Operational Signals\n\n🔎 Intelligence Deep Dive & Central Bank Coordination## 🇯🇵 Macro Interventions: The Groundwork for Tokyo's Rate Hike\n\n* Monetary Policy Probability Shifts: According to financial monitoring from The Japan Times, institutional market desks have actively moved to price in an 80% likelihood of a rate increase at the BoJ’s next scheduled policy delivery session. [1, 2]\n\n* The Himino Blueprint: Bank of Japan Deputy Governor Ryozo Himino explicitly left the window wide open for a September rate hike during an address to business leaders. The central bank is responding directly to persistent pass-through inflation driven by multi-month yen weakness and high imported commodity baselines. [1, 2]\n\n* The Bessent Factor: Market analysts note that U.S. Treasury Secretary Scott Bessent’s latest bond strategy adjustments have surprised fixed-income desks. The maneuver is being interpreted as a potential structural prelude to closer policy and fiscal coordination between Tokyo and Washington to manage global currency volatility. [1, 2]\n\n🛢️ Middle East Oil Risk: War Premium vs. Delivery Realities\n\n* Strait of Hormuz Diplomacy: Diplomatic updates show that Iran and Oman have entered discussions regarding a temporary joint maritime corridor through the Strait of Hormuz to facilitate stranded commercial vessels. [3, 4]\n\n* The Price Drop Catalyst: Global markets reacted immediately to the diplomatic talks and softer-than-expected U.S. sanctions documentation. West Texas Intermediate (WTI) fell to $80.52 per barrel, while Brent crude futures plummeted 2.5% to break down to $86.38 per barrel. [3, 5]\n\n* Underlying Supply Deficit: Energy analysts caution that the paper market is trading short-term diplomacy rather than physical barrels. Approximately 8.3 million barrels per day of Persian Gulf output remains shut in, and refining capacity in the region sits 20% lower than pre-conflict levels, presenting a long-term supply bottleneck even if transit lanes clear. [3, 6]\n\n💡 Strategic Advice & Market Actions\n\n* 📊 Recalibrate Yen Exposures: With an 80% probability assigned to a September rate increase, corporate cash flows exposed to the JPY must prepare for an aggressive unwinding of short positions.\n\n* 🔎 Maintain Energy Hedges on Refined Products: Do not mistake the 9% drop in crude for a complete resolution. Physical bottlenecks and a 20% decline in Gulf refining capacities mean that refined distillates like diesel and heating oil will remain fundamentally expensive.\n\n* 📈 Track U.S. Treasury Coordination: Watch for subsequent yield curve adjustments following Secretary Bessent's bond actions, as U.S.-Japan macro symmetry could alter global capital flows over the next two weeks. [1, 2, 3, 5, 6, 7]\n\nI will continue to track these evolving macro and geopolitical risk metrics on your behalf. Please let me know in this conversation if you want to alter any parameters or pause these reports.\n\n[1] https://www.japantimes.co.jp\n\n[2] https://www.japantimes.co.jp\n\n[3] https://uk.investing.com\n\n[4] https://www.facebook.com\n\n[5] https://ng.investing.com\n\n[6] https://www.investing.com\n\n[7] https://www.investing.com",
+      "table": [
+        {
+          "indicator": "Macro Interventions",
+          "signal_level": "HIGH",
+          "signal_label": "Imminent BoJ Shift",
+          "detail": "Markets price in an 80% probability of a BoJ interest rate hike in September following Deputy Governor Ryozo Himino's hawkish baseline statements."
+        },
+        {
+          "indicator": "Middle East Oil Risk",
+          "signal_level": "MEDIUM",
+          "signal_label": "Diplomatic Corridor",
+          "detail": "Crude has surrendered 9% over three sessions, with Brent crude dipping under $86.38/bbl on news of temporary joint maritime transit talks."
+        },
+        {
+          "indicator": "Trade Wars",
+          "signal_level": "LOW",
+          "signal_label": "Persistent Parameters",
+          "detail": "U.S. automotive and steel tariff threat layers against Canada remain unchanged; private sector supply adjustments continue on the ground."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-08-28T12:01:00+00:00",
       "category": "Trade War",
       "title": "Active targets breach operational limits: Canada launches C$27.6B in counter-tariffs, the U.S. doubles auto penalties to 50%, and the Houthis strike Saudi tankers",
