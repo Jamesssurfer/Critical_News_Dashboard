@@ -1448,7 +1448,9 @@
       "title": "Test Manual Entry",
       "impact_level": "Low",
       "summary": "Verifying dispatch"
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-08-24T11:27:00+00:00",
       "category": "Trade War",
@@ -1456,9 +1458,7 @@
       "impact_level": "HIGH",
       "summary": "Market read: XAU long catalyst.",
       "details": "A major geopolitical escalation has occurred as the United States and Iran enter an intensified phase of economic warfare. In response to US Treasury Secretary Scott Bessent announcing an \"economic D-Day\" to cut off Tehran's shadow oil fleet and financial partners, Iranian Supreme National Security Council Secretary Mohsen Rezaei declared that any country supporting these US economic measures is committing an \"act of war\". Tehran is threatening to halt all oil exports passing through the Strait of Hormuz, putting global energy markets on edge. [1]\n\n📉 Impact Breakdown & Trigger Analysis\n\n🔍 Conflict Breakdown & Strategic Alignment\n\n* The US Campaign: The Trump administration described its upcoming initiative as the \"most crushing economic operation ever taken,\" designed to inflict economic warfare and isolation on an unprecedented scale against any entities acting as an economic lifeline to Iran. [1]\n\n* The Iranian Retaliation: Tehran explicitly vowed to target the strategic interests of any regional or international countries that join or facilitate this US economic pressure campaign. [1]\n\n* Regional Military Posture: In tandem with these rising tensions, neighboring nations are adjusting defense frameworks. Greece has reportedly relocated a Patriot missile battery from Karpathos to Crete to bolster regional air defenses against potential ballistic threats, while maritime intelligence notes heavily obscured traffic levels in the Strait of Hormuz due to widespread disabled transponders."
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-08-24T07:12:00+00:00",
       "category": "Trade War",
