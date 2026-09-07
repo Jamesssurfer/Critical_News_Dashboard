@@ -1,6 +1,34 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-08-31T06:05:41.121762+00:00",
+      "category": "Trade War",
+      "title": "Tactical Risk Matrix & Operational Signals",
+      "impact_level": "HIGH",
+      "summary": "Market read: XAU long catalyst.",
+      "details": "| Tracked Risk Domain | Status Signal | Material Discovery & Core Metrics |\n\n🔎 Intelligence Deep Dive & Choke Point Clashes## 🛢️ Middle East Oil Risk: The Larak Island Strike Matrix\n\n* Targeted Naval Engagement: According to official documentation verified by Big News Network, the U.S. military conducted an emergency strike operation targeting two mobile Iranian missile launchers positioned on Larak Island. The strategic island sits at a critical vantage point overlooking the northern bottleneck of the Strait of Hormuz maritime oil transit zone. [1]\n\n* The Political Ultimatum: President Donald Trump used a high-profile interview on Sunday Night in America to lay down a strict security line: \"You cannot let them have a nuclear weapon.\" Trump described the Iranian leadership as failing and asserted that previous U.S. campaigns have systematically wiped out their navy, air force, and anti-aircraft defenses. [1]\n\n* The IRGC Retaliation Response: The Islamic Revolutionary Guard Corps (IRGC) Public Relations Department, led by spokesman Hossein Mohebbi, issued a sharp public condemnation. Labeling the Larak Island strike a \"grave blunder,\" the IRGC formally threatened to unleash immediate vengeance against Western operations, elevating the tactical risk level for global shipping lanes.\n\n* Energy Floor Rigidity: Macro trading structures show the conflict has locked international oil baselines into a permanent premium, keeping Brent crude at a solid $90/bbl average across 2026. [2]\n\n📉 Macroeconomic Interventions: The Warsh Rate Backlash\n\n* Defensive Asset Rebalancing: Foreign exchange and fixed-income desks have pivoted into a highly defensive stance. Equity indices registered localized contractions while oil prices pushed higher on the combination of the Larak Island engagement and tight global monetary parameters. [3]\n\n* The Rate Shock Legacy: Market volatility remains elevated following Federal Reserve Chair Kevin Warsh’s hawkish stance. Traders have aggressively re-priced near-term interest rate paths, compounding the domestic structural yield pressures facing central banks trying to defend against imported commodity spikes. [3]\n\n💡 Strategic Advice & Market Actions\n\n* ⚠️ Enforce Strict Clearance Around Larak Island: Logistics and marine transport desks must optimize transit coordinates away from the northern coastlines of the Strait of Hormuz to avoid immediate crossfire zones or retaliatory IRGC boardings.\n\n* 📊 Structure Portfolios for Extended Oil Premiums: Do not abandon upside energy hedges based on temporary market corrections; the physical reality of continuous kinetic strikes near primary energy hubs ensures Brent crude will maintain a structural premium.\n\n* 📈 Hedge Against Advanced Monetary Tightening: Align short-term interest rate exposures to account for a prolonged higher-for-longer regime as central banks absorb the inflation consequences of concurrent trade shocks and energy blockades. [1, 2, 3]\n\nI will stay on top of these critical updates for you. Please let me know in this conversation if you want to adjust the instructions or stop receiving reports.\n\n[1] https://www.bignewsnetwork.com\n\n[2] https://www.reuters.com\n\n[3] https://www.swissinfo.ch",
+      "table": [
+        {
+          "indicator": "Middle East Oil Risk",
+          "signal_level": "HIGH",
+          "signal_label": "Kinetic Escalation",
+          "detail": "U.S. forces strike Iranian missile positions on Larak Island[](https://www.google.com/search?kgmid=/m/085ktz). The IRGC condemns the attack as a blunder and vows retaliation, threatening global seaway stability."
+        },
+        {
+          "indicator": "Macroeconomic Interventions",
+          "signal_level": "MEDIUM",
+          "signal_label": "Market Defensiveness",
+          "detail": "Global markets trade in a defensive posture following a hawkish speech by Fed Chair Kevin Warsh. Oil asset baselines experience upward pressure."
+        },
+        {
+          "indicator": "Trade Wars & Escalations",
+          "signal_level": "LOW",
+          "signal_label": "Stable Parameters",
+          "detail": "No major policy modifications have materialized along the U.S.-Canada corridor over the last 24 hours; the active 50% tariff and matching countermeasure boundaries hold."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-08-31T00:18:00+00:00",
       "category": "Trade War",
       "title": "The Trump administration has launched \"Operation Economic Outcast\" to financially isolate Iran, while the legal mechanism underpinning U.S. tariffs on Canada faces unprecedented court challenges",
@@ -1428,7 +1456,9 @@
       "impact_level": "HIGH",
       "summary": "Market read: XAU long catalyst.",
       "details": "A major geopolitical escalation has occurred as the United States and Iran enter an intensified phase of economic warfare. In response to US Treasury Secretary Scott Bessent announcing an \"economic D-Day\" to cut off Tehran's shadow oil fleet and financial partners, Iranian Supreme National Security Council Secretary Mohsen Rezaei declared that any country supporting these US economic measures is committing an \"act of war\". Tehran is threatening to halt all oil exports passing through the Strait of Hormuz, putting global energy markets on edge. [1]\n\n📉 Impact Breakdown & Trigger Analysis\n\n🔍 Conflict Breakdown & Strategic Alignment\n\n* The US Campaign: The Trump administration described its upcoming initiative as the \"most crushing economic operation ever taken,\" designed to inflict economic warfare and isolation on an unprecedented scale against any entities acting as an economic lifeline to Iran. [1]\n\n* The Iranian Retaliation: Tehran explicitly vowed to target the strategic interests of any regional or international countries that join or facilitate this US economic pressure campaign. [1]\n\n* Regional Military Posture: In tandem with these rising tensions, neighboring nations are adjusting defense frameworks. Greece has reportedly relocated a Patriot missile battery from Karpathos to Crete to bolster regional air defenses against potential ballistic threats, while maritime intelligence notes heavily obscured traffic levels in the Strait of Hormuz due to widespread disabled transponders."
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-08-24T07:12:00+00:00",
       "category": "Trade War",
@@ -1452,9 +1482,7 @@
       "impact_level": "HIGH",
       "summary": "Market read: XAU long catalyst.",
       "details": "Donald Trump has intensified rhetoric regarding the US-Canada trade relationship, directly accusing Canada of charging high tariffs on American farmers for years. This public accusation signals an aggressive escalation in trade war friction and sets a tense stage for upcoming bilateral supply chain policies. [1]\n\n📉 Impact Breakdown & Trigger Analysis"
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-08-24T00:34:00+00:00",
       "category": "Currency",
