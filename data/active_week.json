@@ -866,33 +866,5 @@
         "detail": "Broader market indicators adjust as global energy benchmarks harden."
       }
     ]
-  },
-  {
-    "timestamp": "2026-08-31T12:26:00+00:00",
-    "category": "Trade War",
-    "title": "U.S. forces have launched a direct attack on Iran's Larak Island, driving crude prices sharply higher as parallel trade war and liquidity shifts transform your monitored baselines",
-    "impact_level": "HIGH",
-    "summary": "Market read: XAU long catalyst.",
-    "details": "A critical military escalation has fundamentally disrupted the Middle East energy corridor. On August 31, 2026, U.S. military forces conducted an emergency strike against Iranian mobile launchers, drawing swift retaliatory missile attacks from Tehran on U.S. bases in Jordan. In response, international oil indices have spiked sharply. This kinetic friction is compounded by a dramatic expansion of U.S. Treasury liquidity support operations and an unyielding tariff standoff between Washington and Ottawa. [1, 2, 3]\n\n📊 Tactical Risk Matrix & Operational Signals\n\n🔎 Intelligence Deep Dive & Core Developments## 🛢️ Middle East Oil Risk: The Larak Island Strike Matrix & Jordan Retaliation\n\n* The Air Strike Campaign: U.S. forces executed a localized precision attack against two Islamic Revolutionary Guard Corps (IRGC) launcher positions on Larak Island in the Strait of Hormuz. Intelligence telemetry verified that the sites were preparing to immediately deploy naval mines across the waterway. [1]\n\n* The Jordan Counter-Strikes: In direct response, the IRGC utilized regional missile networks to strike two separate U.S. airbases situated in Jordan. This exchange marks the first direct, acknowledged combat engagement between U.S. and Iranian state forces since late July. [1]\n\n* The Energy Premium Spike: Global energy benchmarks immediately absorbed the geopolitical shockwaves. Brent crude futures surged 2.85% to hit $90.61 per barrel, while U.S. West Texas Intermediate (WTI) leaped 2.55% to clear $85.53 per barrel. [1]\n\n* Sanctions Escalation: U.S. Treasury Secretary Scott Bessent signaled that the White House is preparing a massive diplomatic follow-up, intending to enforce fresh secondary sanctions every single week to entirely disconnect Tehran from the global financial system. [1]\n\n📉 Macroeconomic Interventions: Treasury Doubles Bond Buybacks\n\n* Systemic Market Support: In an unscheduled policy announcement tracked by Wall Street Economists, the U.S. Treasury revealed it will double nominal long-end liquidity support buyback structures.\n\n* The Multi-Billion Dollar Threshold: Operations will expand to a baseline minimum of $4 billion per execution starting September 9, 2026. The intervention actively targets the 10-year to 20-year and 20-year to 30-year bond sectors to manage volatile sovereign curves.\n\n* Currency Defenses Remain Layered: This massive fiscal maneuver occurs alongside ongoing vigilance from the Bank of Japan, which continues to manage currency market liquidity parameters following its previous historic yen interventions. [2]\n\n🇨🇦 Trade Wars: Automotive Tariffs Loom Unabated\n\n* The USMCA Override: High-level summaries published by the Council on Foreign Relations reaffirm that the Trump administration is actively preparing its Section 338 Tariff Act mechanism. The White House intends to levy a 50% tax on Canadian vehicles, trucks, auto parts, and steel effective January 1, 2027. [3]\n\n* The September 8 Retaliation Firewall: Prime Minister Mark Carney has reiterated that Canada will refuse to yield. Ottawa has completed its dollar-for-dollar retaliatory list, meaning wide-reaching tariffs on U.S. steel, agriculture, electronics, and dairy go legally active on September 8. [3]\n\n💡 Strategic Advice & Market Actions\n\n* ⚠️ Re-Route Strait of Hormuz Transport: Given the active naval mine deployments and retaliatory strikes across Larak Island, maritime assets must prioritize maximum safety routing completely outside the northern coastlines.\n\n* 📊 Absorb the Bond Liquidity Inflow: Corporate debt managers should optimize capital structures ahead of September 9 to profit from the Treasury’s massive $4 billion long-end bond buyback support window.\n\n* ➡️ Lock In North American Logistics Alternatives: Ensure all downstream supply contracts clear international transit or switch to domestic inputs before Canada's matching counter-tariffs disrupt midwestern cargo lines on September 8. [1, 2, 3]\n\nI will stay on top of these updates for you. Ple",
-    "table": [
-      {
-        "indicator": "Middle East Oil Risk",
-        "signal_level": "HIGH",
-        "signal_label": "Kinetic Escalation",
-        "detail": "U.S. strikes Iranian launchers on Larak Island[](https://www.google.com/search?kgmid=/m/085ktz) to neutralize an imminent mine threat. Iran retaliates against U.S. bases in Jordan, pushing Brent futures over $90.61/bbl."
-      },
-      {
-        "indicator": "Macro Interventions",
-        "signal_level": "HIGH",
-        "signal_label": "Liquidity Expansion",
-        "detail": "The U.S. Treasury has officially announced the doubling of long-end nominal liquidity support buybacks to at least $4 billion per operation."
-      },
-      {
-        "indicator": "Trade Wars & Escalations",
-        "signal_level": "MEDIUM",
-        "signal_label": "Imminent Retaliation",
-        "detail": "Talks remain entirely collapsed. The 50% U.S. tariff layer remains scheduled for automotive and steel lines, with Canada's matching countermeasure wall launching September 8."
-      }
-    ]
   }
 ]
