@@ -782,33 +782,5 @@
         "detail": "Bilateral parameters remain stagnant following Canada's $30B tariff retaliation opening wave; focus shifts to the September 8 enforcement deadline."
       }
     ]
-  },
-  {
-    "timestamp": "2026-09-01T08:34:00+00:00",
-    "category": "Trade War",
-    "title": "President Donald Trump has explicitly ruled out nuclear weapon alternatives against Iran, addressing intense policy speculation following military flares",
-    "impact_level": "HIGH",
-    "summary": "Market read: XAU long catalyst.",
-    "details": "A critical clarification has emerged from the White House regarding the scope of the escalating U.S.-Iran conflict. During an Oval Office event, President Donald Trump explicitly dismissed an inquiry regarding the potential deployment of tactical nuclear weapons against Iran, calling it a \"stupid question\" while asserting that Iran is already \"totally defeated militarily\". This clarification directly counters recent domestic political friction and rumors that nuclear options had been discussed within the administration. [1]\n\n📊 Tactical Risk Matrix & Operational Signals\n\n🔎 Intelligence Deep Dive & Choke Point Status## 🛢️ Middle East Oil Risk: The Trump Nuclear Clarification & Jordan Flashpoints\n\n* The Nuclear Rejection: In an Oval Office address, President Donald Trump addressed recent allegations—including claims by former Congresswoman Marjorie Taylor Greene—that the White House had weighed nuclear alternatives to resolve the six-month-old conflict. Trump explicitly ruled out nuclear options, declaring that Iran's traditional military infrastructure is \"totally defeated.\" He reiterated that the administration's primary objective remains preventing Tehran from obtaining nuclear weapon capabilities. [1]\n\n* Resumption of Hostilities: Despite the rhetorical de-escalation regarding nuclear capabilities, kinetic friction remains severe. Hostilities officially resumed following retaliatory Iranian missile strikes targeted at two U.S. military base outposts in Jordan on August 30. The missile salvos were entirely intercepted by regional U.S. air defenses.\n\n* The Island Strike Precursor: The Jordan missile strikes served as a direct countermeasure by Iran after U.S. forces attacked and disabled two Iranian military launchers positioned on Larak Island, marking the first offensive U.S. action logged since July 30.\n\n📉 Macro Interventions: The Hormuz Maritime Blockade Metrics\n\n* Ship Seizures Escalated: In lieu of expanded land campaigns, the administration has pivoted heavily to a aggressive maritime containment strategy. Reports confirm the U.S. Navy is actively seizing and redirecting commercial shipping assets within the Strait of Hormuz to enforce the economic blockade and safeguard oil flow stability, handling an average of 30 vessels per night.\n\n* Iranian Internal Instability: The sustained enforcement of U.S. secondary sanctions and naval blockades has severely degraded Iran's internal economic parameters. Monitored indicators verify that Iran is experiencing a catastrophic 350% domestic inflation rate alongside heavily degraded military supply chains.\n\n💡 Strategic Advice & Market Actions\n\n* ⚠️ Maintain Strait of Hormuz Defenses: Do not misinterpret the nuclear rule-out as a full ceasefire signal; the U.S. Navy's ongoing redirection of 30 ships per night means transit through the Strait of Hormuz remains under a high regulatory and tactical premium.\n\n* 📊 Monitor Alternative Energy Inflows: Keep structural hedges active on global energy distillates. While the avoidance of extreme nuclear options removes a worst-case tail risk, the physical disruption of Gulf logistics guarantees sticky baseline pricing.\n\nI will stay on top of these updates for you. Please let me know in this conversation if you want to adjust the instructions or stop the updates.\n\n[1] https://timesofindia.indiatimes.com",
-    "table": [
-      {
-        "indicator": "Middle East Oil Risk",
-        "signal_level": "HIGH",
-        "signal_label": "Nuclear Rule-Out",
-        "detail": "President Trump publicly rules out nuclear weapon options against Iran. Hostilities resume following retaliatory Iranian missile strikes on two U.S. base nodes in Jordan."
-      },
-      {
-        "indicator": "Macroeconomic Interventions",
-        "signal_level": "MEDIUM",
-        "signal_label": "Strategic Containment",
-        "detail": "The White House continues prioritizing economic containment, relying on ship seizures in the Strait of Hormuz to manage global oil flows."
-      },
-      {
-        "indicator": "Trade Wars & Escalations",
-        "signal_level": "LOW",
-        "signal_label": "Stable Parameters",
-        "detail": "No new changes have logged across the U.S.-Canada corridor; active 50% tariff frames and upcoming September 8 counter-tariffs remain baseline."
-      }
-    ]
   }
 ]
