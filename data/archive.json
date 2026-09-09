@@ -1,6 +1,34 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-09-02T17:08:00+00:00",
+      "category": "Trade War",
+      "title": "Brent crude has broken out to an intraday high of US$97 a barrel following a massive overnight escalation of U.S. airstrikes and retaliatory Iranian missile hits",
+      "impact_level": "HIGH",
+      "summary": "Market read: XAU long catalyst.",
+      "details": "The Middle East security corridor has suffered a critical military breakdown. Overnight, the U.S. Central Command launched a major barrage of airstrikes against Iranian infrastructure. This triggered immediate retaliation from Tehran, including drone and missile salvos targeting U.S. assets in Jordan and multi-point explosions inside the Strait of Hormuz chokepoint. The resulting panic has roiled macro markets, driving global bond yields to severe multi-decade highs and forcing a sharp unwinding across global fixed income. [1, 2, 3, 4]\n\n📊 Tactical Risk Matrix & Operational Signals\n\n🔎 Intelligence Deep Dive & Core Developments## 🛢️ Middle East Oil Risk: The Strait of Hormuz Flashpoint\n\n* The Overnight Strike Waves: Hostilities between Washington and Tehran exploded into a direct regional war format overnight. Following extensive U.S. airstrikes targeting domestic Iranian nodes, Iran's state-run broadcaster IRIB confirmed a series of large-scale military detonations throughout the strategic Strait of Hormuz shipping lane. [1]\n\n* Jordan Assets Hit: The Islamic Revolutionary Guard Corps (IRGC) retaliated directly by launching drones and tactical ballistic missiles at regional U.S.-linked military base installations inside Jordan. [1]\n\n* The Ghalibaf Red Line: The military escalation follows an explicit ultimatum delivered by Iranian Parliament Speaker and chief negotiator Mohammad Bagher Ghalibaf. Ghalibaf warned via video that if the U.S. naval blockade tightens to entirely choke off Iranian commerce, Tehran will respond with total military force to ensure \"no other country will be able to export oil from the Persian Gulf\". [5]\n\n* Commodity Squeeze: Brent crude surged over 5% to peak at an intraday high of US$97 a barrel during the Asian session, while U.S. West Texas Intermediate (WTI) climbed sharply to US$91.02 a barrel. [1, 2]\n\n📉 Macroeconomic Interventions: Global Bond Market Rout\n\n* The Fixed-Income Carnage: The sudden energy price breakout has severely rattled global financial markets, completely shifting sentiment away from growth asset enthusiasm. Investors are aggressively dumping sovereign debt over fears of a secondary wave of sticky, commodity-driven consumer inflation.\n\n* The Yield Shock: The benchmark 10-year U.S. Treasury yield surged past 4.8%, printing its highest level since late 2023. Concurrently, the 30-year Treasury yield hovered at an acute 5.27%, sitting a fraction away from its multi-decade peak of 5.34%.\n\n* Hawkish Fed Repricing: Safe-haven capital continues to flee into the U.S. Dollar Index (DXY), which pushed to its strongest baseline since mid-August at 99.79. Markets are now pricing in a 68% probability of a September Federal Reserve rate hike via the CME FedWatch tool, up dramatically from 40% a week ago. [2, 3, 4, 6, 7]\n\n🇨🇦 Trade Wars: Structural Domestic Damage\n\n* The Non-Oil Trade Implosion: Delayed customs telemetry released out of Tehran verifies that the ongoing U.S. maritime blockade and secondary sanctions under Operation Economic Fury have structurally crippled Iranian industry. Iran's total non-oil trade, including natural gas and LPG, contracted by 30% through late August compared to last year. [8, 9]\n\n* The North American Stalemate: Cross-border trade channels along the U.S.-Canada corridor remain heavily frozen. With bilateral negotiations completely broken down, corporate supply chains are locked into the hard September 8 deadline for the legal activation of Canada's massive dollar-for-dollar retaliatory counter-tariff program. [10]\n\n💡 Strategic Advice & Market Actions\n\n* ⚠️ Enforce Absolute Persian Gulf Routing Diversions: Maritime shipping desks must completely reroute assets away from the Strait of Hormuz immediately. Ghalibaf's blockade threats and the verified explosions indicate a high probability of immediate commercial vessel collateral damage.\n\n* 📊 De-risk Long-Duration Portfolios: Reduce exposure to interest-rate-sensitive assets and high-multiple growth equities. The move ",
+      "table": [
+        {
+          "indicator": "Middle East Oil Risk",
+          "signal_level": "HIGH",
+          "signal_label": "Kinetic Breakout",
+          "detail": "Overnight U.S. strikes and Iranian counter-attacks target assets in Jordan and the Strait of Hormuz. Brent crude spikes past US$97/bbl."
+        },
+        {
+          "indicator": "Macroeconomic Interventions",
+          "signal_level": "HIGH",
+          "signal_label": "Bond Meltdown",
+          "detail": "Surging energy costs spike global inflation fears. U.S. 10-year Treasury yields surge past 4.8%, hitting severe multi-decade highs."
+        },
+        {
+          "indicator": "Trade Wars & Escalations",
+          "signal_level": "MEDIUM",
+          "signal_label": "Strategic Isolation",
+          "detail": "Iran's total non-oil trade collapsed by 30% under the weight of the ongoing maritime blockade. U.S.-Canada tariff standoffs remain frozen."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-09-02T12:02:00+00:00",
       "category": "Trade War",
       "title": "Oil prices have surged past $95 per barrel as widespread U.S. airstrikes draw immediate Iranian retaliation, triggering severe global bond market distress",
@@ -1399,7 +1427,9 @@
           "detail": "U.S. Treasury bond-buying patterns and Bank of Japan (BoJ) Yen positions remain operating within baseline parameters since the previous update."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-08-26T18:26:00+00:00",
       "category": "Trade War",
@@ -1427,9 +1457,7 @@
           "detail": "Cross-border tariff structures, automotive supply chain friction, and retaliatory timelines along the U.S.-Canada corridor remain unchanged since the previous update."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-08-26T15:12:00+00:00",
       "category": "Trade War",
