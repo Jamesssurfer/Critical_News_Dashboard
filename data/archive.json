@@ -1063,7 +1063,9 @@
           "detail": "U.S. 10-year Treasury yields, fiscal buyback maneuvers, and Bank of Japan (BoJ) liquidity balances are operating within baseline parameters over the last 12 hours."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-08-27T15:05:00+00:00",
       "category": "Trade War",
@@ -1147,9 +1149,7 @@
           "detail": "Cross-border supply chain metrics and finalized counter-tariff lists along the U.S.-Canada corridor remain steady with no fresh escalations."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-08-27T11:12:00+00:00",
       "category": "Trade War",
