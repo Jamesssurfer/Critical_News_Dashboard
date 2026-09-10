@@ -1343,7 +1343,9 @@
           "detail": "No sudden, emergency central bank liquidity actions or changes to U.S. Treasury bond-buying patterns have breached tracking thresholds over the last 12 hours."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-08-26T23:47:00+00:00",
       "category": "Trade War",
@@ -1427,9 +1429,7 @@
           "detail": "U.S. Treasury bond-buying patterns and Bank of Japan (BoJ) Yen positions remain operating within baseline parameters since the previous update."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-08-26T18:26:00+00:00",
       "category": "Trade War",
