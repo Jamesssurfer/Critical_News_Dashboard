@@ -1147,7 +1147,9 @@
           "detail": "Cross-border supply chain metrics and finalized counter-tariff lists along the U.S.-Canada corridor remain steady with no fresh escalations."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-08-27T11:12:00+00:00",
       "category": "Trade War",
@@ -1175,9 +1177,7 @@
           "detail": "BoJ boxed into September rate hike. Widespread capital outflows forcing historic Yen weakness have cornered the Bank of Japan. Market consensus assigns an 80% probability of a rate hike to 1.25% on September 18."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-08-27T09:55:00+00:00",
       "category": "Trade War",
