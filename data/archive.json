@@ -1,6 +1,34 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-09-03T21:09:00+00:00",
+      "category": "Trade War",
+      "title": "The Japanese Yen has surged more than 2.5% in an aggressive two-day rally as hawkish Bank of Japan policy signals prompt a massive short-covering wave",
+      "impact_level": "HIGH",
+      "summary": "Market read: XAU long catalyst.",
+      "details": "A powerful macroeconomic shift has re-shaped currency corridors over the last 48 hours. Following hawkish commentary from Bank of Japan board member Hajime Takata and the high-profile G20 alignment between Tokyo and Washington, institutional currency desks have aggressively unwound short positions, pushing the yen to a sharp multi-day high against the U.S. dollar. Concurrently, global energy indices are steadying at elevated levels after President Trump tempered direct military intervention fears, though the physical blockade of the Strait of Hormuz remains highly volatile. [1, 2, 3]\n\n📊 Tactical Risk Matrix & Operational Signals\n\n🔎 Intelligence Deep Dive & Core Developments## 🇯🇵 Macro Interventions: The Great Yen Carry Trade Unwind\n\n* The Two-Day Surge: Institutional foreign exchange desks have recorded a violent macro reversal, pushing the Japanese currency up by over 2.5% across a 48-hour window to trade tightly around the 156.1 boundary. This marks the sharpest multi-session appreciation observed since the historic joint market interventions in early August. [1]\n\n* Hawkish Policy Acceleration: The primary driver of the short-covering wave stems from explicit public remarks delivered by Bank of Japan board member Hajime Takata. Takata's baseline assertions, combined with Governor Kazuo Ueda's G20 statements, have forced traders to price in near-certain, aggressive interest rate increases at the impending September central bank policy gathering.\n\n* The Dollar Retrenchment: The sudden surge in the JPY has put broad-market pressure on the greenback, leaving the DXY Index down roughly 0.5% against a basket of core peers, even as eurozone and British pound equivalents logged fractional gains. [1]\n\n🛢️ Middle East Oil Risk: Risk Premium Deflation vs. Stalled Corridors\n\n* The Trump Rhetoric Shift: Following the dangerous exchange of air and ballistic missile strikes over the weekend, international energy benchmarks eased from their peak resistance levels. During an unscheduled press briefing, President Donald Trump told reporters that Washington is not planning immediate, deeper military campaigns inside Iran, effectively deflating a highly compressed tactical risk premium. [1, 2]\n\n* The Structural Floor Holds: Despite the immediate paper market relief, Brent crude continues to face significant structural tightness, holding firm near $96.62 per barrel. The physical chokehold remains severe after the IRGC’s single-corridor ultimatum effectively paralyzed traditional commercial transit lines through the Strait of Hormuz. [1, 3, 4]\n\n* Critical Distillate Shortfalls: Physical delivery concerns are being exacerbated by an acute underlying inventory crunch. The EIA verified a massive 4.5 million barrel drawdown in commercial inventories, while international middle-distillate and diesel stockpiles sit at their absolute lowest recorded levels for this time of year. [5]\n\n🇨🇦 Global Trade Friction: The 25% Multi-Lateral Strike\n\n* Sanctions Enforcement Hardening: Sovereign macro desks are rushing to restructure foreign trade clearings following President Trump's definitive Truth Social order. The mandate dictates that any nation continuing to transact with the Islamic Republic will face an immediate, absolute 25% tariff penalty on all goods exported into the United States. Trade operations inside primary clearing hubs—specifically China, Turkey, the UAE, and Iraq—are facing maximum compliance scrutiny.\n\n* North American Standstill: The domestic U.S.-Canada industrial border remains frozen into a state of structural stasis. With bilateral talks completely broken, corporate procurement entities are completing raw ingredient and component switching maneuvers ahead of next Tuesday, September 8, when Canada’s matching $27.6 billion counter-tariff matrix officially takes effect. [6, 7]\n\n💡 Strategic Advice & Market Actions\n\n* 📊 De-Risk Short JPY Exposures Immediately: The yen’s 2.5% breakout past 156.1 proves that the global carry trade is undergoing ",
+      "table": [
+        {
+          "indicator": "Macroeconomic Interventions",
+          "signal_level": "HIGH",
+          "signal_label": "Aggressive JPY Rebound",
+          "detail": "The Yen staged its biggest two-day rally since early August, surging over 2.5% to trade around 156.1 against the dollar as market desks rapidly lift rate hike bets."
+        },
+        {
+          "indicator": "Middle East Oil Risk",
+          "signal_level": "MEDIUM",
+          "signal_label": "Rhetorical Reprieve",
+          "detail": "Oil prices steadied below prior peaks as President Trump indicated Washington is not scheduling imminent land strikes on Iran, deflating a portion of the tactical risk premium."
+        },
+        {
+          "indicator": "Trade Wars & Escalations",
+          "signal_level": "MEDIUM",
+          "signal_label": "Secondary Tariff Pressures",
+          "detail": "Markets adjust to the finality of Trump's 25% global tariff penalty on any country facilitating trade with Tehran. US-Canada border stasis holds ahead of the September 8 wall."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-09-03T19:18:00+00:00",
       "category": "Trade War",
       "title": "Israeli heavy machinery uproots West Bank olive trees as Palestinian towns organize localized nighttime watch groups to contain escalating settler friction",
@@ -979,7 +1007,9 @@
           "detail": "Currency carry-trade pressures persist. The U.S.-Japan joint currency rescue faces continued market scrutiny as cheap borrowing costs fuel capital outflows into high-yield overseas assets."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-08-27T21:28:00+00:00",
       "category": "Trade War",
@@ -1035,9 +1065,7 @@
           "detail": "U.S. Treasury debt buyback operations and Bank of Japan (BoJ) Yen positions continue to trade within established baseline parameters over the last 4 hours."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-08-27T19:12:00+00:00",
       "category": "Trade War",
