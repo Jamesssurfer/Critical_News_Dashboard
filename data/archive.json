@@ -1287,7 +1287,9 @@
           "detail": "Global energy commodities and Treasury yields remain steady. Central banks have not enacted emergency interventions following this breakthrough."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-08-27T03:12:00+00:00",
       "category": "Trade War",
@@ -1343,9 +1345,7 @@
           "detail": "No sudden, emergency central bank liquidity actions or changes to U.S. Treasury bond-buying patterns have breached tracking thresholds over the last 12 hours."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-08-26T23:47:00+00:00",
       "category": "Trade War",
