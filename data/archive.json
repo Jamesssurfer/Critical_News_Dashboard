@@ -1,6 +1,34 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-09-05T02:54:00+00:00",
+      "category": "Trade War",
+      "title": "The Israeli military has established absolute operational control over Hezbollah's tactical Ali al-Taher ridge line, cementing security zone parameters amid severe Iranian warnings",
+      "impact_level": "HIGH",
+      "summary": "Market read: XAU long catalyst.",
+      "details": "The geopolitical landscape has hardened significantly following a crucial military development. The Israel Defense Forces (IDF) have completely cleared and secured operational control over the strategic Ali al-Taher ridge and its multi-decade, Iranian-funded underground command complexes. This decisive advance bypassed an explicit backchannel warning delivered by Iran via Oman, which stated that a full-scale assault on the fortified ridge would constitute a severe \"red line\" and trigger immediate, forceful retaliation. [1]\n\n📊 Tactical Risk Matrix & Operational Signals\n\n🔎 Intelligence Deep Dive & Core Developments## 🪖 The Fall of the Ali al-Taher Ridge Complex\n\n* Establishment of Operational Control: Moving rapidly ahead of long-term field demolitions, the IDF’s 36th Division completed clearing operations across the Ali al-Taher Ridge complex located approximately 6–10 kilometers from the border. A portion of the embedded fighters were eliminated while others fled, following a prolonged siege intended to starve out trapped military personnel. [1]\n\n* The Underground Infrastructure: The targeted fortress consisted of an expansive subterranean layout funding and designed by Iran over the course of two decades. Military engineers verified the discovery of reinforced command rooms, vast weapons storage vaults, and fully functional living quarters deep within the ridge. [1]\n\n* The Omani Diplomatic Warning: Intelligence details reveal that Iran utilized diplomatic channels via Oman in August to warn the United States that a full-scale offensive on this specific outpost would constitute an absolute \"red line.\" Discrepancies exist regarding whether Islamic Revolutionary Guard Corps (IRGC) senior officers were trapped inside, but Tel Aviv pushed through the warning to cement its security parameters.\n\n* Consolidating the Security Zone: Following the capture, Israeli Defense Minister Israel Katz formally declared the ridge clear, asserting it marks the completion of the process to consolidate a permanent security zone in southern Lebanon. He emphasized that Israeli forces will not withdraw until Hezbollah is fully disarmed.\n\n💡 Strategic Advice & Market Actions\n\n* ⚠️ Brace for Asymmetric Countermeasures: Corporate safety matrices must incorporate immediate risk padding around regional assets; the complete capture of the ridge directly overrules Iran’s explicit red line delivered via Omani backchannels.\n\n* 📊 Retain Structural Long Energy Hedges: Avoid over-indexing on brief, short-term paper oil market consolidations. The physical reality of intense infrastructure overhauls and regional fortresses falling guarantees a high geopolitical baseline floor for global crude indices.\n\nI will continue to stay completely on top of these updates for you, and invite you to let me know in this conversation if you want to adjust the instructions or stop the updates.\n\n[1] https://www.marketwatch.com",
+      "table": [
+        {
+          "indicator": "Middle East Oil Risk",
+          "signal_level": "HIGH",
+          "signal_label": "Strategic Ridge Capture",
+          "detail": "The IDF clears Hezbollah from the Ali al-Taher Ridge[](https://www.google.com/search?kgmid=/g/11z94yyvc7). Israeli Defense Minister declares the process to consolidate a southern Lebanon security zone complete."
+        },
+        {
+          "indicator": "Macroeconomic Interventions",
+          "signal_level": "MEDIUM",
+          "signal_label": "Threat Escalation Matrix",
+          "detail": "Iran warned the U.S. that an assault would trigger an Iranian retaliation. Regional markets maintain tight risk parameters."
+        },
+        {
+          "indicator": "Trade Wars & Escalations",
+          "signal_level": "LOW",
+          "signal_label": "Stable Monitor",
+          "detail": "Cross-border trade channels and final tariff schedules remain locked; the U.S.-Canada September 8 boundary continues to hold."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-09-04T17:10:00+00:00",
       "category": "Trade War",
       "title": "The Japanese Yen has surged into the 155 range on growing carry-trade reversal fears, while Asian economies pivot to extreme energy-saving measures due to the severe Strait of Hormuz bottleneck",
@@ -895,7 +923,9 @@
           "detail": "Market expectations solidify around an upcoming September Bank of Japan rate hike to defend the currency following the record 15.4 trillion yen intervention pipeline."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-08-29T01:25:00+00:00",
       "category": "Trade War",
@@ -979,9 +1009,7 @@
           "detail": "Downstream supply shifts remain acute following the US-Canada tariff breakdown. WTI crude fell to $80.52/bbl on broader macro pressures."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-08-28T15:54:00+00:00",
       "category": "Trade War",
