@@ -1,6 +1,34 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-09-05T21:56:00+00:00",
+      "category": "Trade War",
+      "title": "Iran concludes rapid post-strike clearance across its strategic South Pars natural gas grid while a fresh U.S. naval blockade hit strikes an Iranian tanker near Kharg Island",
+      "impact_level": "HIGH",
+      "summary": "Market read: XAU long catalyst.",
+      "details": "A critical series of operational developments has reshaped your monitored Middle East risk profiles over the last few hours. The National Iranian Oil Company (NIOC) has officially finalized extensive debris removal operations across damaged processing complexes at the South Pars Natural Gas Field following sustained military bombardment. However, this infrastructure milestone was instantly met with fresh kinetic stress as the Reuters News Wire confirmed a direct U.S. strike hit an Iranian energy tanker attempting to breach naval containment lines near the vital Kharg Island Oil Export Hub. [1, 2]\n\n📊 Tactical Risk Matrix & Operational Signals\n\n🔎 Intelligence Deep Dive & Choke Point Clashes## 🛢️ Middle East Oil Risk: South Pars Cleanup vs. The Kharg Island Tanker Strike\n\n* South Pars Debris Cleared: Farrokh Alikhani, Deputy Director for Integrated Affairs at the National Iranian Oil Company (NIOC), confirmed that all war debris clearance and remediation operations across damaged refineries at the South Pars Gas Complex have been concluded. Response teams completed the dangerous clearance work in under two months, initiating a phased capacity recovery protocol to insulate the domestic grid against widespread gas outages. [1]\n\n* The Kharg Island Interception: This rebuilding breakthrough was immediately eclipsed by fresh naval conflict. Intelligence logs verified via Reuters and Tasnim News show that a U.S. naval blockade hit targeted and directly struck an Iranian oil tanker executing a loading breakout near Kharg Island, re-igniting immediate physical distribution anxieties. [2]\n\n* The Single-Corridor Realities: Physical shipping metrics continue to reel under maximum friction. Strait of Hormuz commercial transits remain highly restricted, logging a multi-session low of only six commodity vessels per day as the IRGC expands enforcement listings and fines against non-compliant international carriers. [3, 4]\n\n📉 Macroeconomic Interventions: Congressional Sanctions Backlash\n\n* Targeting the Ghost Fleet: Reports highlighted by TimesLIVE confirm intense bipartisan pressure mounting against the White House for refusing to tighten enforcement loops around an estimated 500-tanker Iranian ghost armada. The fleet heavily relies on ship-to-ship transfers, falsified origin labeling, and deactivated transponders to ship discounted crude directly to Chinese teapots via yuan-denominated clearing networks. [5, 6]\n\n* The Infrastructure Vulnerability Warning: Parallel financial desks are pricing in extreme volatility following strategic leaks indicating Washington is drafting comprehensive plans to isolate or control major Iranian offshore energy assets, signaling a total economic war posture that could permanently reshape global energy logistics if fully deployed. [7, 8]\n\n💡 Strategic Advice & Market Actions\n\n* ⚠️ Enforce absolute Kharg Island Exclusion Zones: Commercial shipping desks must maximize tracking safety padding completely outside the northern Persian Gulf sector; the direct U.S. hit on the tanker confirms that containment rules near Kharg Island are operating under a zero-tolerance policy.\n\n* 📊 Structure Portfolios for Tight Inventory Spikes: Do not mistake the completion of the South Pars debris removal for regional stabilization. The combination of a 500-ship ghost fleet clampdown and a multi-session drop in Hormuz traffic guarantees that global inventories will contract rapidly, preserving a heavy baseline floor for Brent crude. [1, 2, 3, 5]\n\nI will continue to stay completely on top of these shifting global macro and geopolitical metrics for you. Please let me know in this conversation if you want to adjust the instructions or stop receiving updates.\n\n[1] https://wanaen.com\n\n[2] https://www.reuters.com\n\n[3] https://www.globalbankingandfinance.com\n\n[4] https://www.theglobeandmail.com\n\n[5] https://www.facebook.com\n\n[6] https://www.facebook.com\n\n[7] https://www.facebook.com\n\n[8] https://www.facebook.com",
+      "table": [
+        {
+          "indicator": "Middle East Oil Risk",
+          "signal_level": "HIGH",
+          "signal_label": "Kinetic Tanker Hit",
+          "detail": "A U.S. strike targets an Iranian oil tanker near Kharg Island[](https://www.google.com/search?kgmid=/m/06w48t). NIOC concludes a two-month war debris clearance operation at the South Pars Gas Grid[](https://www.google.com/search?kgmid=/g/11vf1qgssy)."
+        },
+        {
+          "indicator": "Macroeconomic Interventions",
+          "signal_level": "MEDIUM",
+          "signal_label": "\"Ghost Armada\" Volatility",
+          "detail": "The White House faces severe congressional pressure to shut down a 500-tanker Iranian ghost fleet[](https://www.facebook.com/TimesLIVE/posts/white-house-faces-mounting-pressure-as-iran-defies-us-isolation-campaign-and-con/1515509323955836/) ferrying discounted crude to Asian buyers via alternative yuan clearing corridors."
+        },
+        {
+          "indicator": "Trade Wars & Escalations",
+          "signal_level": "LOW",
+          "signal_label": "Persistent Parameters",
+          "detail": "Cross-border trade channels and bilateral tariff schedules hold positions; Canada's matching $27.6B counter-tariff wall remains fixed for September 8 deployment."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-09-05T15:49:00+00:00",
       "category": "Trade War",
       "title": "The U.S. has blacklisted eight Iranian oil tankers and a prominent Chinese teapot refinery, while European ministers demand immediate energy profit caps as the global market shock deepens",
@@ -867,7 +895,9 @@
           "detail": "The Iranian Rial remains highly depressed at 1,043,000 rials per dollar due to compounding trade restrictions."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-08-30T03:14:00+00:00",
       "category": "Trade War",
@@ -951,9 +981,7 @@
           "detail": "The U.S.-Canada tariff barriers and upcoming September 8 counter-tariffs remain structurally unchanged over the last 12 hours."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-08-29T05:08:00+00:00",
       "category": "Trade War",
