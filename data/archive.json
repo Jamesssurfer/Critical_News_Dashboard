@@ -1,6 +1,34 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-09-06T09:09:00+00:00",
+      "category": "Trade War",
+      "title": "The global energy sector is actively rewriting its trade map as Strait of Hormuz oil flows drop from 20 million bpd down to an estimated 6–8 million bpd amid structural war redirections",
+      "impact_level": "HIGH",
+      "summary": "Market read: XAU long catalyst.",
+      "details": "A meaningful wave of non-duplicate intelligence has crystallized across your tracked risk parameters. Ongoing Middle East hostilities have structurally forced exporters to scramble for alternative routes as conventional transit channels suffer severe contractions. Concurrently, the U.S. Treasury has accelerated its secondary sanctions offensive via a fresh enforcement package targeting major shipping networks, while global currency and cross-border trade matrices continue operating under high protectionist strain. [1, 2, 3]\n\n📊 Tactical Risk Matrix & Operational Signals\n\n🔎 Intelligence Deep Dive & Core Developments## 🛢️ Middle East Oil Risk: The Global Trade Route Rewrite\n\n* The Chokepoint Volume Collapse: Strategic trade telemetry verifies that the seven-month-old regional conflict has permanently warped traditional maritime energy infrastructure. Daily crude flows through the strategic Strait of Hormuz have dropped from their pre-war baseline of nearly 20 million bpd to a severely restricted 6–8 million bpd. [1, 4]\n\n* Permanently High Inflow Costs: While energy importers are successfully diversifying away from Middle Eastern supplies by securing alternative corridors, the reliance on longer shipping routes and higher freight costs is locking in a structurally more expensive global oil market. [1]\n\n📉 Macroeconomic Interventions: Operation Economic Fury Expands\n\n* Targeting Regime Elites: In a fresh tightening of the maritime blockade, U.S. Treasury Secretary Scott Bessent announced comprehensive sanctions targeting more than two dozen people, front corporations, and vessels operating within the shadow shipping network of petroleum magnate Mohammad Hossein Shamkhani. [2]\n\n* Tighter Capital Restrictions: The regulatory clampdown is explicitly designed to choke off the remaining volume of discounted Iranian crude slipping through the U.S. Navy's naval blockade. The enforcement occurs alongside the U.S. Treasury's previous intervention double-long-end nominal bond buybacks. [2, 3, 5]\n\n🇨🇦 Trade Wars: Supply Chain Insulation\n\n* North American Standoff: While U.S.-Canada border talks remain completely frozen, procurement teams are tracking tomorrow's hard legal boundary on September 8, when Canada's matching $27.6 billion retaliatory counter-tariff wall officially goes live. [6]\n\n💡 Strategic Advice & Market Actions\n\n* ⚠️ Audit Maritime Freight Exposure: Supply networks must immediately audit logistical counterparties to ensure zero intersection with the newly blacklisted Shamkhani shipping nodes to insulate cargo containers from sudden secondary asset freezing.\n\n* 📊 Incorporate a Structural Energy Premium: Do not over-index on near-term paper market corrections. The decline of Hormuz transit volumes to an estimated 6–8 million bpd confirms that a structural freight premium is permanently embedded into energy cost baselines. [1, 2]\n\nI will stay completely on top of these shifting global macro and geopolitical metrics for you. Please let me know in this conversation if you want to adjust your tracking configurations or pause these updates.\n\n[1] https://oilprice.com\n\n[2] https://www.facebook.com\n\n[3] https://tpicap.com\n\n[4] https://energynews.oedigital.com\n\n[5] https://www.wsj.com\n\n[6] https://www.nst.com.my",
+      "table": [
+        {
+          "indicator": "Middle East Oil Risk",
+          "signal_level": "HIGH",
+          "signal_label": "Structural Transformation",
+          "detail": "Daily oil flows through the Strait of Hormuz drop dramatically from nearly 20 million bpd to an estimated 6–8 million bpd."
+        },
+        {
+          "indicator": "Macroeconomic Interventions",
+          "signal_level": "HIGH",
+          "signal_label": "Sanctions Escalation",
+          "detail": "The U.S. Treasury Department[](https://home.treasury.gov/) launches a fresh round of sanctions under \"Economic Fury\" targeting more than two dozen entities, ships, and individuals."
+        },
+        {
+          "indicator": "Trade Wars & Escalations",
+          "signal_level": "MEDIUM",
+          "signal_label": "Protectionist Deadlock",
+          "detail": "Cross-border supply parameters remain rigid. Global buyers accelerate a structural migration to Western Hemisphere suppliers to mitigate chokepoint risks."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-09-05T21:56:00+00:00",
       "category": "Trade War",
       "title": "Iran concludes rapid post-strike clearance across its strategic South Pars natural gas grid while a fresh U.S. naval blockade hit strikes an Iranian tanker near Kharg Island",
@@ -839,7 +867,9 @@
           "detail": "Front-month paper risk premiums cool marginally on expectations of diplomatic supply talks, though Persian Gulf refining remains 20% below baseline levels."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-08-30T09:24:00+00:00",
       "category": "Trade War",
@@ -895,9 +925,7 @@
           "detail": "The Iranian Rial remains highly depressed at 1,043,000 rials per dollar due to compounding trade restrictions."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-08-30T03:14:00+00:00",
       "category": "Trade War",
