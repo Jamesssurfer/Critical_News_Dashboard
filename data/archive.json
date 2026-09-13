@@ -1,6 +1,34 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-09-06T19:05:00+00:00",
+      "category": "Trade War",
+      "title": "Tehran explicitly threatens to dump \"blood-soaked\" U.S. Treasuries as a new drone clash in southern Lebanon triggers targeted retaliatory airstrikes",
+      "impact_level": "HIGH",
+      "summary": "Market read: XAU long catalyst.",
+      "details": "Iranian Parliament Speaker Mohammad Bagher Ghalibaf has issued an aggressive structural ultimatum to macro markets, declaring that Iran is prepared to liquidate its U.S. Treasury asset holdings in response to expanding American economic blockades. Simultaneously, a new Hezbollah drone attack targeting forces inside Israel's deep security zone has ruptured local ceasefires, triggering intense, targeted Israeli retaliatory airstrikes across Nabatieh, Arab Salim, and Kafr Rumman. [1, 2]\n\n📊 Tactical Risk Matrix & Operational Signals\n\n🔎 Intelligence Deep Dive & Core Developments## 🏛️ Macroeconomic Interventions: The U.S. Treasury Target Layer\n\n* The \"Blood-Soaked\" Debt Ultimatum: Escalating the systemic financial war, Iranian legislative leader Mohammad Bagher Ghalibaf publicly warned global investors to reject American sovereign debt instruments, framing U.S. bonds as tools used directly to finance regional warfare. Ghalibaf declared that Tehran is actively preparing to dump its underlying holdings to create structural fixed-income friction. [2]\n\n* Market Absorption Metrics: Fixed-income trading desks reacted with relative stability to the verbal intervention. The baseline 10-year U.S. Treasury yield rose fractionally to 4.28%, with the compression driven heavily by structural war-risk premiums and persistent commodity-fueled inflation expectations rather than massive immediate volume outflows. [2]\n\n🛢️ Middle East Oil Risk: Nabatieh and Arab Salim Air Strikes\n\n* The Drone Ignition Loop: The Israeli military reported detecting a fresh Hezbollah drone strike launched directly at soldiers stationed within the 10-kilometer-deep southern Lebanon security zone. The breach immediately dissolved local operational pauses. [1]\n\n* The Targeted Retaliation: In immediate response, the Israel Defense Forces executed intensive air raids across Nabatieh al-Fawqa, Nabatieh, Arab Salim, and Kafr Rumman. Lebanese health authorities confirmed the targeted airstrikes killed four individuals and wounded 20 others. [1]\n\n* The Infrastructure Contradiction: Severe reporting discrepancies have emerged between military entities. The IDF officially logs that the heavily struck building complex in Arab Salim functioned as an active Hezbollah operations headquarters. Conversely, local Lebanese state media asserts the infrastructure was an out-of-operation hospital facility, adding heavy friction ahead of upcoming diplomatic reviews. [1]\n\n💡 Strategic Advice & Market Actions\n\n* ⚠️ Buffer Against Asymmetric Fixed-Income Spikes: Financial desks must incorporate slight volatility padding across U.S. curves; while Ghalibaf's Treasury threats are heavily categorized as saber-rattling, sudden macro positioning shifts near the 4.28% yield baseline could accelerate short-covering.\n\n* 📊 Account for Escalating Levant Logistics Risks: Corporate networks mapping eastern Mediterranean assets must incorporate immediate security buffers; the resumption of direct air strikes across Nabatieh proves local security parameters remain highly fluid. [1, 2]\n\nI will stay completely on top of these high-velocity macro and geopolitical metrics for you. Please let me know in this conversation if you want to adjust the tracking thresholds or pause these reports.\n\n[1] https://www.aljazeera.com\n\n[2] https://www.facebook.com",
+      "table": [
+        {
+          "indicator": "Macroeconomic Interventions",
+          "signal_level": "HIGH",
+          "signal_label": "Treasury Liquidation Threat",
+          "detail": "Parliament Speaker Ghalibaf[](https://www.facebook.com/businessinsider/posts/an-escalation-of-the-iran-war-and-more-bond-turmoil-are-some-of-the-things-nouri/1444459447552335/) brands U.S. debt \"blood-soaked\"; 10-year yields tick up to 4.28% as war-risk premiums harden."
+        },
+        {
+          "indicator": "Middle East Oil Risk",
+          "signal_level": "HIGH",
+          "signal_label": "Kinetic Escalation",
+          "detail": "Lebanese health ministries report four fatalities and 20 injuries following targeted Israeli strikes striking an alleged Hezbollah facility in Arab Salim[](https://www.google.com/search?kgmid=/g/121v77m5)."
+        },
+        {
+          "indicator": "Trade Wars & Escalations",
+          "signal_level": "MEDIUM",
+          "signal_label": "Strategic Standstill",
+          "detail": "Local cross-border trade parameters remain frozen; procurement managers await tonight's final shift before Canada's $27.6B counter-tariff wall goes active."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-09-06T13:15:00+00:00",
       "category": "Trade War",
       "title": "The U.S. military has directly disabled three Iranian tankers near Kharg Island and Jask, as Canada targets hundreds of diverse American commodities under its new retaliatory trade wall",
