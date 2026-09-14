@@ -839,7 +839,9 @@
           "detail": "Border supply parameters remain stable. Corporate entities continue defensive restructuring ahead of Canada's $27.6B retaliatory tariff firewall on September 8."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-08-31T19:32:00+00:00",
       "category": "Trade War",
@@ -867,9 +869,7 @@
           "detail": "Broader market indicators adjust as global energy benchmarks harden."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-08-31T12:26:00+00:00",
       "category": "Trade War",
