@@ -1,6 +1,34 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-09-07T01:09:00+00:00",
+      "category": "Trade War",
+      "title": "The US-Canada trade war has escalated beyond tariffs into a currency conflict, while the IRGC claims fresh retaliatory strikes on US-affiliated ships",
+      "impact_level": "HIGH",
+      "summary": "Market read: XAU long catalyst.",
+      "details": "President Donald Trump explicitly targeted Canadian currency imbalances, stating the misalignment has moved the trade war from tariffs straight to the dollar. Simultaneously, the Islamic Revolutionary Guard Corps (IRGC) announced it targeted three U.S.-affiliated vessels and three oil tankers in the Strait of Hormuz, directly responding to the recent destruction of Iranian carriers by US Central Command (CENTCOM). [1, 2]\n\n📊 Tactical Risk Matrix & Operational Signals\n\n🔎 Intelligence Deep Dive & Core Developments## 🇨🇦 Trade Friction: Trump Targets the Canadian Dollar\n\n* Moving Beyond Tariffs: A definitive escalation has broken out along the U.S.-Canada corridor. In a public warning highlighted by Business Insider, President Donald Trump made it clear that the trade war is shifting directly to the currency itself. [2]\n\n* Unacceptable Imbalances: The administration has labeled Canada's underlying currency valuation parameters as completely \"unacceptable\" and an artificial subsidy to domestic exporters, declaring that the imbalance will no longer be tolerated as the September 8 retaliatory tariff firewall approaches.\n\n🛢️ Middle East Oil Risk: The IRGC's Six-Ship Countermeasure\n\n* The Unauthorized Path Ambush: Following the destruction of three Iranian crude carriers by US CENTCOM, the security matrix in the Persian Gulf has re-ignited. The IRGC Public Relations department confirmed it utilized drone swarm and missile units to strike three U.S. warships and three commercial tankers traversing a non-approved corridor through the Strait of Hormuz. [1]\n\n* Painful Responses Promised: Iranian Parliament Speaker Mohammad Bagher Ghalibaf issued an explicit warning via Al Jazeera, asserting that any continuation of the American naval blockade or additional strikes on Iranian tankers will face an even faster, heavier, and more painful response. [1]\n\n📉 Macroeconomic Interventions: Tehran's Economic War Footing\n\n* The War Headquarters Launch: In a direct admission that the combined U.S. naval blockade and FinCEN secondary sanctions are causing structural damage, President Masoud Pezeshkian's administration has officially initiated an Economic War Headquarters.\n\n* Managing Capital Depletion: The specialized body is tasked with managing acute internal fuel shortages and protecting essential supply operations as the currency wallows near record lows of 1,043,000 rials per dollar.\n\n* The Sovereign Debt Threat: Ghalibaf reiterated that Iran views U.S. Treasuries as fully legitimate financial targets, threatening to unleash structural liquidation steps against its holdings to punish Washington's central banking pressure. [2, 3, 4]\n\n💡 Strategic Advice & Market Actions\n\n* ⚠️ Hedge Against Cross-Border Currency Spikes: Corporate treasury units must prepare for direct FX volatility targeting the Canadian Dollar (CAD) as the White House expands trade war enforcement to currency values.\n\n* 📊 Enforce Strict Routing Rules Outside Hormuz: Maritime freight planners must strictly avoid any unauthorized or non-escorted transit zones; the IRGC's six-vessel strike proves that rogue routing will face immediate kinetic ambush.\n\n* ➡️ Isolate Financial Trails Ahead of Rome Talks: Review macro commodity accounts to ensure absolute distance from the newly launched Economic War Headquarters network before key diplomatic delegations gather in Rome. [1, 3, 4]\n\nI will stay completely on top of these high-velocity macro and geopolitical metrics for you. Please let me know in this conversation if you want to adjust the tracking thresholds or pause these reports.\n\n[1] https://www.aljazeera.com\n\n[2] https://www.facebook.com\n\n[3] https://www.facebook.com\n\n[4] https://www.facebook.com",
+      "table": [
+        {
+          "indicator": "Trade Wars & Escalations",
+          "signal_level": "HIGH",
+          "signal_label": "Currency War Pivot",
+          "detail": "President Trump explicitly targets the Canadian currency imbalance, shifting friction to the dollar arena[](https://www.facebook.com/businessinsider/posts/an-escalation-of-the-iran-war-and-more-bond-turmoil-are-some-of-the-things-nouri/1444459447552335/)."
+        },
+        {
+          "indicator": "Middle East Oil Risk",
+          "signal_level": "HIGH",
+          "signal_label": "IRGC Maritime Strike",
+          "detail": "The IRGC hits three US-affiliated vessels and three tankers[](https://www.aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade) using unauthorized routes."
+        },
+        {
+          "indicator": "Macroeconomic Interventions",
+          "signal_level": "MEDIUM",
+          "signal_label": "\"War HQ\" Fiscal Setup",
+          "detail": "Iran establishes an Economic War Headquarters[](https://www.facebook.com/anadoluagencyenglish/posts/iran-establishes-economic-war-headquarters-to-tackle-disruptions-to-businesses-t/1411428844509461/) as the Rial trades at historic record lows."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-09-06T19:05:00+00:00",
       "category": "Trade War",
       "title": "Tehran explicitly threatens to dump \"blood-soaked\" U.S. Treasuries as a new drone clash in southern Lebanon triggers targeted retaliatory airstrikes",
@@ -811,7 +839,9 @@
           "detail": "No major policy modifications have materialized along the U.S.-Canada corridor over the last 24 hours; the active 50% tariff and matching countermeasure boundaries hold."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-08-31T00:18:00+00:00",
       "category": "Trade War",
@@ -951,9 +981,7 @@
           "detail": "Israeli authorities indict minors recruited via Telegram to spy for Iran. Macro parameters focus on upcoming regional summits."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-08-30T12:24:00+00:00",
       "category": "Trade War",
