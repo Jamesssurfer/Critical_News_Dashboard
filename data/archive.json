@@ -811,7 +811,9 @@
           "detail": "No new changes have logged across the U.S.-Canada corridor; active 50% tariff frames and upcoming September 8 counter-tariffs remain baseline."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-09-01T01:53:00+00:00",
       "category": "Trade War",
@@ -839,9 +841,7 @@
           "detail": "Border supply parameters remain stable. Corporate entities continue defensive restructuring ahead of Canada's $27.6B retaliatory tariff firewall on September 8."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-08-31T19:32:00+00:00",
       "category": "Trade War",
