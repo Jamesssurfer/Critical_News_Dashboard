@@ -783,7 +783,9 @@
           "detail": "Bilateral parameters remain stagnant following Canada's $30B tariff retaliation opening wave; focus shifts to the September 8 enforcement deadline."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-09-01T08:34:00+00:00",
       "category": "Trade War",
@@ -811,9 +813,7 @@
           "detail": "No new changes have logged across the U.S.-Canada corridor; active 50% tariff frames and upcoming September 8 counter-tariffs remain baseline."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-09-01T01:53:00+00:00",
       "category": "Trade War",
