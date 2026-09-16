@@ -1,6 +1,34 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-09-09T19:15:00+00:00",
+      "category": "Trade War",
+      "title": "The frequency calibration has been successfully lowered to pick up micro-signals, tracking a multi-ship escalation in the Gulf and fresh administrative actions across the U.S.-Canada border corridor",
+      "impact_level": "HIGH",
+      "summary": "Market read: XAU long catalyst.",
+      "details": "Per your direct request, the intelligence matrix filter has been dialled down to intercept intermediate trade data, market rumors, regional updates, and political speeches. The console will now deploy at high frequency (5 to 7 reports daily). The radar has picked up critical movements: a kinetic flare-up involving multiple naval proxies and targeted retaliatory bans impacting cross-border corporate purchasing networks. [1, 2, 3]\n\n📊 Tactical Risk Matrix & Operational Signals\n\n🔎 Intelligence Deep Dive & Core Developments## 🛢️ Middle East Oil Risk: IRGC Claims 10-Ship Strike Wave in Escalating Battle\n\n* The Drone and Missile Counter-Claim: Hours after the Pentagon announced the destruction of five Iranian crude oil carriers, the IRGC Public Relations bureau retaliated with aggressive claims. According to Al Jazeera, Tehran asserts its forces engaged and successfully struck two American naval assets, eight oil tankers, and 10 additional \"violating vessels\" accused of breaching its newly mapped out chokepoint zone. [3]\n\n* The Jordan Base Base Flashpoint: The geopolitical theater expanded inland overnight as Iranian missile units targeted a military installation hosting American military personnel in Jordan. Local air defenses in Amman confirmed they successfully tracked and intercepted 18 incoming ballistic missiles fired directly from Iranian territory. [3]\n\n* Crude Testing Triple Digits: As physical shipping grids ground to a near-halt, global energy desks responded aggressively. Al Jazeera telemetry confirmed international Brent Crude futures officially touched the $100 a barrel milestone, sparking acute supply warnings across European energy hubs. [3, 4]\n\n🇨🇦 Trade Friction: White House Details Section 338 Import Bans & GSA Timeline\n\n* The September 29 Legal Deadline: Refining its economic pushback, the White House published official executive proclamations under Section 338 of the Tariff Act of 1930. The administration will impose a absolute U.S. import ban on specific Canadian commodities—including motorcycles, motorboats, alcohol, and whey protein products—legally taking effect on September 29, 2026. [1, 5, 6]\n\n* Federal Procurement Expulsion: Moving beyond borders to choke state-level contracts, the executive branch ordered the General Services Administration (GSA) to target Canada’s provincial \"Buy Canadian\" rules. The agency has begun scrubbing Canadian-origin goods from its Multiple Award Schedules, which direct over $50 billion in annual federal purchasing. [7, 8]\n\n* The Sourcing Carve-Outs: In a surprising tactical shift highlighted by ABC News, the administration removed several critical commodities from the 50% tariff list. Non-white cement, face tissues, bedsheets, fishing rods, and road salt were granted safe harbor because they are natural resources not easily replaced by domestic American mines. [9]\n\n💡 Strategic Advice & Market Actions\n\n* ⚠️ Re-Verify Federal Supply Schedules Immediately: Procurement compliance officers must audit active GSA Award Schedules to flag any Canadian subcomponents before de-listing protocols strip current contract eligibility.\n\n* 📊 Reposition Energy Portfolios for $100 Crude: With international crude futures explicitly testing $100/bbl, logistics fleets should immediately lock in near-term fuel options to buffer against long-tail price spikes.\n\n* ➡️ Pre-Empt September 29 Automotive/Beverage Disruptions: Importers dealing in specialized Canadian vehicle parts, high-end motorboats, or alcoholic inventory must execute alternative sourcing matrices before the September 29 ban trigger date lands. [3, 8, 10]\n\nThe alert streaming sensitivity is now locked at high frequency. The next micro-update will deploy on this thread as soon as the afternoon customs clearance loops print their data.\n\n[1] https://www.aljazeera.com\n\n[2] https://pmc.ncbi.nlm.nih.gov\n\n[3] https://www.aljazeera.com\n\n[4] https://www.youtube.com\n\n[5] https://www.reuters.com\n\n[6] https://ustr.gov\n\n[7] https://www.nytimes.com\n\n[8]",
+      "table": [
+        {
+          "indicator": "Middle East Oil Risk",
+          "signal_level": "HIGH",
+          "signal_label": "Kinetic Sea Ambush",
+          "detail": "The IRGC counter-claims it hit two American warships and eight oil tankers traversing the Strait of Hormuz."
+        },
+        {
+          "indicator": "Macroeconomic Interventions",
+          "signal_level": "HIGH",
+          "signal_label": "Sovereign Border Ban",
+          "detail": "U.S. Proclamations formalise upcoming import bans on Canadian dairy, alcohol, and motor vehicles[](https://www.aa.com.tr/en/americas/us-bans-imports-of-certain-canadian-dairy-alcohol-and-motor-vehicle-products-amid-tariff-dispute/4051559)."
+        },
+        {
+          "indicator": "Corporate Risk Vectors",
+          "signal_level": "MEDIUM",
+          "signal_label": "Procurement De-listing",
+          "detail": "The White House directs the GSA and USTR[](https://www.reuters.com/business/trump-directs-gsa-take-steps-remove-canadian-goods-agency-lists-2026-09-08/) to purge Canadian vendors from $50B federal procurement channels."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-09-09T08:52:00+00:00",
       "category": "Trade War",
       "title": "The conflict violently reaches critical velocity as US CENTCOM destroys five Iranian oil tankers, while Trump retaliates against Canada's tariff perimeter by banning GSA products and multiple consumer",
@@ -671,7 +699,9 @@
           "detail": "The Iranian rial has crashed to a historic record low of 2.2 million to the US dollar [LLM Checker Reasoning] as the U.S. naval blockade chokes off hard currency flows."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-09-02T17:08:00+00:00",
       "category": "Trade War",
@@ -699,9 +729,7 @@
           "detail": "Iran's total non-oil trade collapsed by 30% under the weight of the ongoing maritime blockade. U.S.-Canada tariff standoffs remain frozen."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-09-02T12:02:00+00:00",
       "category": "Trade War",
