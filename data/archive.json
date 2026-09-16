@@ -1,6 +1,34 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-09-09T08:52:00+00:00",
+      "category": "Trade War",
+      "title": "The conflict violently reaches critical velocity as US CENTCOM destroys five Iranian oil tankers, while Trump retaliates against Canada's tariff perimeter by banning GSA products and multiple consumer",
+      "impact_level": "HIGH",
+      "summary": "Market read: XAU long catalyst.",
+      "details": "The tactical landscape has suffered explosive escalations overnight. Following two consecutive days of ballistic missile fires targeting U.S. warships, US Central Command (CENTCOM) executed a devastating counter-strike, completely rendering five active Iranian crude carriers inoperable. Simultaneously, hours after Canada legally locked its $20 billion retaliatory tariff wall into place, President Donald Trump weaponized federal procurement engines by ordering the immediate removal of all Canadian products from the General Services Administration (GSA) Multiple Award Schedules. [1, 2, 3]\n\n📊 Tactical Risk Matrix & Operational Signals\n\n🔎 Intelligence Deep Dive & Core Developments## 🛢️ Middle East Oil Risk: Five Tankers Vapourised in Escalation Wave\n\n* The Navy Evasion Counter-Strike: The IRGC Aerospace Force launched two successive waves of ballistic missiles targeting a U.S. Navy warship patrolling regional waters. While the asset successfully evaded the incoming ordnance with no American casualties, US CENTCOM responded forcefully by locating and destroying five active Iranian oil tankers. Crews were ordered to abandon ship via radio vectors before the final strikes. [1, 4]\n\n* The Sovereign Sanction Regime: As the physical tanker threat expands, Mohsen Rezaei, secretary of Iran's Supreme National Security Council, warned that maps of the newly drawn Hormuz \"exclusion zone\" are being codified. Any commercial vessel attempting to cross the strait without authorization will be permanently placed on a Tehran sovereign sanctions list. [5]\n\n* The Supply Pinch Point: Global energy tracking networks note that crude exports out of the broader Gulf region have collapsed by 47 percent relative to pre-conflict benchmarks, forcing direct transit layers down to an average of just 2.2 million barrels per day. [6]\n\n🇨🇦 Trade Friction: The GSA Procurement Ban & Bombardier Response\n\n* The Sourcing Lockout: In response to Prime Minister Mark Carney's implementation of 15% to 50% surcharges on U.S. goods, the White House ordered the GSA to clear all Canadian components out of the government supply frame. Furthermore, Washington expanded its direct restrictions, declaring upcoming structural bans on Canadian alcohol, dairy, motorcycles, and motorboats. [3, 7, 8]\n\n* Aerospace Retaliation Pushback: Facing a complete cross-border market lockout, Bombardier issued an emergency clarification highlighting its massive U.S. presence. The manufacturer emphasised that its aircraft rely entirely on American-engineered Honeywell and GE jet engines, while domestic lawmakers in Kansas launched bipartisan pushback to protect thousands of local aerospace assembly jobs. [3, 9, 10, 11]\n\n* The Carney Pivot: Prime Minister Carney published an official address confirming the country is moving to structurally wean its economic architecture off the U.S., stating: \"We have everything we need to pivot and prosper.\". [2]\n\n💡 Strategic Advice & Market Actions\n\n* ⚠️ Purge Canadian Goods from Federal Contract Channels: Instantly scrub supply manifests for all active corporate contracts interacting with the GSA award schedules to avoid compliance violations under the new White House procurement bans.\n\n* 📊 Absorb the Aerospace Supply Shockwave: Tighten risk parameters around aerospace portfolios; though Bombardier remains FAA-approved, the ongoing 6% equity drop underscores severe downstream disruption for tier-1 U.S. component suppliers.\n\n* ➡️ Hedge Against Extreme Gulf Outflows: Prepare operational budgets for long-duration energy pricing stress; with regional crude shipping volume squeezed by nearly half, physical supply constraints will heavily buffer downstream refineries. [3, 6, 9, 10]",
+      "table": [
+        {
+          "indicator": "Middle East Oil Risk",
+          "signal_level": "HIGH",
+          "signal_label": "Tanker Fleet Destruction",
+          "detail": "CENTCOM destroys five Iranian tankers following a series of failed IRGC ballistic missile strikes."
+        },
+        {
+          "indicator": "Trade Wars & Escalations",
+          "signal_level": "HIGH",
+          "signal_label": "Federal Sourcing Purge",
+          "detail": "Trump strips Canadian-origin items from GSA schedules, widening the trade war to state-level procurement."
+        },
+        {
+          "indicator": "Corporate Risk Vectors",
+          "signal_level": "HIGH",
+          "signal_label": "Aerospace Pushback",
+          "detail": "Bombardier[](https://www.aljazeera.com/economy/2026/9/8/bombardier-defends-us-manufacturing-amid-trumps-aviation-sales-threat) shares slide 6% as the firm fights a U.S. sales ban by listing its deep reliance on American parts suppliers."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-09-08T18:39:00+00:00",
       "category": "Trade War",
       "title": "Canada’s retaliatory tariff perimeter legally locks into place dollar-for-dollar, while Trump retaliates with a lethal threat targeting Bombardier’s access to the U.S. market",
@@ -699,7 +727,9 @@
           "detail": "The trade blockade heavily isolates Iran's economy, with non-oil trade contracting nearly 30%. The U.S.-Canada corridor remains locked to prior tariff parameters."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-09-02T05:08:00+00:00",
       "category": "Trade War",
@@ -755,9 +785,7 @@
           "detail": "Prime Minister Mark Carney[](https://www.google.com/search?q=mark+carney&kgmid=/m/03c9qj_) confirmed Canada walked away from trade talks because the U.S. position required Canadian core sectors to be \"wiped out\" or turned into U.S. subsidiaries."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-09-02T01:08:00+00:00",
       "category": "Trade War",
