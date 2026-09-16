@@ -699,7 +699,9 @@
           "detail": "Iran's total non-oil trade collapsed by 30% under the weight of the ongoing maritime blockade. U.S.-Canada tariff standoffs remain frozen."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-09-02T12:02:00+00:00",
       "category": "Trade War",
@@ -727,9 +729,7 @@
           "detail": "The trade blockade heavily isolates Iran's economy, with non-oil trade contracting nearly 30%. The U.S.-Canada corridor remains locked to prior tariff parameters."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-09-02T05:08:00+00:00",
       "category": "Trade War",
