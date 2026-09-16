@@ -755,7 +755,9 @@
           "detail": "Prime Minister Mark Carney[](https://www.google.com/search?q=mark+carney&kgmid=/m/03c9qj_) confirmed Canada walked away from trade talks because the U.S. position required Canadian core sectors to be \"wiped out\" or turned into U.S. subsidiaries."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-09-02T01:08:00+00:00",
       "category": "Trade War",
@@ -811,9 +813,7 @@
           "detail": "Bilateral parameters remain stagnant following Canada's $30B tariff retaliation opening wave; focus shifts to the September 8 enforcement deadline."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-09-01T08:34:00+00:00",
       "category": "Trade War",
