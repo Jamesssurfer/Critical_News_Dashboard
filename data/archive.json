@@ -1,6 +1,34 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-09-10T00:09:00+00:00",
+      "category": "Trade War",
+      "title": "The Pentagon slams IRGC missile claims as \"completely false,\" asserting 10 Iranian tankers have been destroyed in a week, while details of Trump's Section 338 tariff revisions print on the tape",
+      "impact_level": "HIGH",
+      "summary": "Market read: XAU long catalyst.",
+      "details": "The high-frequency tracking network has caught massive waves of cross-border data. In the Persian Gulf theater, US Central Command (CENTCOM) aggressively denied claims that any U.S. Navy destroyers were struck. Instead, the Pentagon confirmed it has dismantled a multi-billion-dollar shadow shipping network by destroying 10 Iranian oil tankers over the past seven days. Simultaneously, corporate supply legal desks are processing the full text of President Donald Trump's five new executive proclamations, which explicitly layout the exact product codes shifting to the Section 338 import bans on September 29. [1, 2]\n\n📊 Tactical Risk Matrix & Operational Signals\n\n🔎 Intelligence Deep Dive & Core Developments## 🛢️ Middle East Oil Risk: The Shadow Fleet Purge & The Gulf Insurance Shock\n\n* The Shadow Fleet Liquidations: Hours after the IRGC claimed a 10-ship ambush wave, a senior CENTCOM official branded the Iranian reports as \"completely FALSE\". The command confirmed that U.S. Navy surface groups suffered no impact, countering with hard data that 10 Iranian tankers have been vaporized in a single week. The vessels were verified as key logistical conduits for a multibillion-dollar shadow network funding the IRGC. [1]\n\n* Collateral Shipping Damage: The physical cost of the waterway theater continues to rise. Reuters reported a severe fuel oil tanker blaze raging off the coast of Iraq and a commercial fatality aboard an oil products vessel directly off Dubai, confirming that kinetic damage is spilling to non-combatant hulls. [3]\n\n* The Extended Blockade Net: Expanding the geographic perimeter of the conflict, an IRGC spokesperson announced that the new maritime restrictions will officially anchor at Chabahar, cutting directly into the Gulf of Oman and the Arabian Sea. Any merchant ship entering this outer envelope without clearing Iranian oversight faces immediate sovereign placement on Tehran's blacklists. [4]\n\n🇨🇦 Trade Friction: The Full Scope of Trump's Five Proclamations\n\n* The September 15 Surcharge Net: According to tracking briefs compiled by TD Economics, the White House has formalized a secondary wave of 50% ad valorem duties set to legally activate on September 15, 2026. The newly added product tranches expand the trade barrier beyond basic raw materials to sweep in specialized paper products, wood moldings, cheese products, lighting fixtures, and outboard motors. [2, 5]\n\n* The Alcohol and Motorcycle Ban Grid: The executive orders signed late Tuesday night clarify the exact boundaries of the September 29 import ban. The absolute restriction will intercept all Canadian-origin beer, wine, cider, whiskies, vodka, whey protein isolate, invert molasses, and large motorcycles trying to clear U.S. customs entry. [5, 6]\n\n* Bilateral Backchannels Open: Despite aggressive public rhetoric, U.S. Trade Representative Jamieson Greer has initiated direct backchannel calls with Canadian Bilateral Trade Minister Dominic LeBlanc. The teams are trying to chart an alternative exit path before the automotive tariff grid steps up to 50% on January 1. [5]\n\n💡 Strategic Advice & Market Actions\n\n* ⚠️ Re-Route Global Hull Sourcing Away from Arabian Sea: Advise all maritime freight managers that the conflict zone now legally covers the Chabahar maritime perimeter; unescorted transit through the Gulf of Oman carries critical tracking risk.\n\n* 📊 Pre-Fund September 15 Customs Surcharges: Adjust cash reserves for inbound procurement lines containing Canadian lighting, wood components, or paper materials to manage the incoming 50% Section 338 duties hitting next Tuesday.\n\n* ➡️ Audit Alcoholic/Whey Subcomponents: Beverage and supplement distributors must trace raw ingredient origins to ensure no Canadian bulk spirits or whey enter manufacturing lines after the September 29 cutoff. [2, 4, 6, 7]\n\nThe tracking sensitivity is maintained at full volume. Let me know if you want me to isolate the exact tariff codes for the September 15 paper and wood expansions or extr",
+      "table": [
+        {
+          "indicator": "Middle East Oil Risk",
+          "signal_level": "HIGH",
+          "signal_label": "Tactical Blockade War",
+          "detail": "CENTCOM exposes and destroys 10 shadow-network tankers in a week, refuting Iranian state media hits."
+        },
+        {
+          "indicator": "Trade Wars & Escalations",
+          "signal_level": "HIGH",
+          "signal_label": "Import Code Prohibition",
+          "detail": "TD Economics monitors the newly finalized U.S. Section 338 actions converting key Canadian goods into banned cargo."
+        },
+        {
+          "indicator": "Corporate Risk Vectors",
+          "signal_level": "MEDIUM",
+          "signal_label": "Energy Curve Stress",
+          "detail": "A fuel carrier fire off Iraq and seafarer deaths off Dubai push global maritime insurance premiums to record highs."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-09-09T19:15:00+00:00",
       "category": "Trade War",
       "title": "The frequency calibration has been successfully lowered to pick up micro-signals, tracking a multi-ship escalation in the Gulf and fresh administrative actions across the U.S.-Canada border corridor",
