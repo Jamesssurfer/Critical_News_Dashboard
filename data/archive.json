@@ -671,7 +671,9 @@
           "detail": "President Trump signed an executive order renaming Lake Ontario to “Lake America”. Canada's $27.6B retaliatory tariff firewall remains fixed for September 8 execution."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-09-04T02:21:00+00:00",
       "category": "Trade War",
@@ -699,9 +701,7 @@
           "detail": "Commodity desks tightly buffer energy profiles against structural chokepoint escalations as the regional conflict enters its seventh month."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-09-03T21:09:00+00:00",
       "category": "Trade War",
