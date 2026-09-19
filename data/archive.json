@@ -587,7 +587,9 @@
           "detail": "Cross-border trade channels and bilateral tariff schedules hold positions; Canada's matching $27.6B counter-tariff wall remains fixed for September 8 deployment."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-09-05T15:49:00+00:00",
       "category": "Trade War",
@@ -615,9 +617,7 @@
           "detail": "China completely rejects the secondary sanctions, shifting all blacklisted oil trade to alternative yuan-based clearing systems."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-09-05T09:08:00+00:00",
       "category": "Trade War",
