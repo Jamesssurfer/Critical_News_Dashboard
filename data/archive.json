@@ -615,7 +615,9 @@
           "detail": "FinCEN and the U.S. Treasury blacklisted eight Iranian tankers and China's prominent Shandong Shouguang Luqing Petrochemical refinery. The U.S.-Canada September 8 counter-tariff firewall remains locked."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-09-05T02:54:00+00:00",
       "category": "Trade War",
@@ -643,9 +645,7 @@
           "detail": "Cross-border trade channels and final tariff schedules remain locked; the U.S.-Canada September 8 boundary continues to hold."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-09-04T17:10:00+00:00",
       "category": "Trade War",
