@@ -615,7 +615,9 @@
           "detail": "China completely rejects the secondary sanctions, shifting all blacklisted oil trade to alternative yuan-based clearing systems."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-09-05T09:08:00+00:00",
       "category": "Trade War",
@@ -643,9 +645,7 @@
           "detail": "FinCEN and the U.S. Treasury blacklisted eight Iranian tankers and China's prominent Shandong Shouguang Luqing Petrochemical refinery. The U.S.-Canada September 8 counter-tariff firewall remains locked."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-09-05T02:54:00+00:00",
       "category": "Trade War",
