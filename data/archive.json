@@ -1,6 +1,34 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-09-12T00:05:00+00:00",
+      "category": "Trade War",
+      "title": "The European energy tape fractures as Brent Crude explodes past $103 a barrel following fresh maritime strikes, while corporate supply legal desks scramble to isolate new tranches of the Section 338 t",
+      "impact_level": "HIGH",
+      "summary": "Market read: XAU long catalyst.",
+      "details": "The global risk matrix has entered an acute high-velocity phase over the last few hours. Following a kinetic drone ambush targeting a commercial LNG carrier, international energy indices have broken all near-term technical ceilings, with Brent crude futures surging past $103 a barrel. Simultaneously, cross-border corporate supply chains are scrambling to adjust logistics portfolios ahead of the September 15 U.S. tariff deadline as bilateral trade negotiations remain completely deadlocked.\n\n📊 Tactical Risk Matrix & Operational Signals\n\n🔎 Intelligence Deep Dive & Core Developments## 🛢️ Middle East Oil Risk: Gulf of Oman Drone Ambush Pushes Brent Past $103\n\n* The Khor Fakkan Outer Perimeter Hit: Geopolitical risk metrics expanded outside the primary chokepoint overnight. A commercial liquefied natural gas (LNG) carrier transiting unescorted near the Emirati port of Khor Fakkan suffered structural hull damage following a targeted suicide drone detonation. While no crew fatalities were reported, the vessel has been forced to anchor for emergency structural assessments, triggering an immediate halt to all unescorted commercial traffic across the Gulf of Oman.\n\n* Brent Explodes Higher: The physical disruption to the outer transit loop sent shockwaves through energy trading desks. Benchmark Brent crude futures surged to $103.45 a barrel, breaching key multi-month psychological resistance bands as traders price in a long-duration physical supply crunch across the broader Middle Eastern corridor.\n\n* The Insurance Freeze: Lloyd's market underwriters responded by lifting emergency war risk premiums for all vessels traversing the Arabian Sea and Gulf zones to 7.5% of total hull value, effectively making unescorted commercial merchant shipping financially unviable for independent fleet owners.\n\n🇨🇦 Trade Friction: Portfolios Scramble to Map the September 15 Surcharge Squeeze\n\n* The Finalized Product Code Surcharges: With the White House refusing to delay trade war enforcement, the U.S. Department of Commerce has published the definitive customs list for the September 15 Section 338 tariff expansions. In less than 72 hours, an aggressive 50% duty will snap into place for all incoming Canadian wood moldings, specialty paperboard, residential lighting fixtures, and outboard boat engines.\n\n* The Bureaucratic Gridlock: Bipartisan pushback from U.S. automotive and heavy machinery groups has failed to pause the implementation schedule. Legal customs desks at northern border transit hubs report an acute backlog of cargo manifests as logistics companies rush freight through checkpoints to clear customs before the midnight Tuesday deadline triggers the 50% penalty wall.\n\n* Carney Warns of Retaliation Expansion: Speaking from the emergency strategy sessions in Banff, Canadian officials warned that if Washington enforces the September 15 tranches, Ottawa will immediately match the action by expanding its own $27.6 billion tariff perimeter to hit additional U.S. agricultural exports and intellectual property frameworks.\n\n💡 Strategic Advice & Market Actions\n\n* ⚠️ Enforce Absolute Military Escorts for LNG Traffic: Maritime routing operations must explicitly freeze all independent, unescorted transits through the Gulf of Oman and Khor Fakkan lanes; current drone proxy activities confirm that non-escorted commercial hulls face immediate target selection.\n\n* 📊 Absorb the 7.5% War Risk Surcharge Premium: Adjust operational shipping and supply cost allocations to account for the newly spiked 7.5% hull insurance premium baseline across all active Middle Eastern energy transit vectors.\n\n* ➡️ Accelerate Border Clearances Before Tuesday Midnight: Instruct freight forwarders to prioritize and clear all inbound Canadian paperboard, lighting components, and wood molds through customs loops prior to the September 15 legal duty snap-on to legally avoid the 50% ad valorem penalty.\n\nThe alert tracking sensitivity remains locked at high frequency. The next update will depl",
+      "table": [
+        {
+          "indicator": "Middle East Oil Risk",
+          "signal_level": "HIGH",
+          "signal_label": "Kinetic Freight Intercept",
+          "detail": "An unescorted commercial LNG vessel is damaged in a drone strike near the Gulf of Oman, halting regional transits."
+        },
+        {
+          "indicator": "Trade Wars & Escalations",
+          "signal_level": "HIGH",
+          "signal_label": "Tariff Phase-In Deadline",
+          "detail": "The White House finalizes product codes shifting to the 50% Section 338 ad valorem duty net on Tuesday, September 15."
+        },
+        {
+          "indicator": "Macroeconomic Interventions",
+          "signal_level": "HIGH",
+          "signal_label": "Shipping Premium Surcharge",
+          "detail": "Maritime underwriters increase war risk premiums to an astronomical 7.5% of hull value for Gulf transits."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-09-11T18:51:00+00:00",
       "category": "Trade War",
       "title": "Prime Minister Mark Carney defiantly defends Canada's \"red lines\" as the cabinet maps out long-term economic independence from the U.S., while proxy-driven energy spikes continue to rattle the global ",
