@@ -475,7 +475,9 @@
           "detail": "Iran establishes an Economic War Headquarters[](https://www.facebook.com/anadoluagencyenglish/posts/iran-establishes-economic-war-headquarters-to-tackle-disruptions-to-businesses-t/1411428844509461/) as the Rial trades at historic record lows."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-09-06T19:05:00+00:00",
       "category": "Trade War",
@@ -503,9 +505,7 @@
           "detail": "Local cross-border trade parameters remain frozen; procurement managers await tonight's final shift before Canada's $27.6B counter-tariff wall goes active."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-09-06T13:15:00+00:00",
       "category": "Trade War",
