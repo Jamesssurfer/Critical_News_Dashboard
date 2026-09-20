@@ -503,7 +503,9 @@
           "detail": "Local cross-border trade parameters remain frozen; procurement managers await tonight's final shift before Canada's $27.6B counter-tariff wall goes active."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-09-06T13:15:00+00:00",
       "category": "Trade War",
@@ -587,9 +589,7 @@
           "detail": "The U.S. Treasury unleashed \"Operation Economic Fury\" blacklisting over two dozen entities, ships, and individuals tied to oil smuggling networks."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-09-06T09:09:00+00:00",
       "category": "Trade War",
