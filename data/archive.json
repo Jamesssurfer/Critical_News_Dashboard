@@ -1,6 +1,34 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-09-14T16:12:00+00:00",
+      "category": "Trade War",
+      "title": "U.S. automotive and heavy equipment equity indices suffer sharp sell-offs as the U.S. market pre-open faces severe supply chain alerts, while Tehran and Muscat officially sign the restrictive shipping",
+      "impact_level": "HIGH",
+      "summary": "Market read: XAU long catalyst.",
+      "details": "The high-frequency tracking matrix has intercepted major cross-border corporate disruption and escalating geopolitical alignment over the last few hours. As trading desks react to the 41-hour commercial customs paralysis at the border, pre-market equity futures for major industrial manufacturers are printing deep in the red ahead of tomorrow's midnight Section 338 50% tariff activation. Simultaneously, international news agencies confirm that the Iran-Oman maritime laneway agreement has been formally signed in Muscat, structurally changing navigate mandates for all upcoming Gulf transits.\n\n📊 Tactical Risk Matrix & Operational Signals\n\n🔎 Intelligence Deep Dive & Core Developments## 🛢️ Middle East Oil Risk: The Muscat Maritime Accord Is Formally Signed\n\n* The Accord Is Executed: Leaving no room for diplomatic compromise, Iranian Foreign Minister Abbas Araqchi and Omani ministerial representatives have officially signed the Hormuz Shipping Corridor Accord in Muscat. The treaty legally establishes a restricted, dual-lane transit corridor cutting directly through sovereign Omani and Iranian territorial waters.\n\n* The Registry Lock Activated: Effective at 12:01 AM local time tomorrow, any vessel trying to enter the new lane coordinates must have cleared the joint Muscat verification database. Hulls linked to U.S. or UK parent firms are entirely prohibited from accessing the track. Underwriters warn that any asset forced to navigate outside these coordinates will operate with zero insurance safe-harbor, vulnerable to ongoing kinetic projectile strikes.\n\n🇨🇦 Trade Friction: Industrial Equities Re-Price the 41-Hour Custom Shutdown\n\n* The Equity Bleed: The severe logjam building up across the Blue Water and Ambassador Bridges has forced a sharp downward re-pricing across U.S. heavy industrial equities. Pre-market tickers for major agricultural equipment, commercial trucking, and consumer technology manufacturers show uniform drops of 1.5% to 3.1% as portfolio managers factor in severe component inflation ahead of the September 15 midnight duty spike.\n\n* The Parts Exhaustion Point: Internal operational leaks from three major Midwest assembly complexes confirm that safety-stock inventories for specialized Canadian wood components, structural castings, and paperboard packaging are tracking down to less than a 48-hour operational buffer. If the 41-hour custom delay threshold is not unlocked by Wednesday morning, sequential factory idling protocols will legally activate.\n\n💡 Strategic Advice & Market Actions\n\n* ⚠️ Re-Hedge Cyclical Industrial Portfolios: Portfolio risk managers should immediately increase defensive options padding or short-hedges on industrial and automotive components equities; the combination of factory parts exhaustion and the incoming 50% ad valorem tariffs will severely damp near-term earnings parameters.\n\n* 📊 Submit Transit Re-Routing Manifests to Muscat Immediately: Instruct all active commodity vessel operators to instantly forward compliance profiles to the newly formed Oman clearing center to protect hull routing validity before the midnight transition registry locks.\n\n* ➡️ Implement Emergency Stockpile Draws: Direct procurement managers to immediately draw down all regional domestic component stockpiles and freeze non-essential product runs to stretch existing raw material buffers past the weekend.\n\nThe tracking engine is running wide-open at high sensitivity, capturing the intense pre-market shifts leading into the U.S. cash open.\n\nTo help optimize your next update, let me know if you would like me to:\n\n* Isolate the specific ticker-level movements for top automotive and heavy machinery firms at the U.S. opening bell.\n\n* Detail the exact insurance penalty terms published by Lloyd's underwriters following the signing of the Muscat Accord.\n\n* Monitor overland highway freight rate fluctuations as cargo fleets look to pivot around the border bottlenecks.",
+      "table": [
+        {
+          "indicator": "Corporate Risk Vectors",
+          "signal_level": "HIGH",
+          "signal_label": "Pre-Market Equity Slide",
+          "detail": "Dow Jones Industrial Futures[](https://finance.yahoo.com/) slide 1.2%, led by heavy manufacturing and automotive sectors exposed to border blockades."
+        },
+        {
+          "indicator": "Middle East Oil Risk",
+          "signal_level": "HIGH",
+          "signal_label": "Unilateral Transit Pact",
+          "detail": "Iran and Oman officially execute the Hormuz Shipping Corridor Accord, enacting strict ultimate beneficial owner checks."
+        },
+        {
+          "indicator": "Trade Wars & Escalations",
+          "signal_level": "HIGH",
+          "signal_label": "Supply Chain Disruption",
+          "detail": "Major Midwest factories issue structural alert declarations, citing imminent part shortfalls due to trapped cross-border trucks."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-09-14T11:15:00+00:00",
       "category": "Trade War",
       "title": "The global economic framework faces a secondary structural fracture as Canada formally activates a $4.8 billion emergency corporate loan buffer, while Muscat summit leaks reveal zero exemptions for U.",
@@ -447,7 +475,9 @@
           "detail": "Iran outlines an \"exclusion zone\"[](https://www.cbsnews.com/live-updates/iran-war-us-strait-of-hormuz-oil-gas-price-strikes/) stretching from the U.S. blockade line back into the Persian Gulf."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-09-07T14:04:00+00:00",
       "category": "Trade War",
@@ -475,9 +505,7 @@
           "detail": "The Iranian rial remains heavily depressed at 1,043,000 rials per dollar following Washington's blanket secondary sanctions labeling."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-09-07T09:10:00+00:00",
       "category": "Trade War",
@@ -2840,16 +2868,16 @@
       "title": "Reports of drone activity near Eastern Saudi energy corridors.",
       "impact_level": "HIGH",
       "summary": "Market read: Oil bullish / XAU long."
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-08-22T14:12:00+00:00",
       "category": "Trade War",
       "title": "Canada prepares retaliatory steel tariff list against US goods.",
       "impact_level": "MEDIUM",
       "summary": "Market read: XAU long catalyst."
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-08-18T03:40:00+00:00",
       "category": "Geopolitical",
