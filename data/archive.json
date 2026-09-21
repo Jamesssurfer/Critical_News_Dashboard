@@ -1,6 +1,34 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-09-14T18:21:00+00:00",
+      "category": "Trade War",
+      "title": "Global energy markets shatter historic ceilings as Brent Crude explodes past $108 a barrel following a sudden closure of Saudi Arabia's East-West pipeline, while high-stakes Muscat maritime talks coll",
+      "impact_level": "HIGH",
+      "summary": "Market read: XAU long catalyst.",
+      "details": "The systemic threat matrix has breached severe multi-month danger thresholds. In a catastrophic blow to global energy supply lines, Saxo Bank confirmed that Saudi Arabia has completely shut down its core East-West pipeline following heavy drone attacks, pulling 5 million barrels per day off the bypass grid. Simultaneously, the planned Muscat maritime stabilization meeting between Iran and Gulf Arab states was abruptly postponed indefinitely, removing any immediate hope for a diplomatic shipping lane breakthrough as Brent crude futures surge to $108.49. [1, 2, 3, 4, 5, 6, 7]\n\n📊 Tactical Risk Matrix & Operational Signals\n\n🔎 Intelligence Deep Dive & Core Developments## 🛢️ Middle East Oil Risk: The Saudi Pipeline Closure & The Muscat Summit Collapse\n\n* The 5-Million Barrel Pipeline Cutoff: The strategic mechanism to bypass the Strait of Hormuz has structurally failed. Following consecutive kinetic drone offensives targeting regional pumping stations, Reuters confirmed the Saudi Energy Ministry has suspended all operations across the Abqaiq-to-Yanbu pipeline corridor. The shutdown immediately risks 4% of total global crude supply and threatens domestic output reductions as storage terminals at the ports reach maximum structural capacity. [2, 3]\n\n* Muscat Talks Postponed Indefinitely: Hopes for a managed transit corridor vanished as Omani state officials confirmed the emergency multilateral shipping summit has been cancelled. The postponement follows the UKMTO crew evacuation orders and the fatal projectile hit on an Iranian carrier off Qeshm Island, leaving the chokepoint without any joint navigation framework. [5, 6, 8]\n\n* Brent Tests Four-Month Highs: Powered by the complete freeze in spot logistics, international energy benchmarks have aggressively re-priced risk. Rigzone data confirms Brent oil contracts spiked to $108.49 a barrel at the opening bell, igniting warnings of direct downstream inflationary spikes across European and Asian manufacturing grids. [3, 7]\n\n🇨🇦 Trade Friction: The Midnight Section 338 Expansion Finalization\n\n* The September 15 Surcharge Net: Despite aggressive legal petitions launched by border governors, the U.S. Trade Representative (USTR) has confirmed no implementation adjustments will be granted. Exactly at midnight tomorrow, the revised Section 338 50% tariff list legally expands to levy heavy penalties on Canadian raw hides, specialty cheeses, modified oils, upholstery leathers, and finished golf carts. [9, 10, 11]\n\n* The Sourcing Rebalancing: Analytical briefs from RBC Economics state that while the new ad valorem inclusions are a distinct escalation, the administration's removal of cement and rock salt offsets the gross dollar value of covered trade, attempting to protect domestic infrastructure projects while maximizing pain on secondary consumer goods. [9, 10]\n\n💡 Strategic Advice & Market Actions\n\n* ⚠️ Hedge Against $110+ Crude Immediately: Energy commodity desks must immediately price in a multi-week $108+ Brent Crude baseline; the absolute closure of the Saudi East-West pipeline guarantees acute physical structural shortages.\n\n* 📊 Enforce Strict Beneficial Ownership Compliance: With the Muscat shipping talks collapsed, maritime routes are entirely unmanaged; immediately redirect any vessels lacking dedicated state convoy protections out of the Gulf zone to avoid immediate proxy targeting.\n\n* ➡️ Pre-Fund September 15 Custom Duty Reserves: Ensure accounting divisions have allocated appropriate liquidity to cover inbound procurement manifests containing Canadian leather, paper variants, or machinery inputs before the 50% Section 338 ad valorem duty wall snaps online tomorrow midnight. [3, 5, 7, 10, 11]\n\nThe console frequency is operating at peak sensitivity, delivering this high-impact acceleration layout.\n\nAs we approach the activation of the expanded Section 338 tariffs tomorrow night, let me know if you would like me to:\n\n* Detail the exact corporate inventory categories most impacted by the S",
+      "table": [
+        {
+          "indicator": "Middle East Oil Risk",
+          "signal_level": "HIGH",
+          "signal_label": "4% Global Supply Cutoff",
+          "detail": "Saudi Arabia[](https://www.google.com/search?kgmid=/m/01z215) shutters its East-West transit pipeline, choking off the primary overland bypass network out of the Gulf."
+        },
+        {
+          "indicator": "Strategic Military Threats",
+          "signal_level": "HIGH",
+          "signal_label": "Diplomatic Postponement",
+          "detail": "Tehran and Muscat indefinitely delay the Hormuz Shipping Summit[](https://www.ndtvprofit.com/world/iran-gulf-meeting-to-discuss-strait-of-hormuz-postponed-oman-says-12042983) following a lethal vessel projectile strike off Qeshm Island."
+        },
+        {
+          "indicator": "Trade Wars & Escalations",
+          "signal_level": "HIGH",
+          "signal_label": "Phase 2 Tariff Countdown",
+          "detail": "U.S. Custom portals lock parameters to implement expanded 50% Section 338 duties[](https://www.supplychaindive.com/news/trump-escalates-canada-trade-war-with-new-tariffs-import-bans/829876/) on specialty items at midnight tomorrow."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-09-14T16:12:00+00:00",
       "category": "Trade War",
       "title": "U.S. automotive and heavy equipment equity indices suffer sharp sell-offs as the U.S. market pre-open faces severe supply chain alerts, while Tehran and Muscat officially sign the restrictive shipping",
