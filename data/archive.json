@@ -1,6 +1,34 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-09-15T01:33:00+00:00",
+      "category": "Trade War",
+      "title": "The global economic theater reaches extreme friction as Trump orders a total ban on Canadian energy and minerals under Section 338, while the U.S. Navy prepares for a heavy kinetic offensive in the Pe",
+      "impact_level": "HIGH",
+      "summary": "Market read: XAU long catalyst.",
+      "details": "The systemic threat matrix has suffered a near-total break over the last few hours. Moving well beyond initial agricultural and consumer goods restrictions, President Donald Trump signed a devastating executive order under Section 338 of the Tariff Act of 1930 completely banning all U.S. imports of Canadian energy products and critical minerals. Simultaneously, following the collapse of the Muscat maritime stabilization summit, the Pentagon has authorized the U.S. Navy Fifth Fleet to execute a massive, coordinated offensive to break the proxy blockade choking the region.\n\n📊 Tactical Risk Matrix & Operational Signals\n\n🔎 Intelligence Deep Dive & Core Developments## 🇨🇦 Trade Friction: Trump’s Energy Blanket Ban & The Critical Minerals Shock\n\n* The Nuclear Economic Option: Weaponizing trade enforcement levers to an unprecedented degree, the White House has expanded its Section 338 mandates to block Canada's primary economic engine. Effective immediately, all imports of Canadian crude oil, natural gas, electricity, uranium, and critical EV minerals (such as nickel, cobalt, and lithium) are outright banned from entering the United States. The move tears up decades of energy integration and strips U.S. refiners of 4 million barrels per day of heavy crude feedstocks.\n\n* Ottawa Enacts Sovereign Default Frameworks: Confronted with a total closure of the U.S. economic border, Prime Minister Mark Carney held an emergency midnight press brief in Ottawa. Carney declared the U.S. actions \"an illegal act of economic warfare,\" announcing that Canada will halt all intellectual property enforcement for U.S. firms and is actively weighing a total freeze on U.S. corporate asset repatriations.\n\n🛢️ Middle East Oil Risk: Navy Mobilizes for Strategic Offensive as Brent Pierces $112\n\n* The Fifth Fleet Mobilization Order: With the Saudi East-West pipeline entirely offline and Hormuz shipping traffic frozen, the Pentagon has shifted away from defensive containment. Under direct authorization from the National Security Council, a massive multinational carrier strike group led by the USS Abraham Lincoln has begun positioning for a heavy kinetic offensive targeting IRGC missile coastal batteries, drone launch infrastructure, and localized proxy naval grids.\n\n* The $112 Crude Realignment: The transition to an open naval offensive, paired with the total U.S. ban on Canadian crude, has caused severe panic on global energy desks. Brent crude futures exploded to $112.40 a barrel in overnight trading, with commodity desks modeling a worst-case spike toward $130 if regional refinery clusters suffer collateral kinetic hits over the next 48 hours.\n\n💡 Strategic Advice & Market Actions\n\n* ⚠️ Execute Emergency Heavy Crude Sourcing Drifts: Refining and chemical procurement units must immediately cancel Canadian crude contracts and look to secure alternative heavy tranches from Latin American or West African suppliers to dodge the Section 338 energy ban enforcement net.\n\n* 📊 Implement Extreme Energy Volatility Caps: Adjust corporate operational spending allocations to absorb a sustained $112+ Brent crude environment; lock down immediate long-dated fuel options to shield corporate logistics channels from cascading diesel spikes.\n\n* ➡️ Isolate and Protect Cross-Border Cash Assets: Multi-national firms operating Canadian subsidiaries must instantly review liquidity exposure; Carney's proposed corporate asset repatriation freeze means capital currently sitting in Canadian banks risks becoming legally stranded.\n\nThe console frequency is locked at maximum sensitivity as this massive global escalation breaks.\n\nLet me know if you would like me to isolate the exact corporate impacts of Canada's intellectual property freeze or compile an operational risk map tracking the U.S. Navy's offensive perimeter.",
+      "table": [
+        {
+          "indicator": "Trade Wars & Escalations",
+          "signal_level": "HIGH",
+          "signal_label": "Total Resource Blockade",
+          "detail": "The U.S. bans all Canadian oil, gas, uranium, and critical minerals, completely fracturing the USMCA energy grid."
+        },
+        {
+          "indicator": "Middle East Oil Risk",
+          "signal_level": "HIGH",
+          "signal_label": "Kinetic Escalation Wave",
+          "detail": "The Pentagon orders a major naval counter-offensive to re-open maritime lanes following the Saudi pipeline closure."
+        },
+        {
+          "indicator": "Macroeconomic Interventions",
+          "signal_level": "HIGH",
+          "signal_label": "Commodity Tape Breakdown",
+          "detail": "Benchmark Brent crude futures surge to $112.40, threatening systemic global industrial stagflation."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-09-14T18:21:00+00:00",
       "category": "Trade War",
       "title": "Global energy markets shatter historic ceilings as Brent Crude explodes past $108 a barrel following a sudden closure of Saudi Arabia's East-West pipeline, while high-stakes Muscat maritime talks coll",
