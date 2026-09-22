@@ -587,7 +587,9 @@
           "detail": "Bombardier[](https://www.aljazeera.com/economy/2026/9/8/bombardier-defends-us-manufacturing-amid-trumps-aviation-sales-threat) shares slide 6% as the firm fights a U.S. sales ban by listing its deep reliance on American parts suppliers."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-09-08T18:39:00+00:00",
       "category": "Trade War",
@@ -615,9 +617,7 @@
           "detail": "Iran outlines an \"exclusion zone\"[](https://www.cbsnews.com/live-updates/iran-war-us-strait-of-hormuz-oil-gas-price-strikes/) stretching from the U.S. blockade line back into the Persian Gulf."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-09-07T14:04:00+00:00",
       "category": "Trade War",
