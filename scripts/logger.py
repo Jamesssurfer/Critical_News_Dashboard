@@ -217,15 +217,11 @@ def parse_raw_text(raw: str) -> dict | None:
         if any(phrase in low_l for phrase in (
             'automated pipeline status',
             'i am keeping',
+            'the alert console is locked',
             'to help guide your absolute tactical stance',
             'let me know if you would like me to',
             'to optimize the precision of the incoming micro-alerts',
         )):
-            break
-
-        # Soft stop before the Strategic Advice section (optional content
-        # that is usually less useful for the expandable "read more" view)
-        if 'strategic advice' in low_l and 'market actions' in low_l:
             break
 
         # Enter / leave the matrix block
