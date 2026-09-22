@@ -3,15 +3,11 @@ import os
 import re
 import json
 from datetime import datetime, timedelta, timezone
-
 DATA_DIR = "data"
 ACTIVE_FILE = os.path.join(DATA_DIR, "active_week.json")
 ARCHIVE_FILE = os.path.join(DATA_DIR, "archive.json")
 TRIGGERS_FILE = os.path.join(DATA_DIR, "triggers.json")
-
 BUCKETS = ["past_2_weeks", "past_1_month", "past_3_months", "past_6_months", "past_1_year", "historical"]
-
-
 def load_data(path, default_type=list):
     if os.path.exists(path):
         try:
@@ -20,42 +16,33 @@ def load_data(path, default_type=list):
         except Exception:
             return default_type()
     return default_type()
-
-
 def save_data(path, obj):
     os.makedirs(os.path.dirname(path), exist_ok=True)
     with open(path, 'w', encoding='utf-8') as f:
         json.dump(obj, f, indent=2, ensure_ascii=False)
-
-
 def strip_markdown_links(text: str) -> str:
-    # [Israel](https://...) -> Israel
+    # Normal [text](url) -> text
     text = re.sub(r'\[([^\]]+)\]\([^)]+\)', r'\1', text)
+    # Broken forms common in these pastes: text[](url)  or  [](url)
+    text = re.sub(r'\[\]\([^)]+\)', '', text)
     # remove leftover markdown emphasis/heading markers
     text = re.sub(r'^\#+\s*', '', text)
     text = text.replace('**', '').replace('__', '')
     return text.strip()
-
-
 def strip_emoji_prefix(text: str) -> str:
     # Drop a leading emoji + following space (e.g. "🚨 Headline" -> "Headline")
     return re.sub(r'^[^\w\s]+\s*', '', text).strip()
-
-
 CATEGORY_KEYWORDS = {
     "Trade War": ["tariff", "trade war", "trade friction", "export control", "sanction"],
     "Currency": ["dxy", "boj", "fed ", "federal reserve", "yen", "jpy", "usd", "dollar",
                  "interest rate", "rate check", "rate hike", "rate cut", "central bank"],
 }
-
 IMPACT_EMOJI = {"🔴": "HIGH", "🟠": "HIGH", "🟡": "MEDIUM", "🟢": "LOW", "⚪": "LOW"}
 IMPACT_KEYWORDS = {
     "HIGH": ["critical", "severe", "escalat", "urgent"],
     "MEDIUM": ["elevated", "moderate", "monitor"],
     "LOW": ["stable", "low risk", "contained"],
 }
-
-
 # Best-effort keyword rules for a "Market read: ..." style line, matching
 # the format of the original preset entries. This is pattern-matching on
 # wording, NOT real market analysis — it will be wrong on anything that
@@ -68,8 +55,6 @@ OIL_BULLISH_KEYWORDS = ["drone", "tanker", "strait", "energy corridor", "pipelin
                         "oil field", "refinery strike", "energy infrastructure"]
 SAFE_HAVEN_KEYWORDS = ["military", "strike", "conflict", "war", "escalat", "tension",
                        "invasion", "attack", "missile"]
-
-
 def infer_market_read(category: str, impact_level: str, raw_lower: str) -> str:
     dxy_bias = None
     if category == "Currency":
@@ -77,29 +62,20 @@ def infer_market_read(category: str, impact_level: str, raw_lower: str) -> str:
             dxy_bias = "short"
         elif any(kw in raw_lower for kw in DXY_LONG_KEYWORDS):
             dxy_bias = "long"
-
     oil_bullish = category == "Geopolitical" and any(kw in raw_lower for kw in OIL_BULLISH_KEYWORDS)
     safe_haven = any(kw in raw_lower for kw in SAFE_HAVEN_KEYWORDS)
-
     if dxy_bias:
         xau_bias = "long" if dxy_bias == "short" else "short"
         return f"Market read: DXY {dxy_bias} / XAU {xau_bias}."
-
     if oil_bullish:
         return "Market read: Oil bullish / XAU long."
-
     if category == "Trade War":
         return "Market read: XAU long catalyst."
-
     if safe_haven or impact_level == "HIGH":
         return "Market read: XAU long (safe-haven flow)."
-
     if impact_level == "MEDIUM":
         return "Market read: XAU catalyst — monitor."
-
     return "Market read: XAU neutral."
-
-
 def extract_table(lines):
     """
     Finds the first markdown table (header row, |---|---|---| separator,
@@ -117,7 +93,6 @@ def extract_table(lines):
         sep_check = set(nxt.replace('|', '').replace('-', '').replace(':', '').strip())
         if sep_check:
             continue
-
         header_cells = [c.strip() for c in line.strip('|').split('|')]
         rows = []
         j = i + 2
@@ -125,7 +100,6 @@ def extract_table(lines):
             data_cells = [c.strip() for c in lines[j].strip('|').split('|')]
             rows.append(data_cells)
             j += 1
-
         table_rows = []
         for cells in rows:
             indicator = strip_markdown_links(cells[0]) if len(cells) > 0 else ''
@@ -146,8 +120,6 @@ def extract_table(lines):
                 })
         return table_rows
     return []
-
-
 def parse_raw_text(raw: str) -> dict | None:
     """
     Best-effort parser for a pasted news/briefing blob (e.g. Google AI Mode
@@ -157,11 +129,9 @@ def parse_raw_text(raw: str) -> dict | None:
     """
     if not raw or not raw.strip():
         return None
-
     lines = [l.strip() for l in raw.strip().splitlines() if l.strip()]
     if not lines:
         return None
-
     # --- timestamp: look for a "Month DD, H:MM AM/PM" line near the top ---
     timestamp = None
     for l in lines[:3]:
@@ -176,7 +146,6 @@ def parse_raw_text(raw: str) -> dict | None:
             break
     if timestamp is None:
         timestamp = datetime.now(timezone.utc).isoformat()
-
     # --- title: first markdown heading ("## ...") line, else first long line ---
     title = None
     for l in lines:
@@ -191,7 +160,6 @@ def parse_raw_text(raw: str) -> dict | None:
     if title is None:
         title = lines[0][:120]
     title = title.rstrip('.')[:200]
-
     # --- first_paragraph: the descriptive text right after the title,
     #     before a "----" divider. No longer shown as the row summary
     #     (market-read line takes that spot) — feeds into 'details' below. ---
@@ -205,7 +173,6 @@ def parse_raw_text(raw: str) -> dict | None:
             break
         first_paragraph = strip_markdown_links(l)
         break
-
     # --- category: keyword match over the whole blob ---
     lower = raw.lower()
     category = "Geopolitical"
@@ -213,7 +180,6 @@ def parse_raw_text(raw: str) -> dict | None:
         if any(kw in lower for kw in kws):
             category = cat
             break
-
     # --- impact: first status emoji found, else keyword match, else MEDIUM ---
     impact_level = None
     for emoji, level in IMPACT_EMOJI.items():
@@ -227,10 +193,8 @@ def parse_raw_text(raw: str) -> dict | None:
                 break
     if impact_level is None:
         impact_level = "MEDIUM"
-
     original_paragraph = first_paragraph
     summary = infer_market_read(category, impact_level, lower)
-
     # --- details: fuller body text, starting with the original paragraph,
     #     then the rest of the analysis sections, stopping before the
     #     "Automated Pipeline Status" boilerplate. Used for an expandable
@@ -241,20 +205,68 @@ def parse_raw_text(raw: str) -> dict | None:
         title_idx = next(i for i, l in enumerate(lines) if l.startswith('#'))
     except StopIteration:
         title_idx = 0
+
+    # Skip the Tactical Risk Matrix section entirely (heading + code fence +
+    # table rows). The table is extracted separately into the structured
+    # "table" field, so we do not want its raw markdown in details.
+    skip_matrix = False
     for l in lines[title_idx + 1:]:
         low_l = l.lower()
-        if 'automated pipeline status' in low_l or 'i am keeping' in low_l:
+
+        # Hard stop before interactive / pipeline boilerplate
+        if any(phrase in low_l for phrase in (
+            'automated pipeline status',
+            'i am keeping',
+            'to help guide your absolute tactical stance',
+            'let me know if you would like me to',
+            'to optimize the precision of the incoming micro-alerts',
+        )):
             break
-        if l.startswith('---') or l.startswith('|') or l == '*':
+
+        # Soft stop before the Strategic Advice section (optional content
+        # that is usually less useful for the expandable "read more" view)
+        if 'strategic advice' in low_l and 'market actions' in low_l:
+            break
+
+        # Enter / leave the matrix block
+        if 'tactical risk matrix' in low_l:
+            skip_matrix = True
             continue
+        if skip_matrix:
+            # leave when we hit the next major heading after the matrix
+            if l.startswith('##') and 'tactical risk matrix' not in low_l:
+                skip_matrix = False
+                # fall through and process this heading normally
+            else:
+                # still inside matrix / code-fence / table rows
+                if l.startswith('```') or l.startswith('|') or l.startswith('---'):
+                    continue
+                continue
+
+        # Generic skip rules
+        if l.startswith('---') or l.startswith('|') or l.startswith('```') or l == '*':
+            continue
+
         stripped = strip_markdown_links(l)
-        if stripped == original_paragraph:
+        if not stripped or stripped == original_paragraph:
+            continue
+        # Fix occasional paste glitches where two ## headings are glued
+        # together on one line (e.g. "...Developments## 🇨🇦 Trade Friction")
+        if '##' in stripped:
+            parts = re.split(r'\s*##+\s*', stripped)
+            for p in parts:
+                p = p.strip()
+                if p and p != original_paragraph:
+                    details_lines.append(p)
             continue
         details_lines.append(stripped)
-    details = "\n\n".join(d for d in details_lines if d)[:4000]
 
+    details = "\n\n".join(d for d in details_lines if d)
+    # Safety cap (much higher than before) so extremely long pastes cannot
+    # blow up storage; normal deep-dive content stays intact.
+    if len(details) > 12000:
+        details = details[:12000].rsplit('\n', 1)[0]
     table = extract_table(lines)
-
     return {
         "timestamp": timestamp,
         "category": category,
@@ -264,8 +276,6 @@ def parse_raw_text(raw: str) -> dict | None:
         "details": details,
         "table": table
     }
-
-
 def compute_triggers(recent_items, max_triggers=4, recency_days=14):
     """
     Fully automatic — no human approval step. Rule-based, not a synthesized
@@ -285,22 +295,17 @@ def compute_triggers(recent_items, max_triggers=4, recency_days=14):
             continue
         if now - dt <= timedelta(days=recency_days):
             recent.append(item)
-
     from collections import Counter
     cat_counts = Counter(i.get('category', '') for i in recent)
-
     def sort_key(i):
         return i.get('timestamp', '')
-
     high_items = sorted(
         [i for i in recent if i.get('impact_level') == 'HIGH'],
         key=sort_key, reverse=True
     )
     cluster_categories = {c for c, n in cat_counts.items() if n >= 2}
-
     candidates = []
     seen_categories = set()
-
     for i in high_items:
         cat = i.get('category', '')
         if cat not in seen_categories:
@@ -308,7 +313,6 @@ def compute_triggers(recent_items, max_triggers=4, recency_days=14):
             seen_categories.add(cat)
         if len(candidates) >= max_triggers:
             break
-
     if len(candidates) < max_triggers:
         for cat in cluster_categories:
             if cat in seen_categories:
@@ -322,7 +326,6 @@ def compute_triggers(recent_items, max_triggers=4, recency_days=14):
                 seen_categories.add(cat)
             if len(candidates) >= max_triggers:
                 break
-
     triggers = []
     for c in candidates[:max_triggers]:
         label = c.get('title', '')[:90]
@@ -332,8 +335,6 @@ def compute_triggers(recent_items, max_triggers=4, recency_days=14):
             "impact_level": c.get('impact_level', '')
         })
     return triggers
-
-
 def get_event():
     """
     Returns a new event dict, or None if this run should not inject
@@ -344,7 +345,6 @@ def get_event():
     # an event on these.
     if os.environ.get("REBUCKET_ONLY") == "1":
         return None
-
     p_str = os.environ.get("DISPATCH_CLIENT_PAYLOAD")
     if p_str and p_str.strip():
         try:
@@ -368,7 +368,6 @@ def get_event():
                 }
         except Exception:
             pass
-
     # Manual workflow_dispatch path (person filled in the Actions form).
     manual_title = os.environ.get("MANUAL_TITLE")
     if manual_title:
@@ -379,11 +378,8 @@ def get_event():
             "impact_level": os.environ.get("MANUAL_IMPACT", "HIGH"),
             "summary": os.environ.get("MANUAL_SUMMARY", "")
         }
-
     # No dispatch payload, no manual inputs, not rebucket-only -> nothing to log.
     return None
-
-
 def bucket_for_age(age: timedelta) -> str | None:
     """Returns None if item belongs in active_week (age <= 7 days)."""
     if age <= timedelta(days=7):
@@ -399,12 +395,9 @@ def bucket_for_age(age: timedelta) -> str | None:
     if age <= timedelta(days=365):
         return "past_1_year"
     return "historical"
-
-
 def main():
     evt = get_event()
     now = datetime.now(timezone.utc)
-
     active_items = load_data(ACTIVE_FILE, list)
     archive_dict = load_data(ARCHIVE_FILE, dict)
     if not isinstance(archive_dict, dict):
@@ -412,7 +405,6 @@ def main():
     for b in BUCKETS:
         if b not in archive_dict:
             archive_dict[b] = []
-
     # Pull EVERYTHING — active items, every archive bucket, and the new
     # event (if any) — into one pool. This is what fixes archived items
     # never re-aging: every item is re-evaluated against `now` on every run.
@@ -425,7 +417,6 @@ def main():
     pool.extend(active_items)
     for b in BUCKETS:
         pool.extend(archive_dict[b])
-
     # Dedupe across the whole pool
     seen = set()
     unique_all = []
@@ -434,11 +425,9 @@ def main():
         if uid not in seen:
             seen.add(uid)
             unique_all.append(item)
-
     # Re-bucket everything from scratch based on current age
     new_active = []
     new_archive = {b: [] for b in BUCKETS}
-
     for item in unique_all:
         try:
             dt = datetime.fromisoformat(item['timestamp'].replace('Z', '+00:00'))
@@ -450,18 +439,17 @@ def main():
             new_active.append(item)
         else:
             new_archive[b].append(item)
-
     t_sort = lambda x: x.get('timestamp', '')
     new_active.sort(key=t_sort, reverse=True)
     for b in BUCKETS:
         new_archive[b].sort(key=t_sort, reverse=True)
-
     save_data(ACTIVE_FILE, new_active)
     save_data(ARCHIVE_FILE, new_archive)
-
     trigger_pool = new_active + new_archive.get("past_2_weeks", [])
     triggers = compute_triggers(trigger_pool)
     save_data(TRIGGERS_FILE, triggers)
+if __name__ == "__main__":
+    main()
 
 
 if __name__ == "__main__":
