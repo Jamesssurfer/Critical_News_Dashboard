@@ -3053,7 +3053,9 @@
           "detail": "Cross-border tariff structures, automotive supply chain friction, and retaliatory timelines along the U.S.-Canada corridor remain unchanged since the previous update."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-08-26T15:12:00+00:00",
       "category": "Trade War",
@@ -3087,9 +3089,7 @@
           "detail": "Bessent's Bond Battle Fails. The U.S. Treasury's plan to double long-bond buybacks to $4 billion has fizzled out. 30-year yields surged past 5.27% on compounding debt anxieties."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-08-26T12:41:00+00:00",
       "category": "Trade War",
