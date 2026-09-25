@@ -727,7 +727,9 @@
           "detail": "Maritime underwriters increase war risk premiums to an astronomical 7.5% of hull value for Gulf transits."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-09-11T18:51:00+00:00",
       "category": "Trade War",
@@ -755,9 +757,7 @@
           "detail": "Domestic gasoline hits a national average of $4.20/gallon[](https://www.youtube.com/watch?v=578eFhWEQro), with critical diesel trading at a record $200 a barrel equivalent."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-09-11T05:34:00+00:00",
       "category": "Trade War",
@@ -3025,7 +3025,9 @@
           "detail": "U.S. Treasury bond-buying patterns and Bank of Japan (BoJ) Yen positions remain operating within baseline parameters since the previous update."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-08-26T18:26:00+00:00",
       "category": "Trade War",
@@ -3053,9 +3055,7 @@
           "detail": "Cross-border tariff structures, automotive supply chain friction, and retaliatory timelines along the U.S.-Canada corridor remain unchanged since the previous update."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-08-26T15:12:00+00:00",
       "category": "Trade War",
