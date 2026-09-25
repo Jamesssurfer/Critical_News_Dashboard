@@ -755,7 +755,9 @@
           "detail": "Domestic gasoline hits a national average of $4.20/gallon[](https://www.youtube.com/watch?v=578eFhWEQro), with critical diesel trading at a record $200 a barrel equivalent."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-09-11T05:34:00+00:00",
       "category": "Trade War",
@@ -783,9 +785,7 @@
           "detail": "RBC Economics monitors minor modifications to the upcoming Sept 15 ad valorem lists as corporate portfolios adjust to the Sept 29 bans."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-09-10T19:28:00+00:00",
       "category": "Trade War",
