@@ -2857,7 +2857,9 @@
           "detail": "U.S. 10-year Treasury yields, fiscal buyback maneuvers, and Bank of Japan (BoJ) liquidity balances are operating within baseline parameters over the last 12 hours."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-08-27T15:05:00+00:00",
       "category": "Trade War",
@@ -2969,9 +2971,7 @@
           "detail": "BoJ boxed into September rate hike. Widespread capital outflows forcing historic Yen weakness have cornered the Bank of Japan. Market consensus assigns an 80% probability of a rate hike to 1.25% on September 18."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-08-27T09:55:00+00:00",
       "category": "Trade War",
