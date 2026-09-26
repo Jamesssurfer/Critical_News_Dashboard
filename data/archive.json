@@ -1,6 +1,34 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-09-19T07:46:58.837752+00:00",
+      "category": "Trade War",
+      "title": "Macro Risk & Geopolitical Intelligence Alert",
+      "impact_level": "HIGH",
+      "summary": "Market read: XAU long catalyst.",
+      "details": "Saturday, September 19, 2026 | 3:45 PM GMT+08:00\n\nThe global economic divide hardens as Prime Minister Mark Carney draws an ironclad line against U.S. pressure, calling Trump’s tariffs a \"miscalculation\" while locking in a historic October summit to anchor Canada’s permanent deep pivot toward Europe [ABC News Canada-EU Summit Plan, Global News Carney Veto Backlash].\n\nDefying the White House's escalating Section 338 reciprocity blocks on federal procurement, Prime Minister Mark Carney declared to the Liberal caucus that Canada was right to walk away from trade negotiations [Canadian Manufacturing Procurement Clashes]. Labeling the new U.S. tariffs a severe \"miscalculation\" by the Trump administration, Carney firmly positioned Canada as an insulated financial safe-haven [Global News Carney Veto Backlash].\n\n📊 Tactical Risk Matrix & Operational Signals\n\n🔎 Intelligence Deep Dive & Core Developments## 🇨🇦 Trade Friction: \"Canada Strong\" Realignment Confronts Trump's Veto Wall\n\n* The Strasbourg-to-Montreal Strategy: Following a dense seven-day diplomatic tour spanning Kyiv, Liverpool, and the European Parliament, Prime Minister Mark Carney aggressively doubled down on his European alliance strategy [ABC News Carney Market Realignment]. Asserting that Canada can no longer depend on a single protectionist trade partner, Carney finalized an emergency treaty framework to build permanent supply loops for critical EV minerals and aerospace networks [ABC News Europe Diversification Strategy].\n\n* The \"Miscalculation\" Caucus Stance: Addressing his government caucus immediately upon return, Carney blasted the White House's sudden deployment of emergency IEEPA and Section 338 authorities. He noted that the newly imposed 50% duties on metal and paper variants will only serve to punish U.S. manufacturing networks and workers, confirming that Canada will refuse to give in to Washington's aggressive structural demands [Global News Border Trade Impact].\n\n* The Sovereign Debt Decoupling: The trade gridlock is driving an unprecedented divergence in macro indicators. Pointing directly to soaring U.S. fiscal constraints, Carney highlighted that international debt platforms are actively separating strong credit foundations from weak ones, declaring \"We are the strong. We are Canada strong.\" as U.S. treasury yields face continuous upward pressure [ABC News Financial Dislocation].\n\n🛢️ Middle East Oil Risk: Tanker Rates Smash $1 Million/Day in Absolute Hormuz Squeeze\n\n* The $1,000,000 Charter Baseline: The physical shipping landscape inside the Persian Gulf has collapsed into an absolute supply vacuum. High-velocity telemetry verified by Yahoo Finance confirms that spot charter commissioning rates for a single Very Large Crude Carrier (VLCC) daredevil enough to clear the Strait of Hormuz have topped an astronomical $1.035 million per day [Yahoo Finance Tanker Rates Surge].\n\n* The Physical Flow Workaround: Despite the extreme risk environment, the high-volume Omani ship-to-ship reload loop is successfully preventing a total structural break in energy flows. Saudi Aramco has successfully moved roughly 60 million barrels of spot crude out of its Ras Tanura port. Under active naval escorts, these assets are transferring volumes to unexposed Chinese and South Korean supertankers off Oman's Port of Sohar, successfully keeping paper Brent crude futures stabilized at $103 to $104 a barrel [Asharq Al-Awsat Saudi Export Flow].\n\n* The Transponder Dark Out: Standard commercial transit metrics continue to print artificially depressed levels. While official logs show just four commercial transits clearing the strait, maritime intelligence monitors confirm that a significant portion of active shipping networks are completely turning off their satellite transponders to evade proxy targeting.\n\n💡 Strategic Advice & Market Actions\n\n* ⚠️ Brace for a Massive Distillate Price Surge Next Week: Downstream operations must instantly adjust corporate logistics budgets; the acute squee",
+      "table": [
+        {
+          "indicator": "Trade Wars & Escalations",
+          "signal_level": "HIGH",
+          "signal_label": "Intercontinental Alignment",
+          "detail": "Prime Minister Carney confirms a high-stakes Canada-EU Summit in Montreal on 29–30 October[](https://abcnews.com/International/wireStory/carney-canada-strong-us-borrowing-costs-rise-europe-136571407) to structurally rebind energy, aerospace, and critical mineral matrices [ABC News Canada-EU Summit Plan]."
+        },
+        {
+          "indicator": "Macroeconomic Interventions",
+          "signal_level": "HIGH",
+          "signal_label": "Sovereignty Premium Split",
+          "detail": "International bond markets actively widen spreads, pricing higher U.S. government borrowing costs relative to insulated Canadian assets [ABC News Bond Dislocation]."
+        },
+        {
+          "indicator": "Middle East Oil Risk",
+          "signal_level": "MEDIUM",
+          "signal_label": "Extreme Freight Surcharge",
+          "detail": "Baltic Exchange data records historic VLCC spot rates crossing $1.035 million per day for daring assets entering the Strait of Hormuz [Yahoo Finance Tanker Spikes]."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-09-19T00:13:48.711431+00:00",
       "category": "Trade War",
       "title": "The global macro landscape locks into a high-friction holding pattern as Strait of Hormuz commercial transits slightly edge up to four ships, while transatlantic trade desks freeze in place following ",
@@ -839,7 +867,9 @@
           "detail": "Treasury desks monitor extreme volatility in pre-market indices as multi-asset capital flees to safe-haven cash and bullion."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-09-12T07:28:00+00:00",
       "category": "Trade War",
@@ -867,9 +897,7 @@
           "detail": "Tier-1 U.S. paperboard and furniture manufacturers report severe component shortfalls due to stranded cross-border freight."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-09-12T00:05:00+00:00",
       "category": "Trade War",
@@ -2941,7 +2969,9 @@
           "detail": "U.S. 10-year Treasury yields, fiscal buyback maneuvers, and Bank of Japan (BoJ) liquidity balances are operating within baseline parameters."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-08-27T07:04:00+00:00",
       "category": "Trade War",
@@ -3053,9 +3083,7 @@
           "detail": "Global energy commodities and Treasury yields remain steady. Central banks have not enacted emergency interventions following this breakthrough."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-08-27T03:12:00+00:00",
       "category": "Trade War",
