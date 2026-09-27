@@ -2549,7 +2549,9 @@
           "detail": "Supply chain adjustments remain locked to prior-stated mid-2027 alternative routing parameters with zero new tariff deltas."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-08-28T20:50:00+00:00",
       "category": "Trade War",
@@ -2577,9 +2579,7 @@
           "detail": "Downstream supply shifts remain acute following the US-Canada tariff breakdown. WTI crude fell to $80.52/bbl on broader macro pressures."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-08-28T15:54:00+00:00",
       "category": "Trade War",
