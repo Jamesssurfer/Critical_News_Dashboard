@@ -2577,7 +2577,9 @@
           "detail": "Downstream supply shifts remain acute following the US-Canada tariff breakdown. WTI crude fell to $80.52/bbl on broader macro pressures."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-08-28T15:54:00+00:00",
       "category": "Trade War",
@@ -2633,9 +2635,7 @@
           "detail": "Joint Yen rescue triggers carry-trade push. Washington and Tokyo executed a rare joint Yen-buying operation. However, the Bank of Japan's gradual pace continues to incentivise capital outflows into overseas high-yield assets[](https://asia.nikkei.com/business/markets/currencies/yen-intervention-leaves-japanese-investors-divided-on-foreign-assets)."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-08-28T05:16:18.676069+00:00",
       "category": "Trade War",
