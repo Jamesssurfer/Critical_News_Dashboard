@@ -867,7 +867,9 @@
           "detail": "Allied naval commands scramble to organize structured military convoys to clear the Arabian Sea insurance perimeter."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-09-12T21:22:00+00:00",
       "category": "Trade War",
@@ -895,9 +897,7 @@
           "detail": "Treasury desks monitor extreme volatility in pre-market indices as multi-asset capital flees to safe-haven cash and bullion."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-09-12T07:28:00+00:00",
       "category": "Trade War",
@@ -2661,7 +2661,9 @@
           "detail": "Supply Chain Sourcing Shock. Intertwined networks brace for disruptions as Section 338 tariff implementations hit multi-billion dollar manufacturing and agricultural inputs."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-08-28T03:34:00+00:00",
       "category": "Trade War",
@@ -2773,9 +2775,7 @@
           "detail": "U.S. Treasury debt buyback operations and Bank of Japan (BoJ) Yen positions continue to trade within established baseline parameters over the last 4 hours."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-08-27T19:12:00+00:00",
       "category": "Trade War",
