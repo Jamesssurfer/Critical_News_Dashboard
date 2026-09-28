@@ -839,7 +839,9 @@
           "detail": "Sapporo Breweries[](https://www.presidentialprayerteam.org/2026/09/13/president-trump-announces-additional-tariffs-on-canadian-goods/) initiates emergency cross-border production migration plans to protect its multi-billion dollar U.S. beverage market access."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-09-14T01:00:00+00:00",
       "category": "Trade War",
@@ -867,9 +869,7 @@
           "detail": "Grocers like Loblaw Cos. rollout \"T-tags\" to flag tariffed goods as consumer boycotts of U.S. inventory reach 90% in key hubs."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-09-13T09:28:00+00:00",
       "category": "Trade War",
@@ -2493,7 +2493,9 @@
           "detail": "Market expectations solidify around an upcoming September Bank of Japan rate hike to defend the currency following the record 15.4 trillion yen intervention pipeline."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-08-29T01:25:00+00:00",
       "category": "Trade War",
@@ -2549,9 +2551,7 @@
           "detail": "Supply chain adjustments remain locked to prior-stated mid-2027 alternative routing parameters with zero new tariff deltas."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-08-28T20:50:00+00:00",
       "category": "Trade War",
