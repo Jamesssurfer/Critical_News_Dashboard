@@ -839,7 +839,9 @@
           "detail": "Major Midwest factories issue structural alert declarations, citing imminent part shortfalls due to trapped cross-border trucks."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-09-14T11:15:00+00:00",
       "category": "Trade War",
@@ -867,9 +869,7 @@
           "detail": "Commercial custom checkpoint backlogs at the Blue Water Bridge expand to an unprecedented 41 hours [September 14, 10:45 AM]."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-09-14T07:05:00+00:00",
       "category": "Trade War",
