@@ -811,7 +811,9 @@
           "detail": "Finance ministries monitor rapid corporate capital outflows from Toronto to New York ahead of Carney's proposed asset repatriation block."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-09-15T11:35:00+00:00",
       "category": "Trade War",
@@ -839,9 +841,7 @@
           "detail": "Brent Crude Futures trade volatile near $112.80 / bbl as U.S. Navy Fifth Fleet strike groups hold weapons on launch standby."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-09-15T05:12:00+00:00",
       "category": "Trade War",
@@ -2493,7 +2493,9 @@
           "detail": "Front-month paper risk premiums cool marginally on expectations of diplomatic supply talks, though Persian Gulf refining remains 20% below baseline levels."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-08-30T09:24:00+00:00",
       "category": "Trade War",
@@ -2549,9 +2551,7 @@
           "detail": "The Iranian Rial remains highly depressed at 1,043,000 rials per dollar due to compounding trade restrictions."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-08-30T03:14:00+00:00",
       "category": "Trade War",
