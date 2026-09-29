@@ -2437,7 +2437,9 @@
           "detail": "Supply chains hold position ahead of Canada’s multi-phase $27.6B counter-tariff activation on September 8."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-08-30T21:07:00+00:00",
       "category": "Trade War",
@@ -2521,9 +2523,7 @@
           "detail": "Israeli authorities indict minors recruited via Telegram to spy for Iran. Macro parameters focus on upcoming regional summits."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-08-30T12:24:00+00:00",
       "category": "Trade War",
