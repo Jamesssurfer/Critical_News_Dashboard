@@ -839,7 +839,9 @@
           "detail": "Brent Crude Futures trade volatile near $112.80 / bbl as U.S. Navy Fifth Fleet strike groups hold weapons on launch standby."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-09-15T05:12:00+00:00",
       "category": "Trade War",
@@ -867,9 +869,7 @@
           "detail": "The Fifth Fleet carrier strike group locks in final target matrices for its impending kinetic offensive against IRGC coastal batteries."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-09-15T01:33:00+00:00",
       "category": "Trade War",
