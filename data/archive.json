@@ -1,6 +1,34 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-09-22T01:15:00+00:00",
+      "category": "Trade War",
+      "title": "The United Kingdom Maritime Trade Operations (UKMTO) confirms an inbound tanker has been struck by a missile projectile inside the Strait of Hormuz, while the IRGC threatens an immediate expansion of ",
+      "impact_level": "HIGH",
+      "summary": "Market read: XAU long catalyst.",
+      "details": "The security equilibrium across global maritime arteries has sustained a severe operational rupture overnight [Seatrade Maritime Tanker Strikes]. Tactical monitoring lines from the UKMTO confirm that a commercial vessel—identified by security assets as the Isle of Man-flagged tanker La Stephanie—was struck by an inbound projectile while negotiating its inbound transit through the blockaded Strait of Hormuz [Seatrade Maritime Tanker Strikes, MarineLink Vessel Attack]. The kinetic strike, which injured two crew members, occurred immediately before a flash warning from the Islamic Revolutionary Guard Corps (IRGC), which declared that any subsequent allied deployment will trigger the unleashing of new weapon designs across an expanded operational geography [CBS News Security Alert].\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil Risk: Tanker Struck by Projectile in Hormuz as IRGC Threatens Broad Geographies\n\n* The Inbound Intercept: Kinetic warfare has directly re-engaged commercial merchant shipping hulls. Bureau-grade maritime logs from Seatrade Maritime confirm the 72,825 dwt vessel La Stephanie was hit mid-transit, suffering localized structural impacts [Seatrade Maritime Tanker Strikes]. While the vessel managed to maintain propulsion and continue toward its next port of call under its own power, the deployment marks an aggressive shift in targeting precision [MarineLink Vessel Attack]. The strike has driven an acute divergence across intelligence desks, with independent commercial entities recording near-total blockade suppression while U.S. Navy NCAGS tracking continues to claim a baseline traffic flow of 30 transits per day under heavy allied naval escort lines [Seatrade Maritime Tanker Strikes].\n\n* The Geography Expansion Warning: In immediate lockstep with the naval friction, an official IRGC spokesperson announced that Tehran has finalized preparations to respond to any subsequent allied military operations by deploying \"unspecified new weapons\" [CBS News Security Alert]. Tehran explicitly cautioned that it will target a much wider tactical footprint if triggered, effectively warning that the physical boundaries of the war will expand far beyond existing coastal nodes into the wider Arabian Peninsula and regional Western infrastructure grids [CBS News Security Alert, Al Jazeera Live Blockade].\n\n🇨🇦 Trade Friction: Island Summit Establishes the Carney-Macron Customs Pipeline\n\n* The Treaty Blueprint Filed: Following their historic emergency summit on the French territorial island of Saint-Pierre-et-Miquelon, Prime Minister Mark Carney and President Emmanuel Macron have directed trade ministries to code formal legal links anchoring Canada's new EU associate member status [The Guardian Trump Tensions, NYT Outpost Summit]. The framework uses the tiny French outpost off the coast of Newfoundland as a symbolic and legal pivot, establishing an insulated, cross-continental energy and raw material pipeline completely sheltered from the White House's secondary Section 338 sanctions [The Conversation Trade Blueprint, Al Jazeera Sourcing Pact].\n\n* The Side-Channel UNGA Dynamics: The sudden intercontinental alignment comes as world leaders descend on New York for the United Nations General Assembly sidelines. Despite his raw \"deciding mode\" rhetoric regarding wiping Iran out, President Trump signaled to Fox News that he remains open to a direct bilateral meeting with Iranian President Masoud Pezeshkian this week, creating an incredibly volatile environment for multi-asset risk managers tracking either a complete military strike or an abrupt diplomatic pivot [CBS News Security Alert, AA News Brief].\n\n💡 Strategic Advice & Market Actions\n\n* ⚠️ Re-Verify All Hull Insurance Exclusions for Non-Escorted Hulls: Fleet operations managers must immediately adjust maritime risk parameters; following the projectile strike on the La Stephanie, commercial underwriters are restricting coverage lines for inbound transits unless explicitly shadowed by Allied naval strike groups [Seatrade Maritime Tanker Strikes, MarineLink Vessel Attack].\n\n* 📊 Structure Arbitrage Desk Assumptions Around a Fragmented Gulf Metric: Energy trading portfolios must completely discount generalized shipping volume reports; with the Joint Maritime Information Center (JMIC) confirming a massive data gap between optimistic U.S. naval counts and suppressed independent commercial registries, real-time physical supplies are significantly tighter than public charts suggest [Seatrade Maritime Tanker Strikes].\n\n* ➡️ Execute Direct Safeguards Against Sudden Airspace Closures: Supply chain and corporate logistics teams operating throughout the Middle East must execute immediate contingency pathways; the combination of the State Department's high-alert warnings and Tehran's \"geographical expansion\" threats points toward imminent, unannounced commercial airspace restrictions over the next 48 hours [CNBC Africa Alert, CBS News Security Alert].",
+      "table": [
+        {
+          "indicator": "Strategic Military Threats",
+          "signal_level": "HIGH",
+          "signal_label": "Hot Chokepoint Engagement",
+          "detail": "UKMTO logs a direct projectile hit on an inbound transit, forcing the State Department to issue an emergency travel warning for neighboring airspaces [MarineLink Vessel Attack, CNBC Africa Alert]."
+        },
+        {
+          "indicator": "Macroeconomic Interventions",
+          "signal_level": "HIGH",
+          "signal_label": "Diplomatic Counter-Alignments",
+          "detail": "Legal teams from Paris and Ottawa begin drafting structural frameworks for Canada's proposed EU Associate Membership to explicitly bypass Washington's secondary tariff blocks [NYT Outpost Summit]."
+        },
+        {
+          "indicator": "Middle East Oil Risk",
+          "signal_level": "HIGH",
+          "signal_label": "Tactical Squeeze",
+          "detail": "Regional tracking indices contract as the La Stephanie attack marks the fourth confirmed maritime strike inside the Gulf envelope within a 92-hour window [Seatrade Maritime Tanker Strikes]."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-09-21T20:15:00+00:00",
       "category": "Trade War",
       "title": "The Straits of Hormuz visible transit lines drop by over 50% as shipping transponders plunge into darkness, while Indian Commerce Minister Piyush Goyal declares the next 90 days a \"defining period\" fo",
@@ -839,7 +867,9 @@
           "detail": "The Fifth Fleet carrier strike group locks in final target matrices for its impending kinetic offensive against IRGC coastal batteries."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-09-15T01:33:00+00:00",
       "category": "Trade War",
@@ -867,9 +897,7 @@
           "detail": "Benchmark Brent crude futures surge to $112.40, threatening systemic global industrial stagflation."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-09-14T18:21:00+00:00",
       "category": "Trade War",
@@ -2521,7 +2549,9 @@
           "detail": "The Iranian Rial remains highly depressed at 1,043,000 rials per dollar due to compounding trade restrictions."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-08-30T03:14:00+00:00",
       "category": "Trade War",
@@ -2577,9 +2607,7 @@
           "detail": "Legal desks flag Section 338 of the Tariff Act of 1930 as an untested \"blank canvas\" in court following the U.S. 50% tariff imposition on Canada."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-08-29T20:16:00+00:00",
       "category": "Trade War",
