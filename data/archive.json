@@ -783,7 +783,9 @@
           "detail": "Kpler commodity logs[](https://www.cnbc.com/2026/09/16/oil-prices-today-brent-wti-hormuz-iran-war.html) flag four supertankers executing ship-to-ship shuttles via Omani port routes to shield buyers."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-09-16T19:45:00+00:00",
       "category": "Trade War",
@@ -839,9 +841,7 @@
           "detail": "Brent Crude Futures explode past all historic ceilings, gapping violently to $128.90 / bbl."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-09-16T11:05:00+00:00",
       "category": "Trade War",
@@ -2409,7 +2409,9 @@
           "detail": "Border supply parameters remain stable. Corporate entities continue defensive restructuring ahead of Canada's $27.6B retaliatory tariff firewall on September 8."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-08-31T19:32:00+00:00",
       "category": "Trade War",
@@ -2437,9 +2439,7 @@
           "detail": "Broader market indicators adjust as global energy benchmarks harden."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-08-31T12:26:00+00:00",
       "category": "Trade War",
