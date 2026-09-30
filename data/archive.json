@@ -1,6 +1,34 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-09-22T23:15:00+00:00",
+      "category": "Trade War",
+      "title": "Security panels confirm a dangerous \"double strike\" phase inside the Strait of Hormuz as two separate tankers are hit within 24 hours, while Prime Minister Carney meets with Norway’s leadership to con",
+      "impact_level": "HIGH",
+      "summary": "Market read: XAU long catalyst.",
+      "details": "The structural breakdown of Middle Eastern energy routes has accelerated into a hot terrestrial conflict tonight, following back-to-back kinetic operations in the Persian Gulf entryways [Protothema Tanker Escalation]. High-velocity logs from the United Kingdom Maritime Trade Operations (UKMTO) confirm that two oil tankers came under direct projectile fire within a 24-hour window, indicating that Iran is actively intensifying chokepoint interdictions to assert structural control over the global energy tape [Protothema Tanker Escalation, Maritime Executive Pressure]. Transatlantic decoupling lines have similarly locked into a fast-tracked phase; following his emergency island summit with President Macron, Canadian Prime Minister Mark Carney immediately returned to Ottawa for an unannounced strategy session with Norwegian Prime Minister Jonas Gahr Støre to draft specialized legal and customs frameworks for bypassing Washington's secondary tariff blocks [NYT Outpost Summit].\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil Risk: Back-to-Back Tanker Strikes In Hormuz As Trade Metrics Diverge\n\n* The Double-Strike Realities: The physical threat landscape for marine commerce has experienced an immediate escalation. Verified maritime intelligence briefs from Protothema and Safety4Sea confirm that two separate commercial tankers were targeted and struck by unknown incoming weapons arrays within a tight 24-hour cycle [Protothema Tanker Escalation, Safety4Sea Incident Summary]. One of the primary casualties—the 72,825 dwt crude oil tanker LR Stephanie—sustained minor structural damage and localized injuries to two seafarers mid-transit [Maritime Executive Vessel Identity]. While the vessel managed to maintain propulsion and proceed into the Persian Gulf under its own power, the dual hits have driven an unprecedented divergence across risk desks; independent registries report near-total commercial freeze-outs, while U.S. Navy NCAGS tracking data insists that heavily escorted allied traffic continues to clear 30 transits per day [Safety4Sea Traffic Disparity].\n\n* The Weapon Expansion Warning: The double interdiction follows an explicit, heavy warning from Iran's Islamic Revolutionary Guard Corps (IRGC), which threatened to deploy unspecified new weapon layers across an expanded \"geography of the war\" if allied forces initiate secondary air strikes [YouTube Security Briefing]. Security analysts from the Institute for the Study of War (ISW) note that Tehran is utilizing these persistent southern-route attacks to force an artificial risk premium into the energy tape, keeping the ClarkSea global shipping barometer locked at its historic $64,569-per-day ceiling [YouTube Tactical Read, Splash247 Shipping Surge].\n\n🇨🇦 Trade Friction: Carney Engages Norway for the Associate Member Blueprint\n\n* The Oslo-to-Ottawa Alignment: Moving at extreme velocity following his sovereign declaration with President Macron on Saint-Pierre-et-Miquelon, Prime Minister Mark Carney has immediately convened an emergency summit in Ottawa with Norwegian Prime Minister Jonas Gahr Støre [NYT Outpost Summit]. Norway, which holds decades of specialized expertise navigating highly complex economic alignments and market exemptions with Brussels, is directly advising Canada on how to legally codify its incoming EU associate member status [NYT Outpost Summit]. The framework aims to immediately shield Canada's multi-billion dollar aerospace, critical mineral, and nuclear export vectors from Donald Trump's escalating 50% tariff walls [NYT Outpost Summit, pm.gc.ca Sourcing Plan].\n\n* The Nuclear-Energy Pivot: The intercontinental realignment is moving hand-in-hand with an aggressive diversification pivot into South Asia. Senior trade attachés have locked in an accelerated 90-day execution window to finalize the comprehensive Canada-India free trade pact (CEPA), scheduling the fifth consecutive round of emergency treaty construction for October 5 in New Delhi [The Hindu CEPA Rounds]. The upcoming pact is explicitly engineered to open direct equity channels for Indian state firms to finance and secure raw Canadian uranium and LNG allocations, cementing an insulated energy bridge independent of Western economic blockades [Reuters Canada-India Pact].\n\n💡 Strategic Advice & Market Actions\n\n* ⚠️ Enforce Strict Operational Limits on Non-Escorted Marine Hulls: Logistics directors must instantly modify transit directives; following the back-to-back missile strikes on the LR Stephanie and a second vessel, commercial war risk panels are moving to freeze independent hull coverage inside the Gulf envelope entirely, rendering unescorted journeys an extreme legal and asset risk [Protothema Tanker Escalation, Maritime Executive Pressure].\n\n* 📊 Structure Corporate Procurement Around the Norwegian-Canadian Model: Transatlantic supply-chain legal units should prepare documentation to match the upcoming Carney-Støre trade parameters; adapting raw component verification rules to mirror Norway's European Economic Area (EEA) tracking systems may offer an immediate compliance shield against sudden cross-border customs interceptions [NYT Outpost Summit].\n\n* ➡️ Front-Run the 90-Day India CEPA Sourcing Window: Commodity portfolio risk desks should aggressively expand structural weights toward western Canadian resource and infrastructure installations ahead of the imminent October 5 fifth-round treaty talks; large-scale South Asian state capital inflows are projected to heavily revalue non-U.S. aligned energy entities by Q4 [The Hindu CEPA Rounds, Reuters Canada-India Pact].",
+      "table": [
+        {
+          "indicator": "Strategic Military Threats",
+          "signal_level": "HIGH",
+          "signal_label": "Dual Projectile Attacks",
+          "detail": "UKMTO validates a double-strike escalation inside Hormuz, injuring two crew members aboard the Greek-managed, Isle of Man-flagged LR Stephanie [Protothema Tanker Escalation, Maritime Executive Vessel Identity]."
+        },
+        {
+          "indicator": "Macroeconomic Interventions",
+          "signal_level": "HIGH",
+          "signal_label": "Institutional EU Sourcing",
+          "detail": "Prime Minister Carney engages Norway's specialized leadership to study customized trade frameworks and market access models for Canada's emerging EU associate member status [NYT Outpost Summit]."
+        },
+        {
+          "indicator": "Middle East Oil Risk",
+          "signal_level": "HIGH",
+          "signal_label": "Shipping Capacity Crunch",
+          "detail": "Clarksons’ cross-sector ClarkSea Index holds at its absolute record of $64,569 per day, sitting 27% above the historic 2007 super-cycle peak [Splash247 Shipping Surge]."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-09-22T19:45:00+00:00",
       "category": "Trade War",
       "title": "The global shipping complex braces for a prolonged chokepoint freeze as the cross-sector ClarkSea Index remains locked at an all-time record high of $56,567 per day, while the UKMTO confirms the marit",
@@ -783,7 +811,9 @@
           "detail": "Brent Crude Futures break historic ceilings, gapping violently to an unprecedented $124.60 / bbl."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-09-16T02:54:00+00:00",
       "category": "Trade War",
@@ -839,9 +869,7 @@
           "detail": "The Big Three U.S. automakers enter the final 24 hours of mineral safety buffers before mandatory factory idling triggers."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-09-15T13:19:00+00:00",
       "category": "Trade War",
@@ -2381,7 +2409,9 @@
           "detail": "No major policy modifications have materialized along the U.S.-Canada corridor over the last 24 hours; the active 50% tariff and matching countermeasure boundaries hold."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-08-31T00:18:00+00:00",
       "category": "Trade War",
@@ -2437,9 +2467,7 @@
           "detail": "Supply chains hold position ahead of Canada’s multi-phase $27.6B counter-tariff activation on September 8."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-08-30T21:07:00+00:00",
       "category": "Trade War",
