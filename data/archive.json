@@ -811,7 +811,9 @@
           "detail": "Brent Crude Futures explode past all historic ceilings, gapping violently to $128.90 / bbl."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-09-16T11:05:00+00:00",
       "category": "Trade War",
@@ -839,9 +841,7 @@
           "detail": "CENTCOM operational feeds log a temporary tactical pause in the Persian Gulf as naval assets evaluate the damage to IRGC mobile launcher networks."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-09-16T05:30:00+00:00",
       "category": "Geopolitical",
