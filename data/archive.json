@@ -727,7 +727,9 @@
           "detail": "The White House Memorandum[](https://www.tribuneindia.com/news/us-canada-trade-war-heats-up-as-trump-signs-memorandum-to-exclude-canadian-products-from-federal-procurement/) orders the immediate purging of all Canadian-origin goods from federal civil procurement channels."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-09-17T07:41:05.987443+00:00",
       "category": "Trade War",
@@ -783,9 +785,7 @@
           "detail": "US Energy Secretary Chris Wright confirms active U.S. military assets are co-securing the expanded Saudi Hormuz flows."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-09-17T04:05:00+00:00",
       "category": "Trade War",
@@ -2381,7 +2381,9 @@
           "detail": "Bilateral parameters remain stagnant following Canada's $30B tariff retaliation opening wave; focus shifts to the September 8 enforcement deadline."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-09-01T08:34:00+00:00",
       "category": "Trade War",
@@ -2409,9 +2411,7 @@
           "detail": "No new changes have logged across the U.S.-Canada corridor; active 50% tariff frames and upcoming September 8 counter-tariffs remain baseline."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-09-01T01:53:00+00:00",
       "category": "Trade War",
