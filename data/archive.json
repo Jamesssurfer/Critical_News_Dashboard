@@ -1,6 +1,34 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-09-25T14:02:00+00:00",
+      "category": "Trade War",
+      "title": "The global merchant fleet faces structural demand destruction as the cross-sector ClarkSea Index scales a record-shattering $64,569 per day, while Prime Minister Carney forces an unprecedented mid-Dec",
+      "impact_level": "HIGH",
+      "summary": "Market read: XAU long catalyst.",
+      "details": "The structural foundations of standard Western maritime commerce and bilateral resource corridors have entered a state of maximum friction this afternoon. New macro telemetry released by Clarksons confirms that the cross-sector ClarkSea Index has locked at its absolute historical peak of $64,569 a day, running a violent 27% above the high-water marks of the legendary 2007 commodity super-cycle. Simultaneously, breaking directly out of Washington's protectionist tariff wall, Canadian Prime Minister Mark Carney used the United Nations General Assembly sidelines to confirm that Canada and India have committed to fully finalize their comprehensive free trade pact (CEPA) by mid-December to structurally rebind South Asian capital to North American gas and nuclear foundries. [1, 2, 3, 4, 5]\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil Risk: Visible Hormuz Volume Collapses by 96% Following Fatal Coal Carrier Hull Impact\n\n* The Shuttered Waterway Telemetry: The open commercial transit architecture of the Persian Gulf has sustained near-total structural paralysis. Bureau-grade maritime tracking data from the IMF and Kpler confirms that the seven-day moving average of large commercial vessels passing through the Strait of Hormuz has bottomed out below 10 ships a day—representing a catastrophic 96% crash compared to the baseline of 125 daily transits handled prior to the conflict. While preliminary tracking recorded a brief trickle of 10 unescorted Supramax dry bulk ships carrying grain and metals on Wednesday, underwriters have effectively halted independent transit clearances following the terminal escalation off Oman's shores. [6, 7, 8, 9]\n\n* The MV Cape Dao Casualties: This near-total commercial freeze follows the direct, fatal torpedoing of the Antigua and Barbuda-flagged bulk carrier MV Cape Dao by Iranian Islamic Revolutionary Guard Corps (IRGC) coastal batteries. Maritime labor registries from the Forward Seamen's Union of India (FSUI) confirmed that a double-impact on the ship's port side and accommodation block killed an Indian national—wiper Suraj Yadav—forcing Oman's Navy to execute an emergency rescue of the remaining 27 crew members. The deployment of lethal force against non-oil commercial assets has triggered a complete re-pricing of global marine risk, locking the multi-market ClarkSea Index at its astronomical $64,569-per-day all-time record high. [1, 10, 11, 12]\n\n🇨🇦 Trade Friction: Carney Forces G20 Treaty Target to Counter Trump's Tariff Blocks\n\n* The Mid-December Sourcing Deadline: Spearheading Canada's aggressive international insulation play against Donald Trump's protectionist trade blockades, Prime Minister Mark Carney confirmed Canada and India are pushing to finalize a sweeping comprehensive trade treaty by the mid-December G20 summit in Miami. Carney stated that New Delhi has verified Prime Minister Narendra Modi's intent to visit Canada around that exact window, allowing both administrations to execute the formal CEPA treaty signing to immediately unlock massive cross-border capital flows independent of U.S. customs interceptions. [5, 13]\n\n* The Structural Diversification Framework: Carney explicitly framed the fast-tracked India axis and the parallel push for Canada to become the European Union's first-ever \"Associate Member\" as a mandatory sovereignty shield to double Canada's non-U.S. trade over the next decade. The free trade architecture is engineered to bypass standard tariff boundaries, opening clear avenues for Indian state-backed enterprises to acquire direct equity and secure exclusive, long-term resource tranches across Canada's western LNG and nuclear energy installations. [3, 5]\n\n💡 Strategic Advice & Market Actions\n\n* ⚠️ Enforce an Absolute Zero-Transit Directive for Unescorted Gulf Hulls: Corporate logistics divisions must immediately freeze all independent Indian Ocean routing; following the fatal torpedo attack and loss of the MV Cape Dao, any merchant hull navigating the Gulf of Oman without direct allied naval escort faces total asset forfeiture and immediate insurance nullification.\n\n* 📊 Restructure All Q4 Global Supply-Chain Cost Baselines: Multi-sector procurement offices must abandon pre-war freight estimates; with the ClarkSea Index frozen 27% above historical ceilings at $64,569/day, generalized vessel deficits guarantee severe, compounding cost contagion across containerized automotive and commercial industrial freight networks next week.\n\n* ➡️ Front-Run Institutional Sourcing Realignment Ahead of the October 5 Rounds: Investment risk desks managing global energy and commodity matrices should heavily tilt portfolio weights toward western Canadian infrastructure assets; the confirmed mid-December Carney-Modi execution window guarantees massive, long-term South Asian state capital inflows to secure uncommitted North American LNG tranches by Q4. [1, 2, 3, 12, 14]",
+      "table": [
+        {
+          "indicator": "Strategic Military Threats",
+          "signal_level": "HIGH",
+          "signal_label": "Fatal Commercial Intercept",
+          "detail": "IMF and maritime tracking registers confirm visible Strait of Hormuz ship traffic has crumbled by 96% relative to last year's baselines following the fatal shelling of the MV Cape Dao."
+        },
+        {
+          "indicator": "Macroeconomic Interventions",
+          "signal_level": "HIGH",
+          "signal_label": "South Asian Axis Fast-Tracked",
+          "detail": "Prime Minister Carney establishes a firm mid-December target to host Prime Minister Modi in Canada to sign the completed CEPA trade framework."
+        },
+        {
+          "indicator": "Middle East Oil Risk",
+          "signal_level": "HIGH",
+          "signal_label": "Cross-Sector Cost Contagion",
+          "detail": "The historic ClarkSea Index freeze at $64,569/day demonstrates that crippling capacity deficits have entirely bled from oil tankers into dry bulk, container, and automotive freight networks."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-09-24T23:15:00+00:00",
       "category": "Trade War",
       "title": "Fatal projectile strike on coal bulk carrier MV Cape Dao leaves an Indian national dead in the Strait of Hormuz, while Qatari-brokered back-channels in Doha attempt to salvage a diplomatic off-ramp am",
@@ -2269,7 +2297,9 @@
           "detail": "The Iranian rial has crashed to a historic record low of 2.2 million to the US dollar [LLM Checker Reasoning] as the U.S. naval blockade chokes off hard currency flows."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-09-02T17:08:00+00:00",
       "category": "Trade War",
@@ -2325,9 +2355,7 @@
           "detail": "The trade blockade heavily isolates Iran's economy, with non-oil trade contracting nearly 30%. The U.S.-Canada corridor remains locked to prior tariff parameters."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-09-02T05:08:00+00:00",
       "category": "Trade War",
