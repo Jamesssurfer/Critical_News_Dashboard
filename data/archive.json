@@ -2325,7 +2325,9 @@
           "detail": "The trade blockade heavily isolates Iran's economy, with non-oil trade contracting nearly 30%. The U.S.-Canada corridor remains locked to prior tariff parameters."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-09-02T05:08:00+00:00",
       "category": "Trade War",
@@ -2381,9 +2383,7 @@
           "detail": "Prime Minister Mark Carney[](https://www.google.com/search?q=mark+carney&kgmid=/m/03c9qj_) confirmed Canada walked away from trade talks because the U.S. position required Canadian core sectors to be \"wiped out\" or turned into U.S. subsidiaries."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-09-02T01:08:00+00:00",
       "category": "Trade War",
