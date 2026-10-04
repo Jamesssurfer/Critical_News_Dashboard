@@ -559,7 +559,9 @@
           "detail": "Baltic Exchange TD3C benchmark registries smash historical records as VLCC daily time charter equivalents surge tenfold to $1.21 million [Finance BigGo Shipping Boom]."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-09-20T10:30:00+00:00",
       "category": "Trade War",
@@ -587,9 +589,7 @@
           "detail": "Spillover from the Strait of Hormuz blockades[](https://news.usni.org/2026/09/18/hormuz-transits-hit-three-week-high-vlcc-rates-explode) violently drives the West Africa-to-China VLCC shipping index to an all-time record of $509,000 per day [USNI News Tanker Rates Explode]."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-09-19T10:24:48.991776+00:00",
       "category": "Trade War",
@@ -2213,7 +2213,9 @@
           "detail": "Intense blockade architecture chokes off oil inflows, shrinking Iran's total core trade parameters by up to one-third."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-09-04T09:08:00+00:00",
       "category": "Trade War",
@@ -2241,9 +2243,7 @@
           "detail": "China continues bypassing the dollar system via yuan-based clearing for crude. PBoC is expected to fix the USD/CNY mid-point at 6.7093."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-09-04T04:00:00+00:00",
       "category": "Trade War",
