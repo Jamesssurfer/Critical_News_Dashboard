@@ -2241,7 +2241,9 @@
           "detail": "China continues bypassing the dollar system via yuan-based clearing for crude. PBoC is expected to fix the USD/CNY mid-point at 6.7093."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-09-04T04:00:00+00:00",
       "category": "Trade War",
@@ -2325,9 +2327,7 @@
           "detail": "Markets adjust to the finality of Trump's 25% global tariff penalty on any country facilitating trade with Tehran. US-Canada border stasis holds ahead of the September 8 wall."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-09-03T19:18:00+00:00",
       "category": "Trade War",
