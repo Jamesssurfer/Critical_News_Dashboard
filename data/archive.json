@@ -587,7 +587,9 @@
           "detail": "Iran's Parliament Speaker confirms the Strait of Hormuz will remain entirely closed until the U.S. completely fulfills commitments under the June peace framework [Al Jazeera Live Blockade]."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-09-21T13:30:00+00:00",
       "category": "Trade War",
@@ -671,9 +673,7 @@
           "detail": "Baltic Exchange TD3C benchmark registries smash historical records as VLCC daily time charter equivalents surge tenfold to $1.21 million [Finance BigGo Shipping Boom]."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-09-20T10:30:00+00:00",
       "category": "Trade War",
@@ -2213,7 +2213,9 @@
           "detail": "China completely rejects the secondary sanctions, shifting all blacklisted oil trade to alternative yuan-based clearing systems."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-09-05T09:08:00+00:00",
       "category": "Trade War",
@@ -2241,9 +2243,7 @@
           "detail": "FinCEN and the U.S. Treasury blacklisted eight Iranian tankers and China's prominent Shandong Shouguang Luqing Petrochemical refinery. The U.S.-Canada September 8 counter-tariff firewall remains locked."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-09-05T02:54:00+00:00",
       "category": "Trade War",
