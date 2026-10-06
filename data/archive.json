@@ -2185,7 +2185,9 @@
           "detail": "U.S. Treasury's \"Economic Fury\" campaign faces absolute legal resistance from non-Western buyers."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-09-06T12:00:00+00:00",
       "category": "Trade War",
@@ -2241,9 +2243,7 @@
           "detail": "Cross-border supply parameters remain rigid. Global buyers accelerate a structural migration to Western Hemisphere suppliers to mitigate chokepoint risks."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-09-05T21:56:00+00:00",
       "category": "Trade War",
