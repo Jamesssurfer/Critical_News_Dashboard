@@ -1,6 +1,34 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-09-30T15:00:00+00:00",
+      "category": "Trade War",
+      "title": "The Kuwaiti-managed VLCC Al Funtas is verified as the target of the late-reported Strait of Hormuz projectile strike, while the UN records the total regional conflict toll at 86 vessel incidents and 2",
+      "impact_level": "HIGH",
+      "summary": "Market read: XAU long catalyst.",
+      "details": "The structural gridlock across global maritime corridors and energy supply chains has locked into an intense operational standoff this afternoon. Delayed security intelligence from the United Kingdom Maritime Trade Operations (UKMTO) has officially named the Kuwait Oil Tanker Company (KOTC)-managed VLCC Al Funtas as the vessel struck by an unknown projectile on Monday evening. The impact ignited a serious shipboard fire that the crew managed to safely extinguish before navigating the supertanker toward a port of refuge. The incident has forced the International Maritime Organization (IMO) to raise the total regional conflict toll to 86 targeted hulls and 24 confirmed fatalities, permanently shattering hopes for near-term freight discounts as the cross-sector ClarkSea Index plateaus at its all-time record peak of $66,421 a day. [1, 2, 3]\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil Risk: Al Funtas Torpedo Details Surface as Iran Imposes Strict Service Blacklists\n\n* The Late-Reported Strike Realities: The tactical risk profile for commercial merchant shipping inside the Persian Gulf has structurally hardened. Maritime security agencies confirm that the Kuwaiti supertanker Al Funtas was running entirely dark with its AIS transponders cut when it sustained a direct projectile hit. Because the vessel did not transmit an open distress signal, international tracking stations received information \"late\" via third-party channels. This confirms that physical transponder monitoring can no longer accurately gauge open waterway safety or transit survival rates. [2, 4]\n\n* The Institutional Blockade: Simultaneously, the administrative enforcement of Tehran's blockade is creating systemic friction for global charterers. Iran's state-backed Persian Gulf Strait Authority (PGSA) issued severe warnings to international insurance firms, P&I clubs, and classification societies to immediately cut off all marine services to hulls placed on its non-compliant registry. This regulatory squeeze is locking the broader ClarkSea multi-market freight index at its historic peak of $66,421 per day, running nearly three times higher than historical long-term average baselines as owners face massive legal and operational exclusions. [1, 3, 5]\n\n🇨🇦 Trade Friction: Sidhu Announces New Delhi October Push to Seal the India-Canada CEPA Accord\n\n* The Mid-October Execution Blitz: Insulating its core industrial supply lines from expanding tariff wars with Washington, Ottawa's structural trade de-risking strategy is accelerating. India's Commerce Ministry confirmed that Canadian International Trade Minister Maninder Sidhu will travel to New Delhi around October 15 for critical face-to-face negotiations with Commerce Minister Piyush Goyal. The high-level meeting is strategically timed to immediately follow the fifth emergency round of the Comprehensive Economic Partnership Agreement (CEPA) starting October 5, ensuring the legal text is finalized prior to Prime Minister Narendra Modi's December state visit. [6, 7, 8]\n\n* The Defense-Industrial Integration text: This South Asian axis is moving in step with a massive legal realignment across the Atlantic. In Strasbourg, European Parliament constitutional experts detailed that under Canada's upcoming EU Associate Member framework, the nation will integrate directly into Europe's defense industrial base. The sui generis single-market layout will grant Canada unprecedented regulatory alignments over advanced aerospace, quantum computing, cybersecurity, and joint Arctic security loops, building a protected trade perimeter independent of U.S. customs interventions. [9, 10]\n\n💡 Strategic Advice & Market Actions\n\n* ⚠️ Disregard Automated Fleet Tracking for Risk Assessment Matrices: Marine operations and safety desks must instantly discontinue reliance on automated transponder maps; because premium fleets like the Al Funtas are operating dark to minimize coastal targeting, real-time positioning and incident logs require direct, non-public bill-of-lading confirmation.\n\n* 📊 Incorporate an Outlay Premium into Long-Term Freight Models: Global procurement divisions must restructure Q4 financial assumptions; with the ClarkSea Index locked 30% above its historic 2007 super-cycle ceiling at $66,421/day, capacity deficits are no longer a short-term volatility spike but a permanent structural fixture across global cargo lines.\n\n* ➡️ Front-Run Resource Portfolios Ahead of the October 5 CEPA Session: Portfolio risk managers tracking technology, clean energy, and atomic infrastructure should maximize allocations toward western Canadian assets; Sidhu's confirmed mid-October New Delhi timeline guarantees that massive South Asian state and private capital inflows are on a fixed path to revalue uncommitted energy and mineral foundries by late Q4. [3, 4, 5, 6, 7]",
+      "table": [
+        {
+          "indicator": "Strategic Military Threats",
+          "signal_level": "HIGH",
+          "signal_label": "Dual-Chokepoint Squeeze",
+          "detail": "The UKMTO and Ambrey Analytics track the Al Funtas hull hit north of Khasab, Oman, proving unescorted assets remain highly exposed to hostile coastal targeting."
+        },
+        {
+          "indicator": "Macroeconomic Interventions",
+          "signal_level": "HIGH",
+          "signal_label": "South Asian Axis Fast-Tracked",
+          "detail": "Canadian Trade Minister Maninder Sidhu locks in a mid-October state visit to New Delhi to finalize the CEPA trade treaty text, forcing progress ahead of Prime Minister Modi's December trip."
+        },
+        {
+          "indicator": "Middle East Oil Risk",
+          "signal_level": "HIGH",
+          "signal_label": "Structural Surcharge Floor",
+          "detail": "Clarksons registries confirm global VLCC spot voyages around Hormuz are holding between $800,000 and $1.5 million per day, inflating the freight tax per barrel to 15%."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-09-30T02:23:00+00:00",
       "category": "Trade War",
       "title": "A Kuwaiti crude oil tanker is struck inside the Strait of Hormuz, triggering fresh damage as Iran claims total command of regional waters split between its Army and IRGC navies, defying the U.S. naval",
@@ -503,7 +531,9 @@
           "detail": "Clarksons Research registries confirm average global fleet capacity costs remain triple their long-term trend line."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-09-23T20:49:00+00:00",
       "category": "Trade War",
@@ -559,9 +589,7 @@
           "detail": "Independent vessel registries confirm the volume of transiting ships remains severely limited, operating at a fraction of the standard 135 daily baselines [YouTube Shipping Logs]."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-09-23T06:17:03.504237+00:00",
       "category": "Trade War",
@@ -2101,7 +2129,9 @@
           "detail": "Iran outlines an \"exclusion zone\"[](https://www.cbsnews.com/live-updates/iran-war-us-strait-of-hormuz-oil-gas-price-strikes/) stretching from the U.S. blockade line back into the Persian Gulf."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-09-07T14:04:00+00:00",
       "category": "Trade War",
@@ -2129,9 +2159,7 @@
           "detail": "The Iranian rial remains heavily depressed at 1,043,000 rials per dollar following Washington's blanket secondary sanctions labeling."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-09-07T09:10:00+00:00",
       "category": "Trade War",
