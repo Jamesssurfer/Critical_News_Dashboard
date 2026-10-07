@@ -559,7 +559,9 @@
           "detail": "Independent vessel registries confirm the volume of transiting ships remains severely limited, operating at a fraction of the standard 135 daily baselines [YouTube Shipping Logs]."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-09-23T06:17:03.504237+00:00",
       "category": "Trade War",
@@ -615,9 +617,7 @@
           "detail": "Independent vessel registries confirm the volume of transiting ships remains severely limited, operating at a fraction of the standard 135 daily baselines."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-09-22T23:15:00+00:00",
       "category": "Trade War",
@@ -2129,7 +2129,9 @@
           "detail": "The Iranian rial remains heavily depressed at 1,043,000 rials per dollar following Washington's blanket secondary sanctions labeling."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-09-07T09:10:00+00:00",
       "category": "Trade War",
@@ -2185,9 +2187,7 @@
           "detail": "Sovereign bonds face persistent macro scrutiny ahead of U.S. CPI print; a hot metric will all but seal a September Fed funds rate hike."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-09-07T01:09:00+00:00",
       "category": "Trade War",
