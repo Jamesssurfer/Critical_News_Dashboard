@@ -2549,7 +2549,9 @@
           "detail": "The White House directs the GSA and USTR[](https://www.reuters.com/business/trump-directs-gsa-take-steps-remove-canadian-goods-agency-lists-2026-09-08/) to purge Canadian vendors from $50B federal procurement channels."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-09-09T08:52:00+00:00",
       "category": "Trade War",
@@ -2577,9 +2579,7 @@
           "detail": "Bombardier[](https://www.aljazeera.com/economy/2026/9/8/bombardier-defends-us-manufacturing-amid-trumps-aviation-sales-threat) shares slide 6% as the firm fights a U.S. sales ban by listing its deep reliance on American parts suppliers."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-09-08T18:39:00+00:00",
       "category": "Trade War",
