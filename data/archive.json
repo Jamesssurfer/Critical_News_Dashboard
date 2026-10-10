@@ -895,7 +895,9 @@
           "detail": "U.S. CENTCOM redirects 122 commercial vessels inside the Gulf envelope to ensure strict compliance and protect oil transit routes."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-09-26T07:36:00+00:00",
       "category": "Trade War",
@@ -923,9 +925,7 @@
           "detail": "Heavy Saudi shuttle run reliance drives global average VLCC spot rates to a historic $1.27 million/day peak, completely breaking corporate freight budgets."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-09-26T02:08:00+00:00",
       "category": "Trade War",
@@ -2521,7 +2521,9 @@
           "detail": "Iran's state engines temporarily drop a 10% freight surcharge[](https://www.reuters.com/business/energy/iran-suspends-freight-charge-foreign-vessels-carrying-energy-products-or-iran-2026-09-10/) on foreign energy hulls to counter the U.S. blockade."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-09-10T08:28:00+00:00",
       "category": "Trade War",
@@ -2549,9 +2551,7 @@
           "detail": "Supertanker earnings for the Middle East to China route spike to an astronomical $760,000 per day[](https://www.lloydslistintelligence.com/resources/blog/strait-of-hormuz-brief-9-september-2026)."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-09-10T00:09:00+00:00",
       "category": "Trade War",
