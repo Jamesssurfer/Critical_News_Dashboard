@@ -867,7 +867,9 @@
           "detail": "Visible AIS transits trickle in single digits, but U.S.-facilitated transits average ~29 vessels per day using unindexed black-shuttle routes."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-09-26T17:02:00+00:00",
       "category": "Trade War",
@@ -895,9 +897,7 @@
           "detail": "U.S. CENTCOM redirects 122 commercial vessels inside the Gulf envelope to ensure strict compliance and protect oil transit routes."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-09-26T07:36:00+00:00",
       "category": "Trade War",
