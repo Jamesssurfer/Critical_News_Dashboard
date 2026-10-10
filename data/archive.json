@@ -2465,7 +2465,9 @@
           "detail": "RBC Economics monitors minor modifications to the upcoming Sept 15 ad valorem lists as corporate portfolios adjust to the Sept 29 bans."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-09-10T19:28:00+00:00",
       "category": "Trade War",
@@ -2521,9 +2523,7 @@
           "detail": "Iran's state engines temporarily drop a 10% freight surcharge[](https://www.reuters.com/business/energy/iran-suspends-freight-charge-foreign-vessels-carrying-energy-products-or-iran-2026-09-10/) on foreign energy hulls to counter the U.S. blockade."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-09-10T08:28:00+00:00",
       "category": "Trade War",
