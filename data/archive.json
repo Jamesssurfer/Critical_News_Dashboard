@@ -839,7 +839,9 @@
           "detail": "Recorded AIS transits trickle in single digits, but U.S.-facilitated transits successfully shepherded 33.7 million barrels of crude this week using unindexed black-shuttle routes."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-09-27T11:59:00+00:00",
       "category": "Trade War",
@@ -867,9 +869,7 @@
           "detail": "Visible AIS transits trickle in single digits, but U.S.-facilitated transits average ~29 vessels per day using unindexed black-shuttle routes."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-09-26T17:02:00+00:00",
       "category": "Trade War",
@@ -2437,7 +2437,9 @@
           "detail": "Domestic gasoline hits a national average of $4.20/gallon[](https://www.youtube.com/watch?v=578eFhWEQro), with critical diesel trading at a record $200 a barrel equivalent."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-09-11T05:34:00+00:00",
       "category": "Trade War",
@@ -2465,9 +2467,7 @@
           "detail": "RBC Economics monitors minor modifications to the upcoming Sept 15 ad valorem lists as corporate portfolios adjust to the Sept 29 bans."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-09-10T19:28:00+00:00",
       "category": "Trade War",
