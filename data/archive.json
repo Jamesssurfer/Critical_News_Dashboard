@@ -811,7 +811,9 @@
           "detail": "Recorded AIS transits trickle in single digits, but U.S.-facilitated transits successfully shepherded 33.7 million barrels of crude this week using unindexed black-shuttle routes."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-09-27T15:22:00+00:00",
       "category": "Trade War",
@@ -839,9 +841,7 @@
           "detail": "Recorded AIS transits trickle in single digits, but U.S.-facilitated transits successfully shepherded 33.7 million barrels of crude this week using unindexed black-shuttle routes."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-09-27T11:59:00+00:00",
       "category": "Trade War",
