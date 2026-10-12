@@ -1,6 +1,40 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-10-05T04:00:00+00:00",
+      "category": "Trade War",
+      "title": "The cross-sector ClarkSea Index has broken into historic uncharted territory, surging 14% to a fresh all-time ceiling of $75,658 per day as a relentless escalation of Iranian projectile strikes target",
+      "impact_level": "HIGH",
+      "summary": "Market read: XAU long catalyst.",
+      "details": "🛢️ Middle East Oil Risk\n\n* The Shuttle Trade Siege: The relative maritime security observed in early Q3 has collapsed as Iranian forces accelerate target selections to nearly one commercial tanker per day. Over the weekend, the brand-new Greek-operated, Chinese-owned LR2 tanker Lipsi sustained crippling engine room damage during a chokepoint run, bringing the total to seven severe vessel strikes since late September. This escalation directly jeopardizes the fragile 12 million barrels per day Gulf transit recovery. [1, 2]\n\n* Absolute Hormuz Blockade Reiteration: Iranian Parliament Speaker Mohammad Bagher Ghalibaf officially declared that the Strait of Hormuz will remain entirely closed unless the United States comprehensively signs off on Tehran’s mandatory seven-day regulatory plan. Simultaneously, Saudi energy infrastructure sustained multiple drone/missile intercepts over the weekend, widening the regional proxy risk floor. [3, 4]\n\n* Iraqi Fleet Autonomy: Defying regional shipping norms, the state-owned Iraq Oil Tanker Company successfully completed its first autonomous chokepoint transit in decades, routing 2 million barrels of crude past Hormuz on a state-owned VLCC. This move shifts delivery parameters away from the port of Basra, allowing its marketing arm (SOMO) to bypass international fleet blocks and command flexible spot pricing. [5]\n\n🇨🇦 Trade Friction\n\n* The Ottawa CEPA Launch: Chief negotiators from New Delhi and Ottawa have officially sat down in Canada today for a critical five-day round of CEPA talks. With Canadian Prime Minister Mark Carney and Indian Prime Minister Narendra Modi targeting an absolute treaty conclusion by the end of 2026, today's sessions are aggressively fast-tracking market access to insulate cross-border critical mineral and industrial supply chains. [6, 7, 8, 9]\n\n* The Transatlantic Integration Framework: Parallel to the South Asian pivot, Strasbourg legal counsels have finalized draft provisions allowing Canada special integration parameters into Europe’s defense industrial base. The structure deliberately circumvents standard parliamentary single-market vetoes to guarantee joint Arctic logistics security.\n\n💡 Strategic Advice & Market Actions\n\n* ⚠️ Enforce Absolute Zero-Transit Directives for Independent Routes: Freeze all independent routing models immediately. With Iranian forces hitting a vessel per day and the UKMTO validating rapid multi-vessel strikes, running an unescorted commercial asset through the Gulf of Oman or Strait corridors carries a near-certain strike probability.\n\n* 📊 Recalibrate Q4 Corporate Balance Sheets for the $75.6K ClarkSea Era: Logistics divisions must immediately replace old pricing models with the new $75,658/day ClarkSea benchmark. Prepare corporate margin expectations for extreme VLCC freight premiums of $660,000/day, which will heavily impact downstream chemical and energy supply chain overheads.\n\n* ➡️ Front-Run Resource Portfolios Tracking the Ottawa Treaty Path: Portfolios must maximize long exposures to western Canadian clean tech, critical minerals, and strategic energy components today. The opening of the October 5 talks locks institutional capital into a definitive structure ahead of Prime Minister Modi's upcoming state visit. [1, 2, 4, 8, 10, 11]\n\n🔄 Task State Active: Continuous full-spectrum monitoring remains engaged. The system is scanning for incoming operational outcomes from today's Ottawa sessions, subsequent shipping rate spikes past $75.6K, or central bank currency interventions. You will be notified the moment a metric trips your emergency filters. [6, 7, 10, 11]\n\n[1] https://www.wsj.com\n\n[2] https://maritime-executive.com\n\n[3] https://www.aljazeera.com\n\n[4] https://www.cnbc.com\n\n[5] https://www.reuters.com\n\n[6] https://m.economictimes.com\n\n[7] https://www.tribuneindia.com\n\n[8] https://www.pgurus.com\n\n[9] https://dailypioneer.com\n\n[10] https://sin.clarksons.net\n\n[11] https://splash247.com",
+      "table": [
+        {
+          "indicator": "Strategic Military Threats",
+          "signal_level": "HIGH",
+          "signal_label": "Kinetic Chokepoint Surge",
+          "detail": "Iranian forces sustain a strike rate of nearly one tanker per day. A new projectile hit disables the engine room of the LR2 tanker Lipsi in the Strait of Hormuz."
+        },
+        {
+          "indicator": "Macroeconomic Interventions",
+          "signal_level": "HIGH",
+          "signal_label": "Sovereign Yield & JPY Cap",
+          "detail": "JPY holds structurally weak past 158/USD on depressed BOJ rate hike expectations. The U.S. 10-year Treasury yield pins the valuation matrix down at 5.28%."
+        },
+        {
+          "indicator": "Energy & Maritime Flows",
+          "signal_level": "HIGH",
+          "signal_label": "Record Capacity Premium",
+          "detail": "The ClarkSea Index vaults 14% higher to $75,658/day, marking a 73% month-on-month surge. Average VLCC earnings explode to a historic $660,000/day."
+        },
+        {
+          "indicator": "Trade Friction Matrix",
+          "signal_level": "HIGH",
+          "signal_label": "Strategic Trade Re-routing",
+          "detail": "Fifth-round India-Canada CEPA negotiations launch today in Ottawa to seal a C$70 billion bilateral trade corridor by 2030 to bypass Washington protectionism."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-10-04T19:49:00+00:00",
       "category": "Trade War",
       "title": "The cross-sector ClarkSea Index remains rigidly locked at its record ceiling of $66,421 per day as global shipowners maintain unindexed dark convoy operations to evade coastal tracking arrays, while b",
@@ -823,7 +857,9 @@
           "detail": "Kpler telemetry registers Middle East crude exports rebounding to 12.8 million bpd in September as Saudi Arabia continues pushing 7.4 million bpd through Hormuz [Logistics ME Export Rebound]."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-09-28T04:07:00+00:00",
       "category": "Trade War",
@@ -851,9 +887,7 @@
           "detail": "Public transponder crossing volumes plunge to an absolute low of 2 outbound transits (0 inbound), though heavily armed U.S. escorts continue moving bulk volumes via unindexed routes [ShipFinder Telemetry]."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-09-27T19:05:00+00:00",
       "category": "Trade War",
@@ -2449,7 +2483,9 @@
           "detail": "Tier-1 U.S. paperboard and furniture manufacturers report severe component shortfalls due to stranded cross-border freight."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-09-12T00:05:00+00:00",
       "category": "Trade War",
@@ -2477,9 +2513,7 @@
           "detail": "Maritime underwriters increase war risk premiums to an astronomical 7.5% of hull value for Gulf transits."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-09-11T18:51:00+00:00",
       "category": "Trade War",
