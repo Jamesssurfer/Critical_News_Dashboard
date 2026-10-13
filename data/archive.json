@@ -1,6 +1,40 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-10-06T04:38:00+00:00",
+      "category": "Trade War",
+      "title": "The cross-sector ClarkSea Index solidifies its unprecedented surge, holding tightly at its absolute maximum of $75,658 per day as critical energy transits navigate acute chokepoint hostiles under extr",
+      "impact_level": "HIGH",
+      "summary": "Market read: XAU long catalyst.",
+      "details": "🛢️ Middle East Oil Risk\n\n* The Freight Plateau Lock: Data from the Clarksons Shipping Intelligence Network confirms the global shipping market \"barometer\" shows zero downward movement, holding tightly at its absolute record high. Driven by exceptionally elevated, disruption-driven rate environments in crude and LPG, the asset squeeze has spilled broadly into bulkers and container loops, pushing clean MR earnings up roughly 30% week-on-week. [1]\n\n* Chokepoint Flow Resilience: Despite the severe degradation of chokepoint security buffers—headlined by the engine room strike on the new 115,100-dwt carrier Lipsi—estimated crude flows exiting the Strait of Hormuz have temporarily clawed back to 12 million barrels per day. This critical volume is sustained strictly via an absolute reliance on AIS-dark shuttle maneuvers, allied naval shadows, and ship-to-ship transfers off Sohar, Oman. [1]\n\n🇨🇦 Trade Friction\n\n* The Ottawa CEPA Engagement: Chief negotiators from New Delhi and Ottawa are actively advancing text parameters during the October 5–9 emergency trade sprint. In a public update, Canadian International Trade Minister Maninder Sidhu confirmed that Canada is aggressively looking to conclude the pact by the end of 2026 to open new doors in one of the world's largest economies. [2, 3]\n\n* The C$70 Billion Mandate: Prompted by heightened geopolitical uncertainty and changes in the U.S. tariff regime under Washington's protectionist umbrella, both nations are fast-tracking draft provisions covering energy, critical minerals, aerospace, and agricultural products (such as pulses and potash). The talks aim to more than double two-way trade to a binding bilateral milestone of C$70 billion by 2030, up from C$30.4 billion in 2025. [2, 3, 4]\n\n💡 Strategic Advice & Market Actions\n\n* ⚠️ Enforce Absolute Zero-Transit Directives for Independent Routes: Shipping operations desks must strictly maintain a zero-transit protocol for independent commercial routing through the Gulf of Oman and Strait corridors. Following recent forced U-turns and tactical hostiles, clearing an unescorted vessel without an allied naval shadow convoy carries an immediate threat of target interception.\n\n* 📊 Structure Q4 Corporate Balance Sheets for the $75.6K ClarkSea Era: Logistics and procurement divisions must treat the $75,658/day ClarkSea floor as a permanent baseline for Q4 financial structuring. Prepare margin models to absorb persistent VLCC freight capacity premiums exceeding $600,000/day.\n\n* ➡️ Front-Run Resource Portfolios Tracking the Ottawa Treaty Path: Portfolios tracking advanced critical mineral foundries, clean tech, and aerospace infrastructure should maintain concentrated long exposures to western Canadian assets. The launch of the October 5 round establishes a definitive capital revaluation pathway ahead of Prime Minister Modi's scheduled December state visit to Canada. [1, 5, 6]\n\n🔄 Task State Active: Continuous full-spectrum monitoring remains engaged. The system is scanning for incoming text breakthroughs from the Ottawa sessions, secondary shipping spot rate jumps past $75.6K, or active Tokyo currency intervention tape. You will be notified the moment a metric trips your emergency filters.\n\n[1] https://sin.clarksons.net\n\n[2] https://timesofindia.indiatimes.com\n\n[3] https://www.aninews.in\n\n[4] https://www.thehindubusinessline.com\n\n[5] https://denizde.com.tr\n\n[6] https://dailypioneer.com",
+      "table": [
+        {
+          "indicator": "Strategic Military Threats",
+          "signal_level": "HIGH",
+          "signal_label": "Active Threat Blockade",
+          "detail": "Threat sensors register critical nav risks in the Strait of Hormuz following recent projectile strikes and IRGC interception orders forcing unapproved carrier U-turns."
+        },
+        {
+          "indicator": "Macroeconomic Interventions",
+          "signal_level": "HIGH",
+          "signal_label": "Currency Squeeze & Yield Cap",
+          "detail": "USD/JPY hovers past 157.40/USD. Finance Minister Katayama and U.S. Treasury Secretary Bessent hold active, coordinated market-monitoring channels open."
+        },
+        {
+          "indicator": "Energy & Maritime Flows",
+          "signal_level": "HIGH",
+          "signal_label": "Record Capacity Premium",
+          "detail": "The ClarkSea Index cements its 14% single-week explosion to $75,658/day. Average VLCC and Suezmax spot earnings hold historic ceilings over $600,000/day."
+        },
+        {
+          "indicator": "Trade Friction Matrix",
+          "signal_level": "HIGH",
+          "signal_label": "Strategic Trade Re-routing",
+          "detail": "Negotiating desks sprint through Day 2 of the 5-day Ottawa CEPA round, fast-tracking energy and critical mineral access lines."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-10-05T23:45:00+00:00",
       "category": "Trade War",
       "title": "The cross-sector ClarkSea Index solidifies its record-breaking run at a historic maximum of $75,658 per day as a severe chokepoint shutdown risk intensifies following an direct threat sequence by the ",
@@ -909,7 +943,9 @@
           "detail": "Clarksons registers confirm global VLCC charter rates hitting $600,000 to $800,000 per day for vessels negotiating escorted passages around the Strait."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-09-29T02:10:00+00:00",
       "category": "Trade War",
@@ -937,9 +973,7 @@
           "detail": "Clarksons registers confirm global VLCC charter rates hitting $600,000 to $800,000 per day for vessels negotiating escorted passages around the Strait."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-09-28T21:02:00+00:00",
       "category": "Trade War",
@@ -2535,7 +2569,9 @@
           "detail": "Grocers like Loblaw Cos. rollout \"T-tags\" to flag tariffed goods as consumer boycotts of U.S. inventory reach 90% in key hubs."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-09-13T09:28:00+00:00",
       "category": "Trade War",
@@ -2563,9 +2599,7 @@
           "detail": "Allied naval commands scramble to organize structured military convoys to clear the Arabian Sea insurance perimeter."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-09-12T21:22:00+00:00",
       "category": "Trade War",
@@ -5320,7 +5354,9 @@
       "title": "Israel-Turkey diplomatic channels freeze completely over Mediterranean maritime boundaries.",
       "impact_level": "MEDIUM",
       "summary": ""
-    },
+    }
+  ],
+  "past_6_months": [
     {
       "timestamp": "2026-07-15T08:30:00+00:00",
       "category": "Currency",
@@ -5329,7 +5365,6 @@
       "summary": ""
     }
   ],
-  "past_6_months": [],
   "past_1_year": [],
   "historical": []
 }
