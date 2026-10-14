@@ -2565,7 +2565,9 @@
           "detail": "Benchmark Brent crude futures surge to $112.40, threatening systemic global industrial stagflation."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-09-14T18:21:00+00:00",
       "category": "Trade War",
@@ -2593,9 +2595,7 @@
           "detail": "U.S. Custom portals lock parameters to implement expanded 50% Section 338 duties[](https://www.supplychaindive.com/news/trump-escalates-canada-trade-war-with-new-tariffs-import-bans/829876/) on specialty items at midnight tomorrow."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-09-14T16:12:00+00:00",
       "category": "Trade War",
