@@ -939,7 +939,9 @@
           "detail": "Clarksons Research data shows the cross-sector ClarkSea Index holding rigid at its all-time record peak of $64,569 per day, sitting 27% past shipping's historic 2007 peak."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-09-30T15:00:00+00:00",
       "category": "Trade War",
@@ -967,9 +969,7 @@
           "detail": "Clarksons registries confirm global VLCC spot voyages around Hormuz are holding between $800,000 and $1.5 million per day, inflating the freight tax per barrel to 15%."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-09-30T02:23:00+00:00",
       "category": "Trade War",
@@ -2593,7 +2593,9 @@
           "detail": "U.S. Custom portals lock parameters to implement expanded 50% Section 338 duties[](https://www.supplychaindive.com/news/trump-escalates-canada-trade-war-with-new-tariffs-import-bans/829876/) on specialty items at midnight tomorrow."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-09-14T16:12:00+00:00",
       "category": "Trade War",
@@ -2621,9 +2623,7 @@
           "detail": "Major Midwest factories issue structural alert declarations, citing imminent part shortfalls due to trapped cross-border trucks."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-09-14T11:15:00+00:00",
       "category": "Trade War",
