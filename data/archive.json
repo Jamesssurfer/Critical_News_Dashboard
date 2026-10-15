@@ -695,7 +695,9 @@
           "detail": "Daily VLCC charter spot equivalents for premium runs clearing the Gulf hold rigid between $800,000 and $1.5 million a day, completely breaking corporate freight budgets."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-10-01T22:31:00+00:00",
       "category": "Trade War",
@@ -947,9 +949,7 @@
           "detail": "Daily VLCC charter spot equivalents for premium runs clearing the Gulf hold rigid between $800,000 and $1.5 million a day, completely breaking corporate freight budgets."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-10-01T17:00:00+00:00",
       "category": "Trade War",
