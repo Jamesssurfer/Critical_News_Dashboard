@@ -911,7 +911,9 @@
           "detail": "Clarksons Research data shows the cross-sector ClarkSea Index holding rigid at its all-time record peak of $64,569 per day, sitting 27% past shipping's historic 2007 boom."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-09-30T21:48:00+00:00",
       "category": "Trade War",
@@ -939,9 +941,7 @@
           "detail": "Clarksons Research data shows the cross-sector ClarkSea Index holding rigid at its all-time record peak of $64,569 per day, sitting 27% past shipping's historic 2007 peak."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-09-30T15:00:00+00:00",
       "category": "Trade War",
