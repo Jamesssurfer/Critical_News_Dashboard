@@ -907,7 +907,9 @@
           "detail": "Tectonic maritime data reveals the ClarkSea cross-sector barometer scales $66,421/day, driven by severe container, bulker, and gas carrier capacity deficits."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-10-01T14:38:11.167556+00:00",
       "category": "Trade War",
@@ -963,9 +965,7 @@
           "detail": "Daily VLCC charter spot equivalents for premium runs clearing the Gulf hold rigid between $800,000 and $1.5 million a day, completely breaking corporate freight budgets."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-10-01T06:17:00+00:00",
       "category": "Trade War",
@@ -2589,7 +2589,9 @@
           "detail": "The Big Three U.S. automakers enter the final 24 hours of mineral safety buffers before mandatory factory idling triggers."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-09-15T13:19:00+00:00",
       "category": "Trade War",
@@ -2645,9 +2647,7 @@
           "detail": "Brent Crude Futures trade volatile near $112.80 / bbl as U.S. Navy Fifth Fleet strike groups hold weapons on launch standby."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-09-15T05:12:00+00:00",
       "category": "Trade War",
