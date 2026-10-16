@@ -263,13 +263,12 @@ def parse_raw_text(raw: str) -> dict | None:
     if not raw or not raw.strip():
         return None
 
-    # Keep original lines for structure; also a stripped list for scanning
     raw_lines = raw.replace("\r\n", "\n").splitlines()
     lines = [l.strip() for l in raw_lines if l.strip()]
     if not lines:
         return None
 
-    # --- timestamp: "October 8, 1:47 AM" or "October 11, 7:50 PM" near top ---
+    # --- timestamp ---
     timestamp = None
     for l in lines[:5]:
         m = re.search(r'([A-Z][a-z]+ \d{1,2},\s*\d{1,2}:\d{2}\s*[AaPp][Mm])', l)
@@ -284,7 +283,7 @@ def parse_raw_text(raw: str) -> dict | None:
     if timestamp is None:
         timestamp = datetime.now(timezone.utc).isoformat()
 
-    # --- lead narrative: the ## 🚨 ... line (full paragraph, NOT truncated) ---
+    # --- lead narrative ---
     lead = ""
     title_idx = None
     for i, l in enumerate(lines):
@@ -301,10 +300,9 @@ def parse_raw_text(raw: str) -> dict | None:
     if not lead:
         lead = lines[0][:300]
 
-    # Card title = clean first sentence / word-boundary teaser (never mid-word)
     title = first_sentence(lead, max_len=200)
 
-    # --- category (priority order: Geopolitical > Trade War > Currency) ---
+    # --- category (Geopolitical first) ---
     lower = raw.lower()
     category = "Geopolitical"
     for cat, kws in CATEGORY_KEYWORDS.items():
@@ -328,18 +326,18 @@ def parse_raw_text(raw: str) -> dict | None:
 
     summary = infer_market_read(category, impact_level, lower)
 
-    # --- details: FULL lead first, then deep-dive sections ---
-    # Skip: matrix table, dividers, empty bullets, footer boilerplate, citations
+    # --- details: FULL lead + deep-dive + strategic advice ---
     details_blocks = []
     if lead:
         details_blocks.append(lead)
 
     skip_matrix = False
     start = (title_idx + 1) if title_idx is not None else 0
+
     for l in lines[start:]:
         low_l = l.lower()
 
-        # Hard stop before interactive / pipeline boilerplate
+        # Hard stop on console boilerplate
         if any(phrase in low_l for phrase in (
             'automated pipeline status',
             'i will stay on top',
@@ -351,50 +349,65 @@ def parse_raw_text(raw: str) -> dict | None:
             'as global',
             'please let me know in this conversation',
             'to optimize the precision of the incoming micro-alerts',
+            'console status:',
+            '🔄 console status',
         )):
             break
 
-        # Citation footer lines like [1] https://...
+        # Citation-only lines
         if re.match(r'^\[\d+\]\s*', l) or re.match(r'^https?://', l):
             continue
 
-        # Tactical Risk Matrix block (table extracted separately)
+        # Enter matrix skip
         if 'tactical risk matrix' in low_l:
             skip_matrix = True
             continue
+
+        # Exit matrix skip as soon as we hit a real section header
+        # (emoji + text, ## heading, or known section names)
         if skip_matrix:
-            if l.startswith('##') and 'tactical risk matrix' not in low_l:
+            is_section = (
+                l.startswith('##')
+                or l.startswith('🔎')
+                or l.startswith('💡')
+                or l.startswith('🛢️')
+                or l.startswith('🇨🇦')
+                or 'intelligence deep dive' in low_l
+                or 'strategic advice' in low_l
+                or 'core developments' in low_l
+            )
+            if is_section:
                 skip_matrix = False
-                # fall through — this is the next deep-dive heading
+                # fall through and keep this line
             else:
-                if l.startswith('```') or l.startswith('|') or l.startswith('---') or '\t' in l:
-                    continue
-                # also skip pure tab-rows that look like matrix data
-                if any(e in l for e in IMPACT_EMOJI) and len(l.split()) > 3:
+                # still inside matrix → drop
+                if (l.startswith('```') or l.startswith('|') or l.startswith('---')
+                        or '\t' in l
+                        or any(e in l for e in IMPACT_EMOJI)):
                     continue
                 continue
 
+        # Structural noise
         if l.startswith('---') or l.startswith('|') or l.startswith('```'):
             continue
-        # Empty markdown bullets
         if l in ('*', '-', '•'):
             continue
 
         stripped = strip_markdown_links(l)
         if not stripped:
             continue
-        # Skip pure document-type headers already known
+
+        # Known document-type headers – keep only the useful ones
         if stripped.lower() in (
             'macro risk & geopolitical intelligence alert',
             'intelligence deep dive & core developments',
             'strategic advice & market actions',
         ):
-            # Keep section headings that are useful (deep dive / advice)
             if 'deep dive' in stripped.lower() or 'strategic advice' in stripped.lower():
                 details_blocks.append(stripped)
             continue
 
-        # Split glued ## headings on one line
+        # Split glued ## headings
         if '##' in stripped:
             parts = re.split(r'\s*##+\s*', stripped)
             for p in parts:
@@ -409,10 +422,7 @@ def parse_raw_text(raw: str) -> dict | None:
 
         details_blocks.append(stripped)
 
-    # Join with blank lines between blocks for readability
     details = "\n\n".join(d for d in details_blocks if d)
-
-    # Soft cap at word/paragraph boundary (was hard-cutting mid-narrative)
     if len(details) > 16000:
         details = details[:16000].rsplit('\n\n', 1)[0]
 
