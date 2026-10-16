@@ -2573,7 +2573,9 @@
           "detail": "CENTCOM operational feeds log a temporary tactical pause in the Persian Gulf as naval assets evaluate the damage to IRGC mobile launcher networks."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-09-16T05:30:00+00:00",
       "category": "Geopolitical",
@@ -2601,9 +2603,7 @@
           "detail": "Brent Crude Futures break historic ceilings, gapping violently to an unprecedented $124.60 / bbl."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-09-16T02:54:00+00:00",
       "category": "Trade War",
