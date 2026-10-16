@@ -8,6 +8,11 @@
 # was truncated mid-word at 200 chars for the title, while first_paragraph
 # stayed empty. The full lead is now kept in details; title is a clean
 # short teaser truncated at a word boundary.
+#
+# 2026-10-16 fixes:
+#   - extract_table now accepts tab-separated risk-matrix rows (not only | markdown)
+#   - category prioritises kinetic/maritime/Hormuz signals over incidental CEPA/trade-mission keywords
+#   - details cleanup is more aggressive on residual citation footers
 
 import os
 import re
@@ -85,10 +90,23 @@ def first_sentence(text: str, max_len: int = 220) -> str:
     return truncate_at_word(text, max_len)
 
 
+# ── Category keywords (ordered by priority) ────────────────────────────────
+# Kinetic / maritime signals take precedence over incidental trade-mission language.
 CATEGORY_KEYWORDS = {
-    "Trade War": ["tariff", "trade war", "trade friction", "export control", "sanction", "cepa", "trade pact", "trade mission"],
-    "Currency": ["dxy", "boj", "fed ", "federal reserve", "yen", "jpy", "usd/jpy", "interest rate",
-                 "rate check", "rate hike", "rate cut", "central bank", "treasury yield"],
+    "Geopolitical": [
+        "hormuz", "strait of hormuz", "irgc", "missile", "drone", "projectile",
+        "kinetic", "attack", "strike", "sinking", "vessel struck", "shipping disruption",
+        "maritime", "blockade", "chokepoint", "ukmto", "jmic",
+    ],
+    "Trade War": [
+        "tariff", "trade war", "trade friction", "export control", "sanction",
+        "cepa", "trade pact", "trade mission",
+    ],
+    "Currency": [
+        "dxy", "boj", "fed ", "federal reserve", "yen", "jpy", "usd/jpy",
+        "interest rate", "rate check", "rate hike", "rate cut", "central bank",
+        "treasury yield",
+    ],
 }
 
 IMPACT_EMOJI = {"🔴": "HIGH", "🟠": "HIGH", "🟡": "MEDIUM", "🟢": "LOW", "⚪": "LOW"}
@@ -136,7 +154,12 @@ def infer_market_read(category: str, impact_level: str, raw_lower: str) -> str:
 
 
 def extract_table(lines):
-    """Parse the first markdown table into structured rows."""
+    """
+    Parse the first risk-matrix table.
+    Supports both markdown | tables and tab-separated rows
+    (Tracked Risk Domain \\t Status Signal \\t Material Discovery...).
+    """
+    # ── 1. Markdown pipe table ────────────────────────────────────────────
     for i in range(len(lines) - 1):
         line = lines[i]
         nxt = lines[i + 1]
@@ -169,7 +192,60 @@ def extract_table(lines):
                     "signal_label": signal_label,
                     "detail": detail,
                 })
-        return table_rows
+        if table_rows:
+            return table_rows
+
+    # ── 2. Tab-separated risk matrix (common in the live alerts) ──────────
+    header_idx = None
+    for i, line in enumerate(lines):
+        low = line.lower()
+        if "tracked risk domain" in low and ("status signal" in low or "\t" in line):
+            header_idx = i
+            break
+        # fallback: first line that looks like a domain + emoji + text
+        if "\t" in line and any(e in line for e in IMPACT_EMOJI):
+            header_idx = i - 1  # treat previous as header
+            break
+
+    if header_idx is not None:
+        table_rows = []
+        j = header_idx + 1
+        while j < len(lines):
+            line = lines[j]
+            # stop at next section heading or empty structural break
+            if line.startswith('##') or line.startswith('🔎') or line.startswith('💡') or line.startswith('🔄'):
+                break
+            if not line or line.startswith('---') or line.startswith('```'):
+                j += 1
+                continue
+            # split on tab; if no tab try 2+ spaces
+            if "\t" in line:
+                cells = [c.strip() for c in line.split("\t")]
+            else:
+                cells = re.split(r'\s{2,}', line)
+            if len(cells) < 2:
+                j += 1
+                continue
+            indicator = strip_markdown_links(cells[0])
+            signal_raw = cells[1] if len(cells) > 1 else ''
+            signal_level = None
+            for emoji, lvl in IMPACT_EMOJI.items():
+                if emoji in signal_raw:
+                    signal_level = lvl
+                    break
+            signal_label = strip_emoji_prefix(strip_markdown_links(signal_raw))
+            detail = strip_markdown_links(' '.join(cells[2:])) if len(cells) > 2 else ''
+            if indicator or signal_label or detail:
+                table_rows.append({
+                    "indicator": indicator,
+                    "signal_level": signal_level,
+                    "signal_label": signal_label,
+                    "detail": detail,
+                })
+            j += 1
+        if table_rows:
+            return table_rows
+
     return []
 
 
@@ -228,7 +304,7 @@ def parse_raw_text(raw: str) -> dict | None:
     # Card title = clean first sentence / word-boundary teaser (never mid-word)
     title = first_sentence(lead, max_len=200)
 
-    # --- category ---
+    # --- category (priority order: Geopolitical > Trade War > Currency) ---
     lower = raw.lower()
     category = "Geopolitical"
     for cat, kws in CATEGORY_KEYWORDS.items():
@@ -291,7 +367,10 @@ def parse_raw_text(raw: str) -> dict | None:
                 skip_matrix = False
                 # fall through — this is the next deep-dive heading
             else:
-                if l.startswith('```') or l.startswith('|') or l.startswith('---'):
+                if l.startswith('```') or l.startswith('|') or l.startswith('---') or '\t' in l:
+                    continue
+                # also skip pure tab-rows that look like matrix data
+                if any(e in l for e in IMPACT_EMOJI) and len(l.split()) > 3:
                     continue
                 continue
 
