@@ -1,39 +1,139 @@
 [
   {
     "timestamp": "2026-10-15T23:17:00+00:00",
-    "category": "Trade War",
+    "category": "Geopolitical",
     "title": "The Maritime and Port Authority of Singapore (MPA) confirms two Singapore-registered container vessels were struck by unknown projectiles in the Strait of Hormuz, causing one ship to sink, while the…",
     "impact_level": "HIGH",
     "summary": "Market read: Oil bullish / XAU long.",
     "details": "The Maritime and Port Authority of Singapore (MPA) confirms two Singapore-registered container vessels were struck by unknown projectiles in the Strait of Hormuz, causing one ship to sink, while the record-breaking ClarkSea Index surges to an all-time maximum of $84,951 per day. Geopolitical maritime volatility has reached an extreme kinetic threshold; the boxship GFS Pride sustained catastrophic hull damage and a severe fire before sinking, while its sister ship GFS Giselle was forced to limp to a safe anchorage. Concurrently, United Nations rural development agencies report that gridlocked Middle East chokepoints are actively disrupting international agricultural harvests and threatening farm yields.",
-    "table": []
+    "table": [
+      {
+        "indicator": "Strategic Military Threats",
+        "signal_level": "HIGH",
+        "signal_label": "Kinetic Chokepoint Destruction",
+        "detail": "MPA validates the container ships GFS Pride (sunk) and GFS Giselle (damaged) were hit by projectiles. Reuters notes Iran is shifting tactics to target ships to keep oil high."
+      },
+      {
+        "indicator": "Macroeconomic Interventions",
+        "signal_level": "HIGH",
+        "signal_label": "Yield-Driven Forex Volatility",
+        "detail": "USD/JPY pulls back off its recent multi-week peak of 159.00, slipping to 157.70 as lower U.S. yields and persistent G2 intervention fears support the Yen."
+      },
+      {
+        "indicator": "Energy & Maritime Flows",
+        "signal_level": "HIGH",
+        "signal_label": "Unpeaked Earnings Boom",
+        "detail": "The Clarksons Shipping Intelligence Network ClarkSea index holds its historic peak of $84,951/day. Average VLCC spot earnings remain locked at a staggering $804,601/day."
+      },
+      {
+        "indicator": "Trade Friction Matrix",
+        "signal_level": "LOW",
+        "signal_label": "Decisive Commercial Swarm",
+        "detail": "The historic 300-member Team Canada Trade Mission enters its final phases in India, executing strategic aerospace, agri-food, and clean energy B2B loops."
+      }
+    ]
   },
   {
     "timestamp": "2026-10-14T19:50:00+00:00",
-    "category": "Trade War",
+    "category": "Geopolitical",
     "title": "Iran shifts its offensive tactics to sharply accelerate air and missile strikes on shipping corridors—hitting six commercial vessels in the Strait of Hormuz in a single day—while New Delhi begins…",
     "impact_level": "HIGH",
     "summary": "Market read: Oil bullish / XAU long.",
     "details": "Iran shifts its offensive tactics to sharply accelerate air and missile strikes on shipping corridors—hitting six commercial vessels in the Strait of Hormuz in a single day—while New Delhi begins high-level talks to host Canadian Prime Minister Mark Carney as its official Republic Day chief guest to finalize the comprehensive trade pact. A dramatic single-day wave of assaults, including projectile hits on the container ship GFS Galaxy and an ADNOC crude carrier, has pushed the total number of attacks in the waterway to 18 during the first two weeks of October alone. This violent surge in chokepoint hostiles has locked the cross-sector ClarkSea Index at an extraordinary all-time supercycle maximum of $84,951 per day.",
-    "table": []
+    "table": [
+      {
+        "indicator": "Strategic Military Threats",
+        "signal_level": "HIGH",
+        "signal_label": "Kinetic Chokepoint Surge",
+        "detail": "UKMTO logs 18 vessel attacks in October. Six ships were struck by projectiles in a single 24-hour loop, confirming that Iran is using new offensive tactics."
+      },
+      {
+        "indicator": "Macroeconomic Interventions",
+        "signal_level": "HIGH",
+        "signal_label": "Carry Trade Rebound",
+        "detail": "USD/JPY breaks above 158.44, trading in a volatile range up to 159.05 as carry trade demand supports dollar bulls ahead of CPI data."
+      },
+      {
+        "indicator": "Energy & Maritime Flows",
+        "signal_level": "HIGH",
+        "signal_label": "Unpeaked Earnings Boom",
+        "detail": "The global ClarkSea Index reaches a record fifth consecutive high of $84,951/day. Shipowners freeze scrap recycling."
+      },
+      {
+        "indicator": "Trade Friction Matrix",
+        "signal_level": "LOW",
+        "signal_label": "Bilateral Diplomatic Surge",
+        "detail": "The 300-member Team Canada mission sweeps through India, while Foreign Minister Anita Anand holds crucial defense and trade talks in New Delhi."
+      }
+    ]
   },
   {
     "timestamp": "2026-10-14T01:11:00+00:00",
-    "category": "Trade War",
+    "category": "Geopolitical",
     "title": "The Islamic Revolutionary Guard Corps (IRGC) Navy unleashes a relentless barrage targeting six commercial ships near the Strait of Hormuz in a single day—marking the highest pace of escalation since…",
     "impact_level": "HIGH",
     "summary": "Market read: Oil bullish / XAU long.",
     "details": "The Islamic Revolutionary Guard Corps (IRGC) Navy unleashes a relentless barrage targeting six commercial ships near the Strait of Hormuz in a single day—marking the highest pace of escalation since the war began—while Canadian Prime Minister Mark Carney and Indian Prime Minister Narendra Modi hold a high-level summit call to lock down the C$70 billion trade pact deadline. Acute hostiles have triggered severe maritime gridlocks, with the UK Maritime Trade Operations (UKMTO) verifying that more than 18 commercial vessels were targeted during the first 12 days of October, shattering localized security thresholds and driving global capacity risk premiums to unprecedented levels.",
-    "table": []
+    "table": [
+      {
+        "indicator": "Strategic Military Threats",
+        "signal_level": "HIGH",
+        "signal_label": "Hyper-Kinetic Squeeze Loop",
+        "detail": "Six commercial vessels hit or intercepted in under 24 hours near the Strait of Hormuz. At least 14 distinct attacks or interventions logged between October 5 and 12."
+      },
+      {
+        "indicator": "Macroeconomic Interventions",
+        "signal_level": "HIGH",
+        "signal_label": "Multi-Market Yield Leash",
+        "detail": "Multi-decade fixed-income pressure remains active, anchoring the U.S. 10-year Treasury yield at 5.34%. Algorithmic trading desks hold a protective leash on broad asset equity multiples."
+      },
+      {
+        "indicator": "Energy & Maritime Flows",
+        "signal_level": "HIGH",
+        "signal_label": "Record Capacity Premium",
+        "detail": "The Clarksons Shipping Intelligence Network ClarkSea barometer registers an exceptional capacity squeeze. Daily vessel transits collapse to 29 US-facilitated runs versus a historical baseline of 138."
+      },
+      {
+        "indicator": "Trade Friction Matrix",
+        "signal_level": "LOW",
+        "signal_label": "Major Bilateral Launch",
+        "detail": "Prime Ministers Carney and Modi hold an emergency phone call alongside the ongoing 300-delegate Team Canada Trade Mission to fast-track resource security corridors."
+      }
+    ]
   },
   {
     "timestamp": "2026-10-13T22:07:00+00:00",
-    "category": "Trade War",
+    "category": "Geopolitical",
     "title": "The United Kingdom Maritime Trade Operations (UKMTO) has issued a flurry of emergency alerts after six commercial ships were struck near the Strait of Hormuz in a single day, while International…",
     "impact_level": "HIGH",
     "summary": "Market read: Oil bullish / XAU long.",
     "details": "The United Kingdom Maritime Trade Operations (UKMTO) has issued a flurry of emergency alerts after six commercial ships were struck near the Strait of Hormuz in a single day, while International Trade Minister Maninder Sidhu aggressively leads Canada’s largest commercial delegation to India in over 30 years. A hyper-accelerated kinetic offensive by the Islamic Revolutionary Guard Corps (IRGC) Navy—marked by projectile hits on three crude tankers (including the ADNOC VLCC Al Maqam and the Kition M) and an Indian-registered container ship—has severely gridlocked Persian Gulf shipping corridors, driving the global ClarkSea Index to a historic, unprecedented supercycle peak of $84,951 per day.",
-    "table": []
+    "table": [
+      {
+        "indicator": "Strategic Military Threats",
+        "signal_level": "HIGH",
+        "signal_label": "Hyper-Kinetic Squeeze Loop",
+        "detail": "UKMTO tracks 18 separate vessel strikes in October alone. Six ships were disabled or set ablaze in under 24 hours for ignoring IRGC transponder and route dictates."
+      },
+      {
+        "indicator": "Macroeconomic Interventions",
+        "signal_level": "HIGH",
+        "signal_label": "Technical Resistance Barrier",
+        "detail": "USD/JPY edges up to 158.55 as the 200-day moving average forms severe technical resistance. The U.S. 10-year Treasury yield pins down broad market multiples at 5.34%."
+      },
+      {
+        "indicator": "Energy & Maritime Flows",
+        "signal_level": "HIGH",
+        "signal_label": "Record Capacity Premium",
+        "detail": "The Clarksons Research ClarkSea barometer registers a massive 12% week-on-week explosion to $84,951/day, shattering the previous 2007 supercycle ceiling."
+      },
+      {
+        "indicator": "Trade Friction Matrix",
+        "signal_level": "LOW",
+        "signal_label": "Major Bilateral Launch",
+        "detail": "The 300-member Team Canada Trade Mission advances through Day 2 of its deployment in Mumbai and Bengaluru to lock in energy and critical mineral corridors."
+      }
+    ]
   },
   {
     "timestamp": "2026-10-12T07:50:00+00:00",

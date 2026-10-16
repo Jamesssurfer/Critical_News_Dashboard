@@ -1,6 +1,11 @@
 [
   {
     "label": "The Maritime and Port Authority of Singapore (MPA) confirms two Singapore-registered conta",
+    "category": "Geopolitical",
+    "impact_level": "HIGH"
+  },
+  {
+    "label": "The cross-sector ClarkSea Index shatters all historical thresholds, surging 12% in a singl",
     "category": "Trade War",
     "impact_level": "HIGH"
   }
