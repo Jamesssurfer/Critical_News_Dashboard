@@ -667,7 +667,9 @@
           "detail": "Data from Kpler confirms targeted hulls like the Al Ruwais successfully completed massive ship-to-ship diesel discharges off Sohar, Oman under dark-transponder configurations."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-10-02T02:15:00+00:00",
       "category": "Trade War",
@@ -695,9 +697,7 @@
           "detail": "Daily VLCC charter spot equivalents for premium runs clearing the Gulf hold rigid between $800,000 and $1.5 million a day, completely breaking corporate freight budgets."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-10-01T22:31:00+00:00",
       "category": "Trade War",
@@ -2601,7 +2601,9 @@
           "detail": "Brent Crude Futures break historic ceilings, gapping violently to an unprecedented $124.60 / bbl."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-09-16T02:54:00+00:00",
       "category": "Trade War",
@@ -2657,9 +2659,7 @@
           "detail": "The Big Three U.S. automakers enter the final 24 hours of mineral safety buffers before mandatory factory idling triggers."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-09-15T13:19:00+00:00",
       "category": "Trade War",
