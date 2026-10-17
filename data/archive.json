@@ -2513,7 +2513,9 @@
           "detail": "LSEG cargo tracking logs Brent crude easing 2.2% to $105.50 / bbl as catastrophic supply cuts are avoided."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-09-17T15:12:16.638860+00:00",
       "category": "Trade War",
@@ -2541,9 +2543,7 @@
           "detail": "The White House Memorandum[](https://www.tribuneindia.com/news/us-canada-trade-war-heats-up-as-trump-signs-memorandum-to-exclude-canadian-products-from-federal-procurement/) orders the immediate purging of all Canadian-origin goods from federal civil procurement channels."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-09-17T07:41:05.987443+00:00",
       "category": "Trade War",
