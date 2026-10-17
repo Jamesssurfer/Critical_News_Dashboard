@@ -2541,7 +2541,9 @@
           "detail": "The White House Memorandum[](https://www.tribuneindia.com/news/us-canada-trade-war-heats-up-as-trump-signs-memorandum-to-exclude-canadian-products-from-federal-procurement/) orders the immediate purging of all Canadian-origin goods from federal civil procurement channels."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-09-17T07:41:05.987443+00:00",
       "category": "Trade War",
@@ -2625,9 +2627,7 @@
           "detail": "Kpler commodity logs[](https://www.cnbc.com/2026/09/16/oil-prices-today-brent-wti-hormuz-iran-war.html) flag four supertankers executing ship-to-ship shuttles via Omani port routes to shield buyers."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-09-16T19:45:00+00:00",
       "category": "Trade War",
