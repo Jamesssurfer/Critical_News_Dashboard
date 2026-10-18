@@ -2429,7 +2429,9 @@
           "detail": "Loblaw and major Canadian distributors[](https://bworldonline.com/agribusiness/2026/09/14/776476/canada-boycotts-push-grocers-to-explore-new-alternatives-to-us-produce-following-tariff-row/) execute long-term cargo shifts toward European maritime freight lines to bypass the U.S. border network."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-09-18T00:17:33.823624+00:00",
       "category": "Trade War",
@@ -2513,9 +2515,7 @@
           "detail": "LSEG cargo tracking logs Brent crude easing 2.2% to $105.50 / bbl as catastrophic supply cuts are avoided."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-09-17T15:12:16.638860+00:00",
       "category": "Trade War",
