@@ -645,7 +645,9 @@
           "detail": "The 5-day Ottawa CEPA round officially opens. Commerce Secretary Rajesh Agarwal maps an emergency flight to Canada to force a year-end treaty lock."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-10-05T18:49:00+00:00",
       "category": "Trade War",
@@ -679,9 +681,7 @@
           "detail": "India and Canada formally commence five days of emergency trade talks in Ottawa to fast-track a C$70 billion bilateral trade corridor by 2030."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-10-05T10:18:00+00:00",
       "category": "Trade War",
