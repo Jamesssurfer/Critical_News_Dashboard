@@ -1,6 +1,40 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-10-12T07:50:00+00:00",
+      "category": "Trade War",
+      "title": "The cross-sector ClarkSea Index shatters all historical thresholds, surging 12% in a single week to a historic high of $84,951 per day as global shipping earnings enter an extraordinary, unpeaked…",
+      "impact_level": "HIGH",
+      "summary": "Market read: Oil bullish / XAU long.",
+      "details": "The cross-sector ClarkSea Index shatters all historical thresholds, surging 12% in a single week to a historic high of $84,951 per day as global shipping earnings enter an extraordinary, unpeaked boom, while Canada unleashes its largest trade mission to India in over 30 years to fast-track the C$70 billion CEPA milestone. Systemic volatility has reached critical boundaries across international maritime chokepoints after a U.S. military fighter jet launched a precision strike in the Gulf of Oman, completely disabling the propulsion of a commercial bulker breaching the Iranian port blockade. This kinetic escalation has choked Strait of Hormuz visible transits down to their absolute lowest level in over two months, compounding vessel deficits and inflating global freight capacity premiums to unprecedented supercycle peaks.\n\n🛢️ Middle East Chokepoints: U.S. Fighter Jet Strike & Record ClarkSea Ceilings\n\n* The Iran Blockade Enforcement: In a significant tactical escalation over the weekend, a U.S. military fighter jet launched a precision guided munition at the stern of the Panama-flagged, 70,296-dwt commercial bulker M/V Ocean Molica (also operating as the Arika Sun) in the Gulf of Oman. U.S. Central Command (CENTCOM) confirmed the vessel ignored repeated warnings to turn back after departing an Iranian port. The precision hit completely disabled the carrier's propulsion mechanics without crew injuries. This brings CENTCOM's three-month blockade tally to 4 ships disabled, 135 turned away, and 10 IRGC-linked tankers destroyed. [1, 2, 3, 4, 5]\n\n* The Global Shipping Earnings Boom: Driven by this aggressive naval containment and severe vessel shortages, the global cross-sector ClarkSea Index skyrocketed 12% in a week to a record $84,951 a day—dwarfing the previous 2007 supercycle peak of $50,714. The freight plateau has triggered a complete drought in ship recycling; owners are keeping elderly tonnage afloat due to exceptional freight earnings and skyrocketing secondhand market values. [6, 7]\n\n* Chokepoint Volume Collapse: Following a multi-week peak in tanker hostiles, visible commercial transits through the vital Strait of Hormuz have collapsed to their absolute lowest level in over two months. This critical tightening of liquid and dry bulk pipelines continues to enforce staggering logistics overheads globally. [1, 6]\n\n🇨🇦 Trade Friction: Canada Deploys Historic Trade Mission to India Amid CEPA Advance\n\n* The Team Canada Trade Mission: Forcing its parallel trade diversification architecture into a decisive acceleration phase, the Canadian government officially launched its Team Canada Trade Mission to India today (running October 12–17). Led by International Trade Minister Maninder Sidhu, a historic delegation of nearly 300 business delegates has landed in Mumbai and Bengaluru. This stands as Canada’s largest commercial engagement in India in over 30 years. [8, 9, 10, 11]\n\n* The C$70 Billion Strategic Corridor: Explicitly engineered to bypass North American tariff friction and diversify networks beyond the United States, the mission is designed to forge immediate commercial deals across aerospace, space, clean technology, information communications (ICT), and energy transition sectors. The deployment serves to directly support the ongoing text negotiations aimed at concluding a comprehensive economic partnership agreement (CEPA) by the end of 2026, targeting a bilateral trade milestone of C$70 billion by 2030. [8, 9, 10, 12]\n\n💡 Strategic Advice & Market Actions\n\n* ⚠️ Enforce Absolute Zero-Transit Directives for Blockade Corridors: Logistics operations desks must strictly halt all independent commercial routing attempting to leave or enter Iranian port networks. Following the U.S. precision jet strike, any asset bypassing blockade orders faces immediate kinetic disabling. All surrounding commercial tonnage must maintain active channel 16 communications with U.S. naval forces.\n\n* 📊 Recalibrate Corporate Financial Layouts for the $84.9K ClarkSea Era: Supply chain and procurement divisions must transition to a permanent $84,951/day ClarkSea floor for Q4 cost modeling. Abandon any expectations of near-term shipping cost normalization; the acute vessel scarcity across tankers, containerships, and dry bulk lines will keep capacity premiums at multi-decade highs.\n\n* ➡️ Front-Run Resource Portfolios Tracking the India-Canada Mission: Portfolio risk managers tracking aerospace tech, alternative battery components, and clean energy transition infrastructure should maximize long exposures to western Canadian foundries today. The launch of the massive October 12–17 trade mission to India guarantees cross-border institutional capital allocations will heavily revalue uncommitted industrial segments. [1, 2, 3, 6, 8, 9, 13, 14]",
+      "table": [
+        {
+          "indicator": "Strategic Military Threats",
+          "signal_level": "HIGH",
+          "signal_label": "Blockade Enforcement Strike",
+          "detail": "A U.S. jet disables the Panama-flagged bulker M/V Ocean Molica (Arika Sun). CENTCOM confirms 4 commercial ships have been disabled and 135 turned away since July 14."
+        },
+        {
+          "indicator": "Macroeconomic Interventions",
+          "signal_level": "HIGH",
+          "signal_label": "Macro Asset Compression",
+          "detail": "Runaway maritime disruptions and multi-decade fixed-income strains trap global equity index valuation multiples on a strict defensive leash."
+        },
+        {
+          "indicator": "Energy & Maritime Flows",
+          "signal_level": "HIGH",
+          "signal_label": "Historic Capacity Premium",
+          "detail": "The Clarksons Research Shipping Intelligence Network ClarkSea barometer hits a fifth consecutive all-time high of $84,951/day. Transit volumes collapse."
+        },
+        {
+          "indicator": "Trade Friction Matrix",
+          "signal_level": "LOW",
+          "signal_label": "Massive Bilateral Pivot",
+          "detail": "Canada launches an unprecedented 300-delegate Team Canada Trade Mission to India today to secure aerospace, critical mineral, and energy loops."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-10-11T19:50:00+00:00",
       "category": "Trade War",
       "title": "A U.S. military fighter jet launches a precision strike on a commercial cargo ship in the Gulf of Oman, enforcing a strict naval blockade and sinking transit volumes to their lowest tier in over two…",
@@ -645,7 +679,9 @@
           "detail": "India and Canada formally commence five days of emergency trade talks in Ottawa to fast-track a C$70 billion bilateral trade corridor by 2030."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-10-05T10:18:00+00:00",
       "category": "Trade War",
@@ -747,9 +783,7 @@
           "detail": "Fifth-round India-Canada CEPA negotiations launch today in Ottawa to seal a C$70 billion bilateral trade corridor by 2030 to bypass Washington protectionism."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-10-04T19:49:00+00:00",
       "category": "Trade War",
@@ -2273,7 +2307,9 @@
           "detail": "Spillover from the Strait of Hormuz blockades[](https://news.usni.org/2026/09/18/hormuz-transits-hit-three-week-high-vlcc-rates-explode) violently drives the West Africa-to-China VLCC shipping index to an all-time record of $509,000 per day [USNI News Tanker Rates Explode]."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-09-19T10:24:48.991776+00:00",
       "category": "Trade War",
@@ -2329,9 +2365,7 @@
           "detail": "Baltic Exchange data records historic VLCC spot rates crossing $1.035 million per day for daring assets entering the Strait of Hormuz [Yahoo Finance Tanker Spikes]."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-09-19T00:13:48.711431+00:00",
       "category": "Trade War",
