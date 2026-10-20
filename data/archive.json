@@ -611,7 +611,9 @@
           "detail": "Negotiating desks sprint through Day 2 of the 5-day Ottawa CEPA round, fast-tracking energy and critical mineral access lines."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-10-05T23:45:00+00:00",
       "category": "Trade War",
@@ -645,9 +647,7 @@
           "detail": "The 5-day Ottawa CEPA round officially opens. Commerce Secretary Rajesh Agarwal maps an emergency flight to Canada to force a year-end treaty lock."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-10-05T18:49:00+00:00",
       "category": "Trade War",
