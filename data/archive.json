@@ -2263,7 +2263,9 @@
           "detail": "Iran's Parliament Speaker confirms the Strait of Hormuz will remain entirely closed until the U.S. completely fulfills commitments under the June peace framework [Al Jazeera Live Blockade]."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-09-21T13:30:00+00:00",
       "category": "Trade War",
@@ -2291,9 +2293,7 @@
           "detail": "Baltic Exchange TD3C benchmark registries spike to an unprecedented $1,241,097 per day for Middle East-to-China voyages [Finance BigGo Freight Cost]."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-09-21T08:40:00+00:00",
       "category": "Trade War",
