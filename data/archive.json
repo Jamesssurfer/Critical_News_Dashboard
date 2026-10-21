@@ -2235,7 +2235,9 @@
           "detail": "Provisional Kpler telemetry logs just 4 trackable vessels exiting the Gulf on Sunday, as premium carriers run completely dark to evade projectile tracking [NST Strait Trickle]."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-09-21T16:00:00+00:00",
       "category": "Trade War",
@@ -2263,9 +2265,7 @@
           "detail": "Iran's Parliament Speaker confirms the Strait of Hormuz will remain entirely closed until the U.S. completely fulfills commitments under the June peace framework [Al Jazeera Live Blockade]."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-09-21T13:30:00+00:00",
       "category": "Trade War",
