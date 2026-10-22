@@ -2185,7 +2185,9 @@
           "detail": "Baltic Exchange TD3C telemetry shows Middle East-to-China VLCC spot freight hitting $24/bbl, consuming a brutal 25% of the FOB crude price."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-09-22T14:15:00+00:00",
       "category": "Trade War",
@@ -2213,9 +2215,7 @@
           "detail": "Following the direct missile strike on the La Stephanie, commercial underwriters prepare to freeze non-escorted war risk coverage entirely [Seatrade Maritime Tanker Strikes]."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-09-22T01:15:00+00:00",
       "category": "Trade War",
