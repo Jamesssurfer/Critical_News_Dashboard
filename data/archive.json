@@ -475,7 +475,9 @@
           "detail": "The 5-day Ottawa CEPA trade sprint enters its final phase to fast-track critical mineral corridors and hit a C$70 billion bilateral trade target by 2030 [India & Canada to begin 5-day CEPA negotiation round in ...]."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-10-08T01:47:00+00:00",
       "category": "Trade War",
@@ -543,9 +545,7 @@
           "detail": "The five-day Ottawa CEPA trade sprint formally opens to lock down a C$70 billion bilateral trade corridor by 2030 as a macro hedge against alternative protectionist tariff walls."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-10-07T05:51:00+00:00",
       "category": "Trade War",
@@ -2213,7 +2213,9 @@
           "detail": "Following the direct missile strike on the La Stephanie, commercial underwriters prepare to freeze non-escorted war risk coverage entirely [Seatrade Maritime Tanker Strikes]."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-09-22T01:15:00+00:00",
       "category": "Trade War",
@@ -2241,9 +2243,7 @@
           "detail": "Regional tracking indices contract as the La Stephanie attack marks the fourth confirmed maritime strike inside the Gulf envelope within a 92-hour window [Seatrade Maritime Tanker Strikes]."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-09-21T20:15:00+00:00",
       "category": "Trade War",
