@@ -339,7 +339,9 @@
           "detail": "The 5-day Ottawa CEPA sprint concludes today to fast-track resource lines and lock down a binding bilateral trade target of C$70 billion by 2030."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-10-08T19:50:00+00:00",
       "category": "Trade War",
@@ -407,9 +409,7 @@
           "detail": "Technical teams enter the final hours of the fifth-round India-Canada CEPA talks in Ottawa to fast-track resource access."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-10-08T07:50:00+00:00",
       "category": "Trade War",
@@ -2157,7 +2157,9 @@
           "detail": "Clarksons’ cross-sector ClarkSea Index holds at its absolute record of $64,569 per day, sitting 27% above the historic 2007 super-cycle peak [Splash247 Shipping Surge]."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-09-22T19:45:00+00:00",
       "category": "Trade War",
@@ -2185,9 +2187,7 @@
           "detail": "Baltic Exchange TD3C telemetry shows Middle East-to-China VLCC spot freight hitting $24/bbl, consuming a brutal 25% of the FOB crude price."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-09-22T14:15:00+00:00",
       "category": "Trade War",
