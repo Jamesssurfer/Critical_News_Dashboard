@@ -407,7 +407,9 @@
           "detail": "Technical teams enter the final hours of the fifth-round India-Canada CEPA talks in Ottawa to fast-track resource access."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-10-08T07:50:00+00:00",
       "category": "Trade War",
@@ -475,9 +477,7 @@
           "detail": "The 5-day Ottawa CEPA trade sprint enters its final phase to fast-track critical mineral corridors and hit a C$70 billion bilateral trade target by 2030 [India & Canada to begin 5-day CEPA negotiation round in ...]."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-10-08T01:47:00+00:00",
       "category": "Trade War",
