@@ -305,7 +305,9 @@
           "detail": "The 5-day Ottawa CEPA sprint concludes its technical parameters to insulate supply grids and secure a C$70 billion bilateral trade target by 2030."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-10-09T19:50:00+00:00",
       "category": "Trade War",
@@ -373,9 +375,7 @@
           "detail": "The 5-day Ottawa CEPA sprint concludes today to fast-track resource lines and lock down a binding bilateral trade target of C$70 billion by 2030."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-10-08T19:50:00+00:00",
       "category": "Trade War",
@@ -2051,7 +2051,9 @@
           "detail": "Clarksons Research registries confirm average global fleet capacity costs remain triple their long-term trend line."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-09-23T20:49:00+00:00",
       "category": "Trade War",
@@ -2079,9 +2081,7 @@
           "detail": "Clarksons’ cross-sector ClarkSea Index holds at its absolute record of $57,000 per day, driven heavily by an unprecedented global surge in crude tanker asset valuations."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-09-23T14:42:00+00:00",
       "category": "Trade War",
