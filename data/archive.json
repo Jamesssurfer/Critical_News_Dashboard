@@ -2079,7 +2079,9 @@
           "detail": "Clarksons’ cross-sector ClarkSea Index holds at its absolute record of $57,000 per day, driven heavily by an unprecedented global surge in crude tanker asset valuations."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-09-23T14:42:00+00:00",
       "category": "Trade War",
@@ -2107,9 +2109,7 @@
           "detail": "Independent vessel registries confirm the volume of transiting ships remains severely limited, operating at a fraction of the standard 135 daily baselines [YouTube Shipping Logs]."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-09-23T06:17:03.504237+00:00",
       "category": "Trade War",
