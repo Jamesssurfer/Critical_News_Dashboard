@@ -2107,7 +2107,9 @@
           "detail": "Independent vessel registries confirm the volume of transiting ships remains severely limited, operating at a fraction of the standard 135 daily baselines [YouTube Shipping Logs]."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-09-23T06:17:03.504237+00:00",
       "category": "Trade War",
@@ -2163,9 +2165,7 @@
           "detail": "Independent vessel registries confirm the volume of transiting ships remains severely limited, operating at a fraction of the standard 135 daily baselines."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-09-22T23:15:00+00:00",
       "category": "Trade War",
