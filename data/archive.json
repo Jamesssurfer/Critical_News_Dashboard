@@ -237,7 +237,9 @@
           "detail": "Technical drafting rounds for the 5-day Canada-India CEPA pact wrap up in Ottawa, fast-tracking resource security corridors targeting a C$70 billion bilateral trade goal by 2030."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-10-10T00:36:00+00:00",
       "category": "Trade War",
@@ -305,9 +307,7 @@
           "detail": "The 5-day Ottawa CEPA sprint concludes its technical parameters to insulate supply grids and secure a C$70 billion bilateral trade target by 2030."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-10-09T19:50:00+00:00",
       "category": "Trade War",
