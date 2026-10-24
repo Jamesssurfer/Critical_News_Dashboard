@@ -1,6 +1,40 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-10-17T13:28:00+00:00",
+      "category": "Geopolitical",
+      "title": "U.S. President Donald Trump announces that an effective U.S. Navy blockade has completely stopped all Iranian ships from crossing the Strait of Hormuz, while the IRGC claims an oil supertanker…",
+      "impact_level": "HIGH",
+      "summary": "Market read: Oil bullish / XAU long.",
+      "details": "U.S. President Donald Trump announces that an effective U.S. Navy blockade has completely stopped all Iranian ships from crossing the Strait of Hormuz, while the IRGC claims an oil supertanker exploded after striking a naval mine in the channel. Global maritime trade structures face severe friction under this absolute blockade, which has frozen an estimated $25 billion worth of Iranian oil exports. Concurrently, cross-market capacity tracking from the Clarksons Shipping Intelligence Network indicates the benchmark ClarkSea index has eased marginally by 9% week-on-week from its historic high, settling at $77,403 per day as operations desks adjust to prolonged transit restrictions.\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Chokepoints: Naval Blockades & Supertanker Mine Casualties\n\n• The Supertanker Mine Incident: In a dangerous kinetic escalation over the last 24 hours, an oil supertanker traveling on an \"unauthorized route\" south of the Strait of Hormuz hit a marine mine and exploded. State broadcaster Press TV shared footage attributed to the Islamic Revolutionary Guard Corps (IRGC), showing the vessel engulfed in a severe fire after it allegedly turned off its tracking systems to bypass chokepoint barriers. [1]\n\n• The Effective U.S. Navy Blockade: In an official address, U.S. President Donald Trump declared that an \"effective\" U.S. Navy containment program has entirely barred all Iranian ships from crossing the Strait of Hormuz. Admiral Brad Cooper of U.S. Central Command verified the blockade has successfully stopped Iran from exporting $25 billion worth of oil since its reinstatement on July 14, aggressively squeezing Tehran’s domestic economy and forcing it onto diminishing floating stockpiles. [1] , [2] , [3]\n\n• Chokepoint Flow Reductions: The United Kingdom Maritime Trade Operations (UKMTO) issued an urgent tracking warning noting that commercial transits through the strait remain pinned at a devastating 70 percent below pre-war levels. The agency logged 12 severe attacks in its latest weekly period—10 inside the Strait of Hormuz alone—proving that unescorted merchant infrastructure remains highly vulnerable to indiscriminate attacks. [1] , [2]\n\n🇨🇦 Trade Friction: European Macro Costs Escalating Post-Ottawa CEPA Alignment\n\n• The European Economic Fallout: Highlighting the severe macro variables resulting from the prolonged shipping gridlock, Spanish Prime Minister Pedro Sanchez officially confirmed that the regional war has already cost European nations more than 100 billion euros ($112 billion). These steep costs are accelerating pressure on alternative Western supply lines as the Consultative Shipping Group warns shipping routes are increasingly being weaponized as instruments of coercion and risk. [1] , [2] , [3]\n\n• Bilateral Resource Security: Following the successful technical conclusion of the fifth Canada-India CEPA round in Ottawa on October 5–9, Canadian and Indian teams are accelerating cross-border investment frameworks. The draft protocols are designed to directly protect advanced aerospace, clean tech, and critical mineral allocations from continental tariff volatility, locking in capital tracks to more than double annual two-way commerce to C$70 billion by 2030. [1] , [2]\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Enforce Absolute Zero-Transit Directives for Dark Configurations: Shipping operations desks must indefinitely preserve a total freeze on unescorted commercial vessel clearances through the Persian Gulf and Strait corridors. Attempting to traverse unauthorized lanes with tracking systems disabled carries an extreme, near-certain risk of target interception or marine mine damage.\n\n• 📊 Structure Q4 Corporate Balance Sheets for a Permanent $77.4K ClarkSea Floor: Procurement and logistics divisions must treat the $77,403/day ClarkSea rate as a persistent baseline for Q4 financial planning. While the barometer eased 9% off its all-time high, the multi-market vessel scarcity and skyrocketing hull risk premiums will continue to heavily inflate transport overheads globally.\n\n• ➡️ Front-Run Resource Portfolios Tracking the India-Canada Mission: Portfolio risk managers tracking alternative battery components, aerospace tech, and clean energy transition infrastructure should maximize long exposures to western Canadian resource networks. The conclusion of the Ottawa round establishes a clear capital pathway ahead of the final treaty locking before the end of December. [1] , [2] , [3] , [4]",
+      "table": [
+        {
+          "indicator": "Strategic Military Threats",
+          "signal_level": "HIGH",
+          "signal_label": "Kinetic Chokepoint Explosion",
+          "detail": "State broadcaster Press TV airs footage showing an oil supertanker exploded and caught fire after hitting an IRGC naval mine in the Strait."
+        },
+        {
+          "indicator": "Macroeconomic Interventions",
+          "signal_level": "HIGH",
+          "signal_label": "Tightened Containment Blockade",
+          "detail": "The U.S. Navy enforces an absolute blockade. Central Command reveals it has blocked $25 billion in oil exports and frozen $350 million in cryptocurrency."
+        },
+        {
+          "indicator": "Energy & Maritime Flows",
+          "signal_level": "HIGH",
+          "signal_label": "Restrictive Capacity Premium",
+          "detail": "The Clarksons Shipping Intelligence Network ClarkSea Index hovers at $77,403/day. UKMTO reports Hormuz transits remain 70 percent below pre-war levels."
+        },
+        {
+          "indicator": "Trade Friction Matrix",
+          "signal_level": "MEDIUM",
+          "signal_label": "Strategic Trade Re-routing",
+          "detail": "Fifth-round trade talks wrap up in Ottawa. Spain's Prime Minister warns the escalating regional war has cost European nations over $112 billion."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-10-17T07:50:00+00:00",
       "category": "Geopolitical",
       "title": "The cross-sector ClarkSea Index records a massive 61% year-over-year surge amid continuous maritime chokepoint hostiles, while Iran explicitly flags a partial reopening of the Strait of Hormuz on the…",
@@ -2051,7 +2085,9 @@
           "detail": "Reuters tracking logs show daily Hormuz commodity transits dropping into single digits, bottoming out well below the 10-day moving average."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-09-24T14:46:00+00:00",
       "category": "Trade War",
@@ -2079,9 +2115,7 @@
           "detail": "Clarksons Research registries confirm average global fleet capacity costs remain triple their long-term trend line."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-09-23T20:49:00+00:00",
       "category": "Trade War",
