@@ -265,7 +265,9 @@
           "detail": "Canada launches an unprecedented 300-delegate Team Canada Trade Mission to India today to secure aerospace, critical mineral, and energy loops."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-10-11T19:50:00+00:00",
       "category": "Trade War",
@@ -333,9 +335,7 @@
           "detail": "Technical drafting rounds for the 5-day Canada-India CEPA pact wrap up in Ottawa, fast-tracking resource security corridors targeting a C$70 billion bilateral trade goal by 2030."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-10-10T00:36:00+00:00",
       "category": "Trade War",
@@ -2035,7 +2035,9 @@
           "detail": "Visible commercial transits through Hormuz remain at single digits, forcing major logistics networks to run completely dark with disabled AIS transponders [Reuters Shipping Traffic]."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-09-25T17:58:00+00:00",
       "category": "Trade War",
@@ -2063,9 +2065,7 @@
           "detail": "Trackable commodity voyages through Hormuz bottom out at an average of just 3.1 vessels per day, forcing the energy tape to rely entirely on dark-transponder fleets."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-09-25T14:02:00+00:00",
       "category": "Trade War",
