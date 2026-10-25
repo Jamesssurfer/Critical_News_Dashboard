@@ -2063,7 +2063,9 @@
           "detail": "Trackable commodity voyages through Hormuz bottom out at an average of just 3.1 vessels per day, forcing the energy tape to rely entirely on dark-transponder fleets."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-09-25T14:02:00+00:00",
       "category": "Trade War",
@@ -2091,9 +2093,7 @@
           "detail": "The historic ClarkSea Index freeze at $64,569/day demonstrates that crippling capacity deficits have entirely bled from oil tankers into dry bulk, container, and automotive freight networks."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-09-24T23:15:00+00:00",
       "category": "Trade War",
