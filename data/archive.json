@@ -2007,7 +2007,9 @@
           "detail": "Heavy Saudi shuttle run reliance drives global average VLCC spot rates to a historic $1.27 million/day peak, completely breaking corporate freight budgets."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-09-26T02:08:00+00:00",
       "category": "Trade War",
@@ -2035,9 +2037,7 @@
           "detail": "Visible commercial transits through Hormuz remain at single digits, forcing major logistics networks to run completely dark with disabled AIS transponders [Reuters Shipping Traffic]."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-09-25T17:58:00+00:00",
       "category": "Trade War",
