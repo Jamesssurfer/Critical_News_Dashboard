@@ -231,7 +231,9 @@
           "detail": "The 300-member Team Canada Trade Mission advances through Day 2 of its deployment in Mumbai and Bengaluru to lock in energy and critical mineral corridors."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-10-12T07:50:00+00:00",
       "category": "Trade War",
@@ -265,9 +267,7 @@
           "detail": "Canada launches an unprecedented 300-delegate Team Canada Trade Mission to India today to secure aerospace, critical mineral, and energy loops."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-10-11T19:50:00+00:00",
       "category": "Trade War",
@@ -1979,7 +1979,9 @@
           "detail": "U.S. CENTCOM redirects 122 commercial vessels inside the Gulf envelope to ensure strict compliance and protect oil transit routes."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-09-26T07:36:00+00:00",
       "category": "Trade War",
@@ -2007,9 +2009,7 @@
           "detail": "Heavy Saudi shuttle run reliance drives global average VLCC spot rates to a historic $1.27 million/day peak, completely breaking corporate freight budgets."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-09-26T02:08:00+00:00",
       "category": "Trade War",
