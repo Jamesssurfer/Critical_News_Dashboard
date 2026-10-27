@@ -1957,7 +1957,9 @@
           "detail": "Recorded AIS transits trickle in single digits, but U.S.-facilitated transits successfully shepherded 33.7 million barrels of crude this week using unindexed black-shuttle routes."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-09-27T15:22:00+00:00",
       "category": "Trade War",
@@ -2013,9 +2015,7 @@
           "detail": "Visible AIS transits trickle in single digits, but U.S.-facilitated transits average ~29 vessels per day using unindexed black-shuttle routes."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-09-26T17:02:00+00:00",
       "category": "Trade War",
@@ -6219,16 +6219,16 @@
       "title": "Treasury announces unexpected scaling up of liquidity buyback operations.",
       "impact_level": "MEDIUM",
       "summary": "DXY saw a brief relief drop."
-    },
+    }
+  ],
+  "past_6_months": [
     {
       "timestamp": "2026-07-29T16:50:00+00:00",
       "category": "Geopolitical",
       "title": "Israel-Turkey diplomatic channels freeze completely over Mediterranean maritime boundaries.",
       "impact_level": "MEDIUM",
       "summary": ""
-    }
-  ],
-  "past_6_months": [
+    },
     {
       "timestamp": "2026-07-15T08:30:00+00:00",
       "category": "Currency",
