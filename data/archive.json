@@ -1929,7 +1929,9 @@
           "detail": "Public transponder crossing volumes plunge to an absolute low of 2 outbound transits (0 inbound), though heavily armed U.S. escorts continue moving bulk volumes via unindexed routes [ShipFinder Telemetry]."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-09-27T19:05:00+00:00",
       "category": "Trade War",
@@ -1957,9 +1959,7 @@
           "detail": "Recorded AIS transits trickle in single digits, but U.S.-facilitated transits successfully shepherded 33.7 million barrels of crude this week using unindexed black-shuttle routes."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-09-27T15:22:00+00:00",
       "category": "Trade War",
