@@ -225,7 +225,9 @@
           "detail": "The 300-member Team Canada mission sweeps through India, while Foreign Minister Anita Anand holds crucial defense and trade talks in New Delhi."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-10-14T01:11:00+00:00",
       "category": "Geopolitical",
@@ -293,9 +295,7 @@
           "detail": "The 300-member Team Canada Trade Mission advances through Day 2 of its deployment in Mumbai and Bengaluru to lock in energy and critical mineral corridors."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-10-12T07:50:00+00:00",
       "category": "Trade War",
@@ -1901,7 +1901,9 @@
           "detail": "Kpler telemetry registers Middle East crude exports rebounding to 12.8 million bpd in September as Saudi Arabia continues pushing 7.4 million bpd through Hormuz [Logistics ME Export Rebound]."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-09-28T04:07:00+00:00",
       "category": "Trade War",
@@ -1929,9 +1931,7 @@
           "detail": "Public transponder crossing volumes plunge to an absolute low of 2 outbound transits (0 inbound), though heavily armed U.S. escorts continue moving bulk volumes via unindexed routes [ShipFinder Telemetry]."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-09-27T19:05:00+00:00",
       "category": "Trade War",
