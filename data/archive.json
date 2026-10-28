@@ -1,6 +1,34 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-10-21T10:23:00+00:00",
+      "category": "Geopolitical",
+      "title": "The Strait of Hormuz transits collapse by 42% as Iranian naval mines and tactical projectile strikes sink multiple merchant vessels, triggering a historic surge in VLCC spot freight rates to an…",
+      "impact_level": "HIGH",
+      "summary": "Market read: Oil bullish / XAU long.",
+      "details": "The Strait of Hormuz transits collapse by 42% as Iranian naval mines and tactical projectile strikes sink multiple merchant vessels, triggering a historic surge in VLCC spot freight rates to an unprecedented $805,000 per day. The escalation of the US-Iran war has turned the strategic waterway into a kinetic combat zone, completely paralyzing commercial oil tanker tracking baselines and driving global maritime insurance premiums to prohibitive maximums. Concurrently, severe sovereign de-risking reconfigurations accelerate as Canada and India rapidly race to conclude Comprehensive Economic Partnership Agreement (CEPA) terms by year-end to systematically bypass shifting US tariff exposures. [1] , [2] , [3] , [4] , [5]\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil Risk\n\n• The Strategic Waterway Blockade: The Islamic Revolutionary Guard Corps (IRGC) has deployed heavy naval mining operations across the Strait of Hormuz, effectively turning back remaining commercial oil tankers. Simultaneously, an advanced IRGC Aerospace air defense network shot down a US MQ-9 drone over the waterway, signaling total military intent to enforce its regulatory blockade. [1] , [2] , [3]\n\n• Kinetic Maritime Fallout: Aggressive projectile strikes have directly targeted international merchant fleets. Sinking incidents—including the container vessel GFS Pride—have forced top-tier shipping lines to immediately suspend all booking configurations through Middle Eastern routing nodes. [1] , [2]\n\n🇨🇦 Trade Friction & Sovereign De-Risking\n\n• The Year-End CEPA Race: Driven by Prime Minister Mark Carney's overarching mandate to aggressively diversify Canada's international economic footprint away from US single-market dependencies, Ottawa is forcing a rapid acceleration of Comprehensive Economic Partnership Agreement (CEPA) negotiations with New Delhi. [1] , [2]\n\n• Institutional Capital Alignment: The latest ministerial negotiation loop in Ottawa finalized critical structural frameworks spanning market access, rules of origin, and technology transfers. The Business Council of Canada is actively urging immediate implementation to fast-track aerospace, green nuclear transitions, and critical mineral supply chains into fast-growing Indian domestic clusters like Maharashtra. [1] , [2] , [3]\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Corporate Logistics Directive: Proactively execute a mandatory transition of all active crude and refined product bookings away from the Arabian Gulf. Route all spot volumes via the Cape of Good Hope or alternative US Gulf Coast/Tupi routes to avoid catastrophic asset loss or structural detention.\n\n• 📊 Freight Hedging Thresholds: Risk desks must immediately review and adjust maximum freight budget allocations. Assume a baseline spot pricing floor of $700,000–$800,000 per day for any unavoidable VLCC allocations over the next 30 to 45 business days.\n\n• ➡️ Supply Chain Compliance Action: Legal divisions must immediately review the newly established Canada-India CEPA Terms of Reference to align procurement pipelines with upcoming rules of origin changes prior to the high-level November negotiation loop in New Delhi. [1] , [2] , [3] , [4]",
+      "table": [
+        {
+          "indicator": "Chokepoint Security",
+          "signal_level": "HIGH",
+          "signal_label": "High Risk",
+          "detail": "Two Singapore-registered vessels (GFS Pride and GFS Giselle) hit by projectiles; GFS Pride has sunk. Iranian naval mines have officially frozen alternative transit lanes."
+        },
+        {
+          "indicator": "Maritime Freight & Capacity",
+          "signal_level": "HIGH",
+          "signal_label": "High Risk",
+          "detail": "Clarksons Research flags \"unprecedented\" market pressure as VLCC spot earnings spike to $805,000/day. Fleet capacity is deeply constrained by mandatory Cape of Good Hope diversions."
+        },
+        {
+          "indicator": "Bilateral Trade Treaties",
+          "signal_level": "MEDIUM",
+          "signal_label": "Adaptive Routing",
+          "detail": "Canada-India CEPA round 5 wrapped up in Ottawa; bilateral target formalized at C$70 billion by 2030. Team Canada mission unlocks 34 commercial contracts worth $300 million."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-10-20T07:50:00+00:00",
       "category": "Geopolitical",
       "title": "The cross-sector ClarkSea Index smashes all historical records to hit a monumental peak of $84,951 per day as a hyper-kinetic wave of vessel sinkings gridlocks the Strait of Hormuz, while Canada and…",
