@@ -1963,7 +1963,9 @@
           "detail": "Clarksons Research registers global VLCC voyages around Hormuz spiking between $800,000 and $1.5 million a day, forcing freight costs to 15% of the total crude barrel value."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-09-29T13:56:00+00:00",
       "category": "Trade War",
@@ -1991,9 +1993,7 @@
           "detail": "Clarksons registers confirm global VLCC charter rates hitting $600,000 to $800,000 per day for vessels negotiating escorted passages around the Strait."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-09-29T02:10:00+00:00",
       "category": "Trade War",
