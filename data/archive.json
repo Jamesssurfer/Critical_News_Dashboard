@@ -359,7 +359,9 @@
           "detail": "The 5-day Ottawa CEPA trade sprint successfully concludes. Entities sign multiple commercial agreements and MoUs under Minister Maninder Sidhu."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-10-15T23:17:00+00:00",
       "category": "Geopolitical",
@@ -393,9 +395,7 @@
           "detail": "The historic 300-member Team Canada Trade Mission enters its final phases in India, executing strategic aerospace, agri-food, and clean energy B2B loops."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-10-14T19:50:00+00:00",
       "category": "Geopolitical",
