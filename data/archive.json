@@ -1795,7 +1795,9 @@
           "detail": "Daily VLCC charter spot equivalents for premium runs clearing the Gulf hold rigid between $800,000 and $1.5 million a day, completely breaking corporate freight budgets."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-10-01T17:00:00+00:00",
       "category": "Trade War",
@@ -1823,9 +1825,7 @@
           "detail": "Tectonic maritime data reveals the ClarkSea cross-sector barometer scales $66,421/day, driven by severe container, bulker, and gas carrier capacity deficits."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-10-01T14:38:11.167556+00:00",
       "category": "Trade War",
