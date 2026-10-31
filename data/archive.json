@@ -409,7 +409,9 @@
           "detail": "Clarksons Shipping Intelligence Network trackers confirm that closing both Hormuz and Bab el-Mandeb eliminates all supplier diversification routes for South Asian and Indo-Pacific resource corridors."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-10-17T13:28:00+00:00",
       "category": "Geopolitical",
@@ -443,9 +445,7 @@
           "detail": "Fifth-round trade talks wrap up in Ottawa. Spain's Prime Minister warns the escalating regional war has cost European nations over $112 billion."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-10-17T07:50:00+00:00",
       "category": "Geopolitical",
@@ -1823,7 +1823,9 @@
           "detail": "Tectonic maritime data reveals the ClarkSea cross-sector barometer scales $66,421/day, driven by severe container, bulker, and gas carrier capacity deficits."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-10-01T14:38:11.167556+00:00",
       "category": "Trade War",
@@ -1879,9 +1881,7 @@
           "detail": "Daily VLCC charter spot equivalents for premium runs clearing the Gulf hold rigid between $800,000 and $1.5 million a day, completely breaking corporate freight budgets."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-10-01T06:17:00+00:00",
       "category": "Trade War",
