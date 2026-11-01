@@ -446,33 +446,5 @@
         "detail": "Diplomatic wires confirm both nations have aggressively ironed out final legal text discrepancies on intellectual property and goods access, positioning the pact for full conclusion ahead of the year-end deadline."
       }
     ]
-  },
-  {
-    "timestamp": "2026-10-24T21:02:00+00:00",
-    "category": "Geopolitical",
-    "title": "The International Maritime Organization confirms the total number of maritime kinetic strikes in the Strait of Hormuz has surged to 27 recorded vessel attacks for October, pushing cross-sector…",
-    "impact_level": "HIGH",
-    "summary": "Market read: Oil bullish / XAU long.",
-    "details": "The International Maritime Organization confirms the total number of maritime kinetic strikes in the Strait of Hormuz has surged to 27 recorded vessel attacks for October, pushing cross-sector ClarkSea Index macro benchmarks to an unprecedented record high of $84,951 per day. Following overnight IRGC offensive strikes that disabled three additional oil tankers and sabotaged critical regional navigational aid networks, the crucial energy transit corridor faces total operational gridlock. In parallel, sovereign de-risking mechanisms accelerate as Canada and India formalize an [early-November negotiation loop in New Delhi to finalize Comprehensive Economic Partnership Agreement (CEPA) technical drafts and safeguard C$55 billion in institutional capital. [1] , [2] , [3] , [4] , [5]\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil & Chokepoint Risk\n\n• The Navigational Aid Sabotage: Field intelligence indicates that the IRGC has systematically destroyed [critical regional navigational aid and marine signaling arrays. By intentionally blinding the waterway, Tehran has forced commercial insurance underwriters to void active hull policies for any vessels attempting unescorted entry. [1]\n\n• Engine Room Target Profiling: State-backed media channels confirm a shift toward aggressive precision strikes targeting vessel propulsion. Over the last 48 hours, [three more tankers were disabled west of the Strait, severely depleting active fleet velocity. [1]\n\n• Freight Supercycle Metrics: Highly detailed segment data from Clarksons Research reveals that [2026 ClarkSea averages are running 70% above 2025 levels. Long-haul Very Large Gas Carrier (VLGC) rates on the alternative US Gulf-to-Japan corridor have consequently spiked to an unprecedented $209,000 per day. [1] , [2]\n\n🇨🇦 Trade Friction & Sovereign De-Risking\n\n• The New Delhi November Blueprint: Operating independently of Western trade volatility, Canadian and Indian trade ministries have finalized the text structure for the [upcoming early-November negotiation loop in New Delhi. The round will focus on locking in binding protections for cross-border infrastructure assets. [1]\n\n• Institutional Capital Floor: To anchor the [proposed CEPA framework before the December deadline, Canadian pension funds (including CPPIB and CDPQ) have deployed over USD 55 billion across Indian infrastructure nodes. This serves as Prime Minister Mark Carney's primary geo-economic hedge against anticipated North American single-market tariff shifts. [1]\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Corporate Logistics Directive: Energy desks must issue an immediate, absolute halt on all commercial maritime traffic passing within the geographic boundaries of the Strait of Hormuz following the verified destruction of regional navigational aid networks.\n\n• 📊 Freight Hedging Thresholds: Adjust Q4 corporate cash flow projections to absorb a permanent $84,951 per day ClarkSea Index baseline. Supply chain divisions must lock in long-term cargo contracts immediately before spillover momentum triggers secondary price runs.\n\n• ➡️ Supply Chain Compliance Action: Legal divisions managing North American logistics structures must re-align corporate trade financing channels with the newly fast-tracked [Canada-India CEPA Terms of Reference to leverage early-stage legal protections prior to the November 4 ministerial opening in New Delhi. [1] , [2] , [3] , [4]",
-    "table": [
-      {
-        "indicator": "Chokepoint Security",
-        "signal_level": "HIGH",
-        "signal_label": "High Risk",
-        "detail": "IMO flags [27 commercial ship attacks in October, making it the most intense kinetic phase since the U.S.–Iran conflict erupted in February. IRGC declares unapproved merchant traffic has effectively ceased."
-      },
-      {
-        "indicator": "Maritime Freight & Capacity",
-        "signal_level": "HIGH",
-        "signal_label": "High Risk",
-        "detail": "Driven by severe chokepoint disruption, the [ClarkSea Index hits a fifth consecutive all-time high of $84,951/day. Average VLCC spot earnings stand at $804,601/day, with Suezmax holding at $724,398/day."
-      },
-      {
-        "indicator": "Bilateral Trade Treaties",
-        "signal_level": "MEDIUM",
-        "signal_label": "Adaptive Routing",
-        "detail": "Following Round 5 in Ottawa, Canada and India establish technical frameworks to lower cross-border tariffs, targeting an incremental [GDP expansion up to $6.5 billion by the end of 2026."
-      }
-    ]
   }
 ]
