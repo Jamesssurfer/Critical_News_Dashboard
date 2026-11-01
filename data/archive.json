@@ -1515,7 +1515,9 @@
           "detail": "Strait vessel transits level off at a localized baseline of 17 visible merchant crossings, with bulk volumes successfully clearing the grid via allied naval shadows."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-10-02T19:34:00+00:00",
       "category": "Trade War",
@@ -1543,9 +1545,7 @@
           "detail": "Data from Kpler confirms targeted hulls like the Al Ruwais successfully completed massive ship-to-ship diesel discharges off Sohar, Oman under dark-transponder configurations."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-10-02T02:15:00+00:00",
       "category": "Trade War",
