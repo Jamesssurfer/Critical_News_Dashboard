@@ -1,6 +1,34 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-10-26T02:15:00+00:00",
+      "category": "Geopolitical",
+      "title": "The US Central Command announces that over 3,000 commercial vessels have successfully navigated the Strait of Hormuz under military escort, easing immediate choke corridor friction and allowing the…",
+      "impact_level": "HIGH",
+      "summary": "Market read: Oil bullish / XAU long.",
+      "details": "The US Central Command announces that over 3,000 commercial vessels have successfully navigated the Strait of Hormuz under military escort, easing immediate choke corridor friction and allowing the cross-sector ClarkSea Index to settle back to $75,395 per day. Despite ongoing tactical drone operations and precision projectile tracking by regional forces, daily global shipping volumes remain highly active as major operators absorb elevated insurance premiums in exchange for lucrative crude price markdowns. Concurrently, sovereign trade reconfigurations gain permanent momentum as the Indian High Commissioner formally signals confidence in sealing the definitive Canada-India CEPA framework by late November.\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil Risk\n\n• The Transpired Convoy Corridor: A physical review by U.S. Central Command underscores a strict deterrence posture. Allied naval assets have successfully shepherded thousands of transit loops through the waterway despite aggressive radio interventions. However, independent analysts warn that regional planners continue to conserve precision missile and drone capabilities for potential target expansions beyond U.S.-linked assets.\n\n• The High-Yield Yield Chase: October has marked the most concentrated wave of maritime kinetic events since March, with a dozen distinct vessel impacts registered in a single week. Nonetheless, the combination of high freight premiums and deep localized crude discounts continues to motivate non-compliant operators to execute spot lifting operations inside the Gulf.\n\n🇨🇦 Trade Friction & Sovereign De-Risking\n\n• The November Ratification Horizon: Confirming a total diplomatic realignment following previous diplomatic pauses, the Indian High Commissioner explicitly announced that the Comprehensive Economic Partnership Agreement (CEPA) text is on track for November finalization. This timeline clears the way for Prime Minister Narendra Modi's high-level bilateral visit to Canada in December.\n\n• Macro Trade Corridor Potential: The structural text verified during Round 5 in Ottawa outlines deep tariff rollbacks across core resource categories. Chief negotiators indicate that the elimination of cross-border duties is projected to expand annual two-way trade to C$70 billion by 2030, offering a massive institutional buffer against anticipated Western single-market trade volatility.\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Corporate Logistics Directive: Supply chain directors must strictly interface all active vessels with CENTCOM naval patrol schedules. Do not permit unescorted routes through the southern coastline of the Gulf under any circumstance.\n\n• 📊 Freight Hedging Thresholds: Risk desks should lock in Q4 and Q1 ocean freight cargo structures immediately. The Clarksons-verified $75,395/day baseline signals that systemic capacity constraints are fundamentally baked into global supply chains.\n\n• ➡️ Supply Chain Compliance Action: Legal divisions must clear all procurement pipelines against the newly updated CEPA rules of origin text prior to the opening of the sixth negotiation loop in New Delhi in early November.",
+      "table": [
+        {
+          "indicator": "Chokepoint Security",
+          "signal_level": "MEDIUM",
+          "signal_label": "Adaptive Routing",
+          "detail": "CENTCOM Commander Admiral Brad Cooper verifies that allied naval patrols have enabled the export of 1.5 billion barrels of crude over the past six months, balancing regional shipping risk via active escort matrices."
+        },
+        {
+          "indicator": "Maritime Freight & Capacity",
+          "signal_level": "HIGH",
+          "signal_label": "High Risk",
+          "detail": "Despite a technical retreat from its recent $84,951 peak, the ClarkSea Index holds at $75,395/day, running 75% higher year-on-year. Intense loading volumes inside the Gulf continue to consume roughly 3.5% of total global VLCC tonnage."
+        },
+        {
+          "indicator": "Bilateral Trade Treaties",
+          "signal_level": "MEDIUM",
+          "signal_label": "Adaptive Routing",
+          "detail": "Diplomatic wires confirm both nations have aggressively ironed out final legal text discrepancies on intellectual property and goods access, positioning the pact for full conclusion ahead of the year-end deadline."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-10-24T21:02:00+00:00",
       "category": "Geopolitical",
       "title": "The International Maritime Organization confirms the total number of maritime kinetic strikes in the Strait of Hormuz has surged to 27 recorded vessel attacks for October, pushing cross-sector…",
@@ -1487,7 +1515,9 @@
           "detail": "US-Canada cross-border bans enforced; Emergency India-Canada CEPA talks open Oct 5."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-10-03T02:15:00+00:00",
       "category": "Trade War",
@@ -1515,9 +1545,7 @@
           "detail": "Strait vessel transits level off at a localized baseline of 17 visible merchant crossings, with bulk volumes successfully clearing the grid via allied naval shadows."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-10-02T19:34:00+00:00",
       "category": "Trade War",
