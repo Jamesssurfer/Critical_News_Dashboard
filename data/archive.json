@@ -1,6 +1,34 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-10-27T11:01:00+00:00",
+      "category": "Geopolitical",
+      "title": "The Joint Maritime Information Centre (JMIC) records an incremental recovery in Strait of Hormuz open crossings to 1,095 transits since June, even as the International Maritime Organisation (IMO)…",
+      "impact_level": "HIGH",
+      "summary": "Market read: Oil bullish / XAU long.",
+      "details": "The Joint Maritime Information Centre (JMIC) records an incremental recovery in Strait of Hormuz open crossings to 1,095 transits since June, even as the International Maritime Organisation (IMO) flags a total of 120 maritime incidents with 24 recorded seafarer fatalities. Under heavy U.S. naval security frameworks, daily U.S.-facilitated transits successfully averaged 33.7 vessels per day during the latest 72-hour cycle, temporarily countering a severe cluster of oil-laden tankers loitering along the Iranian coastline under strict port blockades. Simultaneously, sovereign de-risking reconfigurations stabilize as Canadian and Indian negotiators aggressively transition from their Ottawa Round 5 text sweep to lock in direct schedules for the upcoming November ministerial round in New Delhi.\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil & Chokepoint Risk\n\n• The Southern Escort Corridor: Satellite tracking data from the European Space Agency confirms an expansion of bidirectional traffic moving through the southern corridor of the Strait of Hormuz without broadcasting AIS telemetry. This tactical configuration, heavily guarded by allied surface combatants, has allowed the month-to-date October escorted tally to hit 717 transits.\n\n• The Blockade Cluster Backlog: In sharp contrast to active open transits, Iran-linked crude distribution networks face absolute gridlock. United Against Nuclear Iran (UANI) tracking states that zero tankers laden with Iranian crude oil have successfully cleared the Gulf of Oman since the reinstatement of the U.S. blockade, stranding millions of barrels on the water.\n\n🇨🇦 Trade Friction & Sovereign De-Risking\n\n• The New Delhi November Pre-Loop: Moving independently of cyclical diplomatic friction, Canadian International Trade Minister Maninder Sidhu's office has re-anchored the technical timeline. Chief negotiators will convene in New Delhi in early November to finalize the legal text for the Comprehensive Economic Partnership Agreement (CEPA), directly supporting a predicted C$4.4 billion to C$6.5 billion GDP injection.\n\n• The Strategic Commodity Pivot: Underpinning the economic diversification blueprint led by Prime Minister Mark Carney, current text drafts seek to permanently lower tariff barriers for Canadian resource inputs including mineral fuels and edible vegetables to decouple supply chains from broader Western single-market trade volatility prior to Prime Minister Narendra Modi's December visit to Canada.\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Corporate Logistics Directive: Operations desks must mandate that all remaining unescorted vessels transit strictly via the southern corridor of the Strait of Hormuz. Ensure full synchronization with U.S.-facilitated convoy patterns to minimize active mine risks.\n\n• 📊 Freight Hedging Thresholds: Risk managers should adjust Q4 freight formulas to reflect the Clarksons-verified $77,403/day index floor. Lock in carrier contracts before winter seasonal energy spikes restrict remaining spot fleet capacity.\n\n• ➡️ Supply Chain Compliance Action: Legal teams must run immediate compliance sweeps on all Q4 agricultural and mining procurement streams to integrate upcoming CEPA rules of origin definitions before the sixth negotiation loop opens in New Delhi.",
+      "table": [
+        {
+          "indicator": "Chokepoint Security",
+          "signal_level": "MEDIUM",
+          "signal_label": "Adaptive Routing",
+          "detail": "U.S. forces facilitate 101 transits through the southern corridor over October 22–24. Cumulative escorted campaign volumes cross 2,850 transits, though 54 tankers remain blocked along the Iranian coastline."
+        },
+        {
+          "indicator": "Maritime Freight & Capacity",
+          "signal_level": "HIGH",
+          "signal_label": "High Risk",
+          "detail": "The ClarkSea Index hovers at an elevated $77,403/day floor, running 72% higher year-on-year. Intense loading volumes continue to pull available VLCC tonnage into high-risk Gulf lanes."
+        },
+        {
+          "indicator": "Bilateral Trade Treaties",
+          "signal_level": "MEDIUM",
+          "signal_label": "Adaptive Routing",
+          "detail": "Both sovereign trade ministries lock in early November for the New Delhi sixth round, formalizing structural agreements on goods, services, and rules of origin to hit a C$70 billion bilateral trade baseline."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-10-27T02:50:00+00:00",
       "category": "Geopolitical",
       "title": "The US Maritime Administration flags an intense surge in persistent cyber-spoofing across the northern Arabian Sea, keeping spot container rates locked at an elevated floor of $12,400 per FEU as…",
@@ -481,7 +509,9 @@
           "detail": "Canada-India CEPA round 5 wrapped up in Ottawa; bilateral target formalized at C$70 billion by 2030. Team Canada mission unlocks 34 commercial contracts worth $300 million."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-10-20T07:50:00+00:00",
       "category": "Geopolitical",
@@ -515,9 +545,7 @@
           "detail": "The 5-day Ottawa CEPA round concludes. Minister Sidhu leads Canada’s largest trade mission to India in 30 years, locking in 34 commercial deals valued at $300 million."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-10-19T19:50:00+00:00",
       "category": "Geopolitical",
