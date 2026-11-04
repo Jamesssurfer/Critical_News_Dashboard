@@ -1,6 +1,34 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-10-28T12:35:00+00:00",
+      "category": "Geopolitical",
+      "title": "The Persian Gulf Strait Authority (PGSA) issued a historic blanket blacklist targeting South Korea’s Sinokor Merchant Marine, triggering severe alert adjustments across global maritime operations…",
+      "impact_level": "HIGH",
+      "summary": "Market read: Oil bullish / XAU long.",
+      "details": "The Persian Gulf Strait Authority (PGSA) issued a historic blanket blacklist targeting South Korea’s Sinokor Merchant Marine, triggering severe alert adjustments across global maritime operations ahead of a November 1 legal enforcement deadline. As the world's largest supertanker owner, Sinokor accounted for over 50% of all VLCC transits through Hormuz in early October, carrying roughly 105.6 million barrels of crude. This unprecedented step by Tehran to target an entire carrier fleet significantly heightens asset seizure risks, even as U.S. naval assets expand active dark-escort protections. Concurrently, sovereign de-risking mechanisms accelerate as Canadian and Indian trade teams finalize data-sharing rules under the Comprehensive Economic Partnership Agreement (CEPA) to insulate key manufacturing sectors from sudden tariff volatility. [1] , [2] , [3]\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil & Chokepoint Risk\n\n• The Blanket Fleet Ultimatum: The PGSA’s move marks the first time Tehran has issued a blanket warning covering a single shipowner's entire fleet. Iran specifically targeted Sinokor and MSC for leading U.S.-protected convoy runs through the contested waterway, accusing the firm of systemic passage violations. [1] , [2] , [3]\n\n• Specific Tonnage Under Threat: The authority explicitly blacklisted seven core Very Large Crude Carriers (VLCCs): the Cyprus Prosperity, Mombasa B, Senegal Prosperity, Mersin Prosperity, Ghana Prosperity, Cameroon Prosperity, and Angola Prosperity. The impending November 1 enforcement introduces immediate cargo seizure liabilities for any affiliated charterers. [1] , [2]\n\n• The Benchmark Pricing Strain: Ongoing disruptions have heavily complicated traditional freight references. Trading giants like Mercuria argue that the near-cessation of normal commercial shipping means standard benchmark models are struggling to accurately reflect actual transport costs. [1]\n\n🇨🇦 Trade Friction & Sovereign De-Risking\n\n• The New Delhi November Pre-Loop: Moving independently of broader Western trade volatility, Canadian and Indian ministries are finalizing the framework text for the Comprehensive Economic Partnership Agreement (CEPA) session in New Delhi. The upcoming round will explicitly focus on rules of origin, trade remedies, and intellectual property.\n\n• Macro Trade Corridors: Driven by Prime Minister Mark Carney's directive to build long-term trade buffers, the proposed pact targets expanding annual two-way trade to USD 70 billion by 2030. This architecture aims to inject up to C$6.5 billion into bilateral GDP while insulating critical raw materials from single-market tariff friction.\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Corporate Logistics Directive: Compliance desks must enforce an immediate, absolute routing ban on any Sinokor-owned or chartered tonnage within the Persian Gulf boundaries ahead of the November 1 PGSA legal enforcement activation.\n\n• 📊 Freight Hedging Thresholds: Risk desks should adjust corporate maritime budgeting to lock in long-term carrier space immediately. Engine-room target profiling has structurally removed high-value supertankers from service, meaning capacity crunches are heavily baked into the upcoming winter peak.\n\n• ➡️ Supply Chain Compliance Action: Legal divisions must cross-verify upcoming procurement streams with the newly drafted CEPA investment protection parameters before negotiators open the high-stakes New Delhi round in early November. [1] , [2]",
+      "table": [
+        {
+          "indicator": "Chokepoint Security",
+          "signal_level": "HIGH",
+          "signal_label": "High Risk",
+          "detail": "PGSA names seven specific Sinokor VLCCs already targeted by enforcement action for transit violations. Blanket fleet actions take effect November 1."
+        },
+        {
+          "indicator": "Maritime Freight & Capacity",
+          "signal_level": "HIGH",
+          "signal_label": "High Risk",
+          "detail": "A pricing feud splits the London benchmark as Sinokor's dominant market role and private pricing networks drive up rates. The ClarkSea Index holds at an inflated $75,395/day baseline."
+        },
+        {
+          "indicator": "Bilateral Trade Treaties",
+          "signal_level": "MEDIUM",
+          "signal_label": "Adaptive Routing",
+          "detail": "Negotiators clear final regulatory scripts ahead of the high-stakes November 4 loop in New Delhi. The incoming pact legally safeguards a C$70 billion annual bilateral trade target by 2030."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-10-27T23:12:00+00:00",
       "category": "Geopolitical",
       "title": "Iran's Persian Gulf Strait Authority (PGSA) officially declares that all commercial vessels belonging to Sinokor—the world’s largest oil tanker owner—will face immediate, aggressive \"legal action\"…",
@@ -537,7 +565,9 @@
           "detail": "Canada races to seal the India CEPA trade pact by year-end, expecting Prime Minister Narendra Modi to sign the final text during a December summit."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-10-21T10:23:00+00:00",
       "category": "Geopolitical",
@@ -565,9 +595,7 @@
           "detail": "Canada-India CEPA round 5 wrapped up in Ottawa; bilateral target formalized at C$70 billion by 2030. Team Canada mission unlocks 34 commercial contracts worth $300 million."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-10-20T07:50:00+00:00",
       "category": "Geopolitical",
@@ -1541,7 +1569,9 @@
           "detail": "India and Canada formally commence five days of emergency trade talks in Ottawa to fast-track a C$70 billion bilateral trade corridor by 2030."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-10-05T10:18:00+00:00",
       "category": "Trade War",
@@ -1609,9 +1639,7 @@
           "detail": "The critical 5-day Ottawa CEPA round opens today to lock down resource security, ahead of a scheduled prime ministerial bilateral summit in December."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-10-05T04:00:00+00:00",
       "category": "Trade War",
