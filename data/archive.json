@@ -475,7 +475,9 @@
           "detail": "The Canada-India economic reset expands, with both sovereign nations actively tracing the finalized CEPA text parameters to hit a C$70 billion bilateral trade target by 2030."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-10-21T21:44:00+00:00",
       "category": "Geopolitical",
@@ -531,9 +533,7 @@
           "detail": "The Business Council of Canada confirms bilateral trade talks are fast-tracking toward a comprehensive conclusion. Leaders look to sign the finalized pact during a scheduled December summit."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-10-21T15:02:00+00:00",
       "category": "Geopolitical",
