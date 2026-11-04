@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-11-04T12:55:00+00:00",
+    "category": "Geopolitical",
+    "title": "Iran's Persian Gulf Strait Authority (PGSA) has nearly doubled the size of its maritime blacklist to 240 vessels, enacting a massive 114-ship expansion on 2 November to formally target the entire…",
+    "impact_level": "HIGH",
+    "summary": "Market read: Oil bullish / XAU long.",
+    "details": "Iran's Persian Gulf Strait Authority (PGSA) has nearly doubled the size of its maritime blacklist to 240 vessels, enacting a massive 114-ship expansion on 2 November to formally target the entire commercial fleets of Sinokor, KOTC, Bahri, and ADNOC. This aggressive regulatory chokehold coincides with a shift to intense guerrilla tactics by the Islamic Revolutionary Guard Corps (IRGC), defying near-daily U.S. Central Command naval escort matrices. Despite overnight U.S. defensive air strikes striking IRGC military installations on Qeshm Island, backchannel mediation text remains highly active; Tehran has officially transmitted an accelerated Doha-mediated proposal offering a fully verifiable reopening of the Strait of Hormuz within 48 hours if Washington rolls back its \"economic asphyxiation\" sanctions. Concurrently, sovereign trade hedges stabilize as Canadian and Indian technical ministries prepare to open high-stakes sixth-round negotiations in New Delhi to finalize the Comprehensive Economic Partnership Agreement (CEPA) by year-end. [1] , [2] , [3] , [4] , [5] , [6]\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil & Chokepoint Risk\n\n• The Mass Blacklist Deployment: The PGSA's massive 114-ship expansion represents a complete institutionalization of its chokepoint regulatory blockade. By listing at least 46 Sinokor-linked vessels, 10 KOTC hulls, 7 Bahri tankers, and 6 ADNOC ships under Non-Compliance Listed (NCL) status, Tehran has established explicit regulatory justification for physical asset seizures and cargo detentions regardless of convoy protections. [1]\n\n• The Condensed Two-Day Reopening Offer: In a rapid shift from its historical position, Tehran has transmitted an accelerated deal matrix via Qatari and Omani intermediaries. The plan offers a fully verifiable reopening of the Strait within 48 hours if Washington unfreezes Iranian assets abroad, lifts oil sector sanctions, stops its naval blockade, and adopts a newly mapped Iran-Oman transit lane. [1] , [2]\n\n• The Sinokor Shuttle Dominance: Despite the newly expanded blacklist, South Korea's Sinokor has uniquely driven the Persian Gulf oil shipment rebound. Backed by a massive fleet expansion that tripled its VLCC tonnage since December, the firm is aggressively utilizing allied military escorts to funnel crude through the chokepoint via rapid ship-to-ship (STS) transfers into the Gulf of Oman. [1]\n\n🇨🇦 Trade Friction & Sovereign De-Risking\n\n• The New Delhi Technical Sweeps: Seeking a clean macroeconomic hedge against volatile Western single-market trade patterns, chief negotiators from Ottawa and New Delhi have formally opened the sixth round of CEPA negotiations in New Delhi. Bilateral teams are refining high-level treaty provisions spanning rules of origin, market access benchmarks for industrial goods, and binding cross-border investment protections. [1]\n\n• The Year-End Deadline Integration: Prompted by Prime Minister Mark Carney’s mandate to establish deep economic diversification buffers, the free trade agreement is tracking for full conclusion by late December. The framework will instantly secure duty-free corridors, insulating bilateral commerce from North American single-market tariff volatility. [1]\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Corporate Logistics Directive: Compliance desks must enforce an immediate, absolute vetting ban on all vessels listed under the newly expanded 240-ship PGSA blacklist. Do not authorize unescorted entry or cargo loading for any Sinokor, KOTC, Bahri, or ADNOC hulls operating near the Oman approach corridors.\n\n• 📊 Freight Hedging Thresholds: Risk desks should exploit temporary freight pullbacks to capture near-term Atlantic basin capacity. While Qatar-led mediation indicates an active \"glimmer of hope\" for a 48-hour reopening, Sinokor's ongoing dominance over Persian Gulf spot liftings means real-world transport pricing remains deeply controlled by shadow networks.\n\n• ➡️ Supply Chain Compliance Action: Legal divisions managing Indo-Pacific procurement must run immediate compliance reviews on Q4/Q1 product streams to integrate upcoming CEPA rules of origin and market access parameters for goods and services before chief negotiators lock the market access templates in New Delhi this week. [1] , [2] , [3] , [4]",
+    "table": [
+      {
+        "indicator": "Chokepoint Security",
+        "signal_level": "HIGH",
+        "signal_label": "High Risk",
+        "detail": "PGSA adds 114 vessels to its non-compliance list in its largest single update. UKMTO confirms an early November strike holing a merchant vessel's starboard side 9 nm northeast of Lima, Oman."
+      },
+      {
+        "indicator": "Maritime Freight & Capacity",
+        "signal_level": "HIGH",
+        "signal_label": "High Risk",
+        "detail": "Enigmatic carrier Sinokor Single-handedly controls about half of all active Hormuz tanker transits, relying on ship-to-ship (STS) transfers. Heavy fleet extraction risks spike global freight benchmarks as benchmark Brent holds near $102 a barrel."
+      },
+      {
+        "indicator": "Bilateral Trade Treaties",
+        "signal_level": "MEDIUM",
+        "signal_label": "Adaptive Routing",
+        "detail": "The Canada-India CEPA Sixth Round launches in New Delhi. The free trade architecture legally targets expanding bilateral commerce by an estimated $4.4 billion to $6.5 billion."
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-04T01:47:00+00:00",
     "category": "Geopolitical",
     "title": "Iran’s Persian Gulf Strait Authority (PGSA) has nearly doubled the size of its Non-Compliance List (NCL) to 240 vessels, dropping a massive 114-ship blacklist update to formalise active asset seizure…",
