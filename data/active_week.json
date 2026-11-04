@@ -1,5 +1,33 @@
 [
   {
+    "timestamp": "2026-11-04T23:04:00+00:00",
+    "category": "Geopolitical",
+    "title": "The Iranian Parliament’s National Security Committee officially announced that commercial vessels from India , China , Iraq , and Qatar have been granted sweeping exemptions from transit restrictions…",
+    "impact_level": "HIGH",
+    "summary": "Market read: Oil bullish / XAU long.",
+    "details": "The Iranian Parliament’s National Security Committee officially announced that commercial vessels from India , China , Iraq , and Qatar have been granted sweeping exemptions from transit restrictions in the Strait of Hormuz, dramatically shifting operational risk profiles for exempted global lines. The legislative announcement by Ahmad Hayat-Moghaddam clarifies that these specific nations can navigate the chokepoint without limitation, even as broader indirect de-escalation talks between Washington and Tehran stall. Senior Iranian security officials formally deemed the latest U.S. diplomatic response \"unconvincing,\" leaving the critical energy transit corridor under high kinetic risk following verified U.S. precision air strikes on an anti-aircraft facility on Qeshm Island. Concurrently, the regional trade architecture gains permanent momentum as Indian and Canadian technical ministries launch the critical sixth negotiation round in New Delhi to push the Comprehensive Economic Partnership Agreement (CEPA) toward its formal year-end signing.\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil & Chokepoint Risk\n\n• The Sovereign Exemption Shield: Vice Chairman of the National Security Committee Ahmad Hayat-Moghaddam confirmed that the Islamic Republic has formalised distinct transit carve-outs. The rationale spans strategic agreements: India’s exemption is legally tailored to safeguard medical supply pipelines into Iran, while China's exemption secures persistent political alignment from Beijing. [1]\n\n• The Qeshm Island Flare-Up: Indirect talks facilitated by Qatar's Ministry of Foreign Affairs faced a severe bottleneck after President Donald Trump confirmed defensive U.S. air strikes on Qeshm Island following Iranian fire directed at an allied aircraft. Mohsen Rezaei, Secretary of Iran's Supreme National Security Council, stated that Washington's reply completely failed to address the seven conditions required to activate the accelerated two-day reopening timetable. [1]\n\n• The Sinokor Chokehold: Despite the regulatory crosshairs of the Persian Gulf Strait Authority, South Korea’s Sinokor continues to act as the primary logistics lifeline, utilizing massive fleet expansions to transport nearly 50% of all Persian Gulf crude. This high asset concentration allows the operator to heavily influence global VLCC freight benchmarks via closed shipbroker communication loops. [1] , [2]\n\n🇨🇦 Trade Friction & Sovereign De-Risking\n\n• The New Delhi Assembly Launch: Moving completely independently of broader North Americansingle-market tariff friction, commerce officials have convened the sixth round of CEPA trade pact negotiations in New Delhi. Delegations are executing final text sweeps across market access, rules of origin, and trade remedies. [1]\n\n• The Year-End Deadline Lock: Guided by Prime Minister Mark Carney’s mandate to establish deep economic diversification buffers, the free trade framework remains on a strict path for an unconditional December 2026 conclusion. The final pact is structured to instantly dismantle cross-border duties, boosting two-way goods and services trade by up to 80%. [1]\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Corporate Logistics Directive: Compliance desks managing non-exempt tonnage must maintain strict routing pauses or full Cape of Good Hope diversions. Only hulls sailing under Indian, Chinese, Iraqi, or Qatari flags can safely utilize the newly issued territorial transit exemptions.\n\n• 📊 Freight Hedging Thresholds: Adjust corporate cash flow projections to accommodate the reality of private shadow pricing loops. Because Sinokor controls half of active chokepoint transits, actual spot transport costs will continue to trade far above standard public shipping index models.\n\n• ➡️ Supply Chain Compliance Action: Legal divisions overseeing Indo-Pacific procurement pipelines must immediately cross-verify multi-sector manifests against the newly updated Canada-India CEPA rules of origin templates currently undergoing final text refinement in New Delhi. [1] , [2] , [3] , [4]",
+    "table": [
+      {
+        "indicator": "Chokepoint Security",
+        "signal_level": "HIGH",
+        "signal_label": "High Risk",
+        "detail": "Iran officially rejects the U.S. diplomatic draft for the two-day reopening protocol. However, vessels from India, China, Iraq, and Qatar are now fully exempt from transit restrictions."
+      },
+      {
+        "indicator": "Maritime Freight & Capacity",
+        "signal_level": "HIGH",
+        "signal_label": "High Risk",
+        "detail": "Enigmatic carrier Sinokor Merchant Marine continues to control about half of all active Hormuz tanker transits, directly dictating spot benchmarks via private WhatsApp fixture broadcast loops."
+      },
+      {
+        "indicator": "Bilateral Trade Treaties",
+        "signal_level": "MEDIUM",
+        "signal_label": "Adaptive Routing",
+        "detail": "The India-Canada CEPA Sixth Round opens in New Delhi, seeking a $4.4 billion to $6.5 billion trade expansion to bypass single-market Western tariff friction."
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-04T12:55:00+00:00",
     "category": "Geopolitical",
     "title": "Iran's Persian Gulf Strait Authority (PGSA) has nearly doubled the size of its maritime blacklist to 240 vessels, enacting a massive 114-ship expansion on 2 November to formally target the entire…",
