@@ -418,33 +418,5 @@
         "detail": "Negotiators clear final regulatory scripts ahead of the high-stakes November 4 loop in New Delhi. The incoming pact legally safeguards a C$70 billion annual bilateral trade target by 2030."
       }
     ]
-  },
-  {
-    "timestamp": "2026-10-27T23:12:00+00:00",
-    "category": "Geopolitical",
-    "title": "Iran's Persian Gulf Strait Authority (PGSA) officially declares that all commercial vessels belonging to Sinokor—the world’s largest oil tanker owner—will face immediate, aggressive \"legal action\"…",
-    "impact_level": "HIGH",
-    "summary": "Market read: Oil bullish / XAU long.",
-    "details": "Iran's Persian Gulf Strait Authority (PGSA) officially declares that all commercial vessels belonging to Sinokor—the world’s largest oil tanker owner—will face immediate, aggressive \"legal action\" inside the Strait of Hormuz starting November 1. The targeted blacklisting of Sinokor Shipping Company marks a major operational expansion of Tehran’s regulatory blockades, adding massive systemic pressure to a chokepoint where October has already logged a record 28 confirmed kinetic ship strikes. While U.S. naval assets continue facilitating an average of 33.7 dark-escort merchant transits per day, this legal ultimatum forces maritime insurance syndicates to re-evaluate active hull liabilities. Concurrently, sovereign de-risking moves forward as Canada and India aggressively process their Ottawa Round 5 texts to align procurement rules ahead of the upcoming early-November negotiation loop in New Delhi. [1] , [2] , [3]\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil & Chokepoint Risk\n\n• The Corporate Targeting Doctrine: The PGSA's explicit public ultimatum against South Korea's Sinokor represents a shift from random kinetic strikes to corporate-specific maritime interdiction. Regional security divisions indicate that Iran is attempting to systematically push non-compliant, Western-aligned high-volume carriers out of the Gulf entirely. [1] , [2]\n\n• Engine Room Precision Munitions: Maritime security assessments confirm that at least five recent strikes precisely targeted vessel engine rooms. This confirms the use of advanced terminal guidance networks capable of rendering multi-million-dollar crude haulers completely dead in the water. [1]\n\n• The U.S. Blockade Standoff: Simultaneously, the U.S. maritime blockade continues to restrict rogue energy distribution networks. United Against Nuclear Iran (UANI) data shows that zero tankers carrying Iranian crude oil have successfully cleared enforcement actions since mid-July, stranding 54 laden tankers along the Iranian coastline. [1]\n\n🇨🇦 Trade Friction & Sovereign De-Risking\n\n• The New Delhi November Pre-Loop: Moving independently of Western trade volatility, Canadian and Indian ministries are finalizing the framework text for the Comprehensive Economic Partnership Agreement (CEPA) session in New Delhi. The upcoming round will explicitly focus on rules of origin, trade remedies, and intellectual property. [1]\n\n• Macro Trade Corridors: Driven by Prime Minister Mark Carney's directive to build long-term trade buffers, the proposed pact targets expanding annual two-way trade to USD 70 billion by 2030. This architecture aims to inject up to C$6.5 billion into bilateral GDP while insulating critical raw materials from single-market tariff friction. [1]\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Corporate Logistics Directive: Compliance desks must enforce an immediate, absolute routing ban on any Sinokor-owned or chartered tonnage within the Persian Gulf boundaries ahead of the November 1 PGSA legal enforcement activation.\n\n• 📊 Freight Hedging Thresholds: Risk desks should adjust corporate maritime budgeting to lock in long-term carrier space immediately. Engine-room target profiling has structurally removed high-value supertankers from service, meaning capacity crunches are heavily baked into the upcoming winter peak.\n\n• ➡️ Supply Chain Compliance Action: Legal divisions must cross-verify upcoming procurement streams with the newly drafted CEPA investment protection parameters before negotiators open the high-stakes New Delhi round in early November. [1] , [2] , [3]",
-    "table": [
-      {
-        "indicator": "Chokepoint Security",
-        "signal_level": "HIGH",
-        "signal_label": "High Risk",
-        "detail": "PGSA flags 7 distinct crossing violations by Sinokor over 3 months, threatening asset seizures by November 1. Concurrently, October hits an all-time monthly high of 28 separate maritime attacks."
-      },
-      {
-        "indicator": "Maritime Freight & Capacity",
-        "signal_level": "HIGH",
-        "signal_label": "High Risk",
-        "detail": "Over 11 supertankers have sustained hull or engine room damage in October alone, crippling roughly 3.5% of total global VLCC tonnage. Freight costs stay severely inflated due to dark transits and Cape reroutings."
-      },
-      {
-        "indicator": "Bilateral Trade Treaties",
-        "signal_level": "MEDIUM",
-        "signal_label": "Adaptive Routing",
-        "detail": "Following Minister Sidhu's Team Canada mission which unlocked 34 contracts worth $300 million, both sides confirm technical schedules for the New Delhi sixth round."
-      }
-    ]
   }
 ]
