@@ -503,7 +503,9 @@
           "detail": "Canadian pension funds (CPPIB, CDPQ, OMERS) commit over USD 55 billion across Indian infrastructure nodes. CPPIB expands its long-term baseline via a new INR 20.7 billion allocation to the NIIF Infrastructure Fund."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-10-23T12:29:00+00:00",
       "category": "Geopolitical",
@@ -531,9 +533,7 @@
           "detail": "Negotiators establish strict [rules of origin and investment protections to insulate the upcoming text ratification from Western single-market trade friction."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-10-23T06:10:00+00:00",
       "category": "Geopolitical",
