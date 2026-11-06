@@ -1,6 +1,34 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-10-30T14:50:00+00:00",
+      "category": "Geopolitical",
+      "title": "The Persian Gulf Strait Authority (PGSA) maintains total enforcement of its impending November 1 blanket blacklist targeting South Korea’s Sinokor Merchant Marine, locking cross-sector shipping risk…",
+      "impact_level": "HIGH",
+      "summary": "Market read: Oil bullish / XAU long.",
+      "details": "The Persian Gulf Strait Authority (PGSA) maintains total enforcement of its impending November 1 blanket blacklist targeting South Korea’s Sinokor Merchant Marine, locking cross-sector shipping risk variables at prohibitive operational thresholds. Because the dominant shipping titan controlled 47% of all Strait of Hormuz VLCC transits in September and over 50% during early October, the imminent fleet-wide exclusion threatens to instantly strip more than one-third of available Gulf shuttle capacity from open-market commercial networks. While the Korea Shipowners' Association attempts to isolate national exposure by clarifying that the blacklisted hulls are operated by foreign crews via external sub-charters, global energy desks are aggressively rejecting associated tonnage ahead of Sunday's structural activation line. Concurrently, sovereign de-risking reconfigurations gain massive momentum as Canada and India finalize a specialized tariff-rate quota framework under the Comprehensive Economic Partnership Agreement (CEPA).\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil & Chokepoint Risk\n\n• The Shuttle Trade Vulnerability: Sinokor has emerged as the structural backbone of Persian Gulf shuttle logistics, loading crude oil inside volatile chokepoints and transferring it to secondary tankers in the Gulf of Oman. Bloomberg vessel-tracking data reveals that Sinokor hulls transported 105.6 million barrels of crude through Hormuz in September alone—representing 37% of the region's entire monthly export pipeline.\n\n• The Asset Seizure Threat Vector: The PGSA's warning marks the first time Tehran has targeted an entire shipping company's corporate architecture rather than individual hulls. Seven core supertankers—including the Ghana Prosperity, Cameroon Prosperity, and Angola Prosperity—have already been hit by missiles or drones this month, and any subsequent non-compliance after November 1 carries explicit asset detention risks.\n\n• The Non-Verification Contention: Tensions have been compounded by an IRGC Navy alert claiming an unidentified tanker caught fire after striking sea mines east of Hormuz while running dark. This statement directly challenges U.S. Central Command's assertions that primary shipping corridors have been completely cleared of naval mines, introducing high uncertainty for cargo underwriters.\n\n🇨🇦 Trade Friction & Sovereign De-Risking\n\n• The Tariff Rate Quota Solution: Addressing India’s high tariff wall on agricultural imports, Indian High Commissioner Dinesh K. Patnaik confirmed that negotiators are building a specialized tariff rate quota framework into the final CEPA text. This mechanism will grant Canada a dedicated annual volume of duty-free pulse and lentil exports to feed India's growing domestic demand.\n\n• The December Treaty Lock: Backed by Prime Minister Mark Carney’s mandate to establish deep economic insulation against Western single-market trade friction, the trade deal is tracking for full completion well before Prime Minister Narendra Modi's state visit to Canada on December 11–12. The final pact targets expanding annual two-way commerce to C$70 billion by 2030.\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Corporate Logistics Directive: Energy desks must issue an immediate, absolute routing freeze on any Sinokor-owned, managed, or sub-chartered tonnage slated to traverse the Persian Gulf boundaries ahead of the November 1 legal activation date.\n\n• 📊 Freight Hedging Thresholds: Risk desks must adjust baseline procurement formulas to account for the Clarksons-verified $84,951 per day ClarkSea Index peak. Capture alternative West African or Atlantic spot capacity immediately before the impending exclusion of Sinokor's 93 VLCCs triggers severe asset scarcity.\n\n• ➡️ Supply Chain Compliance Action: Agricultural and logistics legal teams must immediately map Q4/Q1 cargo pipelines to align with the newly structured Canada-India CEPA tariff-rate quotas for pulses and lentils prior to the ministerial finalization loops in November.",
+      "table": [
+        {
+          "indicator": "Chokepoint Security",
+          "signal_level": "HIGH",
+          "signal_label": "High Risk",
+          "detail": "PGSA prepares to launch comprehensive legal interventions against all Sinokor-linked vessels starting November 1. October officially prints as the worst month for maritime hostilities to date, recording 30 confirmed vessel attacks on the IMO tracking list."
+        },
+        {
+          "indicator": "Maritime Freight & Capacity",
+          "signal_level": "HIGH",
+          "signal_label": "High Risk",
+          "detail": "The cross-sector ClarkSea Index hovers near its historic disruption peak of $84,951/day, running 70% above its 2025 seasonal average. Sinokor's 93-strong VLCC fleet remains entirely exposed to sudden detention or fine actions."
+        },
+        {
+          "indicator": "Bilateral Trade Treaties",
+          "signal_level": "MEDIUM",
+          "signal_label": "Adaptive Routing",
+          "detail": "India and Canada enter final legal text scrubbing for the CEPA pact. The framework will deploy a duty-free tariff rate quota on Canadian agricultural pulses to insulate long-term trade from single-market shocks."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-10-30T09:39:00+00:00",
       "category": "Geopolitical",
       "title": "The Persian Gulf Strait Authority (PGSA) maintains total enforcement of its upcoming November 1 blanket blacklist targeting South Korea's Sinokor Merchant Marine, locking cross-sector shipping risk…",
@@ -475,7 +503,9 @@
           "detail": "Ottawa and New Delhi lock final agendas for early November. Text structures focus on protecting intellectual property and securing cross-border investment parameters."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-10-23T22:29:00+00:00",
       "category": "Geopolitical",
@@ -503,9 +533,7 @@
           "detail": "Canadian pension funds (CPPIB, CDPQ, OMERS) commit over USD 55 billion across Indian infrastructure nodes. CPPIB expands its long-term baseline via a new INR 20.7 billion allocation to the NIIF Infrastructure Fund."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-10-23T12:29:00+00:00",
       "category": "Geopolitical",
