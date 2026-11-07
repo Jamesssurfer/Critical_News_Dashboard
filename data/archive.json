@@ -1459,7 +1459,9 @@
           "detail": "The 5-day Ottawa CEPA trade sprint enters its final phase to fast-track critical mineral corridors and hit a C$70 billion bilateral trade target by 2030 [India & Canada to begin 5-day CEPA negotiation round in ...]."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-10-08T01:47:00+00:00",
       "category": "Trade War",
@@ -1527,9 +1529,7 @@
           "detail": "The five-day Ottawa CEPA trade sprint formally opens to lock down a C$70 billion bilateral trade corridor by 2030 as a macro hedge against alternative protectionist tariff walls."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-10-07T05:51:00+00:00",
       "category": "Trade War",
