@@ -475,7 +475,9 @@
           "detail": "Following Round 5 in Ottawa, Canada and India establish technical frameworks to lower cross-border tariffs, targeting an incremental [GDP expansion up to $6.5 billion by the end of 2026."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-10-24T11:28:00+00:00",
       "category": "Geopolitical",
@@ -503,9 +505,7 @@
           "detail": "Ottawa and New Delhi lock final agendas for early November. Text structures focus on protecting intellectual property and securing cross-border investment parameters."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-10-23T22:29:00+00:00",
       "category": "Geopolitical",
@@ -1391,7 +1391,9 @@
           "detail": "Technical teams enter the final hours of the fifth-round India-Canada CEPA talks in Ottawa to fast-track resource access."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-10-08T07:50:00+00:00",
       "category": "Trade War",
@@ -1459,9 +1461,7 @@
           "detail": "The 5-day Ottawa CEPA trade sprint enters its final phase to fast-track critical mineral corridors and hit a C$70 billion bilateral trade target by 2030 [India & Canada to begin 5-day CEPA negotiation round in ...]."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-10-08T01:47:00+00:00",
       "category": "Trade War",

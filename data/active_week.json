@@ -1,5 +1,39 @@
 [
   {
+    "timestamp": "2026-11-07T18:52:00+00:00",
+    "category": "Geopolitical",
+    "title": "The Houthi-controlled Humanitarian Operations Coordination Center (HOCC) has officially initiated a voluntary \"transit permit\" architecture for civilian vessels traversing the Bab el-Mandeb Strait…",
+    "impact_level": "HIGH",
+    "summary": "Market read: Oil bullish / XAU long.",
+    "details": "The Houthi-controlled Humanitarian Operations Coordination Center (HOCC) has officially initiated a voluntary \"transit permit\" architecture for civilian vessels traversing the Bab el-Mandeb Strait, securing an institutional chokehold over the Red Sea corridor. Concurrently, U.S. forces have dramatically expanded intervention efforts under the strict blockade of Iranian maritime assets, forcefully redirecting 144 commercial vessels and disabling four non-compliant blockaderunners. This formal regulatory tightening by state and non-state actors across active straits is structuralizing severe long-haul inefficiencies, maintaining Brent crude at an elevated floor of $114/bbl as cross-segment tonnage deficits enter acute phases. [1]\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil & Chokepoint Risk\n\n• The HOCC Transit Normalization: The formal deployment of voluntary transit permits by the HOCC closely mirrors Iran’s Persian Gulf Strait Authority established earlier this year. This institutional setup normalizes insurgent regulation over the Bab el-Mandeb, drastically increasing commercial maritime hull insurance rates, adding massive transit fees, and creating permanent economic friction for Western alliance supply chains. [1]\n\n• Subsea Sabotage Reconnaissance: Intelligence networks confirm that Iran deployed four commercial vessels last month specifically tasked with detailed mapping of subsea cable routes throughout the Gulf of Oman. Diplomatic wires indicate this reconnaissance serves as a direct operational architecture to implement widespread digital communication blockades if Western forces strike mainland assets. [1]\n\n• The AIS Tanker Cluster: Reinstated U.S. naval blockade measures have forced massive numbers of tankers laden with Iranian crude and petrochemicals to cluster tightly inside coastal anchorages. While U.S. personnel actively board and monitor compliant traffic, displaced vessels are aggressively shifting toward the Eastern Outer Port Limits (EOPL) off Malaysia to run ship-to-ship (STS) transfers via secondary registry networks. [1]\n\n🇨🇦 Trade Friction & Sovereign Re-shaping\n\n• The Manila Trade Diversification: Under Prime Minister Mark Carney's explicit sovereign de-risking directive, Canadian trade negotiators are racing to conclude structural bilateral trade deals during the upcoming prime ministerial summit in Manila. The twin trade deals target immediate logistics and energy security linkages to decouple supply dependencies from traditional North American grid locks. [1]\n\n• Domestic Friction Removal: Bill C-5 (the Free Trade and Labour Mobility in Canada Act) has officially seen its full regulatory architecture come into active force. The legislation forces the universal interprovincial recognition of labor licenses and goods standards, aggressively fortifying internal Canadian markets against external global supply shocks and cross-border tariff threats. [1]\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Reposition Tanker Fleets to Sanction-Waiver Pipelines: Portfolio desks must immediately front-run the expected U.S. Treasury waiver program. Target logistics exposure to previously sanctioned tankers that are structurally positioned to secure immediate compliance clearances for non-sanctioned oil suppliers.\n\n• 📊 Enforce Total AIS Deactivation in Southern Corridor: Maritime risk managers routing through the Strait of Hormuz must strictly integrate with U.S. naval escort hubs. Ensure all vessels adopt total dark-transit operational modes (AIS disabled) to conform to the current 31.5 vessels/day secure throughput channel.\n\n• ➡️ Re-Route Container Logistics via ASEAN Corridors: Corporate compliance legal divisions should immediately transition baseline shipping options to take advantage of the approaching Canada-ASEAN treaty framework. Utilize verified Southeast Asian flag-state platforms to exploit regional logistics legal shields and insulate container lines from escalating Red Sea and Persian Gulf operational surcharges. [1] , [2] , [3] , [4]",
+    "table": [
+      {
+        "indicator": "Military Threats",
+        "signal_level": "HIGH",
+        "signal_label": "High Risk / Strike",
+        "detail": "International Maritime Organisation (IMO) logs a cumulative 129 commercial vessel incidents, accounting for 24 confirmed seafarer deaths across the Persian Gulf and Strait of Hormuz."
+      },
+      {
+        "indicator": "Maritime Chokepoints",
+        "signal_level": "HIGH",
+        "signal_label": "High Risk / Veto",
+        "detail": "U.S.-facilitated bidirectional transits through the southern corridor of Hormuz average a highly constrained 31.5 vessels per day under total AIS-dark deployment protocols."
+      },
+      {
+        "indicator": "Macroeconomic Interventions",
+        "signal_level": "MEDIUM",
+        "signal_label": "Moderate Risk / Adaptive Routing",
+        "detail": "The U.S. Administration opens structural reviews to ease sanctions exclusively for target tankers to offset record oil freight costs and mitigate severe global vessel undersupply."
+      },
+      {
+        "indicator": "Single-Market Expansion",
+        "signal_level": "MEDIUM",
+        "signal_label": "Moderate Risk / Escort",
+        "detail": "Canada advances its Indo-Pacific trade diversification framework, pushing negotiations past the 90% completion mark for comprehensive free trade agreements with ASEAN and the Philippines."
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-06T18:38:00+00:00",
     "category": "Geopolitical",
     "title": "Tehran has introduced a critical asymmetric shift at the Strait of Hormuz by granting unrestricted transit exemptions to vessels registered to or trading with India, China, Iraq, and Qatar…",
