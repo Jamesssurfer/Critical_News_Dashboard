@@ -1,6 +1,34 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-11-01T15:46:00+00:00",
+      "category": "Geopolitical",
+      "title": "The Persian Gulf Strait Authority’s (PGSA) blanket blockade targeting South Korea’s Sinokor Merchant Marine has officially gone active as of today, creating an immediate operational threat of asset…",
+      "impact_level": "HIGH",
+      "summary": "Market read: Oil bullish / XAU long.",
+      "details": "The Persian Gulf Strait Authority’s (PGSA) blanket blockade targeting South Korea’s Sinokor Merchant Marine has officially gone active as of today, creating an immediate operational threat of asset seizure for 37% of the corridor’s active crude shuttle pipeline. The multi-segment ClarkSea Index remains severely inflated near all-time records as the industry absorbs the formal exclusion of the world's largest supertanker owner, which single-handedly controlled 47% of all Strait of Hormuz VLCC transits in September. Concurrently, sovereign de-risking mechanisms enter their most critical phase as Canadian and Indian ministries review finalized structural drafts ahead of the high-stakes Comprehensive Economic Partnership Agreement (CEPA) sixth round, commencing this week in New Delhi. [1] , [2] , [3] , [4]\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil & Chokepoint Risk\n\n• The Active Sinokor Fleet Ban: Tehran’s PGSA has rejected final joint diplomatic appeals, initiating active interdiction protocols against all Sinokor-owned, managed, or chartered-in hulls trying to enter the waterway. While the Korea Shipowners' Association has attempted to defuse sovereign liability by stating that the hulls are operated under external sub-charters to an international oil major, global commodity trading desks have enacted complete exclusions of the tonnage to prevent immediate cargo seizure or asset detention. [1]\n\n• The Shuttle Logistics Fracture: Sinokor holds an outsized role as the primary backbone of the Persian Gulf shuttle trade—loading crude oil inside volatile chokepoints and transferring it to secondary tankers in the Gulf of Oman. Bloomberg vessel-tracking filters confirm that Sinokor hulls moved 105.6 million barrels of crude through Hormuz in September alone. Extracting this massive tonnage layer from unescorted corridors directly triggers a structural capacity crunch across East Asian refining hubs. [1] , [2]\n\n🇨🇦 Trade Friction & Sovereign De-Risking\n\n• The New Delhi November Assembly: Moving independently of North American trade volatility, Canadian International Trade Minister Maninder Sidhu and Indian trade ministries have finalized the core regulatory agenda for the sixth negotiation round starting this week in New Delhi. Text scrubbing covers goods access, investment parameters, rules of origin, and intellectual property rights. [1]\n\n• The Year-End Economic Buffer: Grounded by Prime Minister Mark Carney's directive to build resilient economic insulation against Western single-market trade friction, the trade deal is tracking for full conclusion by the end of 2026. The final pact targets expanding annual two-way commerce to C$70 billion by 2030, serving as a massive structural buffer for critical resources including agricultural pulses, potash, and wood pulp. [1]\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Corporate Logistics Directive: Energy desks must enforce an immediate, absolute routing ban on any Sinokor-owned, managed, or sub-chartered tonnage slated to traverse the Persian Gulf boundaries now that the PGSA legal enforcement has been officially activated.\n\n• 📊 Freight Hedging Thresholds: Adjust Q4 corporate transport formulas to account for the Clarksons-verified ClarkSea Index peak. Supply chains must immediately capture available alternative West African or Atlantic spot allocations before impending fleet exclusions restrict fleet velocity.\n\n• ➡️ Supply Chain Compliance Action: Legal divisions managing Indo-Pacific procurement must run immediate compliance reviews on Q4/Q1 product streams to integrate upcoming CEPA rules of origin and market access parameters for goods and services before chief negotiators open the sixth negotiation round this week in New Delhi. [1] , [2] , [3]",
+      "table": [
+        {
+          "indicator": "Chokepoint Security",
+          "signal_level": "HIGH",
+          "signal_label": "High Risk",
+          "detail": "PGSA activates blanket legal enforcement against all Sinokor-linked vessels today. October concludes as the most violent month of hostilities on record, locking in 30 confirmed maritime attacks on the IMO index."
+        },
+        {
+          "indicator": "Maritime Freight & Capacity",
+          "signal_level": "HIGH",
+          "signal_label": "High Risk",
+          "detail": "Driven by unprecedented Middle East transit friction, the cross-sector ClarkSea Index tests historic heights. Global VLCC spot earnings hit record parameters as Sinokor's 93-VLCC fleet faces active enforcement."
+        },
+        {
+          "indicator": "Bilateral Trade Treaties",
+          "signal_level": "MEDIUM",
+          "signal_label": "Adaptive Routing",
+          "detail": "India and Canada enter final text scrubbing for the CEPA pact. Negotiators establish duty-free tariff-rate quotas to immediately expand bilateral commerce by an estimated $4.4 billion to $6.5 billion."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-10-30T14:50:00+00:00",
       "category": "Geopolitical",
       "title": "The Persian Gulf Strait Authority (PGSA) maintains total enforcement of its impending November 1 blanket blacklist targeting South Korea’s Sinokor Merchant Marine, locking cross-sector shipping risk…",
@@ -1255,7 +1283,9 @@
           "detail": "The 5-day Ottawa CEPA sprint concludes its technical parameters to insulate supply grids and secure a C$70 billion bilateral trade target by 2030."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-10-09T19:50:00+00:00",
       "category": "Trade War",
@@ -1323,9 +1353,7 @@
           "detail": "The 5-day Ottawa CEPA sprint concludes today to fast-track resource lines and lock down a binding bilateral trade target of C$70 billion by 2030."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-10-08T19:50:00+00:00",
       "category": "Trade War",
