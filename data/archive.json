@@ -447,7 +447,9 @@
           "detail": "Indian High Commissioner Dinesh K. Patnaik signals total confidence that the bilateral CEPA trade pact text will be fully finalized much before December, setting the stage for Prime Minister Narendra Modi's high-level state visit to Canada on December 11–12."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-10-26T02:15:00+00:00",
       "category": "Geopolitical",
@@ -475,9 +477,7 @@
           "detail": "Diplomatic wires confirm both nations have aggressively ironed out final legal text discrepancies on intellectual property and goods access, positioning the pact for full conclusion ahead of the year-end deadline."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-10-24T21:02:00+00:00",
       "category": "Geopolitical",
@@ -1215,7 +1215,9 @@
           "detail": "Technical drafting rounds for the 5-day Canada-India CEPA pact wrap up in Ottawa, fast-tracking resource security corridors targeting a C$70 billion bilateral trade goal by 2030."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-10-10T00:36:00+00:00",
       "category": "Trade War",
@@ -1283,9 +1285,7 @@
           "detail": "The 5-day Ottawa CEPA sprint concludes its technical parameters to insulate supply grids and secure a C$70 billion bilateral trade target by 2030."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-10-09T19:50:00+00:00",
       "category": "Trade War",
