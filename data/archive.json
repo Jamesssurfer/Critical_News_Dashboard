@@ -1,6 +1,34 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-11-02T19:30:00+00:00",
+      "category": "Geopolitical",
+      "title": "Iran on Monday formally cuts its timeline to reopen the Strait of Hormuz to just two days if the United States complies with its foundational diplomatic demands, highlighting a dramatic shift in…",
+      "impact_level": "HIGH",
+      "summary": "Market read: Oil bullish / XAU long.",
+      "details": "Iran on Monday formally cuts its timeline to reopen the Strait of Hormuz to just two days if the United States complies with its foundational diplomatic demands, highlighting a dramatic shift in backchannel negotiations even as kinetic attacks on regional assets persist. Iranian Foreign Ministry Spokesman Esmaeil Baqaei and Foreign Minister Abbas Araghchi confirmed that message exchanges via international mediators remain highly active, though any localized relaxation is strictly conditional on Washington accepting a new transit route mapped between Tehran and Oman, removing recent economic sanctions, and scaling back regional troop configurations. While diplomatic negotiations intensify, physical operational friction remains severe; a Seabulk International offshore tug began partially sinking following a direct kinetic impact inside the Strait on November 1, while a separate commercial tanker was struck by twin projectiles in the upper Arabian Gulf offshore of Saudi Arabia. Concurrently, sovereign de-risking reconfigurations accelerate as Canadian and Indian negotiators open their high-stakes sixth negotiation round in New Delhi to finalize the Comprehensive Economic Partnership Agreement (CEPA) by year-end. [1] , [2] , [3] , [4] , [5]\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil & Chokepoint Risk\n\n• The Condensed Reopening Ultimatum: Moving significantly faster than its original seven-day timeline proposed in September, Tehran's newly announced two-day reopening plan requires immediate U.S. concessions. Demands dictate a comprehensive halt to the regional war on all fronts, the immediate unfreezing of overseas Iranian financial assets, oil sector sanction relief, and a total end to the U.S. naval blockade. [1]\n\n• The Sinokor Ship-to-Ship Lifeline: Specialized maritime analysis from Lloyd's List Intelligence confirms that South Korea's Sinokor has uniquely driven the Persian Gulf oil shipment rebound. Backed by a massive fleet expansion that tripled its VLCC tonnage since December, the firm is aggressively utilizing allied military escorts to funnel crude through the chokepoint via rapid ship-to-ship (STS) transfers into the Gulf of Oman. [1]\n\n• Targeting Shifts to Support Fleet: While larger tankers continue to utilize convoy protections, Iran's IRGC has expanded its kinetic targeting profile to secondary logistics sectors. The projectile strike that crippled the beneficial-owned Seabulk International tug Selat Storm in the Strait signals an intentional escalation targeting critical chokepoint support infrastructure. [1]\n\n🇨🇦 Trade Friction & Sovereign De-Risking\n\n• The New Delhi Technical Sweeps: Seeking a clean macroeconomic hedge against volatile Western single-market trade patterns, chief negotiators have officially convened the sixth round of CEPA negotiations in New Delhi. Bilateral teams are refining high-level treaty provisions spanning rules of origin, market access benchmarks for industrial goods, and binding cross-border investment protections. [1]\n\n• Commercial Baseline Integration: Reinforcing the diplomatic push, the recent conclusion of the Canada-India Business Ceremony in Karnataka unlocked a series of commercial agreements and Memoranda of Understanding. This foundational corporate framework is built to instantly leverage the upcoming tariff phase-outs, targeting a swift reversal of recent annual trade contractions. [1] , [2]\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Corporate Logistics Directive: Energy desks must ensure all support vessels, including regional offshore tugs and bunkering barges, are fully integrated into allied naval escort grids following the verified kinetic strike on the Selat Storm.\n\n• 📊 Freight Hedging Thresholds: Risk desks should lock in long-term cargo capacities on Asian-bound corridors immediately. While Iran's two-day reopening proposal introduces potential downside volatility for shipping indices, Sinokor's near-monopoly on active Hormuz transits means global spot pricing remains heavily dictated by private shadow networks.\n\n• ➡️ Supply Chain Compliance Action: Legal divisions must benchmark all upcoming Q4/Q1 manufacturing procurement manifests against the newly updated Canada-India CEPA trade remedy and intellectual property provisions currently undergoing final textual scrubbing in New Delhi. [1] , [2] , [3] , [4]",
+      "table": [
+        {
+          "indicator": "Chokepoint Security",
+          "signal_level": "HIGH",
+          "signal_label": "High Risk",
+          "detail": "Iran proposes an accelerated two-day reopening matrix via Qatar/Oman backchannels. However, the IRGC continues active targeting, hitting the Panama-flagged tug Selat Storm on November 1."
+        },
+        {
+          "indicator": "Maritime Freight & Capacity",
+          "signal_level": "HIGH",
+          "signal_label": "High Risk",
+          "detail": "Enigmatic carrier Sinokor Single-handedly controls about half of all active Hormuz tanker transits, heavily leveraging ship-to-ship (STS) transfers into the Gulf of Oman to feed Asian refiners. The ClarkSea Index holds at an inflated $75,395/day baseline."
+        },
+        {
+          "indicator": "Bilateral Trade Treaties",
+          "signal_level": "MEDIUM",
+          "signal_label": "Adaptive Routing",
+          "detail": "The Canada-India CEPA Sixth Round launches in New Delhi, directly following a series of commercial MoUs signed in Karnataka. The free trade architecture legally targets expanding bilateral commerce by up to $6.5 billion."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-11-02T04:31:00+00:00",
       "category": "Geopolitical",
       "title": "Maritime data registers a staggering 35 commercial vessel attacks across the Strait of Hormuz in October, the single most violent month of hostilities since the U.S.–Iran conflict erupted.",
@@ -391,7 +419,9 @@
           "detail": "Final technical drafts are cleared ahead of the November 4 ministerial opening in New Delhi. The incoming text legally safeguards cross-border capital nodes against single-market tariff shifts."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-10-26T22:29:00+00:00",
       "category": "Geopolitical",
@@ -475,9 +505,7 @@
           "detail": "Indian High Commissioner Dinesh K. Patnaik signals total confidence that the bilateral CEPA trade pact text will be fully finalized much before December, setting the stage for Prime Minister Narendra Modi's high-level state visit to Canada on December 11–12."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-10-26T02:15:00+00:00",
       "category": "Geopolitical",
