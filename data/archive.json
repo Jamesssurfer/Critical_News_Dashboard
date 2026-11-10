@@ -1,6 +1,34 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-11-03T13:12:00+00:00",
+      "category": "Geopolitical",
+      "title": "Iran’s Persian Gulf Strait Authority (PGSA) has aggressively doubled the size of its maritime blacklist to 240 vessels, adding 114 ships in its largest single update on record to formally target the…",
+      "impact_level": "HIGH",
+      "summary": "Market read: Oil bullish / XAU long.",
+      "details": "Iran’s Persian Gulf Strait Authority (PGSA) has aggressively doubled the size of its maritime blacklist to 240 vessels, adding 114 ships in its largest single update on record to formally target the entire commercial fleets of Sinokor, KOTC, Bahri, and ADNOC. This draconian enforcement protocol comes alongside escalating backchannel negotiations, where U.S. President Donald Trump signaled positive progress on a potential diplomatic framework after Tehran condensed its operational timeline to open the Strait of Hormuz to just two days via Omani and Qatari intermediaries. Despite these fragile diplomatic movements, the physical landscape remains heavily volatile; October officially closed as the bloodiest phase of the conflict with an unprecedented 35 confirmed kinetic vessel strikes, keeping the cross-sector ClarkSea Index elevated at historical boom parameters. Concurrently, sovereign trade hedges solidify as Canadian and Indian technical ministries advance into high-stakes negotiations to lock down final Comprehensive Economic Partnership Agreement (CEPA) parameters in New Delhi. [1] , [2] , [3] , [4] , [5] , [6]\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil & Chokepoint Risk\n\n• The Mass Blacklist Deployment: The PGSA's multi-fleet blacklisting of Sinokor, Kuwait Oil Tanker Company (KOTC), Bahri, and ADNOC represents a total institutionalization of the blockade. By listing at least 240 vessels under Non-Compliance Listed (NCL) status, Tehran has established explicit justification for physical asset seizures, cargo detentions, and punitive fine schemes for any unapproved fleets crossing the waterway. [1]\n\n• The Condensed Two-Day Reopening Offer: In a rapid shift from its historical position, Tehran has transmitted an accelerated deal matrix via mediators. The plan offers a fully verifiable reopening of the Strait within 48 hours if Washington rolls back active oil sector sanctions, stops its naval blockade, and adopts the newly drafted Iran-Oman transit lane. [1] , [2]\n\n• The Sinokor Shuttle Dominance: Despite the newly expanded blacklist, South Korea's Sinokor remains the critical structural pipeline for Persian Gulf crude. Relying extensively on U.S. naval shields, the carrier is actively executing ship-to-ship (STS) transfers into the Gulf of Oman to deliver essential volumes to East Asian refinery corridors. [1]\n\n🇨🇦 Trade Friction & Sovereign De-Risking\n\n• The New Delhi Technical Sweeps: Moving completely independently of North American tariff developments, chief negotiators from Ottawa and New Delhi have formally opened the sixth round of the Comprehensive Economic Partnership Agreement (CEPA) in New Delhi. Teams are executing final textual scrubbing across investment protections, intellectual property, and trade remedies. [1]\n\n• The Institutional Target Realization: Prompted by Prime Minister Mark Carney's overarching diversification strategy, the free trade architecture is on track for full conclusion by the end of 2026. The finalized pact will lower trade barriers for core Canadian resource inputs, including agricultural pulses, potash, and wood pulp. [1] , [2]\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Corporate Logistics Directive: Compliance desks must review all active charters against the newly expanded 240-vessel PGSA blacklist. Mandate full naval integration or Cape of Good Hope diversions for any ships tied to Sinokor, KOTC, Bahri, or ADNOC tonnage operating outside allied escort grids.\n\n• 📊 Freight Hedging Thresholds: Adjust Q4 and Q1 marine transport budgets to absorb the reality of the extraordinary ClarkSea shipping boom. While the two-day reopening proposal introduces potential downside volatility for shipping indices, current capacity constraints mean spot transport remains heavily inflated.\n\n• ➡️ Supply Chain Compliance Action: Legal divisions overseeing Indo-Pacific trade must cross-verify upcoming procurement manifests with the newly finalized Canada-India CEPA market access parameters for goods and services before negotiators lock the final text templates in New Delhi. [1] , [2] , [3] , [4] , [5]",
+      "table": [
+        {
+          "indicator": "Chokepoint Security",
+          "signal_level": "HIGH",
+          "signal_label": "High Risk",
+          "detail": "PGSA launches a massive blacklist update targeting 46 Sinokor vessels, 10 KOTC hulls, 7 Bahri tankers, and 6 ADNOC ships. Concurrently, UKMTO confirms a fresh November 1 strike that holed a merchant vessel's starboard side off Lima, Oman."
+        },
+        {
+          "indicator": "Maritime Freight & Capacity",
+          "signal_level": "HIGH",
+          "signal_label": "High Risk",
+          "detail": "Enigmatic carrier Sinokor continues using U.S. military escort operations to handle nearly half of all active Hormuz transits. However, fleet extraction risks spike as the ClarkSea Index maintains its extraordinary supercycle boom."
+        },
+        {
+          "indicator": "Bilateral Trade Treaties",
+          "signal_level": "MEDIUM",
+          "signal_label": "Adaptive Routing",
+          "detail": "Canada and India advance Sixth Round negotiations in New Delhi. The legal frameworks target an immediate trade boost of $4.4 billion to $6.5 billion to bypass North American single-market disruptions."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-11-02T19:30:00+00:00",
       "category": "Geopolitical",
       "title": "Iran on Monday formally cuts its timeline to reopen the Strait of Hormuz to just two days if the United States complies with its foundational diplomatic demands, highlighting a dramatic shift in…",
@@ -363,7 +391,9 @@
           "detail": "Canada and India lock in structural text templates for the New Delhi sixth round. The pact aggressively targets a C$70 billion annual bilateral trade baseline by 2030."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-10-27T11:01:00+00:00",
       "category": "Geopolitical",
@@ -419,9 +449,7 @@
           "detail": "Final technical drafts are cleared ahead of the November 4 ministerial opening in New Delhi. The incoming text legally safeguards cross-border capital nodes against single-market tariff shifts."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-10-26T22:29:00+00:00",
       "category": "Geopolitical",
@@ -7086,16 +7114,16 @@
       "title": "Crude oil spikes 4.2% overnight following regional tanker boarding incident.",
       "impact_level": "HIGH",
       "summary": "XAU/USD saw an initial safe-haven spike before reversing."
-    },
+    }
+  ],
+  "past_6_months": [
     {
       "timestamp": "2026-08-12T11:15:00+00:00",
       "category": "Currency",
       "title": "Treasury announces unexpected scaling up of liquidity buyback operations.",
       "impact_level": "MEDIUM",
       "summary": "DXY saw a brief relief drop."
-    }
-  ],
-  "past_6_months": [
+    },
     {
       "timestamp": "2026-07-29T16:50:00+00:00",
       "category": "Geopolitical",
