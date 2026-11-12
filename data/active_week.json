@@ -1,5 +1,61 @@
 [
   {
+    "timestamp": "2026-11-12T08:07:00+00:00",
+    "category": "Geopolitical",
+    "title": "A suspected projectile strike hit the Saudi Arabia-flagged chemical tanker NCC Fajr while transiting the Strait of Hormuz on November 11, marking a direct kinetic escalation against Saudi downstream…",
+    "impact_level": "HIGH",
+    "summary": "Market read: Oil bullish / XAU long.",
+    "details": "A suspected projectile strike hit the Saudi Arabia-flagged chemical tanker NCC Fajr while transiting the Strait of Hormuz on November 11, marking a direct kinetic escalation against Saudi downstream petrochemical export assets. Simultaneously, new macro-logistics disclosures from Clarksons Research project global shipping fuel expenditure to hit a record $220 billion in 2026 as conflict-driven rerouting inflates ton-mile demand. While all crew aboard the Bahri-operated NCC Fajr were confirmed safe, concurrent IRGC claims of multiple naval mine strikes and an engine-room projectile hit off Oman underscore severe structural friction across Persian Gulf transit lanes. [1] , [2] , [3]\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil & Chokepoint Risk\n\n• The NCC Fajr Downstream Targeting: Owned by National Chemical Carriers—an 80%-owned subsidiary of Saudi state-linked giant Bahri—the LR2/Aframax-class tanker NCC Fajr was involved in a suspected attack in the Strait of Hormuz on November 11. India's shipping minister confirmed all crew members are safe, though targeting a specialized refined product and petrochemical carrier signals a shift toward disrupting Saudi downstream export capacity just one day after Riyadh publicly demanded an end to maritime threats. [1]\n\n• Multi-Vector Kinetic Attrition Off Oman: Alongside UKMTO warnings regarding the NCC Fajr, maritime security firm Ambrey reported a projectile struck the engine room of a merchant vessel approximately 7 nautical miles northeast of Lima, Oman, leaving the hull disabled. Separately, Iran's IRGC Navy claimed two tankers exploded after hitting naval mines in unauthorized zones, creating conflicting threat profiles between projectile strikes and mine warfare across the eastern strait. [1] , [2]\n\n• Gulf Crude Export Resilience: Speaking at the IBIA Annual Convention in New York on November 11, Clarksons Research Managing Director Steve Gordon noted that despite acute kinetic friction, over 90% of normal Middle East crude exports are still reaching global markets at 16–17 million barrels per day. However, maintaining this throughput against last year's 18 million b/d baseline requires operating under a completely altered, higher-cost logistical framework. [1]\n\n📊 Global Capacity & Fuel Cost Realignment\n\n• The $220 Billion Bunker Cost Peak: Clarksons Research estimates global shipping fuel expenditure will reach an all-time high of $220 billion in 2026. Even though newly delivered vessels are roughly 50% more fuel-efficient than ships built 15 years ago, extended rerouting distances—up 10% over the decade—and a projected 1% to 1.5% increase in ton-mile demand have reversed prior consumption declines. [1]\n\n• Fleet Expansion & Fuel Transition: Global fleet tonnage is projected to expand by 5% in 2026 and 6% in 2027, with 2,000 newbuilds scheduled for scrubber installations alongside 300 annual retrofits. Alternative fuel capability currently stands at 10% of global fleet tonnage—predominantly gas carriers—and is forecast to reach 17% by 2030 and over one-third within ten years. [1]\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Audit Refined Product & Chemical Charter Exposures: Supply chain legal divisions must immediately review war-risk clauses and hull coverage for LR2 and chemical tankers operating in the Persian Gulf. The suspected strike on the NCC Fajr demonstrates that Saudi-linked downstream petrochemical carriers are actively exposed alongside crude supertankers.\n\n• 📊 Lock In Bunker Surcharge Ceilings for Q4–Q1: Portfolio desks and freight procurement teams must hedge against rising fuel adjustment factors. With Clarksons Research confirming a record $220 billion bunker spend driven by 1%–1.5% ton-mile expansion, spot voyage fuel costs will remain structurally elevated despite newbuild efficiency gains.\n\n• ➡️ Enforce Dual-Threat Evasion Protocols Near Lima, Oman: Maritime risk managers transiting the Musandam peninsula must maintain heightened acoustic mine-avoidance watches alongside anti-projectile protocols, as incidents within 7 to 19 nautical miles of Lima confirm overlapping UAV, projectile, and mine hazards. [1] , [2] , [3]",
+    "table": [
+      {
+        "indicator": "Chokepoint Security",
+        "signal_level": "HIGH",
+        "signal_label": "High Risk / Strike",
+        "detail": "House of Saud and TradeWinds confirm a suspected attack on the 81,336-dwt chemical tanker NCC Fajr on Nov 11; Riviera Maritime Media reports a separate engine-room strike 7nm northeast of Lima, Oman, disabling a merchant vessel."
+      },
+      {
+        "indicator": "Maritime Threats",
+        "signal_level": "HIGH",
+        "signal_label": "High Risk / Strike",
+        "detail": "IRGC Navy claims two tankers struck naval mines in the eastern Strait of Hormuz on Nov 11, following a Nov 10 UAV strike on the Barbados-flagged SEA 1."
+      },
+      {
+        "indicator": "Macro-Logistics",
+        "signal_level": "MEDIUM",
+        "signal_label": "Moderate Risk / Adaptive Routing",
+        "detail": "Ship & Bunker reports Clarksons Research projects a record $220 billion global bunker bill across a 290-million-tonne market in 2026, driven by a 1%–1.5% rise in ton-miles and 5% fleet tonnage growth."
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-12T04:42:00+00:00",
+    "category": "Geopolitical",
+    "title": "Iranian forces struck a Sinokor Maritime VLCC in the Strait of Hormuz, injuring four seafarers as Tehran intensifies kinetic targeting against operators participating in U.S.-protected shuttle runs.",
+    "impact_level": "HIGH",
+    "summary": "Market read: Oil bullish / XAU long.",
+    "details": "Iranian forces struck a Sinokor Maritime VLCC in the Strait of Hormuz, injuring four seafarers as Tehran intensifies kinetic targeting against operators participating in U.S.-protected shuttle runs. Simultaneously, major container carriers including Evergreen and Emirates Shipping Line are aggressively restoring ad-hoc Suez Canal and Bab el-Mandeb transits, triggering acute terminal congestion warnings across Red Sea and North European ports. While Brent crude rebounds 1.1% to $92.53/bbl on persistent Hormuz casualties, diplomatic momentum is accelerating in New Delhi as India and Canada advance negotiations toward a year-end Comprehensive Economic Partnership Agreement (CEPA).\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil & Chokepoint Risk\n\n• The Sinokor VLCC Targeting: Tehran has shifted fire toward major commercial players executing U.S.-backed shuttle voyages through the Strait of Hormuz. The strike on South Korean giant Sinokor Maritime's VLCC left four seafarers injured, pushing Brent crude back up to $92.53/bbl and WTI to $86.71/bbl despite a 9-million-barrel weekly build in U.S. crude inventories. [1] , [2]\n\n• The Red Sea Capacity Whiplash: Container lines are rapidly pivoting back to the Bab el-Mandeb and Suez corridors, with Evergreen scheduling eight ad-hoc Far East–Europe transits and Emirates Shipping launching a fortnightly China-Red Sea service on November 13. Flexport warns that vessels taking the shorter Suez route will converge with ships rounding the Cape of Good Hope, driving North European port arrivals to 131% of baseline capacity and straining Rotterdam yards already operating at 80%–90% utilization. [1]\n\n• The Shadow Fleet Dispersal: Satellite monitoring by UANI Disclosures reveals six empty Iranian-flagged tankers idly anchored along Sri Lanka's coast while roughly 50 embargo-defying cargo ships maintain open operations across Indo-Pacific and European waters, including the container vessel ZARDIS transiting from Russia toward the Suez Canal. [1]\n\n🇨🇦 Trade Friction & Sovereign Re-shaping\n\n• The New Delhi-Ottawa Acceleration: Canadian International Trade Minister Maninder Sidhu met with Indian Commerce Minister Piyush Goyal in New Delhi on November 11 to fast-track the India-Canada Comprehensive Economic Partnership Agreement. Diplomatic officials indicate both nations are positioning to finalize the pact before the end of the year, utilizing Prime Minister Narendra Modi's scheduled December visit to Canada as a structural milestone. [1]\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Hedge Against Imminent North European Port Gridlock: Supply chain logistics desks must prepare for severe vessel bunching between mid-November and January. With Suez-routed vessels overlapping Cape-routed arrivals at 131% capacity, pre-book inland rail and trucking haulage out of Rotterdam and Antwerp immediately to avoid escalating demurrage fees. [1]\n\n• 📊 Account for Post-Deal Mine Clearance Delays: Portfolio desks should avoid pricing in an immediate normalization of Gulf freight rates even if U.S.-Iran diplomatic talks advance. LSEG analysts emphasize that extensive naval mine clearance and elevated war-risk hull insurance premiums will keep Hormuz transit capacity constrained long after any formal ceasefire. [1]\n\n• ➡️ Align Procurement with India-Canada CEPA Timelines: Corporate trade compliance teams should audit tariff exposures on bilateral agricultural, industrial, and critical mineral flows ahead of December. Front-running the anticipated year-end CEPA signing will position supply chains to capture immediate duty reductions. [1] , [2]",
+    "table": [
+      {
+        "indicator": "Chokepoint Security",
+        "signal_level": "HIGH",
+        "signal_label": "High Risk / Strike",
+        "detail": "TradeWinds Casualty Logs confirm a strike on a Sinokor VLCC injuring four crew; U.S.-facilitated dark transits hold at 31.0 vessels/day across November."
+      },
+      {
+        "indicator": "Macro-Logistics",
+        "signal_level": "MEDIUM",
+        "signal_label": "Moderate Risk / Adaptive Routing",
+        "detail": "The Loadstar reports Evergreen and Emirates Shipping restoring Bab el-Mandeb sailings; North Europe port arrivals forecast to hit 131% of normal capacity in Week 47."
+      },
+      {
+        "indicator": "Sovereign De-Risking",
+        "signal_level": "MEDIUM",
+        "signal_label": "Moderate Risk / Escort",
+        "detail": "The Hindu Trade Wire confirms high-level ministerial talks in New Delhi advancing the India-Canada CEPA ahead of Prime Minister Modi's December visit to Ottawa."
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-11T08:30:00+00:00",
     "category": "Geopolitical",
     "title": "The Islamic Revolutionary Guard Corps (IRGC) has aggressively reinforced its exclusion zone in the Strait of Hormuz, declaring that three oil tankers have been left burning following separate naval…",
