@@ -1,5 +1,39 @@
 [
   {
+    "timestamp": "2026-11-12T12:43:00+00:00",
+    "category": "Geopolitical",
+    "title": "Saudi air defenses intercepted two Houthi ballistic missiles over the Mecca region early Thursday, scattering debris across residential zones and sharply escalating cross-border kinetic friction near…",
+    "impact_level": "HIGH",
+    "summary": "Market read: Oil bullish / XAU long.",
+    "details": "Saudi air defenses intercepted two Houthi ballistic missiles over the Mecca region early Thursday, scattering debris across residential zones and sharply escalating cross-border kinetic friction near the Bab el-Mandeb corridor. Concurrently, new maritime intelligence reveals a dangerous divergence in the Strait of Hormuz: Gulf LNG exports have surged to their highest monthly volume since the conflict began, directly attracting intensified Iranian targeting that has turned Sinokor Maritime's blacklisted VLCC shuttle fleet into a primary kinetic bullseye. While major container alliances like Maersk, Hapag-Lloyd, and Evergreen accelerate their return to the Suez Canal, forwarders warn of severe European port gridlock as converging shipping routes collide.\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil & Chokepoint Risk\n\n• The Sinokor Blacklist & LNG Surge: Lured by spot charter rates exceeding $1 million per day, shipowners pushed Gulf LNG exports to a conflict-era record of 31 tankers in October—bringing UAE LNG volumes back to prewar baselines while Qatar remains near 30%. However, BOE Report Intelligence notes that higher traffic directly fuels kinetic attrition, with 37 vessels hit in October. South Korean operator Sinokor Maritime—which accounts for over 50% of recent Hormuz VLCC shuttle transits—remains the only carrier with its entire fleet blacklisted by Iran's Persian Gulf Strait Authority, resulting in eight confirmed strikes on its tankers since July.\n\n• Desalination Infrastructure Vulnerability: Maritime intelligence firm Windward confirmed that a slick from recent tanker strikes drifted within 2 kilometers of the UAE's critical Naqa'a desalination plant. Because the UAE relies on desalination for over 80% of its drinking water, peripheral oil spills from maritime combat now pose an acute civil-infrastructure hazard alongside direct vessel damage.\n\n• The Mecca Ballistic Escalation: Following Wednesday's cross-border exchanges, Saudi air defenses destroyed two Houthi ballistic missiles over the Mecca region early Thursday morning. While Riyadh condemned the launches as violations of humanitarian law, the renewed kinetic tempo directly threatens the maritime approaches to Jeddah and the Bab el-Mandeb corridor just as container lines attempt to normalize Red Sea schedules.\n\n🚢 Global Capacity & Red Sea Realignment\n\n• The Suez-Cape Convergence Bottleneck: Carrier confidence in the Red Sea is surging ahead of physical port readiness. Maersk and Hapag-Lloyd confirmed their Gemini Cooperation ME1 service is returning to the Suez Canal, joining six other restored loops alongside Evergreen's eight ad-hoc sailings and Emirates Shipping's November 13 China–Red Sea launch. Flexport warns that 31 Suez-routed container ships will converge with 61 Cape-routed vessels in Week 47, pushing North European arrivals to 131% of baseline capacity and overwhelming Rotterdam yards already running at 80%–90% utilization with 3.37-day dwell times.\n\n🇨🇦 Trade Friction & Sovereign Re-shaping\n\n• The Ottawa-New Delhi CEPA Sprint: Canadian International Trade Minister Maninder Sidhu concluded strategic talks in New Delhi with Indian Commerce Minister Piyush Goyal to fast-track the bilateral Comprehensive Economic Partnership Agreement (CEPA). Both ministries reaffirmed targets to lock in market access and supply-chain complementarities prior to Prime Minister Narendra Modi's scheduled December trip to Canada.\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Audit Counterparty Exposure to Blacklisted Shuttle Fleets: Supply chain legal divisions and crude charterers must screen out Sinokor-operated tonnage for Persian Gulf liftings. With Sinokor's entire fleet formally blacklisted by Tehran and suffering eight kinetic hits since July, utilizing its shuttle capacity carries extreme hull-strike and cargo-loss probabilities.\n\n• 📊 Pre-Book Inland Haulage Ahead of Week 47 Port Bunching: Logistics managers moving cargo into Northern Europe must immediately secure rail and barge slots out of Rotterdam and Antwerp. The overlapping arrival of Suez-routed and Cape-routed container vessels will breach the 120% congestion threshold for at least three weeks between mid-November and January.\n\n• ➡️ Hedge Red Sea War-Risk Surcharges & CEPA Tariff Shifts: Portfolio desks should maintain active buffers against sudden Red Sea insurance reversals following Thursday's Mecca missile intercepts, while trade compliance teams prepare customs classifications to capture year-end tariff reductions under the advancing India-Canada CEPA.",
+    "table": [
+      {
+        "indicator": "Military Threats",
+        "signal_level": "HIGH",
+        "signal_label": "High Risk / Strike",
+        "detail": "Saudi Civil Defence Disclosures confirm two Houthi ballistic missiles intercepted over the Mecca region early Nov 12, dropping debris in Sabuhah village."
+      },
+      {
+        "indicator": "Chokepoint Security",
+        "signal_level": "HIGH",
+        "signal_label": "High Risk / Strike",
+        "detail": "Seatrade Maritime Logs confirm the Liberian-flagged Sinokor VLCC Fujairah Energy was struck by a projectile on Nov 10—the eighth Sinokor tanker hit since July—while Gulf LNG exports hit a war-high of 31 tankers in October."
+      },
+      {
+        "indicator": "Macro-Logistics",
+        "signal_level": "MEDIUM",
+        "signal_label": "Moderate Risk / Adaptive Routing",
+        "detail": "The Loadstar reports Maersk and Hapag-Lloyd shifting their ME1 service back to Suez alongside Evergreen; North Europe port arrivals forecast to hit 131% of normal capacity in Week 47."
+      },
+      {
+        "indicator": "Sovereign De-Risking",
+        "signal_level": "MEDIUM",
+        "signal_label": "Moderate Risk / Escort",
+        "detail": "The Hindu Trade Wire confirms high-level New Delhi talks between ministers Piyush Goyal and Maninder Sidhu advancing the India-Canada CEPA ahead of PM Modi's December visit to Ottawa."
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-12T08:07:00+00:00",
     "category": "Geopolitical",
     "title": "A suspected projectile strike hit the Saudi Arabia-flagged chemical tanker NCC Fajr while transiting the Strait of Hormuz on November 11, marking a direct kinetic escalation against Saudi downstream…",

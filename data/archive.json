@@ -419,7 +419,9 @@
           "detail": "Indian High Commissioner Dinesh K. Patnaik confirms total confidence in locking the CEPA trade pact text by November. The framework targets an incremental bilateral GDP expansion up to $6.5 billion."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-10-29T05:09:00+00:00",
       "category": "Geopolitical",
@@ -447,9 +449,7 @@
           "detail": "Canada and India finalize agendas for next week's New Delhi round. The free trade architecture legally safeguards bilateral supply lines to target a C$70 billion annual trade baseline by 2030."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-10-28T23:32:00+00:00",
       "category": "Geopolitical",
