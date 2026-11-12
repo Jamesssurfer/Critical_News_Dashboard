@@ -1,6 +1,34 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-11-05T07:14:00+00:00",
+      "category": "Geopolitical",
+      "title": "Iran has aggressively expanded its maritime interdiction capabilities by deploying long-range combat drones and precision anti-ship missile batteries along its southern coastline, cementing maximum…",
+      "impact_level": "HIGH",
+      "summary": "Market read: Oil bullish / XAU long.",
+      "details": "Iran has aggressively expanded its maritime interdiction capabilities by deploying long-range combat drones and precision anti-ship missile batteries along its southern coastline, cementing maximum operational risk across the Strait of Hormuz. While backchannel ceasefire frameworks mediated by Doha remain active under a proposed accelerated 48-hour chokepoint reopening timetable, the physical environment has severely deteriorated following the failure of the latest U.S. diplomatic draft to satisfy Tehran's rigorous de-blockade conditions. To systematically insulate regional commerce from this volatile energy disruption, Canada and India are front-running the finalization of their milestone Comprehensive Economic Partnership Agreement (CEPA) text drafts during high-stakes technical sweeps in New Delhi.\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil & Chokepoint Risk\n\n• The Sovereign Carve-Out Doctrine: The Iranian Parliament's National Security Committee has formalized specific transit exemptions for select international lines. The legislative decree ensures that vessels flying the flags of India, China, Iraq, and Qatar can navigate territorial waters without restriction, legally securing essential medical, political, and commodity corridors amidst the broader blockade.\n\n• The Diplomatic Impasse: Backchannel mediation has encountered a severe roadblock after senior Iranian security officials deemed the latest U.S. framework response \"unconvincing.\" Tehran is holding firm to its 5-point security roadmap—requiring immediate oil sector sanction relief and a full end to the U.S. naval blockade—before activating its rapid 48-hour de-escalation protocol.\n\n• The Shadow Fleet Pricing Supercycle: Despite the intense crosshairs of the Persian Gulf Strait Authority (PGSA), South Korea's Sinokor continues to dominate chokepoint shuttle logistics. This extreme asset concentration allows the operator to heavily dictate global VLCC spot averages via private WhatsApp broadcast loops, leaving non-affiliated firms exposed to sudden transport markups.\n\n🇨🇦 Trade Friction & Sovereign De-Risking\n\n• The New Delhi Technical Sweeps: Moving completely independently of Western single-market trade friction, chief negotiators from Ottawa and New Delhi are executing final textual scrubbing. The technical loops are strictly focused on locking in cross-border investment protections and deep tariff rollbacks across five core industrial sectors.\n\n• The Services Reliability Shield: Underpinning the economic diversification blueprint led by Prime Minister Mark Carney, the revived CEPA framework heavily prioritizes cross-border digital services. The finalized text establishes rigid reliability parameters for Indian data and tech service exports flowing into Canadian corporate clusters, aiming to expand bilateral GDP by up to C$6.5 billion by year-end.\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Corporate Logistics Directive: Compliance desks managing non-exempt tonnage must enforce strict routing pauses or mandate full Cape of Good Hope diversions. Do not authorize unescorted entries unless hulls are sailing under verified Indian, Chinese, Iraqi, or Qatari flags.\n\n• 📊 Freight Hedging Thresholds: Risk desks must adjust baseline procurement formulas to account for private shadow-pricing networks. Because Sinokor anchors nearly half of active chokepoint transits, actual spot transport costs will continue to trade far above standard public index metrics.\n\n• ➡️ Supply Chain Compliance Action: Legal divisions overseeing Indo-Pacific supply lines must immediately cross-verify multi-sector procurement manifests against the newly updated Canada-India CEPA Rules of Origin and Market Access templates before negotiators close the New Delhi round this week.",
+      "table": [
+        {
+          "indicator": "Chokepoint Security",
+          "signal_level": "HIGH",
+          "signal_label": "High Risk",
+          "detail": "Iran officially deploys advanced electronic surveillance and projectile platforms along the coast. Hulls originating from India, China, Iraq, and Qatar remain fully exempt from active transit restrictions."
+        },
+        {
+          "indicator": "Maritime Freight & Capacity",
+          "signal_level": "HIGH",
+          "signal_label": "High Risk",
+          "detail": "Enigmatic titan Sinokor Merchant Marine continues to brave localized hostile zones, moving nearly 50% of all Persian Gulf crude oil via complex ship-to-ship (STS) transfers into the Gulf of Oman."
+        },
+        {
+          "indicator": "Bilateral Trade Treaties",
+          "signal_level": "MEDIUM",
+          "signal_label": "Adaptive Routing",
+          "detail": "Canada and India advance their Sixth Negotiation Round in New Delhi, locking in binding rules-of-origin definitions to target a C$70 billion annual trade baseline by 2030."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-11-04T23:22:28.984554+00:00",
       "category": "Geopolitical",
       "title": "Iran has aggressively expanded its maritime interdiction capabilities by deploying long-range combat drones and precision anti-ship missile batteries along its southern coastline, cementing maximum…",
@@ -391,7 +419,9 @@
           "detail": "Following Round 5 talks in Ottawa, negotiators lock in the early November New Delhi sixth round. The incoming text legally safeguards trade to target a C$70 billion annual bilateral trade baseline by 2030."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-10-29T12:52:00+00:00",
       "category": "Geopolitical",
@@ -419,9 +449,7 @@
           "detail": "Indian High Commissioner Dinesh K. Patnaik confirms total confidence in locking the CEPA trade pact text by November. The framework targets an incremental bilateral GDP expansion up to $6.5 billion."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-10-29T05:09:00+00:00",
       "category": "Geopolitical",
