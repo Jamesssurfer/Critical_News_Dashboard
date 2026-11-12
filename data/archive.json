@@ -447,7 +447,9 @@
           "detail": "Negotiators push the Canada-India trade agreement into its final textual scrubbing phase ahead of the New Delhi loop. Framework will directly protect an incremental C$4.4 billion to C$6.5 billion in bilateral GDP."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-10-29T22:10:00+00:00",
       "category": "Geopolitical",
@@ -475,9 +477,7 @@
           "detail": "Following Round 5 talks in Ottawa, negotiators lock in the early November New Delhi sixth round. The incoming text legally safeguards trade to target a C$70 billion annual bilateral trade baseline by 2030."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-10-29T12:52:00+00:00",
       "category": "Geopolitical",
@@ -1415,7 +1415,9 @@
           "detail": "Prime Ministers Carney and Modi hold an emergency phone call alongside the ongoing 300-delegate Team Canada Trade Mission to fast-track resource security corridors."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-10-13T22:07:00+00:00",
       "category": "Geopolitical",
@@ -1449,9 +1451,7 @@
           "detail": "The 300-member Team Canada Trade Mission advances through Day 2 of its deployment in Mumbai and Bengaluru to lock in energy and critical mineral corridors."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-10-12T07:50:00+00:00",
       "category": "Trade War",
