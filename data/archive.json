@@ -419,7 +419,9 @@
           "detail": "India and Canada enter final legal text scrubbing for the CEPA pact. The framework will deploy a duty-free tariff rate quota on Canadian agricultural pulses to insulate long-term trade from single-market shocks."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-10-30T03:47:00+00:00",
       "category": "Geopolitical",
@@ -447,9 +449,7 @@
           "detail": "Negotiators push the Canada-India trade agreement into its final textual scrubbing phase ahead of the New Delhi loop. Framework will directly protect an incremental C$4.4 billion to C$6.5 billion in bilateral GDP."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-10-29T22:10:00+00:00",
       "category": "Geopolitical",
@@ -1381,7 +1381,9 @@
           "detail": "The 300-member Team Canada mission sweeps through India, while Foreign Minister Anita Anand holds crucial defense and trade talks in New Delhi."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-10-14T01:11:00+00:00",
       "category": "Geopolitical",
@@ -1415,9 +1417,7 @@
           "detail": "Prime Ministers Carney and Modi hold an emergency phone call alongside the ongoing 300-delegate Team Canada Trade Mission to fast-track resource security corridors."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-10-13T22:07:00+00:00",
       "category": "Geopolitical",
