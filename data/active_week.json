@@ -1,5 +1,39 @@
 [
   {
+    "timestamp": "2026-11-13T14:08:00+00:00",
+    "category": "Geopolitical",
+    "title": "Iran's Islamic Revolutionary Guard Corps (IRGC) claims it targeted and destroyed a U.S. early-warning radar installation in Bahrain—headquarters of the U.S. Navy's Fifth Fleet—in direct retaliation…",
+    "impact_level": "HIGH",
+    "summary": "Market read: Oil bullish / XAU long.",
+    "details": "Iran's Islamic Revolutionary Guard Corps (IRGC) claims it targeted and destroyed a U.S. early-warning radar installation in Bahrain—headquarters of the U.S. Navy's Fifth Fleet—in direct retaliation for an alleged strike on a telecommunications tower in Sirik, Hormozgan province. Simultaneously, commercial shipping absorption across the Gulf has deteriorated following a 48-hour wave of projectile hits on three major tankers—including the Sinokor-operated VLCC Dominica Prosperity off Ras al Khaimah and the Adnoc-linked Fujairah Energy—pushing tanker war-risk cover to roughly 30 times pre-crisis levels. While Gulf chokepoints absorb renewed military-to-military retaliation, Round Six India-Canada Comprehensive Economic Partnership Agreement (CEPA) talks in New Delhi have formally integrated skilled professional mobility alongside LNG and nuclear energy frameworks ahead of a targeted December signing. [1] , [2] , [3] , [4] , [5]\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil & Chokepoint Risk\n\n• The Bahrain Radar Retaliation: On November 13, the IRGC announced its Aerospace Force struck a U.S. early-warning radar installation in Bahrain—the first reported attack on the Gulf kingdom since September. Tehran framed the strike as a \"serious warning\" following Thursday's strike on a telecom tower in the southern Iranian port city of Sirik, signaling that U.S. Fifth Fleet command infrastructure in Manama remains directly exposed to tit-for-tat escalation. [1]\n\n• The Hormuz Shuttle Fleet Attrition: UKMTO and India's Shipping Ministry verified that at least three major tankers were hit across November 11–12. The Sinokor-managed VLCC Dominica Prosperity caught fire after a projectile impact off Ras al Khaimah—requiring the UAE Coast Guard to evacuate all 22 crew members—shortly after strikes hit the Adnoc-associated VLCC Fujairah Energy (injuring four seafarers) and the Bahri chemical tanker NCC Fajr. Meanwhile, U.S.-facilitated dark transits have compressed to roughly 29 vessels per day against a pre-war baseline of 138. [1] , [2]\n\n• Red Sea & Outer-Strait Hub Gridlock: With five of nine major container carriers suspending direct Persian Gulf calls, feeder services between India and Oman's Port of Sohar have quadrupled, pushing Sohar, Salalah, Khor Fakkan, and Jeddah well past design capacity. Simultaneously, container carriers restoring ad-hoc Suez transits—including Evergreen's eight CES/OGRD sailings and Emirates Shipping's November 13 China–Red Sea launch—will trigger severe vessel bunching at North European terminals, where Flexport projects arrivals to surge to 131% of normal capacity in Week 47. [1] , [2]\n\n🇨🇦 Trade Friction & Sovereign Re-shaping\n\n• The Round Six CEPA Mobility & Energy Integration: Negotiators in New Delhi and Visakhapatnam have expanded the sixth round of India-Canada CEPA talks to include structured provisions for the movement of skilled professionals. Canadian International Trade Minister Maninder Sidhu confirmed both sides are working to resolve outstanding chapters by month-end ahead of Prime Minister Modi's December visit to Ottawa, linking tariff liberalization to Canada's five-year LNG export buildout and India's private nuclear sector under the SHANTI Act. [1] , [2]\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Reroute GCC Cargo via Omani Gateways Outside Hormuz: Supply chain logistics desks must bypass direct Persian Gulf port calls by utilizing overland corridors via Sohar and Salalah. With tanker war-risk premiums trading at 30 times pre-crisis levels and IRGC strikes hitting Fifth Fleet radar assets in Bahrain, inner-Gulf maritime exposure carries prohibitive cost and detention risks. [1] , [2]\n\n• 📊 Secure Inland Haulage Ahead of Week 47 European Bunching: Freight procurement teams moving Far East–Europe container cargo must pre-book rail and barge allocations out of Rotterdam immediately. With Rotterdam yard utilization already at 80%–90% and dwell times at 3.37 days, the Week 47 convergence of 31 Suez-routed ships and 61 Cape-routed vessels will trigger immediate demurrage spikes. [1]\n\n• ➡️ Prepare Bilateral Compliance for December CEPA Execution: Corporate trade and HR legal divisions operating between Canada and India should audit tariff lines and cross-border visa frameworks ahead of next month's Ottawa summit. Early alignment will allow enterprises to immediately capture duty-free industrial access and streamlined specialist mobility upon treaty signing. [1] , [2]",
+    "table": [
+      {
+        "indicator": "Military Threats",
+        "signal_level": "HIGH",
+        "signal_label": "High Risk / Strike",
+        "detail": "Al Jazeera Breaking Logs report the IRGC Aerospace Force targeted a U.S. radar installation in Bahrain on Nov 13 in response to strikes on Sirik, Hormozgan."
+      },
+      {
+        "indicator": "Chokepoint Security",
+        "signal_level": "HIGH",
+        "signal_label": "High Risk / Strike",
+        "detail": "The Maritime Executive confirms three tankers hit in 48 hours (Dominica Prosperity, NCC Fajr, Fujairah Energy); tanker war-risk insurance holds at ~30x pre-crisis baselines."
+      },
+      {
+        "indicator": "Macro-Logistics",
+        "signal_level": "MEDIUM",
+        "signal_label": "Moderate Risk / Adaptive Routing",
+        "detail": "Clarksons Research logs the ClarkSea Index at $64,148/day (+95% vs 10-year trend) with VLCC earnings at $519,000/day; The Loadstar warns North Europe port arrivals will hit 131% capacity in Week 47."
+      },
+      {
+        "indicator": "Sovereign De-Risking",
+        "signal_level": "MEDIUM",
+        "signal_label": "Moderate Risk / Escort",
+        "detail": "Hindustan Times confirms Round Six India-Canada CEPA negotiations now encompass professional mobility chapters alongside a $2.5B uranium supply pact and LNG expansion."
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-13T05:35:00+00:00",
     "category": "Geopolitical",
     "title": "At least four tankers have been struck by explosions across the Strait of Hormuz over the past 48 hours—including the Sinokor-operated VLCC Dominica Prosperity off Ras al Khaimah—as Iran escalates…",
