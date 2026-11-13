@@ -528,33 +528,5 @@
         "detail": "Canada advances its Indo-Pacific trade diversification framework, pushing negotiations past the 90% completion mark for comprehensive free trade agreements with ASEAN and the Philippines."
       }
     ]
-  },
-  {
-    "timestamp": "2026-11-06T18:38:00+00:00",
-    "category": "Geopolitical",
-    "title": "Tehran has introduced a critical asymmetric shift at the Strait of Hormuz by granting unrestricted transit exemptions to vessels registered to or trading with India, China, Iraq, and Qatar…",
-    "impact_level": "HIGH",
-    "summary": "Market read: Oil bullish / XAU long.",
-    "details": "Tehran has introduced a critical asymmetric shift at the Strait of Hormuz by granting unrestricted transit exemptions to vessels registered to or trading with India, China, Iraq, and Qatar, effectively forcing a complex enforcement dilemma on the active U.S. naval blockade. Simultaneously, macro-logistics data reveals unprecedented constraints on vessel supply, driving the cross-segment ClarkSea Index to sequential historical peaks and squeezing global capacity. This structural fracturing of supply chains, compounded by a volatile dual-chokepoint crisis across both Hormuz and the Houthi-contested Bab el-Mandeb corridor, is rapidly establishing an elevated floor for global energy and freight premiums.\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil & Chokepoint Risk\n\n• The Strategic Toll & Exemption Architecture: The Iranian parliament's National Security Committee confirmed that designated vessels from China, India, Iraq, and Qatar are passing through Hormuz unharassed, allowing Tehran to monetize the crisis via transit fees or percentage-based cargo value assessments while undermining Washington's blockade architecture.\n\n• Dual-Strait Attrition Strategy: While U.S. forces are actively facilitating a baseline flow of approximately 31.5 vessels per day through the southern corridor of Hormuz under strict AIS-dark protocols, the Joint Maritime Information Centre (JMIC) reports expanding regional threats. Concurrently, the Bab el-Mandeb remains a high-friction zone following recent Houthi offensives on Yemen's Red Sea coast, maintaining crude futures support.\n\n🇨🇦 Trade Friction & Sovereign Re-shaping\n\n• The Transatlantic/Gulf Diversification Pivot: Facing an explicit economic break with its traditional North American partners, Canada has rapidly executed its alternative sovereign de-risking architecture. This is highlighted by a newly finalized bilateral trade agreement with the UAE and an expedited critical minerals and LNG supply partnership with the European Union.\n\n• Global Treaty Realignment: Elsewhere, formal trade talks have officially commenced between Mexico and India, while the U.S. has issued formal alerts terminating South Africa and Rwanda from duty-free AGOA preference programs, accelerating the fragmentation of historic trade blocs.\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Activate Multilateral Freight Hedging: Supply chain legal divisions must immediately review exposure to spot market volatility. With the ClarkSea Index hitting record bounds and VLCC chartering costs exceeding historical norms, companies must front-run near-term contract renewals to establish strict pricing ceilings.\n\n• 📊 Leverage Sanction-Compliant Routing: Portfolio desks and logistics planners must audit the ownership and destination registries of maritime fleets. The newly declared Iranian exemptions create a dual-speed transit system in the Persian Gulf, altering the cost-benefit analysis of choosing neutral or exempted flag states.\n\n• ➡️ Diversify via Alternative Sourcing Wires: Risk managers should immediately align corporate supply pathways with the newly established Canada-UAE and EU-Canada supply agreements to safeguard access to rare elements and energy resources, bypassing high-risk shipping corridors.\n\nNow that the temporal timestamp is adjusted to your exact layout requirement, I can help you with the next steps if you let me know:\n\n• Would you like me to edit the permanent configuration template for your information agent so it automatically omits the year in all future automated updates?\n\n• Do you want to drill down into the specific metrics of the Clarksons Research data discovered in this run?\n\n• Should we expand the checklist to include specific immediate actions for compliance desks regarding the flag-state exemptions?",
-    "table": [
-      {
-        "indicator": "Chokepoint Security",
-        "signal_level": "HIGH",
-        "signal_label": "High Risk / Strike",
-        "detail": "UKMTO logs 4 intense kinetic or surveillance incidents near Hormuz over a 96-hour period; commercial traffic remains heavily depressed below the baseline."
-      },
-      {
-        "indicator": "Macro-Logistics",
-        "signal_level": "HIGH",
-        "signal_label": "High Risk / Strike",
-        "detail": "The ClarkSea Index surges past historical records to touch $84,951/day; benchmark VLCC spot earnings skyrocket past $800,000/day on severe tonnage deficits."
-      },
-      {
-        "indicator": "Sovereign De-Risking",
-        "signal_level": "MEDIUM",
-        "signal_label": "Moderate Risk / Escort",
-        "detail": "Canada aggressively pivots away from traditional markets, signing a major comprehensive trade deal with the UAE and finalizing LNG/mineral architectures with the EU."
-      }
-    ]
   }
 ]
