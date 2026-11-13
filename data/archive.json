@@ -391,7 +391,9 @@
           "detail": "India and Canada enter final legal text scrubbing for the CEPA pact. The framework will deploy a duty-free tariff rate quota on Canadian agricultural pulses to insulate long-term trade from single-market shocks."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-10-30T09:39:00+00:00",
       "category": "Geopolitical",
@@ -419,9 +421,7 @@
           "detail": "India and Canada enter final legal text scrubbing for the CEPA pact. The framework will deploy a duty-free tariff rate quota on Canadian agricultural pulses to insulate long-term trade from single-market shocks."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-10-30T03:47:00+00:00",
       "category": "Geopolitical",
