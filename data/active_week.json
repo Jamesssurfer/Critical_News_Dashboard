@@ -1,5 +1,39 @@
 [
   {
+    "timestamp": "2026-11-14T05:21:00+00:00",
+    "category": "Geopolitical",
+    "title": "Iran's Islamic Revolutionary Guard Corps (IRGC) Navy has released footage confirming a liquefied natural gas (LNG) carrier struck a naval mine and caught fire in the southern Strait of Hormuz on…",
+    "impact_level": "HIGH",
+    "summary": "Market read: Oil bullish / XAU long.",
+    "details": "Iran's Islamic Revolutionary Guard Corps (IRGC) Navy has released footage confirming a liquefied natural gas (LNG) carrier struck a naval mine and caught fire in the southern Strait of Hormuz on November 13, marking at least 14 confirmed vessel attacks this month following a record 37 in October. Concurrently, U.S. Central Command (CENTCOM) intercepted two Iranian drones launched toward Bahrain after Tehran threatened retaliation for an alleged strike on Sirik, while confirmed dark LNG carrier transits through Hormuz have accelerated to a post-war high of 17 laden voyages in November—including two QatarEnergy carriers routing toward the Bab el-Mandeb corridor. Amid ongoing dual-chokepoint friction, Indian and Canadian negotiators in New Delhi formally closed three services chapters under Round Six of their Comprehensive Economic Partnership Agreement (CEPA), maintaining an aggressive trajectory toward a December treaty signing.\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil & Chokepoint Risk\n\n• The LNG Carrier Mine Strike & Bahrain Intercepts: On November 13, the IRGC Navy published video footage of a large liquefied gas carrier burning in the southern Strait of Hormuz after striking a naval mine while navigating what Tehran termed an \"unauthorised and dangerous route.\" Earlier the same day, CENTCOM intercepted two Iranian drones aimed at U.S. military facilities in Bahrain—Tehran's first direct strike attempt on a Gulf state military installation in over two months—in retaliation for an alleged strike on a telecommunications tower in Sirik, Hormozgan province. [1] , [2] , [3]\n\n• Dark LNG Routing & Bab el-Mandeb Exposure: Despite escalating kinetic attrition, Argus daily tracking reveals confirmed \"dark\" LNG carrier transits through Hormuz have hit their fastest post-war pace, reaching 17 laden voyages in November. Notably, QatarEnergy's 210,000m³ Al Sadd—likely loaded via ship-to-ship transfer outside the Gulf—and the 266,000m³ Mekaines are both routing toward the Bab el-Mandeb corridor for European delivery, braving elevated war-risk premiums imposed after Houthi forces seized Yemen's Red Sea port of Mocha in September. [1]\n\n• U.S. Shuttle Throughput vs. Shadow Fleet Clustering: According to UANI satellite surveillance, U.S.-facilitated dark transits through the southern Hormuz corridor climbed to an average of 33.8 vessels per day between November 8 and 11, lifting the campaign total to 3,441 transits across 145 days. Simultaneously, at least 57 tankers laden with Iranian crude, petroleum products, and LPG remain clustered along Iran's coastline under the reinstated naval blockade, while roughly 50 Iranian-flagged cargo ships continue operating openly across Indo-Pacific, Mediterranean, and Atlantic lanes. [1]\n\n🇨🇦 Trade Friction & Sovereign Re-shaping\n\n• The India-Canada CEPA Chapter Closures: Department of Commerce Additional Secretary Darpan Jain confirmed on November 13 that Indian and Canadian negotiators have formally concluded three services chapters during Round Six of CEPA talks in New Delhi (running November 11–20). Discussions are actively progressing across the remaining 16 chapters as both capitals push to double bilateral trade from CAD 30.4 billion in 2025 to USD 70 billion by 2030, anchoring a year-end signing ahead of Prime Minister Modi's December visit to Ottawa. [1] , [2] , [3] , [4]\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Enforce Strict Mine-Clearance Verification for LNG & Gas Tonnage: Maritime risk managers and gas charterers must audit southern Strait of Hormuz routing protocols immediately. The confirmed November 13 mine strike on an LNG carrier demonstrates that high-value gas hulls face acute subsea mine exposure alongside surface projectile risks. [1] , [2]\n\n• 📊 Account for European Gas Delivery Premiums via Bab el-Mandeb: Energy portfolio desks should price in persistent war-risk and ship-to-ship transfer surcharges on European LNG imports. While QatarEnergy's dark-routed carriers (Al Sadd, Mekaines) confirm physical supply is moving west of Suez, Houthi control over Mocha keeps Bab el-Mandeb insurance costs structurally elevated. [1]\n\n• ➡️ Accelerate Service-Sector & Tariff Readiness for India-Canada CEPA: Corporate compliance and trade strategy teams should map cross-border service deliverables and industrial tariff lines immediately. With three services chapters officially closed on November 13 and 16 chapters slated to wrap by December, enterprises must finalize origin-certification workflows ahead of the year-end signing. [1] , [2]\n\nWould you like me to run a focused audit on the latest war-risk insurance surcharge adjustments across Fujairah and Jeddah, or pull a granular breakdown of the tariff schedules under negotiation in Round Six of the India-Canada CEPA talks?",
+    "table": [
+      {
+        "indicator": "Chokepoint Security",
+        "signal_level": "HIGH",
+        "signal_label": "High Risk / Strike",
+        "detail": "IRGC State Broadcasts confirm an LNG carrier detonated a naval mine in the southern Strait of Hormuz on Nov 13; Lloyd's List logs at least 14 vessel attacks in November after 37 in October."
+      },
+      {
+        "indicator": "Military Threats",
+        "signal_level": "HIGH",
+        "signal_label": "High Risk / Strike",
+        "detail": "CNN Middle East Desk reports CENTCOM shot down two Iranian drones launched toward Bahrain on Nov 13 with no injuries or damage."
+      },
+      {
+        "indicator": "Macro-Logistics",
+        "signal_level": "MEDIUM",
+        "signal_label": "Moderate Risk / Adaptive Routing",
+        "detail": "Argus Media records 17 laden dark LNG transits through Hormuz in November, while UANI Tracking shows U.S.-facilitated Hormuz transits rising to 33.8 vessels/day."
+      },
+      {
+        "indicator": "Sovereign De-Risking",
+        "signal_level": "MEDIUM",
+        "signal_label": "Moderate Risk / Escort",
+        "detail": "Moneycontrol confirms Indian and Canadian negotiators concluded three services chapters on Nov 13, with 16 remaining chapters targeted for completion by December."
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-13T14:08:00+00:00",
     "category": "Geopolitical",
     "title": "Iran's Islamic Revolutionary Guard Corps (IRGC) claims it targeted and destroyed a U.S. early-warning radar installation in Bahrain—headquarters of the U.S. Navy's Fifth Fleet—in direct retaliation…",
