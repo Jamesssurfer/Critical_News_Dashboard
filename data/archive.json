@@ -1,6 +1,40 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-11-08T05:56:00+00:00",
+      "category": "Geopolitical",
+      "title": "Tehran has escalated its targeted campaign against commercial shipping lanes in the Persian Gulf and Strait of Hormuz, using a coordinated array of bomb-laden undersea drones, rocket-propelled…",
+      "impact_level": "HIGH",
+      "summary": "Market read: Oil bullish / XAU long.",
+      "details": "Tehran has escalated its targeted campaign against commercial shipping lanes in the Persian Gulf and Strait of Hormuz, using a coordinated array of bomb-laden undersea drones, rocket-propelled grenades, and limpet mines to actively disrupt traffic. Following recent mine incidents involving five oil tankers and a tugboat, the DW News Intelligence Log confirmed a missile strike on the Marshall Islands-flagged MT Velos Sapphire, resulting in a fatal seafarer casualty as total monthly chokepoint incidents eclipse a record baseline of 35 distinct attacks. These escalating kinetic denials, paired with institutionalized licensing demands by Houthi forces at the Bab el-Mandeb corridor, are locking in severe structural inefficiencies across global supply grids despite the cross-sector ClarkSea Index experiencing a localized correction.\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil & Chokepoint Risk\n\n• The Drone and Limpet Mine Surges: U.S. and regional security firms confirmed that Iran has deployed specialized naval units to affix limpet mines directly to commercial hulls, supplementing these actions with remote rocket-propelled attacks. The Al Jazeera Regional Briefing highlighted that five oil tankers and a supporting tugboat caught fire concurrently in the unsafe eastern lanes of the strait after running onto newly seeded Iranian naval minefields.\n\n• The HOCC Licensing System: In the southern corridor, the Houthi-led Humanitarian Operations Coordination Center (HOCC) has structured a centralized email mechanism to dictate transit terms through the Bab el-Mandeb Strait. According to the Maritime Gateway Registry Reports, container lines are bypassing traditional international reporting channels to secure ad-hoc Houthi safety clearances, though global insurers warn these non-recognized agreements carry immense legal and structural sanctions liability.\n\n🇨🇦 Trade Friction & Sovereign Re-shaping\n\n• The Transatlantic Pivot Acceleration: Facing severe ongoing tariff threats and deep structural gridlocks ahead of bilateral trade milestones, Canadian Prime Minister Mark Carney explicitly stated that Canada is not in a position to finalize a comprehensive U.S. trade agreement. Consequently, Ottawa has diverted diplomatic resources toward sealing an EU-Canada Associate Membership framework to safeguard supply lines from North American grid vulnerability.\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Reject Non-Recognized HOCC Transit Clearances: Supply chain legal divisions must explicitly prohibit ship captains from using the Houthi email authorization system. Engaging with the insurgent framework violates international maritime guidance, exposes the parent corporation to severe secondary sanctions, and voids standard hull war-risk insurance coverages.\n\n• 📊 Lockdown Multi-Month Spot Freight Ceilings: Portfolio desks must look past the 16% weekly drop in the Clarksons Shipping Index. With VLGC freight costs touching record highs and dry bulk ballast ratios rising due to extensive Red Sea and Panama circumventions, the underlying market remains tightly supply-constrained.\n\n• ➡️ Implement Comprehensive Hull Integrity Checks: Maritime risk managers routing fleets through the Persian Gulf must enforce immediate visual and acoustic hull monitoring protocols upon anchor exit. The documented shift toward asymmetric limpet mine attachment by small boat crews requires strict, continuous close-in surveillance at all regional staging ports.",
+      "table": [
+        {
+          "indicator": "Military Threats",
+          "signal_level": "HIGH",
+          "signal_label": "High Risk / Strike",
+          "detail": "UKMTO logs at least 5 major vessel attacks inside Hormuz within the opening days of November; extensive deployment of undersea drone swarms and limpet mines confirmed."
+        },
+        {
+          "indicator": "Maritime Chokepoints",
+          "signal_level": "HIGH",
+          "signal_label": "High Risk / Veto",
+          "detail": "Houthi-controlled HOCC normalizes its administrative email licensing service at Bab el-Mandeb, compelling non-exempt operators to formally request passage safety assurances."
+        },
+        {
+          "indicator": "Macro-Logistics",
+          "signal_level": "MEDIUM",
+          "signal_label": "Moderate Risk / Adaptive Routing",
+          "detail": "The cross-sector ClarkSea Index soft-corrects down 16% to $64,148/day, yet remains at historical heights over double its baseline, driven by massive VLGC and dry bulk capacity drains."
+        },
+        {
+          "indicator": "Sovereign De-Risking",
+          "signal_level": "MEDIUM",
+          "signal_label": "Moderate Risk / Escort",
+          "detail": "Prime Minister Mark Carney signals structural stalls in U.S.-Canada tariff negotiations, driving Ottawa to aggressively push for alternative EU Associate Membership architectures."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-11-07T20:33:00+00:00",
       "category": "Geopolitical",
       "title": "A \"rogue\" oil tanker navigating with its transponder switched off has caught fire and become immobilized after striking a naval mine in the eastern Strait of Hormuz, underscoring an aggressive…",
