@@ -459,7 +459,9 @@
           "detail": "Canada and India move into the New Delhi negotiation loop. Negotiators are racing to clear structural rules of origin and investment text to expand trade by up to $6.5 billion."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-11-01T15:46:00+00:00",
       "category": "Geopolitical",
@@ -487,9 +489,7 @@
           "detail": "India and Canada enter final text scrubbing for the CEPA pact. Negotiators establish duty-free tariff-rate quotas to immediately expand bilateral commerce by an estimated $4.4 billion to $6.5 billion."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-10-30T14:50:00+00:00",
       "category": "Geopolitical",
