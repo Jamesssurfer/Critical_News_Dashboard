@@ -1,6 +1,34 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-11-09T08:36:00+00:00",
+      "category": "Geopolitical",
+      "title": "You are correct—the timestamp on the last update was out of sequence.",
+      "impact_level": "HIGH",
+      "summary": "Market read: Oil bullish / XAU long.",
+      "details": "You are correct—the timestamp on the last update was out of sequence. It should have reflected the progression to the next log interval following the early morning report.\n\nHere is the corrected and fully aligned high-sensitivity intelligence log for this briefing cycle:\n\nNovember 9, 8:36 AM\n\nU.S. Central Command has expanded its enforcement measures by using military aircraft to strike and disable a merchant bulker attempting to evade the active naval blockade of Iranian ports, marking a sharp tactical escalation in western macro-logistics denial. Simultaneously, regional combat intensity crossed into critical territory as a coordinated Houthi ballistic missile and drone swarm penetrated deep Saudi airspace to directly damage the prominent Aramco Tower inside Riyadh's financial district. With Iran executing subsequent kinetic retaliations—striking two outbound tankers and forcing a total crew evacuation off Khasab—the Persian Gulf and Red Sea shipping baseline has degraded into an unprecedented cross-fire architecture. [1] , [2] , [3] , [4]\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil & Chokepoint Risk\n\n• The Huda Blockade-Runner Strike: Acting under the strict regional maritime de-risking architecture implemented in July, U.S. military aircraft targeted the St. Kitts & Nevis-flagged bulker Huda in the Gulf of Oman. U.S. Central Command Disclosures confirmed the vessel had ignored multiple explicit warnings after departing an Iranian port, prompting the deployment of precision stern munitions that left the vessel entirely disabled. This brings the total count of disabled or destroyed blockaderunners and shadow fleet tankers by U.S. forces to 15. [1] , [2]\n\n• Double Tanker Kinetic Intercepts: Within a 60-minute window, the Iranian Revolutionary Guard Corps (IRGC) retaliated against outbound traffic 8 nautical miles northwest of Khasab, Oman. Open-source tracking tentatively identified the first target as the Adnoc-chartered product tanker Navig8 Messi, which caught fire following a projectile strike, forcing the crew to abandon ship. A second outbound tanker was struck by an unknown projectile an hour later, marking nine confirmed vessel strikes by Tehran since the start of November.\n\n• The KAFD Strategic Penetration: Breaking a prolonged urban detente, Houthi military spokesmen claimed a highly coordinated barrage targeting major hubs in Saudi Arabia. While coalition air defenses intercepted elements of the incoming wave, falling shrapnel and direct impacts damaged multiple floors of the signature Aramco Tower within the King Abdullah Financial District (KAFD). The incident represents a profound expansion of the conflict’s geographic limits, threatening regional corporate and energy command infrastructure. [1] , [2] , [3]\n\n🇨🇦 Trade Friction & Sovereign Re-shaping\n\n• Macro Portfolio Fracturing: Geopolitical shocks are introducing permanent upfront risk premiums to global asset deals, heavily disrupting traditional portfolio diversification architectures. Energy supply lines are bearing the brunt of these disruptions, keeping global Brent floors high, fueling cross-border inflationary pressure, and accelerating sovereign debt accumulation across import-dependent nations. [1]\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Suspend Southern Dark-Routing Immediately: Corporate maritime compliance divisions must issue immediate directives to cease all unlit \"dark transits\" along the southern Omani coast. Despite Washington's claims that shipping lanes are clear, verified mine strikes on non-communicative vessels demonstrate that uncoordinated transits carry an existential hull loss risk.\n\n• 📊 Pre-Position Capital for Volatility Spikes: Portfolio desks must hedge for an immediate disruption in energy carriage pricing. With chokepoint transit volumes hovering at a critical 35% capacity and regional air defenses moving to maximum retaliatory readiness, traditional shipping corridors face systemic pricing shocks.\n\n• ➡️ Establish Strategic Contingencies at Port Hubs: Risk managers should utilize the CENTCOM Maritime Registry to re-evaluate legal liabilities regarding \"unauthorized routing\" clauses in active maritime charter parties. [1]\n\nWould you like me to run an immediate deep-dive analysis on the freight derivatives market or pull the latest VLCC spot time charter rates to quantify the direct impact of the Huda interception?",
+      "table": [
+        {
+          "indicator": "Military Threats",
+          "signal_level": "HIGH",
+          "signal_label": "High Risk / Strike",
+          "detail": "Houthi forces execute a massive coordinated strike using ballistic and cruise missiles; the Aramco Tower in Riyadh's KAFD sustains structural facade and multi-floor window damage."
+        },
+        {
+          "indicator": "Maritime Chokepoints",
+          "signal_level": "HIGH",
+          "signal_label": "High Risk / Strike",
+          "detail": "US forces deploy precision munitions directly at the stern of the bulker Huda in the Gulf of Oman; UKMTO confirms 2 distinct outbound tankers targeted within a 60-minute window in the Strait of Hormuz."
+        },
+        {
+          "indicator": "Macro-Logistics",
+          "signal_level": "HIGH",
+          "signal_label": "High Risk / Veto",
+          "detail": "CENTCOM records a cumulative 147 vessel redirections and 5 merchant ship disablements since July; commercial traffic counts inside the main chokepoints collapse to single and low-double-digit dailies."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-11-08T18:35:00+00:00",
       "category": "Geopolitical",
       "title": "The United States military has carried out a succession of intensive kinetic airstrikes targeting Iranian air defenses and missile launchers on Qeshm Island, significantly increasing the probability…",
@@ -1409,7 +1437,9 @@
           "detail": "Clarksons Shipping Intelligence Network trackers confirm that closing both Hormuz and Bab el-Mandeb eliminates all supplier diversification routes for South Asian and Indo-Pacific resource corridors."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-10-17T13:28:00+00:00",
       "category": "Geopolitical",
@@ -1471,9 +1501,7 @@
           "detail": "The 5-day Ottawa CEPA trade sprint successfully concludes. Entities sign multiple commercial agreements and MoUs under Minister Maninder Sidhu."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-10-15T23:17:00+00:00",
       "category": "Geopolitical",
