@@ -465,7 +465,9 @@
           "detail": "The Canada-India CEPA Sixth Round launches in New Delhi, directly following a series of commercial MoUs signed in Karnataka. The free trade architecture legally targets expanding bilateral commerce by up to $6.5 billion."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-11-02T04:31:00+00:00",
       "category": "Geopolitical",
@@ -493,9 +495,7 @@
           "detail": "Canada and India move into the New Delhi negotiation loop. Negotiators are racing to clear structural rules of origin and investment text to expand trade by up to $6.5 billion."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-11-01T15:46:00+00:00",
       "category": "Geopolitical",
@@ -7517,16 +7517,16 @@
       "title": "Canada prepares retaliatory steel tariff list against US goods.",
       "impact_level": "MEDIUM",
       "summary": "Market read: XAU long catalyst."
-    },
+    }
+  ],
+  "past_6_months": [
     {
       "timestamp": "2026-08-18T03:40:00+00:00",
       "category": "Geopolitical",
       "title": "Crude oil spikes 4.2% overnight following regional tanker boarding incident.",
       "impact_level": "HIGH",
       "summary": "XAU/USD saw an initial safe-haven spike before reversing."
-    }
-  ],
-  "past_6_months": [
+    },
     {
       "timestamp": "2026-08-12T11:15:00+00:00",
       "category": "Currency",
