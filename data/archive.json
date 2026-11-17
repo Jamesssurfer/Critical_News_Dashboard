@@ -1,6 +1,40 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-11-10T01:31:00+00:00",
+      "category": "Geopolitical",
+      "title": "U.S. naval units have initiated high-intensity counter-blockade enforcement operations in the Gulf of Oman, forcefully disabling a merchant bulk carrier that systematically ignored multi-layered exit…",
+      "impact_level": "HIGH",
+      "summary": "Market read: Oil bullish / XAU long.",
+      "details": "U.S. naval units have initiated high-intensity counter-blockade enforcement operations in the Gulf of Oman, forcefully disabling a merchant bulk carrier that systematically ignored multi-layered exit warnings after leaving an Iranian port. Concurrently, the Joint Maritime Information Center (JMIC) confirmed an acute asymmetric escalation near the Bab el-Mandeb corridor, documenting a massive underwater explosion and subsequent 30-minute sea-surface fire originating from an unidentified dark-routing vessel traveling north toward Yemen. These simultaneous enforcement operations and unattributed kinetic detonations are structuralizing extreme operational volatility across dual chokepoints, compelling operators to absorb massive risk premiums despite a cooling trend in broader freight indices.\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil & Chokepoint Risk\n\n• The Gulf of Oman Blockade Enforcement: U.S. Central Command assets transitioned from defensive escorts to active kinetic interdiction by intercepting and disabling an uncooperative bulk carrier attempting to run the western economic blockade. According to the latest UANI Fleet Disclosures, coalition forces have now redirected 144 commercial vessels attempting to access blockaded Iranian port terminals, disabling four non-compliant hulls and boarding multiple targets to enforce total compliance.\n\n• The Bab el-Mandeb Dark Target Detonation: High-friction maritime denial has intensified in the southern Red Sea corridor. JMIC reported that a merchant vessel observed an unidentified radar target traveling north toward Yemen with its navigation lights entirely deactivated, followed immediately by a massive surface explosion. The resulting surface fire burned for over 30 minutes, highlighting the severe risk of unlit, uncoordinated dark-routing inside substantial threat corridors.\n\n• The Tanker Volatility Premium: While total Middle Eastern crude flows through the Strait of Hormuz have remained structurally resilient at approximately 10 million barrels per day, localized tactical strikes are driving severe localized tonnage deficits. The Clarksons Shipping Market Update indicates that while Suezmax and Aframax spot rates dropped by 37% and 47% respectively over the weekly cycle, absolute chartering costs continue to hold at historic levels as fleet operators price in the Musandam Peninsula targeting vector.\n\n🇨🇦 Trade Friction & Sovereign Re-shaping\n\n• The Canadian Autonomy Framework: Facing deep economic strains from impending cross-border trade restrictions, the Carney administration in Ottawa has unveiled a structural sovereign de-risk budget. The policy pivots directly away from historic North American integration, funneling massive public capital into independent critical mineral extraction, steel sector protection, and autonomous energy production grids.\n\n• The Transatlantic Stagnation: Simultaneously, Canada's secondary diversification axis faced friction as observers confirmed that the Canada-EU Comprehensive Economic and Trade Agreement (CETA) remains unratified by one-third of EU member states following the latest Montreal summit. This structural delay underscores the immense difficulty Western middle-powers face when attempting to rapidly manifest alternative legal and logistical shields outside traditional trading blocs.\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Enforce Rigorous Screening on Dark-Routing Partners: Maritime risk managers and chartering desks must immediately ban cooperation with vessels utilizing total navigation blockouts near Yemen or Oman. The verified JMIC report of an anonymous dark target exploding in the Bab el-Mandeb indicates that navigating without active transponders inside these corridors carries an immediate risk of catastrophic hull destruction.\n\n• 📊 Lock In Contract Floors Amid Index Softening: Supply chain legal divisions should exploit the 16% weekly drop in the ClarkSea Index to lock in long-term capacity agreements. Do not misinterpret this localized softening as a permanent return to baseline pricing; structural rerouting via the Cape of Good Hope ensures that global shipping supply remains fundamentally inelastic.\n\n• ➡️ Audit Energy Exposure Against U.S. Blockade Parameters: Portfolio desks exposed to global oil networks must thoroughly review the compliance status of all regional operators. With U.S. forces actively executing physical asset boardings and disablements in the Gulf of Oman, any exposure to gray-market or non-compliant tonnage risks immediate regulatory freeze or physical asset seizure.",
+      "table": [
+        {
+          "indicator": "Chokepoint Security",
+          "signal_level": "HIGH",
+          "signal_label": "High Risk / Strike",
+          "detail": "JMIC Advisory Update 112 logs 5 targeted attacks off Oman's Musandam coast since Nov 1, including a tanker fire 8nm off Khasab requiring full crew evacuation."
+        },
+        {
+          "indicator": "Maritime Threats",
+          "signal_level": "HIGH",
+          "signal_label": "High Risk / Strike",
+          "detail": "IMO Safety Records verify a cumulative 129 maritime security incidents across the Persian Gulf and Red Sea corridors, accounting for 24 confirmed seafarer fatalities."
+        },
+        {
+          "indicator": "Macro-Logistics",
+          "signal_level": "MEDIUM",
+          "signal_label": "Moderate Risk / Adaptive Routing",
+          "detail": "The cross-sector Clarksons ClarkSea Index soft-corrects down 16% to $64,148/day, though it remains over double its baseline; global average VLCC spot earnings fall 20% to $519,000/day."
+        },
+        {
+          "indicator": "Sovereign De-Risking",
+          "signal_level": "MEDIUM",
+          "signal_label": "Moderate Risk / Escort",
+          "detail": "Canadian Prime Minister Mark Carney tables a targeted autonomy budget allocating billions toward local energy and critical mineral infrastructures to blunt escalating U.S. tariff exposures."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-11-09T20:37:00+00:00",
       "category": "Geopolitical",
       "title": "Navigational aid systems in the south of the Strait of Hormuz have been destroyed, resulting in zero unauthorized vessel transits traversing the maritime route overnight as Iran imposes absolute…",
@@ -1465,7 +1499,9 @@
           "detail": "Canadian Minister of International Trade Maninder Sidhu confirms negotiators have returned from India to fast-track the free-trade pact and secure the C$70 billion bilateral trade target by 2030."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-10-18T01:17:36.185317+00:00",
       "category": "Geopolitical",
@@ -1499,9 +1535,7 @@
           "detail": "Clarksons Shipping Intelligence Network trackers confirm that closing both Hormuz and Bab el-Mandeb eliminates all supplier diversification routes for South Asian and Indo-Pacific resource corridors."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-10-17T13:28:00+00:00",
       "category": "Geopolitical",
