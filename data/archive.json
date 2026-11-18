@@ -483,7 +483,9 @@
           "detail": "Canada and India advance their Sixth Negotiation Round in New Delhi, locking in binding rules-of-origin definitions to target a C$70 billion annual trade baseline by 2030."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-11-04T23:22:28.984554+00:00",
       "category": "Geopolitical",
@@ -539,9 +541,7 @@
           "detail": "The India-Canada CEPA Sixth Round opens in New Delhi, seeking a $4.4 billion to $6.5 billion trade expansion to bypass single-market Western tariff friction."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-11-04T12:55:00+00:00",
       "category": "Geopolitical",
@@ -1589,7 +1589,9 @@
           "detail": "The 5-day Ottawa CEPA round concludes. Minister Sidhu leads Canada’s largest trade mission to India in 30 years, locking in 34 commercial deals valued at $300 million."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-10-19T19:50:00+00:00",
       "category": "Geopolitical",
@@ -1617,9 +1619,7 @@
           "detail": "Canadian Minister of International Trade Maninder Sidhu confirms negotiators have returned from India to fast-track the free-trade pact and secure the C$70 billion bilateral trade target by 2030."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-10-18T01:17:36.185317+00:00",
       "category": "Geopolitical",
