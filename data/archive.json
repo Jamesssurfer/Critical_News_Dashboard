@@ -539,7 +539,9 @@
           "detail": "Canada-India CEPA Round 6 launches in New Delhi. Both states track to unlock a $4.4B to $6.5B bilateral trade expansion, using a newly structured digital services framework as the primary economic shield."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-11-03T20:22:00+00:00",
       "category": "Geopolitical",
@@ -595,9 +597,7 @@
           "detail": "Canada and India fast-track CEPA negotiations in New Delhi, shifting the primary focus to reliable services export networks. Framework targets a tariff rate quota system for Canadian lentils."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-11-03T13:12:00+00:00",
       "category": "Geopolitical",
