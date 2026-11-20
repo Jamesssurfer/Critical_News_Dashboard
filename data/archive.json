@@ -1,6 +1,40 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-11-13T05:35:00+00:00",
+      "category": "Geopolitical",
+      "title": "At least four tankers have been struck by explosions across the Strait of Hormuz over the past 48 hours—including the Sinokor-operated VLCC Dominica Prosperity off Ras al Khaimah—as Iran escalates…",
+      "impact_level": "HIGH",
+      "summary": "Market read: Oil bullish / XAU long.",
+      "details": "At least four tankers have been struck by explosions across the Strait of Hormuz over the past 48 hours—including the Sinokor-operated VLCC Dominica Prosperity off Ras al Khaimah—as Iran escalates kinetic mine and projectile attrition against shuttle fleets. Concurrently, the Joint Maritime Information Center (JMIC) confirmed a sharp contraction in Bab el-Mandeb commercial transits to 23 vessels per day alongside ground clashes over the Kahboub range, prompting U.S. MARAD to warn fleets against disclosing voyage data to Houthi coordinators. While Persian Gulf chokepoints absorb multi-vector attrition, Canadian and Indian trade officials in Visakhapatnam confirmed that Round Six Comprehensive Economic Partnership Agreement (CEPA) talks are on track to conclude by Prime Minister Modi's December visit, anchoring a major bilateral LNG and nuclear energy corridor.\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil & Chokepoint Risk\n\n• The Dominica Prosperity & Mine Warfare Surge: Iranian state media reported four tankers struck naval mines across November 11–12 after entering restricted eastern Strait of Hormuz lanes with radar systems disabled. However, UKMTO and India's Shipping Ministry confirmed that the Sinokor-managed VLCC Dominica Prosperity was hit by an unspecified projectile 14 nautical miles northwest of Ras al Khaimah, sparking an engine-room fire and forcing the UAE Coast Guard to evacuate all 22 crew members. At least 10 ships have now been hit in the opening 10 days of November following a record 37 attacks in October.\n\n• The Bab el-Mandeb Throughput Drop & MARAD Warning: According to JMIC Advisory Update 113, commercial transits through the Bab el-Mandeb corridor dropped to roughly 23 vessels per day between November 8 and 11, down from 32 per day the prior week, as Yemeni government forces and Houthi units clashed over the strategic Kahboub range. U.S. MARAD issued Advisory 2026-013 explicitly instructing U.S.-flagged vessels to disregard Houthi Humanitarian Operations Coordination Center (HOCC) requests to activate AIS or submit voyage data, warning that compliance elevates targeting exposure.\n\n• Middle East Hub Congestion: As container lines gradually shift services back toward the Suez Canal—reducing Cape of Good Hope diversions from a two-year average of 350 ships down to roughly 180—regional transshipment ports are buckling under redirected cargo. Jeddah, King Abdullah Port, Khor Fakkan, and Fujairah are experiencing acute terminal and inland haulage bottlenecks, prompting carriers to introduce fresh war-risk and port congestion surcharges across November sailings.\n\n🇨🇦 Trade Friction & Sovereign Re-shaping\n\n• The Visakhapatnam CEPA & Energy Architecture: Speaking at the CII Partnership Summit in Visakhapatnam on November 12, Canadian International Trade Minister Maninder Sidhu confirmed that chief negotiators are actively executing Round Six of India-Canada CEPA talks to finalize the pact before Prime Minister Narendra Modi visits Canada next month. The trade framework anchors a long-term bilateral energy security axis, pairing Canada's push to become a top-five global LNG exporter within five years with a $2.5 billion uranium supply deal supporting India's newly enacted SHANTI Act for private-sector nuclear power generation.\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Enforce Strict Non-Disclosure Against HOCC Communications: Maritime compliance officers and vessel masters transiting the Southern Red Sea must immediately implement U.S. MARAD Advisory 2026-013 protocols. Prohibit any transmission of voyage manifests or AIS activation in response to Houthi HOCC outreach, as intelligence indicates data disclosures directly inform hostile targeting queues.\n\n• 📊 Audit Transshipment Exposure at Fujairah and Jeddah: Supply chain logistics desks moving containerized freight through Middle Eastern hubs must build buffer lead times and budget for ad-hoc November congestion surcharges. Severe yard and inland haulage bottlenecks at Khor Fakkan, Fujairah, and Jeddah are compounding delays as networks transition back to Suez routing.\n\n• ➡️ Position Industrial & Energy Desks for December CEPA Execution: Corporate procurement and trade compliance teams should finalize tariff-classification audits for bilateral India-Canada industrial, LNG, and nuclear-supply goods ahead of Prime Minister Modi's December summit in Ottawa to capture immediate duty-free market access upon treaty signing.\n\nWould you like me to run a focused audit on the latest war-risk insurance surcharge adjustments across Fujairah and Jeddah, or pull a granular breakdown of the tariff schedules under negotiation in Round Six of the India-Canada CEPA talks?",
+      "table": [
+        {
+          "indicator": "Chokepoint Security",
+          "signal_level": "HIGH",
+          "signal_label": "High Risk / Strike",
+          "detail": "The Maritime Executive and Reuters confirm 4 tankers hit by projectiles or sea mines across Nov 11–12, including the Sinokor VLCC Dominica Prosperity off Ras al Khaimah."
+        },
+        {
+          "indicator": "Maritime Chokepoints",
+          "signal_level": "HIGH",
+          "signal_label": "High Risk / Veto",
+          "detail": "JMIC Advisory Update 113 logs Bab el-Mandeb transits falling to ~23/day (down from 32/day) amid Yemeni-Houthi clashes over the Kahboub range; MARAD Advisory 2026-013 warns against HOCC voyage disclosures."
+        },
+        {
+          "indicator": "Macro-Logistics",
+          "signal_level": "MEDIUM",
+          "signal_label": "Moderate Risk / Adaptive Routing",
+          "detail": "C.H. Robinson Freight Update reports Cape-diverted container ships dropping to ~180 (from 350 average), triggering heavy congestion at Jeddah, King Abdullah Port, Khor Fakkan, and Fujairah."
+        },
+        {
+          "indicator": "Sovereign De-Risking",
+          "signal_level": "MEDIUM",
+          "signal_label": "Moderate Risk / Escort",
+          "detail": "The Hindu Trade Wire confirms Round Six India-Canada CEPA negotiations in Visakhapatnam targeting a December signing, linking Canadian LNG expansion and a $2.5B uranium supply pact to India's SHANTI Act."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-11-12T12:43:00+00:00",
       "category": "Geopolitical",
       "title": "Saudi air defenses intercepted two Houthi ballistic missiles over the Mecca region early Thursday, scattering debris across residential zones and sharply escalating cross-border kinetic friction near…",
