@@ -529,7 +529,9 @@
           "detail": "Canada advances its Indo-Pacific trade diversification framework, pushing negotiations past the 90% completion mark for comprehensive free trade agreements with ASEAN and the Philippines."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-11-06T18:38:00+00:00",
       "category": "Geopolitical",
@@ -557,9 +559,7 @@
           "detail": "Canada aggressively pivots away from traditional markets, signing a major comprehensive trade deal with the UAE and finalizing LNG/mineral architectures with the EU."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-11-05T21:55:00+00:00",
       "category": "Geopolitical",
@@ -1595,7 +1595,9 @@
           "detail": "The Canada-India economic reset expands, with both sovereign nations actively tracing the finalized CEPA text parameters to hit a C$70 billion bilateral trade target by 2030."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-10-21T21:44:00+00:00",
       "category": "Geopolitical",
@@ -1685,9 +1687,7 @@
           "detail": "Canada races to seal the India CEPA trade pact by year-end, expecting Prime Minister Narendra Modi to sign the final text during a December summit."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-10-21T10:23:00+00:00",
       "category": "Geopolitical",
