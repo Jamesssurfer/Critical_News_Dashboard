@@ -489,7 +489,9 @@
           "detail": "Canada aggressively pivots away from traditional markets, signing a major comprehensive trade deal with the UAE and finalizing LNG/mineral architectures with the EU."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-11-05T21:55:00+00:00",
       "category": "Geopolitical",
@@ -517,9 +519,7 @@
           "detail": "The Canada-India CEPA Sixth Round opens in New Delhi. Negotiators are racing to establish duty-free tariff corridors to expand bilateral trade by $4.4 billion to $6.5 billion before the year-end treaty lock."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-11-05T15:20:00+00:00",
       "category": "Geopolitical",

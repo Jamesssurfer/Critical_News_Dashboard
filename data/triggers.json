@@ -1,7 +1,12 @@
 [
   {
-    "label": "An unknown projectile struck the engine room of an outbound tanker six nautical miles nort",
+    "label": "The first-ever trilateral summit between U.S. President Donald Trump , Chinese President X",
     "category": "Geopolitical",
     "impact_level": "HIGH"
+  },
+  {
+    "label": "China and the Republic of Korea (ROK) have substantially concluded the second phase of neg",
+    "category": "Trade War",
+    "impact_level": "MEDIUM"
   }
 ]
