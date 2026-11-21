@@ -1601,7 +1601,9 @@
           "detail": "Team Canada Trade Mission concludes with 34 commercial agreements signed across Mumbai and Bengaluru. The bilateral framework targets a GDP expansion up to $5.9 billion by 2035."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-10-22T07:50:00+00:00",
       "category": "Geopolitical",
@@ -1629,9 +1631,7 @@
           "detail": "The Canada-India economic reset expands, with both sovereign nations actively tracing the finalized CEPA text parameters to hit a C$70 billion bilateral trade target by 2030."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-10-21T21:44:00+00:00",
       "category": "Geopolitical",
