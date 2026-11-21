@@ -1573,7 +1573,9 @@
           "detail": "Most key issues are now resolved ahead of Prime Minister Narendra Modi's December 11–12 visit to Canada. The framework targets a two-way trade spike to C$70 billion by 2030."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-10-22T11:15:00+00:00",
       "category": "Geopolitical",
@@ -1601,9 +1603,7 @@
           "detail": "Team Canada Trade Mission concludes with 34 commercial agreements signed across Mumbai and Bengaluru. The bilateral framework targets a GDP expansion up to $5.9 billion by 2035."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-10-22T07:50:00+00:00",
       "category": "Geopolitical",
