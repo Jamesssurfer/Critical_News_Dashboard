@@ -501,7 +501,9 @@
           "detail": "Prime Minister Mark Carney signals structural stalls in U.S.-Canada tariff negotiations, driving Ottawa to aggressively push for alternative EU Associate Membership architectures."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-11-07T20:33:00+00:00",
       "category": "Geopolitical",
@@ -563,9 +565,7 @@
           "detail": "Canada advances its Indo-Pacific trade diversification framework, pushing negotiations past the 90% completion mark for comprehensive free trade agreements with ASEAN and the Philippines."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-11-06T18:38:00+00:00",
       "category": "Geopolitical",
@@ -1545,7 +1545,9 @@
           "detail": "Final text legal sweeps are underway ahead of Indian Prime Minister Narendra Modi’s official bilateral visit to Canada on December 11–12 to ratify the landmark CEPA framework."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-10-22T21:02:00+00:00",
       "category": "Geopolitical",
@@ -1573,9 +1575,7 @@
           "detail": "Most key issues are now resolved ahead of Prime Minister Narendra Modi's December 11–12 visit to Canada. The framework targets a two-way trade spike to C$70 billion by 2030."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-10-22T11:15:00+00:00",
       "category": "Geopolitical",
@@ -7937,16 +7937,16 @@
       "title": "BOJ conducts unscheduled rate check; heavy JPY buying detected.",
       "impact_level": "HIGH",
       "summary": "Market read: DXY short / XAU long."
-    },
+    }
+  ],
+  "past_6_months": [
     {
       "timestamp": "2026-08-23T21:45:00+00:00",
       "category": "Geopolitical",
       "title": "Reports of drone activity near Eastern Saudi energy corridors.",
       "impact_level": "HIGH",
       "summary": "Market read: Oil bullish / XAU long."
-    }
-  ],
-  "past_6_months": [
+    },
     {
       "timestamp": "2026-08-22T14:12:00+00:00",
       "category": "Trade War",
