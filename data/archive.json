@@ -1,6 +1,68 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-11-15T19:22:00+00:00",
+      "category": "Geopolitical",
+      "title": "Yemeni government-aligned forces have withdrawn from Dhubab Airport and coastal positions overlooking the strategic Bab el-Mandeb Strait, giving Houthi fighters direct control over the Red Sea…",
+      "impact_level": "HIGH",
+      "summary": "Market read: Oil bullish / XAU long.",
+      "details": "Yemeni government-aligned forces have withdrawn from Dhubab Airport and coastal positions overlooking the strategic Bab el-Mandeb Strait, giving Houthi fighters direct control over the Red Sea chokepoint. This retreat places the primary Asia–Europe shipping corridor under Houthi leverage while Iran continues to disrupt traffic in the Strait of Hormuz. [1] , [2]\n\n🔎 Key Developments\n\n• The Bab el-Mandeb Retreat: Southern Armed Forces withdrew from Dhubab Airport and western Taiz Governorate to fortify Aden against mounting Houthi pressure. [1] , [2]\n\n• Dual-Chokepoint Squeeze: The loss follows a failed October government counteroffensive. Combined with ongoing Iranian activity in the Strait of Hormuz and recent strikes near Yanbu, the developments heavily threaten Gulf oil exports and transit through the Suez Canal. [1] , [2]\n\n💡 Recommended Actions\n\n• Halt Unescorted Transits: Pause independent commercial passages through the southern Red Sea due to elevated coastal artillery and drone threats.\n\n• Prepare for Rerouting: Expect shipping lines to pivot back toward the Cape of Good Hope, raising war-risk premiums and freight demand.\n\n• Audit Terminals: Review reliance on Red Sea loading points like Yanbu and prioritize alternative sourcing. [1] , [2]\n\nI will continue to monitor these developments. Let me know if you would like to adjust the tracking parameters.",
+      "table": [
+        {
+          "indicator": "Chokepoint Security",
+          "signal_level": "HIGH",
+          "signal_label": "High Risk / Veto",
+          "detail": "Southern Armed Forces withdrew from Dhubab Airport and the Bab el-Mandeb area west of Taiz Governorate."
+        },
+        {
+          "indicator": "Military Threats",
+          "signal_level": "HIGH",
+          "signal_label": "High Risk / Strike",
+          "detail": "Yemeni forces are redeploying toward Aden after an October counteroffensive failed to reverse Houthi coastal advances."
+        },
+        {
+          "indicator": "Energy Flows",
+          "signal_level": "HIGH",
+          "signal_label": "High Risk / Veto",
+          "detail": "Simultaneous control of Bab el-Mandeb and disruptions in the Strait of Hormuz squeeze Gulf crude and Suez freight routes."
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-11-15T15:43:00+00:00",
+      "category": "Geopolitical",
+      "title": "Iran's Islamic Revolutionary Guard Corps (IRGC) claims it launched six drones targeting a U.S. air-defense radar at Bahrain's Riffa Air Base early Sunday, while reporting two additional oil tankers…",
+      "impact_level": "HIGH",
+      "summary": "Market read: Oil bullish / XAU long.",
+      "details": "Iran's Islamic Revolutionary Guard Corps (IRGC) claims it launched six drones targeting a U.S. air-defense radar at Bahrain's Riffa Air Base early Sunday, while reporting two additional oil tankers struck naval mines in the eastern Strait of Hormuz—bringing alleged chokepoint mine incidents to seven within 24 hours. Simultaneously, Bahrain's Defence Force confirmed thwarting multiple Iranian aerial attacks and the Saudi-led coalition intercepted three Houthi drones over Saudi Arabia's Eastern Province alongside two ballistic missiles aimed at Riyadh. As dual-chokepoint friction pushes global fertilizer prices up 30% and triggers UN warnings of acute food insecurity for 45 million people, diplomatic focus shifts toward the November 18–19 APEC summit in Shenzhen while Round Six India-Canada CEPA talks accelerate toward a year-end close.\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil & Chokepoint Risk\n\n• The Bahrain Air-Defense Surge & Hormuz Mine Claims: The IRGC reported a six-drone strike targeting radar at Bahrain's Riffa Air Base, while Bahraini forces intercepted multiple incoming projectiles. Simultaneously, Iranian naval reports of two additional tanker mine detonations brought total claimed incidents in the eastern Strait of Hormuz to seven within 24 hours, though independent confirmation remains absent. [1] , [2] , [3]\n\n• Fertilizer Supply Chain Contagion & APEC Diplomatic Pivot: A senior UN official warned that Hormuz disruptions have spiked global fertilizer prices by 30%, putting 45 million people at risk of acute food insecurity and prompting calls for humanitarian shipping corridors. Attention now turns to the upcoming APEC summit in Shenzhen for high-level diplomatic talks. [1]\n\n• Red Sea & Gulf of Aden Threat Posture: Commercial transits through Bab el-Mandeb remain ~24% below pre-blockade averages with threat levels designated as SUBSTANTIAL. Regional air defenses intercepted Houthi drones and ballistic missiles targeting Saudi Arabia's Eastern Province and Riyadh. [1] , [2] , [3] , [4]\n\n🇨🇦 Trade Friction & Sovereign Re-shaping\n\n• The New Delhi CEPA Sprint & Potash-Energy Alignment: Round Six of India-Canada CEPA negotiations in New Delhi has closed three chapters with a target for year-end completion, aiming to expand bilateral trade past $7.95 billion. Canada is leveraging its potash, LNG, and uranium partnerships to help offset global commodity and energy bottlenecks. [1] , [2]\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Hedge Agricultural & Fertilizer Input Volatility Ahead of APEC: Agribusinesses should lock in Q1–Q2 fertilizer contracts and diversify toward Canadian potash supply chains ahead of the APEC summit. [1] , [2]\n\n• 📊 Maintain Strict Radar & Visual Watch Protocols in Eastern Hormuz: Vessels transiting the Gulf of Oman should bypass unverified eastern minefield zones and cross-reference reports with official maritime advisories. [1] , [2] , [3] , [4]\n\n• ➡️ Audit Bahrain & Saudi Eastern Province Terminal Contingencies: Energy desks should review regional force majeure procedures and alternative pipeline routing options following recent aerial intercepts over Bahrain and Saudi Arabia. [1] , [2] , [3]",
+      "table": [
+        {
+          "indicator": "Military Threats",
+          "signal_level": "HIGH",
+          "signal_label": "High Risk / Strike",
+          "detail": "Al Jazeera Live Desk reports IRGC claims of a 6-drone strike on U.S. air-defense radar at Bahrain's Riffa Air Base; Bahrain Defence Force intercepts multiple aerial attacks while Saudi coalition downs 3 Houthi drones over Eastern Province."
+        },
+        {
+          "indicator": "Chokepoint Security",
+          "signal_level": "HIGH",
+          "signal_label": "High Risk / Strike",
+          "detail": "Yahoo / Investing.com Wire logs Iranian Navy reports of 2 more oil tankers hitting naval mines in eastern Hormuz (7 claimed incidents in 24 hours); UKMTO Weekly VRA confirms combined transits down ~65% at 139 outbound / 169 inbound."
+        },
+        {
+          "indicator": "Macro-Logistics",
+          "signal_level": "HIGH",
+          "signal_label": "High Risk / Veto",
+          "detail": "Senior UN official warns Hormuz blockades have driven global fertilizer prices up 30%, threatening severe food insecurity for 45 million people; Clarksons Research logs ClarkSea Index at $64,148/day (+95% vs 10-yr trend) with VLCC earnings at $519,000/day."
+        },
+        {
+          "indicator": "Sovereign De-Risking",
+          "signal_level": "MEDIUM",
+          "signal_label": "Moderate Risk / Escort",
+          "detail": "New Indian Express confirms India-Canada CEPA Round Six talks in New Delhi (Nov 11–20) have closed 3 chapters with 16 policy areas targeted for completion by end-2026 to expand bilateral trade beyond $7.95B (FY26)."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-11-15T12:01:00+00:00",
       "category": "Geopolitical",
       "title": "Three oil tankers reportedly caught fire across the eastern and southern Strait of Hormuz on November 14 following alleged naval mine detonations, elevating cumulative UN-verified regional maritime…",
@@ -467,7 +529,9 @@
           "detail": "CENTCOM records a cumulative 147 vessel redirections and 5 merchant ship disablements since July; commercial traffic counts inside the main chokepoints collapse to single and low-double-digit dailies."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-11-08T18:35:00+00:00",
       "category": "Geopolitical",
@@ -501,9 +565,7 @@
           "detail": "Canadian Prime Minister Mark Carney unveils the \"Masters of our Destiny\" budget, systematically funding critical mineral infrastructures to permanently decouple supply grids from U.S. tariff dependencies."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-11-08T05:56:00+00:00",
       "category": "Geopolitical",
@@ -1495,7 +1557,9 @@
           "detail": "Ottawa and New Delhi lock final agendas for early November. Text structures focus on protecting intellectual property and securing cross-border investment parameters."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-10-23T22:29:00+00:00",
       "category": "Geopolitical",
@@ -1523,9 +1587,7 @@
           "detail": "Canadian pension funds (CPPIB, CDPQ, OMERS) commit over USD 55 billion across Indian infrastructure nodes. CPPIB expands its long-term baseline via a new INR 20.7 billion allocation to the NIIF Infrastructure Fund."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-10-23T12:29:00+00:00",
       "category": "Geopolitical",
@@ -7885,7 +7947,9 @@
       "impact_level": "HIGH",
       "summary": "Market read: XAU long catalyst.",
       "details": "The US-Canada economic conflict has intensified significantly following the complete breakdown of bilateral trade negotiations. President Donald Trump announced via Truth Social that the United States will expand its economic restrictions by increasing tariffs on all Canadian cars, trucks, and automotive parts to 50% effective January 1, 2027. This escalating friction comes directly on the heels of the initial 50% duties imposed on $20 billion worth of Canadian consumer and industrial goods. [1, 2, 3]\n\n📉 Impact Breakdown & Trigger Analysis\n\n🗺️ Risk Matrix & Operational Intelligence## 🚗 The Auto Tariff Threat & Economic Fallout\n\nThe latest tariff announcement specifically targets Canada's automotive infrastructure, expanding on the initial 50% levies on timber, dairy, cement, and consumer imports that went live on August 22. The original package offered by U.S. Trade Representative Jamieson Greer would have eased top-line passenger vehicle tariffs down to 15%, but the framework fell apart on Friday due to disputes regarding heavy truck exemptions and cultural protections. Economic assessments suggest this friction places over 87,000 Canadian jobs at risk, with the manufacturing hub of Ontario bearing nearly 36,100 potential losses. The Canadian Federation of Independent Business (CFIB) notes that roughly 40% of small business operators are bracing for negative revenue impacts. [1, 2, 4]\n\n🇨🇦 Domestic Political Strains in Ottawa\n\nDomestic pressure is mounting rapidly on Prime Minister Mark Carney’s government to counter the mounting economic risks. Conservative Leader Pierre Poilievre has issued formal demands for Parliament to immediately reconvene to orchestrate an aggressive economic fallback framework. While Ontario Premier Doug Ford is fiercely urging the federal government to levy immediate export taxes on Canadian oil, gas, electricity, and critical minerals going south, analysts emphasize that 80% of cross-border trade technically remains duty-free under existing legacy clauses, leaving room for alternative structural updates. [4, 5]"
-    },
+    }
+  ],
+  "past_6_months": [
     {
       "timestamp": "2026-08-24T22:58:00+00:00",
       "category": "Trade War",
@@ -7925,9 +7989,7 @@
       "impact_level": "HIGH",
       "summary": "Market read: XAU long catalyst.",
       "details": "The Iranian rial has plunged to an unprecedented low of 2.027 million rials per US dollar in informal markets, accelerating a sharp decline from last week's rate of 1.865 million. This collapse comes amid a tightening six-month-old US naval blockade and active military conflict initiated by US and Israeli strikes on February 28, 2026. US President Donald Trump and Treasury Secretary Scott Bessent have characterized the impending penalties as an \"economic D-Day\" aimed at completely severing Iran's remaining international financial lifelines.\n\n📊 Dashboard Metrics & Operational Signals\n\n🗺️ Risk Matrix & Operational Intelligence## 🇮🇷 Internal Fractures & Economic Collapse Warnings\n\nIran’s top political leadership has publicly broken ranks regarding the severity of the economic crisis. President Masoud Pezeshkian and Parliament Speaker Mohammad Ghalibaf openly admitted that the domestic economy is nearing total collapse and requires immediate structural overhauls. However, hardline factions and Islamic Revolutionary Guard Corps (IRGC) state-affiliated media have rejected these warnings, accusing leadership of projecting systemic weakness to foreign adversaries.\n\n🛢️ Regional Transit Security & Diplomatic Channels\n\n* Strait of Hormuz Security: Omani Foreign Minister Badr Albusaidi is scheduled to land in Tehran tomorrow, August 25, for emergency high-level security talks focusing on regional maritime transit stability through the critical Strait of Hormuz checkpoint.\n\n* Maritime Threats: The United Kingdom Maritime Trade Operations (UKMTO) agency reported a fresh security incident on August 24, noting a commercial vessel was struck by an unidentified projectile 63 nautical miles west of Yanbu, Saudi Arabia.\n\n* Retaliatory Warning: Iranian Foreign Ministry spokesperson Esmail Baghaei explicitly re-stated on August 24 that Tehran reserves the absolute right to target any geographical locations used to launch attacks against Iranian assets.\n\n* Domestic Executions: Compounding geopolitical frictions, Iranian authorities executed detainee Majid Adineh on August 23 following a conviction by a Karaj Revolutionary Court, drawing sharp rebukes from United Nations monitors over the ongoing expansion of political executions lacking fair-trial guarantees."
-    }
-  ],
-  "past_6_months": [
+    },
     {
       "timestamp": "2026-08-24T12:15:03.645996+00:00",
       "category": "Geopolitical",
