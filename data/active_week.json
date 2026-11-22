@@ -1,5 +1,119 @@
 [
   {
+    "timestamp": "2026-11-22T18:16:00+00:00",
+    "category": "Geopolitical",
+    "title": "Iran is assembling a 14-tanker convoy to challenge the active U.S. naval blockade following two additional commercial tanker strikes in the Strait of Hormuz, while Saudi and Bahraini air defenses…",
+    "impact_level": "HIGH",
+    "summary": "Market read: Oil bullish / XAU long.",
+    "details": "Iran is assembling a 14-tanker convoy to challenge the active U.S. naval blockade following two additional commercial tanker strikes in the Strait of Hormuz, while Saudi and Bahraini air defenses intercepted renewed cross-Gulf ballistic missile and aerial barrages early Sunday. Simultaneously, Manama appealed to the UN Security Council after an Iranian strike ignited a fire at a civilian industrial facility, and a Saudi-led coalition Patriot PAC-2 battery intercepted a Houthi ballistic missile over western Saudi Arabia at 01:42 local time—triggering civil defense alerts across the Mecca region, including Jeddah, Yanbu, and East-West Pipeline infrastructure. While Clarksons Research logs the cross-sector ClarkSea Index holding its 2% weekly rebound at $56,182/day (+77% YoY) amid 138 cumulative IMO-verified maritime incidents, India and Canada formally wrapped up Round Six CEPA negotiations in New Delhi ahead of a year-end treaty push.\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil & Chokepoint Risk\n\n• Iran's 14-Tanker Blockade-Breaking Convoy & Khasab Strikes: According to regional reporting by Gulf News, Tehran is actively marshaling a convoy of 14 oil tankers in a coordinated bid to breach the U.S. naval blockade. The mobilization follows two consecutive projectile strikes against outbound tankers off Khasab, Oman, on Saturday—hitting one hull's stern 11 nautical miles north and striking another's engine room 17 nautical miles east—pushing cumulative IMO-verified maritime incidents to 138 and compressing weekly Hormuz crossings to 263 vessels (65% below prewar norms).\n\n• Bahrain Industrial Strike & UN Security Council Appeal: Bahraini air defenses intercepted renewed Iranian aerial barrages overnight following Saturday's strike that ignited a major fire at a civilian industrial facility. Manama formally appealed to the UN Security Council in response to the cross-Gulf strikes, as Iranian Foreign Minister Abbas Araghchi ruled out Hormuz reopening talks unless Washington lifts all oil sanctions, unfreezes assets, and halts its port counter-blockade.\n\n• Western Saudi Missile Intercept & Red Sea Infrastructure Alerts: At 01:42 local time on Sunday, November 22, a Saudi-led coalition Patriot PAC-2 battery intercepted a Houthi ballistic missile targeting western Saudi Arabia, triggering civil defense alerts across the Mecca region—encompassing Jeddah Islamic Port, Yanbu crude terminals, and East-West Pipeline infrastructure (House of Saud). The intercept underscores acute exposure along Saudi Arabia's Red Sea bypass corridor as Houthi forces reinforce firing positions overlooking Bab el-Mandeb.\n\n📊 Global Capacity & Freight Index Realignment\n\n• ClarkSea Index Resilience & Atlantic-Basin Crude Substitution: Clarksons Research maintains the cross-sector ClarkSea Index at $56,182/day (+2% week-on-week; +77% YoY; +95% above its 10-year trend), supported by $131.6 billion in year-to-date global offshore oil and gas FIDs. Simultaneously, Kpler tracking indicates Middle East Gulf VLCC loadings declined to 7.4 million bpd in early November (down from 9.3 million bpd in October) as Chinese refiners expand Brazilian crude liftings to offset Persian Gulf bottlenecks.\n\n🇨🇦 Trade Friction & Sovereign Re-shaping\n\n• India–Canada CEPA Round Six Wrap-Up: Official readouts from India's Ministry of Commerce & Industry confirm that Indian Commerce Secretary Rajesh Agrawal and Canadian Vice Minister of International Trade Glenn Purves concluded Round Six CEPA negotiations in New Delhi across goods, services, rules of origin, trade remedies, intellectual property, and investment promotion, locking in momentum toward year-end treaty finalization.\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Prepare for Kinetic Interdiction Volatility Around Iran's 14-Tanker Convoy: Energy desks and marine underwriters must price in acute weekend-to-Monday escalation risk in the Persian Gulf and Gulf of Oman. Any U.S. naval interdiction of Tehran's 14-tanker blockade-breaking convoy will trigger immediate war-risk surcharge spikes and crude volatility.\n\n• 📊 Audit Western Saudi Terminal & Pipeline Contingencies: Supply chain and crude lifting teams utilizing Jeddah, Yanbu, or the East-West Pipeline must verify force-majeure and alternative loading protocols following Sunday's 01:42 local time Patriot PAC-2 ballistic missile intercept over the Mecca region.\n\n• ➡️ Position Tonnage for Brazil-to-Asia Arbitrage & Finalize CEPA Tariff Mapping: Chartering desks should allocate midsize and VLCC capacity toward West-to-East Atlantic crude flows as Chinese buyers substitute Brazilian barrels for Gulf grades, while India–Canada corporate compliance teams finalize product-origin audits ahead of December's concluding CEPA round.\n\nWould you like me to focus future alerts on specific chokepoint corridors (e.g., Strait of Hormuz vs. Red Sea/Yanbu), or adjust the tracking thresholds for Clarksons freight indices and bilateral trade treaties?",
+    "table": [
+      {
+        "indicator": "Chokepoint Security",
+        "signal_level": "HIGH",
+        "signal_label": "High Risk / Strike",
+        "detail": "Gulf News reports Tehran organizing 14 oil tankers to breach the U.S. naval blockade after 2 additional tankers were struck in Hormuz, bringing IMO-verified regional incidents to 138."
+      },
+      {
+        "indicator": "Military Threats",
+        "signal_level": "HIGH",
+        "signal_label": "High Risk / Strike",
+        "detail": "House of Saud logs a Saudi coalition Patriot PAC-2 intercepting a Houthi ballistic missile over western Saudi Arabia at 01:42 local time Nov 22 (triggering Mecca/Jeddah/Yanbu alerts), while Bahrain intercepts renewed Iranian aerial attacks and appeals to the UN Security Council."
+      },
+      {
+        "indicator": "Maritime Chokepoints",
+        "signal_level": "HIGH",
+        "signal_label": "High Risk / Veto",
+        "detail": "Middle East Eye confirms weekly Hormuz transits compressed ~65% to 115 outbound / 148 inbound, while Bab el-Mandeb transits hold ~22% below pre-blockade baselines amid Houthi coastal reinforcement."
+      },
+      {
+        "indicator": "Macro-Logistics",
+        "signal_level": "MEDIUM",
+        "signal_label": "Moderate Risk / Adaptive Routing",
+        "detail": "Clarksons Research holds the ClarkSea Index at $56,182/day (+2% WoW; +77% YoY) alongside $131.6B in YTD global offshore FIDs, while Kpler records MEG VLCC loadings easing to 7.4M bpd (from 9.3M bpd in Oct)."
+      },
+      {
+        "indicator": "Sovereign De-Risking",
+        "signal_level": "MEDIUM",
+        "signal_label": "Moderate Risk / Escort",
+        "detail": "India Press Information Bureau (PIB) confirms Round Six India–Canada CEPA talks concluded in New Delhi across goods, services, rules of origin, IP, and investment ahead of December's final ministerial round."
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-22T14:35:00+00:00",
+    "category": "Geopolitical",
+    "title": "Bahraini authorities accused Iran of striking a civilian industrial facility on Saturday—igniting a major fire—while the Islamic Revolutionary Guard Corps (IRGC) claimed retaliatory strikes against…",
+    "impact_level": "HIGH",
+    "summary": "Market read: Oil bullish / XAU long.",
+    "details": "Bahraini authorities accused Iran of striking a civilian industrial facility on Saturday—igniting a major fire—while the Islamic Revolutionary Guard Corps (IRGC) claimed retaliatory strikes against two U.S. military bases in Bahrain (Sheikh Isa and Juffair ) alongside the downing of a U.S. drone over Qeshm Island . Simultaneously, Iranian Foreign Minister Abbas Araghchi flatly ruled out reopening discussions on the Strait of Hormuz until Washington lifts all oil sanctions, unfreezes Iranian assets, and ends its port counter-blockade. As consecutive projectile strikes hit outbound tankers off Khasab, Oman, and Houthi forces reinforce coastal positions overlooking the Bab el-Mandeb corridor following instructions to prepare for a full Red Sea blockade, India and Canada formally closed Round Six CEPA talks in New Delhi with a target to conclude the treaty by year-end.\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil & Chokepoint Risk\n\n• Bahrain Industrial Strike & Tehran's Diplomatic Hardening: Cross-Gulf escalation widened on Saturday, November 21, as Bahrain's Interior Ministry confirmed a fire and structural damage at a civilian industrial facility following an Iranian strike, while Iran's Fars news agency reported the IRGC targeted two U.S. bases on Bahrain—Sheikh Isa and Juffair—and downed a U.S. drone over Qeshm Island. Simultaneously, Iranian Foreign Minister Abbas Araghchi declared that negotiations over reopening the Strait of Hormuz are \"pointless\" unless Washington halts operations on all fronts, unfreezes Iranian assets, lifts oil sanctions, and terminates its port counter-blockade.\n\n• Sustained Khasab Tanker Attrition & Malacca Shadow-Fleet Moves: Following Friday's projectile strike that ignited a fire aboard an outbound tanker eight nautical miles north of Khasab, UKMTO logged two additional hits off Khasab on Saturday—striking a tanker's stern 11 nautical miles north at 05:00 UTC and hitting an engine room 17 nautical miles east at 05:50 UTC. Meanwhile, UANI Satellite Surveillance tracked Iranian-flagged container vessels SHIBA and FLORA converging on Malaysia's Port Klang on November 21–22 via the Singapore and Malacca straits alongside anchored hulls VELON 1 and KASHAN, exposing regional port operators to secondary sanctions risks.\n\n• Bab el-Mandeb Blockade Preparations & Subsea Cable Threats: Intelligence updates from the Institute for the Study of War (ISW) confirm Houthi fighters are actively reinforcing military capabilities overlooking the Bab el-Mandeb Strait after Tehran instructed the group to prepare a full Red Sea blockade if U.S. strikes hit Iran's power grid—compounded by senior Iranian security warnings that Tehran will target Red Sea subsea communications cables if mainland infrastructure is attacked.\n\n📊 Global Capacity & Freight Index Realignment\n\n• MEG VLCC Loading Contraction & Atlantic-Basin Substitution: According to Kpler Tanker Market Data, Middle East Gulf VLCC loadings dropped to 7.4 million bpd in the first half of November (down from 9.3 million bpd in October), driven primarily by reduced Saudi liftings and softer Red Sea port activity. While the Clarksons ClarkSea Index ticked up 2% to $56,182/day (with World Fleet Register benchmarks holding global VLCC earnings near $519,000/day), falling spot crude prices have prompted Chinese refiners to expand Brazilian crude purchases—setting up a potential bottom-up rebound in midsize and VLCC rates as West-to-East arbitrage widens.\n\n🇨🇦 Trade Friction & Sovereign Re-shaping\n\n• India–Canada CEPA Round Six Conclusion: Official readouts from India's Ministry of Commerce & Industry confirm that Indian Commerce Secretary Rajesh Agrawal and Canadian Vice Minister of International Trade Glenn Purves formally concluded Round Six of CEPA talks in New Delhi across trade in goods, services, rules of origin, trade remedies, intellectual property, and investment promotion, keeping both capitals locked on a year-end finish to diversify bilateral supply chains.\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Enforce Digital Redundancy & Red Sea Rerouting Contingencies: Corporate IT, financial clearing, and maritime logistics teams operating across Middle East–Asia corridors must verify backup satellite and terrestrial routing immediately. Houthi reinforcement of Bab el-Mandeb firing positions alongside explicit Iranian threats against Red Sea subsea fiber cables creates simultaneous physical shipping and data-transit vulnerability.\n\n• 📊 Audit Port Klang & Malacca Transshipment Exposure: Port agents, insurers, and Southeast Asian supply chain compliance desks must enforce strict IMO-number screening on container feeders calling at Port Klang across November 22–24, as Iranian-flagged vessels (SHIBA, FLORA, VELON 1, KASHAN) actively stage transshipment operations in the Malacca Strait.\n\n• ➡️ Capture Brazilian-to-Asia Crude Ton-Mile Shifts & Finalize CEPA Tariff Mapping: Energy chartering desks should position midsize and VLCC tonnage for rising West-to-East Atlantic flows as Chinese refiners substitute Brazilian crude for discounted Gulf grades, while India–Canada trade teams finalize origin-certification workflows ahead of December's concluding CEPA round.",
+    "table": [
+      {
+        "indicator": "Military Threats",
+        "signal_level": "HIGH",
+        "signal_label": "High Risk / Strike",
+        "detail": "The Hindu reports Bahrain accusing Iran of striking a civilian industrial facility on Nov 21 while IRGC claims attacks on U.S. bases Sheikh Isa and Juffair plus downing a U.S. drone over Qeshm Island; FM Araghchi declares Hormuz talks \"pointless\" without full sanctions/blockade removal."
+      },
+      {
+        "indicator": "Chokepoint Security",
+        "signal_level": "HIGH",
+        "signal_label": "High Risk / Strike",
+        "detail": "CNBC and The Straits Times confirm outbound tankers struck off Khasab (11nm north stern hit and 17nm east engine-room hit on Nov 21 following Nov 20's fire 8nm north); UANI logs 138 IMO-verified incidents and 25 seafarer deaths."
+      },
+      {
+        "indicator": "Maritime Chokepoints",
+        "signal_level": "HIGH",
+        "signal_label": "High Risk / Veto",
+        "detail": "Institute for the Study of War (ISW) reports Houthis reinforcing Bab el-Mandeb military positions under Iranian instructions to prepare a blockade if U.S. strikes hit Iranian power grids; Middle East Eye confirms Hormuz transits down ~65% and Bab el-Mandeb transits down ~22%."
+      },
+      {
+        "indicator": "Macro-Logistics",
+        "signal_level": "MEDIUM",
+        "signal_label": "Moderate Risk / Adaptive Routing",
+        "detail": "Clarksons Research logs the ClarkSea Index ticking up 2% w-o-w to $56,182/day (+77% YoY; +95% vs 10-yr trend) with global offshore FIDs hitting $131.6B YTD, while Kpler reports MEG VLCC loadings dropping to 7.4M bpd (from 9.3M bpd in Oct) as Chinese buyers pivot toward Brazilian crude."
+      },
+      {
+        "indicator": "Sovereign De-Risking",
+        "signal_level": "MEDIUM",
+        "signal_label": "Moderate Risk / Escort",
+        "detail": "India Press Information Bureau (PIB), ANI News, and Moneycontrol confirm Round Six India–Canada CEPA talks concluded in New Delhi with a year-end target for final treaty wrap-up."
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-21T23:37:00+00:00",
+    "category": "Geopolitical",
+    "title": "Two commercial oil tankers were struck by unidentified projectiles off Khasab, Oman, on Saturday—hitting one vessel's stern at 05:00 UTC and striking another's engine room 50 minutes later—as Iranian…",
+    "impact_level": "HIGH",
+    "summary": "Market read: Oil bullish / XAU long.",
+    "details": "Two commercial oil tankers were struck by unidentified projectiles off Khasab, Oman, on Saturday—hitting one vessel's stern at 05:00 UTC and striking another's engine room 50 minutes later—as Iranian state media separately reported a tanker ablaze from a naval mine east of the Strait of Hormuz. Simultaneously, a high-level Qatari diplomatic delegation held two hours of emergency talks in Tehran late Friday night to contain maritime escalation following a week that saw commercial shipping attacks hit their highest pace since mid-October. While Clarksons Research reports the cross-sector ClarkSea Index rebounding 2% week-on-week to $56,182/day (+77% YoY), India's Ministry of Commerce & Industry formally confirmed on Saturday evening the conclusion of Round Six India–Canada CEPA negotiations in New Delhi, locking in bilateral supply-chain diversification momentum.\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil & Chokepoint Risk\n\n• The Khasab Morning Strikes & Qatari Backchannel Talks: Under UKMTO Warnings 215-26 and 216-26, two outbound tankers were struck off Oman's Musandam Peninsula within a 50-minute window on Saturday, November 21—first in the stern 11 nautical miles north of Khasab at 05:00 UTC, and subsequently in the engine room 17 nautical miles east of Khasab at 05:50 UTC, with authorities investigating whether both reports involve the same hull or two distinct targets. Separately, Iran's Navy claimed an oil tanker caught fire after hitting a naval mine in a restricted zone east of Hormuz, even as Iranian Deputy Foreign Minister Kazem Gharibabadi confirmed a Qatari delegation held two hours of emergency talks in Tehran late Friday night to de-escalate maritime tensions.\n\n• Weekly Chokepoint Attrition & Kpler Flow Compression: According to Middle East Eye, UKMTO's weekly assessment recorded six confirmed vessel attacks across Hormuz and the Arabian Gulf alongside a further contraction in combined crossings to 263 vessels (115 outbound, 148 inbound), roughly 65% below pre-war norms. gCaptain and Orbital Risk Intelligence note total regional shipping incidents jumped 50% week-on-week to 15—the highest weekly tally since mid-October—while Kpler data cited by Briefs.co shows non-Iranian Hormuz exports plus Gulf of Oman ship-to-ship transfers sliding to ~10 million bpd (down from 13.4 million bpd at the start of November).\n\n• Red Sea Port Tit-for-Tat: Following Friday's Saudi-led coalition strikes on Hodeidah port and Sanaa—and Saturday's interception of three Houthi ballistic missiles aimed at Riyadh—Houthi threats against Jeddah, Yanbu, Jazan, and King Fahd Industrial Port keep Saudi Red Sea terminal infrastructure under acute retaliatory risk (The Jerusalem Post).\n\n📊 Global Capacity & Freight Index Realignment\n\n• ClarkSea Index Rebound & Offshore Capex Surge: Clarksons Research reported in its November 20 weekly update that the cross-sector ClarkSea Index reversed recent softness to tick up 2% to $56,182/day—maintaining a 77% year-on-year gain and sitting 95% above its 10-year trend. Simultaneously, Clarksons data confirms year-to-date global offshore oil and gas Final Investment Decisions (FIDs) have reached $131.6 billion, already surpassing the $120 billion committed across full-year 2025 as energy majors accelerate non-chokepoint production capacity (Clarksons World Fleet Register).\n\n🇨🇦 Trade Friction & Sovereign Re-shaping\n\n• Formal Readout on India–Canada CEPA Round Six: On Saturday evening, November 21, India's Ministry of Commerce & Industry (PIB) and Deccan Chronicle issued an official readout confirming that Indian Commerce Secretary Rajesh Agrawal and Canadian Vice Minister of International Trade Glenn Purves reviewed and concluded the ten-day Round Six CEPA talks in New Delhi (November 11–20). Led by Chief Negotiators Dr. Brij Mohan Mishra and Mary-Catherine Speirs, the round covered trade in goods, services, rules of origin, trade remedies, intellectual property, and investment promotion, with both sides committing to an ambitious, supply-chain-diversifying pact ahead of December's final ministerial push.\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Enforce Strict Outbound Routing & Stern/Engine-Room Hardening Off Khasab: Maritime security officers transiting the Musandam Peninsula must treat the 11–17 nautical mile arc north and east of Khasab as an active precision-strike corridor. Saturday's 05:00 UTC stern hit and 05:50 UTC engine-room strike confirm sustained coastal targeting aimed at disabling outbound tankers.\n\n• 📊 Lock In Multi-Quarter Freight Ceilings on the ClarkSea Rebound: Supply chain and chartering desks should treat this week's 2% uptick in the ClarkSea Index ($56,182/day) as an inflection signal. With weekly Hormuz transits dropping to 263 vessels and non-Iranian Gulf flows compressing toward 10 million bpd, spot freight volatility carries asymmetric upside risk if Qatari mediation in Tehran stalls.\n\n• ➡️ Align Bilateral Tariff & Investment Filings Ahead of December India–Canada CEPA Close: Corporate compliance and trade strategy teams should finalize goods origin-certification and investment-protection mapping following Saturday's official Round Six readout from New Delhi to capture immediate duty reductions upon year-end treaty execution.",
+    "table": [
+      {
+        "indicator": "Chokepoint Security",
+        "signal_level": "HIGH",
+        "signal_label": "High Risk / Strike",
+        "detail": "UKMTO Warnings 215-26 & 216-26 and Lianhe Zaobao confirm 2 outbound tanker strikes off Khasab on Nov 21 (stern hit 11nm north at 05:00 UTC; engine room hit 17nm east at 05:50 UTC), pushing weekly regional maritime incidents up 50% to 15 (gCaptain)."
+      },
+      {
+        "indicator": "Maritime Chokepoints",
+        "signal_level": "HIGH",
+        "signal_label": "High Risk / Strike",
+        "detail": "Middle East Eye logs weekly Hormuz transits down ~65% to 115 outbound / 148 inbound (from 139 / 169), while Bab el-Mandeb transits hold ~22% below pre-July blockade levels amid Saudi–Houthi port retaliation threats (The Jerusalem Post)."
+      },
+      {
+        "indicator": "Macro-Logistics",
+        "signal_level": "MEDIUM",
+        "signal_label": "Moderate Risk / Adaptive Routing",
+        "detail": "Clarksons Research records the ClarkSea Index ticking up 2% week-on-week to $56,182/day (+77% YoY; +95% vs 10-year trend), while Briefs.co / Kpler notes non-Iranian Hormuz crude plus Gulf of Oman STS transfers easing to ~10m bpd (from 13.4m bpd)."
+      },
+      {
+        "indicator": "Sovereign De-Risking",
+        "signal_level": "MEDIUM",
+        "signal_label": "Moderate Risk / Escort",
+        "detail": "India Ministry of Commerce & Industry (PIB) and Business Standard confirm Round Six India–Canada CEPA talks formally concluded across goods, services, rules of origin, trade remedies, IP, and investment promotion."
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-21T17:26:00+00:00",
     "category": "Geopolitical",
     "title": "Two oil tankers were struck by unknown projectiles north and east of Khasab, Oman, on Saturday—hitting one vessel's stern and another's engine room—just hours after UKMTO raised the Strait of Hormuz…",
@@ -488,40 +602,6 @@
         "signal_level": "MEDIUM",
         "signal_label": "Moderate Risk / Escort",
         "detail": "New Indian Express confirms India-Canada CEPA Round Six talks in New Delhi (Nov 11–20) have closed 3 chapters with 16 policy areas targeted for completion by end-2026 to expand bilateral trade beyond $7.95B (FY26)."
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-11-15T12:01:00+00:00",
-    "category": "Geopolitical",
-    "title": "Three oil tankers reportedly caught fire across the eastern and southern Strait of Hormuz on November 14 following alleged naval mine detonations, elevating cumulative UN-verified regional maritime…",
-    "impact_level": "HIGH",
-    "summary": "Market read: Oil bullish / XAU long.",
-    "details": "Three oil tankers reportedly caught fire across the eastern and southern Strait of Hormuz on November 14 following alleged naval mine detonations, elevating cumulative UN-verified regional maritime incidents to 134 as Tehran intensifies information and denial operations against U.S.-escorted shipping. Simultaneously, Saudi-led coalition air defenses intercepted two Houthi ballistic missiles targeting Riyadh alongside two attack drones over Saudi Arabia's Eastern Province early Sunday morning, underscoring persistent cross-border escalation near the Bab el-Mandeb corridor. While UKMTO confirms overall Hormuz transit traffic remains depressed at roughly 65% below pre-war baselines, ISW intelligence assessments indicate Tehran is pairing unverified mine-strike claims with psychological operations to erode shipowner confidence in U.S. southern-corridor escorts.\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil & Chokepoint Risk\n\n• The Hormuz Mine-Warfare Information Campaign: On November 14, Iran's conventional Navy reported one tanker caught fire after hitting a mine east of the Strait of Hormuz, followed hours later by IRGC Navy claims that two additional \"violating\" tankers exploded and burned in the southern strait while transiting with radar systems switched off. Analysts at the Institute for the Study of War (ISW) note that Tehran has begun explicitly asserting that targeted vessels were operating under U.S. escort—despite U.S. Central Command's August 27 demining clearance—to fracture carrier confidence in Washington's southern corridor and coerce vessels into Iranian territorial waters.\n\n• The Riyadh & Eastern Province Air Defense Surge: Early Sunday morning, November 15, Saudi-led coalition forces intercepted two ballistic missiles launched by Houthi forces toward Riyadh alongside two drones over Saudi Arabia's oil-rich Eastern Province, following two additional drone intercepts over Riyadh on Saturday. Simultaneously, coalition aircraft provided close air support to Yemeni government-aligned forces repelling Houthi ground assaults in Lahj's Al-Mudharaba district near the Bab el-Mandeb approaches, while interior ministry sirens sounded in Bahrain amid persistent regional alert warnings.\n\n• Shifting Regional Defense & Blockade Metrics: Amid ongoing kinetic friction, Qatar and Türkiye signed a mutual defense pact committing to coordinated military responses against external attacks. Meanwhile, UANI Satellite Surveillance shows U.S.-facilitated dark transits through southern Hormuz running at a record 96-hour pace of 33.8 vessels per day (3,441 cumulative transits over 145 days), while at least 57 tankers loaded with Iranian crude and LPG remain bottlenecked along Iran's coast.\n\n🇨🇦 Trade Friction & Sovereign Re-shaping\n\n• The India-Canada CEPA Final Stretch: Round Six of India-Canada Comprehensive Economic Partnership Agreement (CEPA) talks remains underway in New Delhi through November 20 following the formal closure of three chapters on November 13. Government officials confirmed a seventh and final round is scheduled for December to lock in tariff schedules, LNG and uranium energy frameworks, and potash supply agreements before year-end.\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Verify Independent Intelligence Before Altering Southern Hormuz Escorts: Maritime risk managers and chartering desks must cross-check Iranian state mine-strike claims against UKMTO and CENTCOM advisories before rerouting vessels toward Iranian coastal lanes. Intelligence assessments indicate Tehran is amplifying unverified mine narratives specifically to lure commercial hulls away from U.S.-protected transit corridors.\n\n• 📊 Hedge Eastern Province & Red Sea Export Disruptions: Energy portfolio desks and downstream petrochemical buyers must maintain heightened risk buffers on Saudi export terminals. Sunday morning's Houthi drone intercepts over the Eastern Province and ballistic launches toward Riyadh confirm active cross-border targeting against Saudi energy infrastructure.\n\n• ➡️ Finalize Bilateral Origin & Tariff Audits Ahead of December CEPA Round: Corporate trade compliance teams operating between Canada and India should complete product-specific rules-of-origin reviews before the final December negotiating round to capture immediate duty reductions upon year-end treaty execution.\n\nWould you like me to run a focused audit on the latest war-risk insurance surcharge adjustments across Fujairah and Jeddah, or pull a granular breakdown of the tariff schedules under negotiation in Round Six of the India-Canada CEPA talks?",
-    "table": [
-      {
-        "indicator": "Chokepoint Security",
-        "signal_level": "HIGH",
-        "signal_label": "High Risk / Strike",
-        "detail": "Reuters / NST Wire reports Iranian Navy and IRGC claims of 3 tankers catching fire from naval mines on Nov 14; UN logs 134 confirmed regional maritime incidents and 25 seafarer fatalities since February."
-      },
-      {
-        "indicator": "Military Threats",
-        "signal_level": "HIGH",
-        "signal_label": "High Risk / Strike",
-        "detail": "Anadolu Agency confirms Saudi air defenses intercepted 2 Houthi ballistic missiles aimed at Riyadh and 2 drones over the Eastern Province early Nov 15; sirens sounded in Bahrain amid heightened alerts."
-      },
-      {
-        "indicator": "Macro-Logistics",
-        "signal_level": "MEDIUM",
-        "signal_label": "Moderate Risk / Adaptive Routing",
-        "detail": "Clarksons Research records the ClarkSea Index at $64,148/day (+77% YTD) with VLCC spot earnings at $519,000/day and Hormuz crude flows steady at ~10m bpd (-2m bpd vs 2025); global orderbook hits an all-time record 226m CGT ($700bn)."
-      },
-      {
-        "indicator": "Sovereign De-Risking",
-        "signal_level": "MEDIUM",
-        "signal_label": "Moderate Risk / Escort",
-        "detail": "ThePrint Trade Desk confirms Round Six India-Canada CEPA negotiations continue in New Delhi through Nov 20 with 3 chapters closed and a final round slated for December ahead of year-end signing."
       }
     ]
   }

@@ -1,6 +1,40 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-11-15T12:01:00+00:00",
+      "category": "Geopolitical",
+      "title": "Three oil tankers reportedly caught fire across the eastern and southern Strait of Hormuz on November 14 following alleged naval mine detonations, elevating cumulative UN-verified regional maritime…",
+      "impact_level": "HIGH",
+      "summary": "Market read: Oil bullish / XAU long.",
+      "details": "Three oil tankers reportedly caught fire across the eastern and southern Strait of Hormuz on November 14 following alleged naval mine detonations, elevating cumulative UN-verified regional maritime incidents to 134 as Tehran intensifies information and denial operations against U.S.-escorted shipping. Simultaneously, Saudi-led coalition air defenses intercepted two Houthi ballistic missiles targeting Riyadh alongside two attack drones over Saudi Arabia's Eastern Province early Sunday morning, underscoring persistent cross-border escalation near the Bab el-Mandeb corridor. While UKMTO confirms overall Hormuz transit traffic remains depressed at roughly 65% below pre-war baselines, ISW intelligence assessments indicate Tehran is pairing unverified mine-strike claims with psychological operations to erode shipowner confidence in U.S. southern-corridor escorts.\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil & Chokepoint Risk\n\n• The Hormuz Mine-Warfare Information Campaign: On November 14, Iran's conventional Navy reported one tanker caught fire after hitting a mine east of the Strait of Hormuz, followed hours later by IRGC Navy claims that two additional \"violating\" tankers exploded and burned in the southern strait while transiting with radar systems switched off. Analysts at the Institute for the Study of War (ISW) note that Tehran has begun explicitly asserting that targeted vessels were operating under U.S. escort—despite U.S. Central Command's August 27 demining clearance—to fracture carrier confidence in Washington's southern corridor and coerce vessels into Iranian territorial waters.\n\n• The Riyadh & Eastern Province Air Defense Surge: Early Sunday morning, November 15, Saudi-led coalition forces intercepted two ballistic missiles launched by Houthi forces toward Riyadh alongside two drones over Saudi Arabia's oil-rich Eastern Province, following two additional drone intercepts over Riyadh on Saturday. Simultaneously, coalition aircraft provided close air support to Yemeni government-aligned forces repelling Houthi ground assaults in Lahj's Al-Mudharaba district near the Bab el-Mandeb approaches, while interior ministry sirens sounded in Bahrain amid persistent regional alert warnings.\n\n• Shifting Regional Defense & Blockade Metrics: Amid ongoing kinetic friction, Qatar and Türkiye signed a mutual defense pact committing to coordinated military responses against external attacks. Meanwhile, UANI Satellite Surveillance shows U.S.-facilitated dark transits through southern Hormuz running at a record 96-hour pace of 33.8 vessels per day (3,441 cumulative transits over 145 days), while at least 57 tankers loaded with Iranian crude and LPG remain bottlenecked along Iran's coast.\n\n🇨🇦 Trade Friction & Sovereign Re-shaping\n\n• The India-Canada CEPA Final Stretch: Round Six of India-Canada Comprehensive Economic Partnership Agreement (CEPA) talks remains underway in New Delhi through November 20 following the formal closure of three chapters on November 13. Government officials confirmed a seventh and final round is scheduled for December to lock in tariff schedules, LNG and uranium energy frameworks, and potash supply agreements before year-end.\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Verify Independent Intelligence Before Altering Southern Hormuz Escorts: Maritime risk managers and chartering desks must cross-check Iranian state mine-strike claims against UKMTO and CENTCOM advisories before rerouting vessels toward Iranian coastal lanes. Intelligence assessments indicate Tehran is amplifying unverified mine narratives specifically to lure commercial hulls away from U.S.-protected transit corridors.\n\n• 📊 Hedge Eastern Province & Red Sea Export Disruptions: Energy portfolio desks and downstream petrochemical buyers must maintain heightened risk buffers on Saudi export terminals. Sunday morning's Houthi drone intercepts over the Eastern Province and ballistic launches toward Riyadh confirm active cross-border targeting against Saudi energy infrastructure.\n\n• ➡️ Finalize Bilateral Origin & Tariff Audits Ahead of December CEPA Round: Corporate trade compliance teams operating between Canada and India should complete product-specific rules-of-origin reviews before the final December negotiating round to capture immediate duty reductions upon year-end treaty execution.\n\nWould you like me to run a focused audit on the latest war-risk insurance surcharge adjustments across Fujairah and Jeddah, or pull a granular breakdown of the tariff schedules under negotiation in Round Six of the India-Canada CEPA talks?",
+      "table": [
+        {
+          "indicator": "Chokepoint Security",
+          "signal_level": "HIGH",
+          "signal_label": "High Risk / Strike",
+          "detail": "Reuters / NST Wire reports Iranian Navy and IRGC claims of 3 tankers catching fire from naval mines on Nov 14; UN logs 134 confirmed regional maritime incidents and 25 seafarer fatalities since February."
+        },
+        {
+          "indicator": "Military Threats",
+          "signal_level": "HIGH",
+          "signal_label": "High Risk / Strike",
+          "detail": "Anadolu Agency confirms Saudi air defenses intercepted 2 Houthi ballistic missiles aimed at Riyadh and 2 drones over the Eastern Province early Nov 15; sirens sounded in Bahrain amid heightened alerts."
+        },
+        {
+          "indicator": "Macro-Logistics",
+          "signal_level": "MEDIUM",
+          "signal_label": "Moderate Risk / Adaptive Routing",
+          "detail": "Clarksons Research records the ClarkSea Index at $64,148/day (+77% YTD) with VLCC spot earnings at $519,000/day and Hormuz crude flows steady at ~10m bpd (-2m bpd vs 2025); global orderbook hits an all-time record 226m CGT ($700bn)."
+        },
+        {
+          "indicator": "Sovereign De-Risking",
+          "signal_level": "MEDIUM",
+          "signal_label": "Moderate Risk / Escort",
+          "detail": "ThePrint Trade Desk confirms Round Six India-Canada CEPA negotiations continue in New Delhi through Nov 20 with 3 chapters closed and a final round slated for December ahead of year-end signing."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-11-14T05:21:00+00:00",
       "category": "Geopolitical",
       "title": "Iran's Islamic Revolutionary Guard Corps (IRGC) Navy has released footage confirming a liquefied natural gas (LNG) carrier struck a naval mine and caught fire in the southern Strait of Hormuz on…",
@@ -467,7 +501,9 @@
           "detail": "Canadian Prime Minister Mark Carney unveils the \"Masters of our Destiny\" budget, systematically funding critical mineral infrastructures to permanently decouple supply grids from U.S. tariff dependencies."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-11-08T05:56:00+00:00",
       "category": "Geopolitical",
@@ -501,9 +537,7 @@
           "detail": "Prime Minister Mark Carney signals structural stalls in U.S.-Canada tariff negotiations, driving Ottawa to aggressively push for alternative EU Associate Membership architectures."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-11-07T20:33:00+00:00",
       "category": "Geopolitical",
@@ -1489,7 +1523,9 @@
           "detail": "Canadian pension funds (CPPIB, CDPQ, OMERS) commit over USD 55 billion across Indian infrastructure nodes. CPPIB expands its long-term baseline via a new INR 20.7 billion allocation to the NIIF Infrastructure Fund."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-10-23T12:29:00+00:00",
       "category": "Geopolitical",
@@ -1545,9 +1581,7 @@
           "detail": "Final text legal sweeps are underway ahead of Indian Prime Minister Narendra Modi’s official bilateral visit to Canada on December 11–12 to ratify the landmark CEPA framework."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-10-22T21:02:00+00:00",
       "category": "Geopolitical",
@@ -7891,7 +7925,9 @@
       "impact_level": "HIGH",
       "summary": "Market read: XAU long catalyst.",
       "details": "The Iranian rial has plunged to an unprecedented low of 2.027 million rials per US dollar in informal markets, accelerating a sharp decline from last week's rate of 1.865 million. This collapse comes amid a tightening six-month-old US naval blockade and active military conflict initiated by US and Israeli strikes on February 28, 2026. US President Donald Trump and Treasury Secretary Scott Bessent have characterized the impending penalties as an \"economic D-Day\" aimed at completely severing Iran's remaining international financial lifelines.\n\n📊 Dashboard Metrics & Operational Signals\n\n🗺️ Risk Matrix & Operational Intelligence## 🇮🇷 Internal Fractures & Economic Collapse Warnings\n\nIran’s top political leadership has publicly broken ranks regarding the severity of the economic crisis. President Masoud Pezeshkian and Parliament Speaker Mohammad Ghalibaf openly admitted that the domestic economy is nearing total collapse and requires immediate structural overhauls. However, hardline factions and Islamic Revolutionary Guard Corps (IRGC) state-affiliated media have rejected these warnings, accusing leadership of projecting systemic weakness to foreign adversaries.\n\n🛢️ Regional Transit Security & Diplomatic Channels\n\n* Strait of Hormuz Security: Omani Foreign Minister Badr Albusaidi is scheduled to land in Tehran tomorrow, August 25, for emergency high-level security talks focusing on regional maritime transit stability through the critical Strait of Hormuz checkpoint.\n\n* Maritime Threats: The United Kingdom Maritime Trade Operations (UKMTO) agency reported a fresh security incident on August 24, noting a commercial vessel was struck by an unidentified projectile 63 nautical miles west of Yanbu, Saudi Arabia.\n\n* Retaliatory Warning: Iranian Foreign Ministry spokesperson Esmail Baghaei explicitly re-stated on August 24 that Tehran reserves the absolute right to target any geographical locations used to launch attacks against Iranian assets.\n\n* Domestic Executions: Compounding geopolitical frictions, Iranian authorities executed detainee Majid Adineh on August 23 following a conviction by a Karaj Revolutionary Court, drawing sharp rebukes from United Nations monitors over the ongoing expansion of political executions lacking fair-trial guarantees."
-    },
+    }
+  ],
+  "past_6_months": [
     {
       "timestamp": "2026-08-24T12:15:03.645996+00:00",
       "category": "Geopolitical",
@@ -7930,9 +7966,7 @@
       "impact_level": "HIGH",
       "summary": "Market read: XAU long catalyst.",
       "details": "Donald Trump has intensified rhetoric regarding the US-Canada trade relationship, directly accusing Canada of charging high tariffs on American farmers for years. This public accusation signals an aggressive escalation in trade war friction and sets a tense stage for upcoming bilateral supply chain policies. [1]\n\n📉 Impact Breakdown & Trigger Analysis"
-    }
-  ],
-  "past_6_months": [
+    },
     {
       "timestamp": "2026-08-24T00:34:00+00:00",
       "category": "Currency",
