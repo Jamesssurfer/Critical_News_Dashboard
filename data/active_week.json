@@ -1,5 +1,73 @@
 [
   {
+    "timestamp": "2026-11-23T15:39:00+00:00",
+    "category": "Geopolitical",
+    "title": "The UK Maritime Trade Operations (UKMTO) reported a direct incident involving a tanker and military forces in the Gulf of Oman near Chabahar on Sunday evening—coinciding with an Iranian tanker…",
+    "impact_level": "HIGH",
+    "summary": "Market read: Oil bullish / XAU long.",
+    "details": "The UK Maritime Trade Operations (UKMTO) reported a direct incident involving a tanker and military forces in the Gulf of Oman near Chabahar on Sunday evening—coinciding with an Iranian tanker departing Kharg Island to test the U.S. naval blockade—while the Joint Maritime Information Center (JMIC) confirmed seven tankers have been struck in the Strait of Hormuz since November 16. Simultaneously, satellite intelligence exposed a dual Russian-Iranian shadow-fleet supply pipeline delivering 3.26 million barrels of sanctioned fuel into the Houthi-controlled Red Sea terminal of Ras Issa via widespread AIS spoofing. Amid escalating maritime interdiction across both chokepoints, the European Union and Indonesia signed the landmark IEU-CEPA in Brussels to scrap tariffs on over 90% of traded goods by January 1, 2027, while Singapore and China unveiled 29 bilateral cooperation agreements at the 22nd JCBC in Singapore.\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil & Chokepoint Risk\n\n• Chabahar Blockade Clash & Torkel/Arina Identifications: On Sunday evening, November 22, UKMTO reported an active incident involving a tanker and military forces in the Gulf of Oman near Chabahar—consistent in timing and position with an Iranian tanker departing Kharg Island to force the U.S. naval blockade line—followed by overnight air-defense fire in Sirik and President Trump warning that blockade-running tankers will be sunk. Simultaneously, JMIC identified the two tankers struck off Khasab on Saturday as the Hong Kong-flagged Torkel (hit in the stern 11nm north) and Arina (hit in the engine room 17nm east), bringing confirmed Hormuz tanker hits since November 16 to seven while Bahrain reported two injuries from Saturday's Iranian industrial strike (Eurasia Review).\n\n• Dual Russian–Iranian Shadow Supply Lines at Ras Issa: Forensic maritime intelligence published Monday by Windward MIOC exposed two coordinated smuggling pipelines that delivered 3.26 million barrels of fuel across 12 sanctioned tankers to the Houthi-controlled Red Sea terminal of Ras Issa between September 16 and November 7. Seven tankers transported Russian diesel south through the Suez Canal to floating storage off Ras Issa, while five tankers—including OFAC-designated LPG carrier SARAH (IMO 9014420)—carried 1.3 million barrels of Iranian cargo through Hormuz and Bab el-Mandeb using falsified AIS coordinates displaced up to 2,800 nautical miles to conceal port calls.\n\n🌐 Trade Friction & Sovereign Re-shaping\n\n• EU–Indonesia CEPA (IEU-CEPA) & Investment Protection Pact: Signed in Brussels on Saturday, November 21, and entering internal EU ratification procedures today (Monday, November 23), the IEU-CEPA eliminates duties on 98.5% of EU tariff lines entering Indonesia and over 90% of bilateral trade overall, targeting a January 1, 2027 entry into force to bridge the expiry of Indonesia's EU GSP preferences (WSJ; 10 Things Global News). Projected to save over €600 million annually in customs duties and boost EU exports to Indonesia by 40%, the accord is paired with an Investment Protection Agreement (IPA) establishing investor-state mediation and legal safeguards across EVs, electronics, pharmaceuticals, and palm oil.\n\n• Singapore–China 22nd JCBC Deliverables: Concluded today in Singapore under Deputy Prime Minister Gan Kim Yong and Chinese Vice-Premier Ding Xuexiang, the 22nd Joint Council for Bilateral Cooperation yielded 29 bilateral agreements—the highest tally in recent years—encompassing a renewed trade-in-services MOU (spanning healthcare, legal, and professional sectors), cross-border fast-payment system linkages to expand RMB settlement channels, and accelerated working-group tracks for CSFTA Version 4.0 (CNA; Yahoo News / Straits Times).\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Prepare for Kinetic Blockade Escalation Off Chabahar & U.S.–Qatar Diplomatic Readouts: Energy desks and marine underwriters must monitor Monday's Washington talks between U.S. Secretary of State Marco Rubio and Qatari Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani alongside UKMTO's investigation into Sunday's Chabahar naval incident; any U.S. kinetic sinking of Kharg Island blockade-runners risks immediate Iranian retaliation against Gulf energy terminals.\n\n• 📊 Enforce Multi-Sensor Red Sea Compliance Screening Around Ras Issa & Salif: Trade finance banks, insurers, and port authorities must screen vessels transiting Suez and Bab el-Mandeb for AIS position manipulation (up to 2,800 nm spoofing) and ship-to-ship transfers off Ras Issa, as Windward confirms coordinated Russian-Iranian fuel deliveries underpinning Houthi safe-passage arrangements.\n\n• ➡️ Capture Early 2027 Tariff & RMB Settlement Advantages in ASEAN: Corporate trade compliance and treasury teams operating across Europe, Indonesia, and Singapore should map product codes for the January 1, 2027 IEU-CEPA tariff elimination (98.5% EU export coverage) and evaluate Singapore–China cross-border fast-payment RMB rails unveiled at today's 22nd JCBC.\n\nWould you like me to run a sector-by-sector tariff breakdown of the new EU–Indonesia CEPA ahead of its January 1, 2027 implementation, or pull a granular compliance watch-list of the 12 sanctioned tankers identified in the Ras Issa supply network?",
+    "table": [
+      {
+        "indicator": "Chokepoint Security",
+        "signal_level": "HIGH",
+        "signal_label": "High Risk / Strike",
+        "detail": "Yahoo News / UKMTO logs a tanker incident with military forces near Chabahar on Nov 22 as an Iranian tanker departed Kharg Island to challenge the U.S. blockade; Splash247 / JMIC identifies the Hong Kong-flagged Torkel and Arina among 7 tankers hit since Nov 16."
+      },
+      {
+        "indicator": "Maritime Chokepoints",
+        "signal_level": "HIGH",
+        "signal_label": "High Risk / Veto",
+        "detail": "Hellenic Shipping News / Windward documents 12 sanctioned tankers delivering 3.26 million barrels of Russian diesel and Iranian LPG to Houthi-held Ras Issa (11 dark; 5 spoofing positions by up to 2,800 nm); UANI logs 138 IMO-verified regional incidents and 25 seafarer deaths."
+      },
+      {
+        "indicator": "Macro-Logistics",
+        "signal_level": "MEDIUM",
+        "signal_label": "Moderate Risk / Adaptive Routing",
+        "detail": "Clarksons Research holds the ClarkSea Index at $56,182/day (+2% WoW; +77% YoY; +95% vs 10-year trend) with $131.6B in YTD offshore FIDs, while Clarksons World Fleet Register confirms Hormuz crude steady at ~9m bpd alongside restarted Iraq–Türkiye Kirkuk–Ceyhan flows and Brent easing to $92.29/bbl."
+      },
+      {
+        "indicator": "Sovereign De-Risking",
+        "signal_level": "MEDIUM",
+        "signal_label": "Moderate Risk / Escort",
+        "detail": "WSJ and Tempo.co confirm the EU–Indonesia CEPA and IPA signed in Brussels (saving €600M/yr in duties from Jan 1, 2027), while CNA reports 29 deals signed in Singapore across services, RMB fast-payment links, and CSFTA 4.0."
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-22T23:53:00+00:00",
+    "category": "Geopolitical",
+    "title": "The U.S. naval counter-blockade against Iranian ports has crossed its 130th consecutive day, while independent satellite analysts exposed an Iranian AIS spoofing operation involving the phantom…",
+    "impact_level": "HIGH",
+    "summary": "Market read: Oil bullish / XAU long.",
+    "details": "The U.S. naval counter-blockade against Iranian ports has crossed its 130th consecutive day, while independent satellite analysts exposed an Iranian AIS spoofing operation involving the phantom tanker Khat-Shekan amid active clustering of over 14 tankers near Kharg Island. Simultaneously, Yemeni government officials at the 12th Mediterranean Dialogues Forum in Naples issued an urgent warning over expanding Houthi coastal consolidation along the Bab el-Mandeb corridor following coalition troop withdrawals toward Aden. While Clarksons Research logs steady Strait of Hormuz crude throughput near 9 million bpd alongside restarted Iraq–Türkiye bypass flows, Singapore and China have formally launched negotiations for CSFTA Version 4.0 to anchor digital economy and cross-border data corridors against widening geopolitical trade friction.\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil & Chokepoint Risk\n\n• Blockade Day 130 & Phantom AIS Spoofing: Marking 130 consecutive days of the U.S. naval counter-blockade on November 22, maritime tracking analysts at TankerTrackers debunked live AIS broadcasts purporting to show an Iranian tanker named Khat-Shekan breaching the Strait of Hormuz, confirming the signal was a digital spoof unsupported by satellite imagery. However, satellite monitoring verifies that more than 14 oil tankers have clustered around Kharg Island as Foreign Minister Abbas Araghchi insists the blockade \"must be broken,\" while Al Jazeera notes Iranian-reported chokepoint incidents have accelerated to roughly three per day (~25 over the past week) alongside ongoing fires and chemical plumes from the stricken LPG carrier Tara Gas (The Telegraph).\n\n• Bab el-Mandeb Leverage & Yemen Coastal Collapse: Speaking at the 12th Mediterranean Dialogues Forum in Naples on November 22, Yemeni Foreign Minister Afrah Al-Zouba called for coordinated EU, Gulf, and Horn of Africa naval and institutional intervention to secure the Bab el-Mandeb Strait (Asharq Al-Awsat). Following the failure of October's government counteroffensive and the withdrawal of Southern Armed Forces to defend Aden—with Houthi units positioned at Al Kharaz camp just 60 kilometers from the port city—insurgent control over Yemen's Red Sea littoral grants Tehran critical secondary leverage over Asia–Europe shipping lanes.\n\n📊 Global Capacity & Freight Index Realignment",
+    "table": [
+      {
+        "indicator": "Chokepoint Security",
+        "signal_level": "HIGH",
+        "signal_label": "High Risk / Strike",
+        "detail": "Yahoo News / TankerTrackers exposes an AIS spoof for the non-existent tanker Khat-Shekan as >14 tankers gather off Kharg Island on Day 130 of the U.S. blockade; Al Jazeera logs ~25 Iranian-reported incidents over the past week (~3/day) alongside The Telegraph's confirmation of ongoing fires aboard the LPG carrier Tara Gas."
+      },
+      {
+        "indicator": "Maritime Chokepoints",
+        "signal_level": "HIGH",
+        "signal_label": "High Risk / Veto",
+        "detail": "Asharq Al-Awsat reports Yemeni Foreign Minister Afrah Al-Zouba warning in Naples of heightened Bab el-Mandeb and Red Sea interdiction risks as Houthi forces advance within 60 km of Aden after seizing coastal positions."
+      },
+      {
+        "indicator": "Macro-Logistics",
+        "signal_level": "MEDIUM",
+        "signal_label": "Moderate Risk / Adaptive Routing",
+        "detail": "Clarksons Research confirms Hormuz crude flows holding near 9m bpd as Iraq restarts a section of the Kirkuk–Ceyhan bypass pipeline, while the ClarkSea Index maintains a +77% YTD gain alongside global VLCC spot earnings near $519,000/day and a record 226m CGT ($700B) orderbook."
+      },
+      {
+        "indicator": "Sovereign De-Risking",
+        "signal_level": "MEDIUM",
+        "signal_label": "Moderate Risk / Escort",
+        "detail": "CNA and Mothership confirm Singapore and China signed an MOU to launch CSFTA 4.0 talks covering digital trade, cross-border data flows, AI, and procurement, while DW reports ASEAN–China South China Sea Code of Conduct talks stalled at 80% text completion."
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-22T18:16:00+00:00",
     "category": "Geopolitical",
     "title": "Iran is assembling a 14-tanker convoy to challenge the active U.S. naval blockade following two additional commercial tanker strikes in the Strait of Hormuz, while Saudi and Bahraini air defenses…",

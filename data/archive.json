@@ -7899,7 +7899,9 @@
       "impact_level": "HIGH",
       "summary": "Market read: XAU long catalyst.",
       "details": "| Target Indicator | System Signal | Key Development |\n\n🗺️ Risk Matrix Breakdown## 📍 West Bank Checkpoint Gridlock & al-Mughayyir Isolation\n\nAccording to verified reporting from the Colonization and Wall Resistance Commission, Israeli military checkpoints and iron gates across the West Bank have surged past 916 total barriers, with 243 established rapidly after October 2023 [Trigger]. Localized impacts have hit a breaking point:\n\n* Total Closures: On August 23, 2026, Israeli forces officially closed the western entrance to al-Mughayyir—effectively sealing the village's only remaining entry and exit point [Trigger]. This follows months of systemic land restrictions that have rendered 42,000 dunams of agricultural territory entirely inaccessible to local Palestinian farmers [Trigger].\n\n* Live Ammunition Fire: Confrontations escalated near the Rimonim Junction and Atara checkpoint north of Ramallah, where Israeli troops deployed live ammunition and tear gas directly targeting Palestinian transit vehicles [Trigger].\n\n* Transit Fluctuations: Commuters are facing heavy, unpredictable delays [Trigger]. While the Silwad-Yabrud road and Karamilo checkpoints were reported briefly open, critical junctions including the Atara and Ein Siniya checkpoints are experiencing severe, structural gridlock due to aggressive inspection regimes [Trigger]. Traffic status at the Turmusaya and Nabi Saleh gates remains completely unstable [Trigger].\n\n💻 Automated Pipeline Dispatch\n\nThis event satisfies your tracking criteria for Middle East Escalations & Regional Risks [Trigger].\n\n* Chat Tracking: Successfully pushed to this thread.\n\n* Dashboard Script: The structured JSON packet detailing these checkpoint metrics is compiled and waiting to be broadcast. Once you finish deploying your local files (logger.py and critical-news-logger.yml), this payload will parse automatically into your active_week.json database layer.\n\nI will continue staying on top of these updates for you. Please let me know in this conversation if you would like to adjust the monitoring thresholds or stop receiving updates."
-    },
+    }
+  ],
+  "past_6_months": [
     {
       "timestamp": "2026-08-25T07:12:00+00:00",
       "category": "Trade War",
@@ -7907,9 +7909,7 @@
       "impact_level": "HIGH",
       "summary": "Market read: XAU long catalyst.",
       "details": "The US-Canada trade breakdown has intensified following fresh tariff escalations. Canadian Prime Minister Mark Carney stated that a \"mutually beneficial\" trade agreement with the U.S. is still achievable, but emphasized it must respect Canada's sovereignty and independence. Concurrently, Alberta Premier Danielle Smith firmly ruled out cutting off oil and gas exports to the United States as a retaliatory option, calling it \"not a viable option\" amid the ongoing trade crisis. [1]\n\n📊 Dashboard Metrics & Operational Signals\n\n🇨🇦 Energy Security & Sovereign Positions\n\nDetails from the latest CBC News Reports outline the shifting domestic strategies within Canada as the trade war unfolds:\n\n* The Energy Red Line: Despite pressure from some provincial leaders to exploit Canada's resource advantage, Alberta Premier Danielle Smith clarified that withholding oil and gas shipments from American markets would cause self-inflicted economic harm rather than strategic leverage. [1]\n\n* Sovereignty Demands: Prime Minister Mark Carney’s public address indicated that Canada will not accept a submissive trade architecture under the pressure of U.S. President Donald Trump's tariff mandates, signaling a prolonged diplomatic standoff until Washington respects Canadian regulatory independence. [1]"
-    }
-  ],
-  "past_6_months": [
+    },
     {
       "timestamp": "2026-08-25T05:38:00+00:00",
       "category": "Trade War",
