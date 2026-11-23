@@ -576,39 +576,5 @@
         "detail": "Clarksons Research records the ClarkSea Index softening 14% week-on-week to $55,298/day (+77% YTD; +95% vs 10-year trend), while Oman's National Committee for Emergency Management convenes over a stranded tanker off Al Qibliya Island."
       }
     ]
-  },
-  {
-    "timestamp": "2026-11-16T13:06:00+00:00",
-    "category": "Geopolitical",
-    "title": "Iran's Islamic Revolutionary Guard Corps (IRGC) claims two oil tankers detonated naval mines in the southern Strait of Hormuz—including a supertanker carrying over 2 million barrels of crude that…",
-    "impact_level": "HIGH",
-    "summary": "Market read: Oil bullish / XAU long.",
-    "details": "Iran's Islamic Revolutionary Guard Corps (IRGC) claims two oil tankers detonated naval mines in the southern Strait of Hormuz—including a supertanker carrying over 2 million barrels of crude that allegedly sank—as UKMTO confirms a separate attack on an eastbound tanker approaching the waterway. Simultaneously, Houthi forces have reoccupied the Ras Menhali peninsula and strategic Perim Island overlooking the Bab el-Mandeb Strait following the withdrawal of Yemeni government-aligned troops toward Aden, cementing a simultaneous dual-chokepoint stranglehold. While Gulf of Oman ports suffer nine-day berth delays from redirected freight and Chinese refiners pivot toward West African and Brazilian crude, Round Six India-Canada Comprehensive Economic Partnership Agreement (CEPA) talks in New Delhi continue advancing toward a targeted year-end signing.\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil & Chokepoint Risk\n\n• The Hormuz VLCC Sinking Claim & UKMTO Confirmation: On November 15, UKMTO relayed Indian shipping reports confirming an eastbound tanker was attacked in the Arabian Gulf approaching the Strait of Hormuz, with all crew safe. Hours later, the IRGC Navy claimed two tankers on \"unauthorised\" southern-corridor routes hit naval mines—alleging that one supertanker carrying over 2 million barrels of crude sank—while warning owners away from U.S.-guided southern lanes in favor of Iranian-regulated northern passages.\n\n• Houthi Recapture of Perim Island & Red Sea Leverage: Following the withdrawal of Yemeni government-aligned Southern Armed Forces from Dhubab Airfield on November 15 to reinforce Aden against Houthi advances and a ballistic missile strike on Khour al Umairah, Houthi units reoccupied Ras Menhali and Perim Island. Controlling Perim Island places the narrowest throat of the Bab el-Mandeb Maritime Security Transit Corridor (MSTC) under direct Houthi fire and creates immediate risk of insurgent transit-fee extortion just as container alliances resume Red Sea sailings.\n\n• Asian Crude Realignment & Outer-Gulf Port Gridlock: Despite Brent holding steady at $95.49/bbl in early Asian trade on November 16, Kpler notes that falling tanker rates and persistent Hormuz transit friction are eroding Gulf crude competitiveness. Saudi Arabia and Kuwait cut December Official Selling Prices by $2/bbl, yet Chinese refiners are pivoting toward West African and Brazilian grades—where prompt Agbami cargoes price $4/bbl more competitively than Murban—while overland cargo transfers from UAE Gulf of Oman ports to Jebel Ali have jumped 30% to 3,500 TEU/day, pushing Fujairah berth delays to 9 days against 3 days at Duqm.\n\n🇨🇦 Trade Friction & Sovereign Re-shaping\n\n• The New Delhi CEPA & Pension Capital Axis: Following International Trade Minister Maninder Sidhu's bilateral meetings in New Delhi and Visakhapatnam, Round Six India-Canada CEPA talks remain active through November 20 across 16 policy areas. Alongside closing three services chapters and prioritizing Canadian potash and LNG flows, negotiators are pairing CEPA with a separate Financial Investment Promotion and Protection Agreement (FIPA) to unlock fresh infrastructure and real estate allocations from Canada's \"Maple Eight\" pension funds.\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Re-Evaluate Red Sea Container Bookings Ahead of Perim Island Consolidation: Supply chain risk managers must treat the return of container lines to the Suez Canal as highly fragile. With Houthi forces reoccupying Perim Island directly astride the Bab el-Mandeb MSTC and EUNAVFOR Operation Aspides limited to defensive escorts, prepare contingency budgets for sudden Cape of Good Hope reversals and insurgent transit-fee disruptions.\n\n• 📊 Shift Outer-Gulf Transshipment Staging from Fujairah to Duqm: Freight and logistics desks bypassing the Strait of Hormuz should divert vessel calls from Fujairah to Oman's Port of Duqm. Berth waiting times at Fujairah have stretched to 9 days due to a 30% surge in overland Jebel Ali shuttle volumes, whereas Duqm maintains an average 3-day turnaround.\n\n• ➡️ Capture Atlantic-Basin Crude Arbitrage & Pre-Position for CEPA/FIPA: Energy procurement desks should evaluate West African and Brazilian crude allocations against discounted Middle Eastern grades while prompt Agbami holds a $4/bbl delivered advantage over Murban, while corporate compliance teams finalize origin-certification workflows ahead of the December India-Canada CEPA round.",
-    "table": [
-      {
-        "indicator": "Chokepoint Security",
-        "signal_level": "HIGH",
-        "signal_label": "High Risk / Strike",
-        "detail": "UKMTO Warning 205-26 confirms an eastbound tanker attacked approaching Hormuz on Nov 15; IRGC claims 2 tankers hit mines in the southern corridor—including a 2m-barrel VLCC that sank—though independent verification is absent."
-      },
-      {
-        "indicator": "Maritime Chokepoints",
-        "signal_level": "HIGH",
-        "signal_label": "High Risk / Veto",
-        "detail": "The Maritime Executive reports Houthi forces reoccupying Ras Menhali and Perim Island overlooking the Bab el-Mandeb Maritime Security Transit Corridor after Southern Armed Forces withdrew to defend Aden."
-      },
-      {
-        "indicator": "Macro-Logistics",
-        "signal_level": "MEDIUM",
-        "signal_label": "Moderate Risk / Adaptive Routing",
-        "detail": "Kpler Market Data shows Dubai M1–M3 spread narrowing from $11.03/bbl to $1.03/bbl as Saudi Arabia and Kuwait cut Dec OSPs by $2/bbl; Fujairah berth wait times hit 9 days as Gulf of Oman overland TEU transfers surge 30%."
-      },
-      {
-        "indicator": "Sovereign De-Risking",
-        "signal_level": "MEDIUM",
-        "signal_label": "Moderate Risk / Escort",
-        "detail": "Global Affairs Canada confirms Round Six India-Canada CEPA negotiations run through Nov 20 with 3 chapters closed, targeting a year-end close to scale bilateral trade toward $70 billion by 2030."
-      }
-    ]
   }
 ]
