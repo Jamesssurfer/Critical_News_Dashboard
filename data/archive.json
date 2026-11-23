@@ -7907,7 +7907,9 @@
       "impact_level": "HIGH",
       "summary": "Market read: XAU long catalyst.",
       "details": "The US-Canada trade breakdown has intensified following fresh tariff escalations. Canadian Prime Minister Mark Carney stated that a \"mutually beneficial\" trade agreement with the U.S. is still achievable, but emphasized it must respect Canada's sovereignty and independence. Concurrently, Alberta Premier Danielle Smith firmly ruled out cutting off oil and gas exports to the United States as a retaliatory option, calling it \"not a viable option\" amid the ongoing trade crisis. [1]\n\n📊 Dashboard Metrics & Operational Signals\n\n🇨🇦 Energy Security & Sovereign Positions\n\nDetails from the latest CBC News Reports outline the shifting domestic strategies within Canada as the trade war unfolds:\n\n* The Energy Red Line: Despite pressure from some provincial leaders to exploit Canada's resource advantage, Alberta Premier Danielle Smith clarified that withholding oil and gas shipments from American markets would cause self-inflicted economic harm rather than strategic leverage. [1]\n\n* Sovereignty Demands: Prime Minister Mark Carney’s public address indicated that Canada will not accept a submissive trade architecture under the pressure of U.S. President Donald Trump's tariff mandates, signaling a prolonged diplomatic standoff until Washington respects Canadian regulatory independence. [1]"
-    },
+    }
+  ],
+  "past_6_months": [
     {
       "timestamp": "2026-08-25T05:38:00+00:00",
       "category": "Trade War",
@@ -7947,9 +7949,7 @@
       "impact_level": "HIGH",
       "summary": "Market read: XAU long catalyst.",
       "details": "The US-Canada economic conflict has intensified significantly following the complete breakdown of bilateral trade negotiations. President Donald Trump announced via Truth Social that the United States will expand its economic restrictions by increasing tariffs on all Canadian cars, trucks, and automotive parts to 50% effective January 1, 2027. This escalating friction comes directly on the heels of the initial 50% duties imposed on $20 billion worth of Canadian consumer and industrial goods. [1, 2, 3]\n\n📉 Impact Breakdown & Trigger Analysis\n\n🗺️ Risk Matrix & Operational Intelligence## 🚗 The Auto Tariff Threat & Economic Fallout\n\nThe latest tariff announcement specifically targets Canada's automotive infrastructure, expanding on the initial 50% levies on timber, dairy, cement, and consumer imports that went live on August 22. The original package offered by U.S. Trade Representative Jamieson Greer would have eased top-line passenger vehicle tariffs down to 15%, but the framework fell apart on Friday due to disputes regarding heavy truck exemptions and cultural protections. Economic assessments suggest this friction places over 87,000 Canadian jobs at risk, with the manufacturing hub of Ontario bearing nearly 36,100 potential losses. The Canadian Federation of Independent Business (CFIB) notes that roughly 40% of small business operators are bracing for negative revenue impacts. [1, 2, 4]\n\n🇨🇦 Domestic Political Strains in Ottawa\n\nDomestic pressure is mounting rapidly on Prime Minister Mark Carney’s government to counter the mounting economic risks. Conservative Leader Pierre Poilievre has issued formal demands for Parliament to immediately reconvene to orchestrate an aggressive economic fallback framework. While Ontario Premier Doug Ford is fiercely urging the federal government to levy immediate export taxes on Canadian oil, gas, electricity, and critical minerals going south, analysts emphasize that 80% of cross-border trade technically remains duty-free under existing legacy clauses, leaving room for alternative structural updates. [4, 5]"
-    }
-  ],
-  "past_6_months": [
+    },
     {
       "timestamp": "2026-08-24T22:58:00+00:00",
       "category": "Trade War",
