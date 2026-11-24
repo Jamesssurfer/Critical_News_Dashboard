@@ -1,5 +1,73 @@
 [
   {
+    "timestamp": "2026-11-24T23:23:00+00:00",
+    "category": "Geopolitical",
+    "title": "The UK Maritime Trade Operations (UKMTO) confirmed on Tuesday that three commercial vessels transiting east through the Strait of Hormuz were struck by unidentified projectiles on Monday…",
+    "impact_level": "HIGH",
+    "summary": "Market read: Oil bullish / XAU long.",
+    "details": "The UK Maritime Trade Operations (UKMTO) confirmed on Tuesday that three commercial vessels transiting east through the Strait of Hormuz were struck by unidentified projectiles on Monday evening—bringing confirmed Iranian maritime attacks to at least 61 ships over the past eight weeks—while the IRGC claimed a fourth tanker hit a naval mine in unauthorized waters. Simultaneously, the Saudi-led coalition reported that a tower in Riyadh's financial district was targeted in a fresh Houthi attack even as Iranian Energy Minister Abbas Aliabadi arrived in Beijing for emergency financial talks following U.S. sanctions on Tehran's foreign and gold exchange center. While Brent crude rebounded toward $89.50/bbl (WTI $80.25/bbl) amid active cyberattack probes covering up to 50 tankers, Indian and Canadian officials confirmed on November 24 that daily bilateral talks have brought their Comprehensive Economic Partnership Agreement (CEPA) \"very close\" to a year-end conclusion.\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil & Chokepoint Risk\n\n• Triple Eastbound Projectile Strikes & Attrition: British maritime monitors (UKMTO) confirmed three commercial vessels were hit by unidentified projectiles in the Strait of Hormuz on November 23, raising the eight-week attack total to at least 61 ships, while the IRGC claimed four tankers struck naval mines (TradeWinds).\n\n• Regional Escalation & Beijing Talks: A Saudi-led coalition reported a Houthi strike targeting a tower in Riyadh's financial district amid clashes in Yemen (Al Jazeera Live Desk), alongside Houthi positioning near the Bab el-Mandeb Strait (The Jerusalem Post). Following new U.S. sanctions, Iranian Energy Minister Abbas Aliabadi traveled to Beijing for financial talks, while Brent crude recovered to $89.50/bbl amid U.S. investigations into cyberattacks on up to 50 tankers (WSJ).\n\n📊 Global Capacity & Freight Index Realignment\n\n• Freight and Newbuild Metrics: Clarksons Research reports the ClarkSea Index holding at $56,182/day (+77% YoY) against a >$220 billion global bunker bill and 2,859 newbuild orders, with select VLCC fixtures reaching $635,000/day (TradeWinds).\n\n🇨🇦 Trade Friction & Sovereign Re-shaping\n\n• India–Canada CEPA Progress: Daily virtual negotiations have brought India and Canada \"very close\" to concluding their Comprehensive Economic Partnership Agreement (CEPA) by year-end (The Hindu; Financial Express), aiming to expand bilateral commerce toward $50 billion by 2030.\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Audit Charter-Party Exposure: Screen out high-risk state fleet operators (such as ADNOC L&S and KOTC) and enhance damage-control protocols for Hormuz transits.\n\n• 📊 Harden Cyber Defenses & Hedge Crude: Secure navigation and telemetry systems against active cyber probes targeting tankers, while maintaining upside hedges around $89.50/bbl Brent.\n\n• ➡️ Finalize HS-Code Mapping: Prepare compliance and origin-certification frameworks ahead of the anticipated India–Canada CEPA conclusion.",
+    "table": [
+      {
+        "indicator": "Chokepoint Security",
+        "signal_level": "HIGH",
+        "signal_label": "High Risk / Strike",
+        "detail": "Al Jazeera Live Desk and TradeWinds confirm 3 vessels struck by projectiles sailing east on Nov 23 (lifting 8-week strikes to ≥61, led by ADNOC L&S, KOTC, and a Hong Kong-managed bulker), while IRGC claims 4 tankers hit mines."
+      },
+      {
+        "indicator": "Military Threats",
+        "signal_level": "HIGH",
+        "signal_label": "High Risk / Strike",
+        "detail": "Al Jazeera Live Desk logs a Saudi-led coalition alert that a tower in Riyadh's financial district was targeted in an attack on Nov 24 alongside renewed ground clashes on Yemen's Taiz al-Aqroud front; Washington sanctions Tehran's foreign and gold exchange center."
+      },
+      {
+        "indicator": "Macro-Logistics",
+        "signal_level": "MEDIUM",
+        "signal_label": "Moderate Risk / Adaptive Routing",
+        "detail": "WSJ reports Brent rebounding to $89.50/bbl (WTI $80.25/bbl) with Hormuz traffic 42% below prewar levels (Kpler) and U.S. probes into cyberattacks on ≤50 tankers; Clarksons Research holds the ClarkSea Index at $56,182/day (+77% YoY) with global bunker spend exceeding $220B."
+      },
+      {
+        "indicator": "Sovereign De-Risking",
+        "signal_level": "MEDIUM",
+        "signal_label": "Moderate Risk / Escort",
+        "detail": "The Hindu and Financial Express confirm daily post-Round Six talks bring India–Canada CEPA \"very close\" to finalization by end-2026 toward a $50B bilateral trade target by 2030."
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-24T18:51:00+00:00",
+    "category": "Geopolitical",
+    "title": "Iran's Islamic Revolutionary Guard Corps (IRGC) claims three oil tankers detonated naval mines while operating under U.S. naval escort in the Strait of Hormuz—driving single-transit war-risk…",
+    "impact_level": "HIGH",
+    "summary": "Market read: Oil bullish / XAU long.",
+    "details": "Iran's Islamic Revolutionary Guard Corps (IRGC) claims three oil tankers detonated naval mines while operating under U.S. naval escort in the Strait of Hormuz—driving single-transit war-risk insurance premiums to $64 million—while UKMTO confirmed a bulk carrier caught fire after being struck by an unknown projectile off Dibba, UAE. Simultaneously, Houthi forces have pushed into Yemen's southern Lahj Governorate to sever coastal supply arteries toward Aden and expand firing leverage over the Bab el-Mandeb corridor. While Clarksons Research holds the ClarkSea Index steady at $56,182/day (+77% YoY) alongside ~9 million bpd in Hormuz crude throughput, Brussels and Jakarta have formally enacted the IEU-CEPA to eliminate tariffs on 90.4% of Indonesian exports and 98.5% of EU tariff lines on Day 1.\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil & Chokepoint Risk\n\n• The Dibba Outer-Anchorage Strike & $64M War-Risk Spike: On November 24, UKMTO confirmed a commercial bulk carrier was struck by an unknown projectile off Dibba on the UAE's eastern Gulf of Oman coast, sparking an onboard fire and demonstrating that kinetic threats extend beyond the Strait of Hormuz into outer staging anchorages. Concurrently, House of Saud reported IRGC claims that three oil tankers detonated naval mines while operating under U.S. naval escort, driving single-transit war-risk hull premiums to $64 million ahead of the upcoming OPEC+ ministerial meeting in Vienna.\n\n• Houthi Lahj Offensive & Indian Shadow-Fleet Calls: In the southern Red Sea theater, Houthi forces pushed deeper into Yemen's Lahj Governorate—severing coastal roads toward Aden and tightening artillery and drone leverage over the Bab el-Mandeb Maritime Security Transit Corridor (The Jerusalem Post; JMIC Advisory Update 116). Meanwhile, UANI Tracking documented U.S.-sanctioned Iranian-linked vessels—including ENZO 2, ZYRA, and ALOR 2—continuing to berth at Indian commercial terminals despite heightened G7 maritime enforcement.\n\n📊 Global Capacity & Freight Index Realignment\n\n• ClarkSea Index Stability & OPEC+ Production Tension: According to Clarksons Research, the cross-segment ClarkSea Index holds at $56,182/day (+77% YoY; +95% above its 10-year trend), supported by $131.6 billion in year-to-date global offshore oil and gas FIDs. While Clarksons World Fleet Register indicates non-Iranian crude throughput through Hormuz remains steady near ~9 million bpd, surging $64 million per-voyage insurance costs are colliding with Saudi Arabia's post-war production highs as OPEC+ delegates prepare to convene in Vienna.\n\n🌐 Trade Friction & Sovereign Re-shaping\n\n• EU–Indonesia CEPA (IEU-CEPA) & Investment Protection Pact: Formally signed in Brussels by European Commission and Indonesian trade officials, the IEU-CEPA eliminates import duties on 90.4% of Indonesian tariff lines and 98.5% of EU export lines immediately upon entry into force, saving exporters roughly €600 million annually (Indonesian Cabinet Secretariat; European Commission). Paired with a standalone Investment Protection Agreement (IPA), the pact secures long-term European access to Indonesian critical minerals, palm oil, and industrial assembly corridors.\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Audit Outer-Anchorage Exposure & War-Risk Cost-Sharing Clauses: Maritime risk managers and chartering desks must treat Gulf of Oman staging anchorages—including Dibba and Khor Fakkan—as active kinetic threat zones, while reviewing charter-party war-risk clauses to allocate $64 million single-transit insurance surcharges.\n\n• 📊 Hedge Crude & Freight Volatility Ahead of the Vienna OPEC+ Meeting: Energy portfolio desks should maintain active options protection into the OPEC+ summit, as physical insurance bottlenecks in Hormuz clash with elevated Saudi output baselines.\n\n• ➡️ Enforce Port-Call Sanctions Screening & Map Day-1 IEU-CEPA Tariff Lines: Trade finance banks and port agents in South Asia must enforce physical IMO-number checks to screen out sanctioned shadow hulls (ENZO 2, ZYRA, ALOR 2), while EU–ASEAN supply chain teams map HS codes to capture Day-1 zero-duty access under the IEU-CEPA.",
+    "table": [
+      {
+        "indicator": "Chokepoint Security",
+        "signal_level": "HIGH",
+        "signal_label": "High Risk / Strike",
+        "detail": "House of Saud reports IRGC claims of 3 oil tankers hitting naval mines under U.S. escort (pushing single-transit war-risk insurance to $64M); Ship & Bunker / UKMTO confirms a bulk carrier caught fire after a projectile hit off Dibba, UAE."
+      },
+      {
+        "indicator": "Maritime Chokepoints",
+        "signal_level": "HIGH",
+        "signal_label": "High Risk / Veto",
+        "detail": "The Jerusalem Post and JMIC Advisory Update 116 log Houthi advances into Lahj Governorate threatening Aden and Bab el-Mandeb; UANI flags sanctioned shadow-fleet vessels (ENZO 2, ZYRA, ALOR 2) calling at Indian ports."
+      },
+      {
+        "indicator": "Macro-Logistics",
+        "signal_level": "MEDIUM",
+        "signal_label": "Moderate Risk / Adaptive Routing",
+        "detail": "Clarksons Research maintains the ClarkSea Index at $56,182/day (+77% YoY; +95% vs 10-year trend) with $131.6B in YTD offshore FIDs, while Clarksons World Fleet Register confirms Hormuz crude flows steady near ~9m bpd ahead of Vienna's OPEC+ summit."
+      },
+      {
+        "indicator": "Sovereign De-Risking",
+        "signal_level": "MEDIUM",
+        "signal_label": "Moderate Risk / Escort",
+        "detail": "Indonesian Cabinet Secretariat and European Commission confirm the IEU-CEPA and Investment Protection Agreement signed in Brussels, cutting 90.4% of Indonesian and 98.5% of EU tariff lines to zero on Day 1 (€600M/yr duty savings)."
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-24T10:37:00+00:00",
     "category": "Geopolitical",
     "title": "A U.S. Air Force F-35A fighter declared an emergency near the Strait of Hormuz before diverting safely to Al Dhafra Air Base, amid heightened regional tensions and unverified reports of missing…",
@@ -574,40 +642,6 @@
         "signal_level": "MEDIUM",
         "signal_label": "Moderate Risk / Adaptive Routing",
         "detail": "Prime Minister's Office Release confirms Air Canada launching new Vancouver–Guangzhou flights in May 2027, alongside a Canada-China CEO Roundtable and a 2027 Year of e-Commerce."
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-11-17T04:18:00+00:00",
-    "category": "Geopolitical",
-    "title": "The Panama-flagged oil tanker ON PHOENIX caught fire three nautical miles off Oman on November 16 after being struck in the engine room by an unknown projectile while exiting the Strait of Hormuz…",
-    "impact_level": "HIGH",
-    "summary": "Market read: Oil bullish / XAU long.",
-    "details": "The Panama-flagged oil tanker ON PHOENIX caught fire three nautical miles off Oman on November 16 after being struck in the engine room by an unknown projectile while exiting the Strait of Hormuz, coinciding with IRGC claims of six tankers burning from naval mines since Sunday. Simultaneously, Houthi forces declared control over the Bab el-Mandeb Strait and pushed within 25 kilometers of Yemeni government defensive lines near Aden after Saudi-backed forces abandoned coastal positions—a tactical collapse that has already slashed Saudi Red Sea crude exports from 3.5 million b/d to under 400,000 b/d. With the USS Theodore Roosevelt carrier strike group arriving to bring three U.S. carriers into theater alongside active shadow-fleet AIS spoofing across the Arabian Sea, dual-chokepoint friction is locking in severe structural rerouting costs across global energy and container corridors.\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil & Chokepoint Risk\n\n• The ON PHOENIX Strike & PGSA Blacklist Targeting: Maritime security firm Vanguard Tech identified the vessel hit at 05:58 UTC on November 16 off Oman as the Onex-owned, Panama-flagged tanker ON PHOENIX—which has been listed on Iran's Persian Gulf Strait Authority (PGSA) blacklist since September 14. The projectile strike ignited an engine-room fire shortly after the ADNOC-managed VLCC Al Dhannah (also PGSA-blacklisted) was hit in the steering gear room on November 15 and forced back toward Dubai. Meanwhile, the IRGC claimed three additional tankers detonated mines on Monday—alleging six total mine hits since Sunday—though Western monitors have found no independent verification of the purported sinkings. [1] , [2] , [3]\n\n• Saudi Red Sea Export Collapse & Houthi Coastal Advance: Following Sunday's withdrawal of Saudi-backed Southern Armed Forces from Dhubab Airport to defend Aden, Houthi fighters advanced to Khor Omairah—roughly 100 kilometers west of Aden and 25 kilometers from government defensive lines at Qawah—while claiming full control of the Bab el-Mandeb Strait. According to Kpler Analytics, sustained Houthi threats against Yanbu-loaded tankers slashed Saudi Red Sea crude exports via Bab el-Mandeb from 3.5 million b/d in June to under 400,000 b/d in October, forcing Riyadh to push higher crude volumes back through the perilous Strait of Hormuz. [1] , [2]\n\n• Shadow Fleet MMSI Cloning & Three-Carrier Deterrence: Satellite tracking from United Against Nuclear Iran (UANI) detected active identity spoofing on November 16 as the falsely flagged container vessel FLEXI 2 (off India's Gulf of Kutch) and the falsely flagged tanker NORITA (in the Gulf of Oman) began broadcasting the exact same MMSI number on AIS, while ALOR 2 adopted a false Aruba flag en route to Kandla. Simultaneously, the USS Theodore Roosevelt carrier strike group entered theater to join the USS George H.W. Bush and USS George Washington, positioning three U.S. carrier air wings within striking range of Iran. [1] , [2]\n\n🇨🇦 Trade Friction & Sovereign Re-shaping\n\n• The New Delhi CEPA Final Stretch: Round Six of India-Canada Comprehensive Economic Partnership Agreement (CEPA) negotiations continues in New Delhi through November 20 across 16 policy areas—including rules of origin, potash supply facilitation, and investment protections—following the closure of three services chapters. Both governments remain locked on a seventh and final negotiating round in December to sign the treaty before year-end. [1] , [2]\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Screen Charter Parties Against Iran's PGSA Non-Compliant Registry: Crude and product charterers must cross-check candidate vessels against Tehran's Persian Gulf Strait Authority (PGSA) blacklist before fixing Gulf voyages. Recent precision hits on the ON PHOENIX and Al Dhannah confirm Tehran is systematically targeting PGSA-listed hulls attempting U.S.-guided southern transits. [1]\n\n• 📊 Re-Price Hormuz Crude Dependence as Yanbu Bypass Folds: Energy procurement desks must adjust supply models to reflect the collapse of Saudi Arabia's Red Sea bypass. With Houthi forces holding Bab el-Mandeb and Saudi Red Sea exports dropping nearly 90% since June to under 400,000 b/d, global buyers face heightened concentration risk inside the Strait of Hormuz. [1]\n\n• ➡️ Upgrade Maritime Compliance Screening for Cloned AIS Transponders: Trade finance and port compliance teams operating in the Arabian Sea and Indian ports (including Kandla) must enforce IMO-number and satellite-imagery verification rather than relying on MMSI broadcasts. Active MMSI duplication between shadow vessels like FLEXI 2 and NORITA is actively masking sanctioned cargo movements. [1]",
-    "table": [
-      {
-        "indicator": "Chokepoint Security",
-        "signal_level": "HIGH",
-        "signal_label": "High Risk / Strike",
-        "detail": "UKMTO & Vanguard Tech confirm the PGSA-blacklisted tanker ON PHOENIX hit in the engine room 3nm off Oman at 05:58 UTC Nov 16 (all crew safe); IRGC claims 6 tankers struck mines since Nov 15, though unverified."
-      },
-      {
-        "indicator": "Maritime Chokepoints",
-        "signal_level": "HIGH",
-        "signal_label": "High Risk / Veto",
-        "detail": "Argus Media confirms Houthis claiming control of Bab el-Mandeb after Yemeni forces fell back to defend Aden; Kpler data shows Saudi Red Sea crude exports plunging from 3.5m b/d (June) to <400,000 b/d (October)."
-      },
-      {
-        "indicator": "Military Threats",
-        "signal_level": "HIGH",
-        "signal_label": "High Risk / Strike",
-        "detail": "ZeroHedge / Stars and Stripes logs the arrival of USS Theodore Roosevelt alongside USS George H.W. Bush and USS George Washington (up to 144 strike fighters) following Iran's 6-drone attack on a U.S. radar site in Bahrain."
-      },
-      {
-        "indicator": "Macro-Logistics",
-        "signal_level": "MEDIUM",
-        "signal_label": "Moderate Risk / Adaptive Routing",
-        "detail": "Clarksons Research records the ClarkSea Index at $64,148/day (+77% YTD; +95% vs 10-year trend) with global VLCC earnings at $519,000/day and Hormuz crude steady at ~10m bpd; UANI flags shared MMSI spoofing between FLEXI 2 and NORITA."
       }
     ]
   }

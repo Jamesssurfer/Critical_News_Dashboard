@@ -1,6 +1,40 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-11-17T04:18:00+00:00",
+      "category": "Geopolitical",
+      "title": "The Panama-flagged oil tanker ON PHOENIX caught fire three nautical miles off Oman on November 16 after being struck in the engine room by an unknown projectile while exiting the Strait of Hormuz…",
+      "impact_level": "HIGH",
+      "summary": "Market read: Oil bullish / XAU long.",
+      "details": "The Panama-flagged oil tanker ON PHOENIX caught fire three nautical miles off Oman on November 16 after being struck in the engine room by an unknown projectile while exiting the Strait of Hormuz, coinciding with IRGC claims of six tankers burning from naval mines since Sunday. Simultaneously, Houthi forces declared control over the Bab el-Mandeb Strait and pushed within 25 kilometers of Yemeni government defensive lines near Aden after Saudi-backed forces abandoned coastal positions—a tactical collapse that has already slashed Saudi Red Sea crude exports from 3.5 million b/d to under 400,000 b/d. With the USS Theodore Roosevelt carrier strike group arriving to bring three U.S. carriers into theater alongside active shadow-fleet AIS spoofing across the Arabian Sea, dual-chokepoint friction is locking in severe structural rerouting costs across global energy and container corridors.\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil & Chokepoint Risk\n\n• The ON PHOENIX Strike & PGSA Blacklist Targeting: Maritime security firm Vanguard Tech identified the vessel hit at 05:58 UTC on November 16 off Oman as the Onex-owned, Panama-flagged tanker ON PHOENIX—which has been listed on Iran's Persian Gulf Strait Authority (PGSA) blacklist since September 14. The projectile strike ignited an engine-room fire shortly after the ADNOC-managed VLCC Al Dhannah (also PGSA-blacklisted) was hit in the steering gear room on November 15 and forced back toward Dubai. Meanwhile, the IRGC claimed three additional tankers detonated mines on Monday—alleging six total mine hits since Sunday—though Western monitors have found no independent verification of the purported sinkings. [1] , [2] , [3]\n\n• Saudi Red Sea Export Collapse & Houthi Coastal Advance: Following Sunday's withdrawal of Saudi-backed Southern Armed Forces from Dhubab Airport to defend Aden, Houthi fighters advanced to Khor Omairah—roughly 100 kilometers west of Aden and 25 kilometers from government defensive lines at Qawah—while claiming full control of the Bab el-Mandeb Strait. According to Kpler Analytics, sustained Houthi threats against Yanbu-loaded tankers slashed Saudi Red Sea crude exports via Bab el-Mandeb from 3.5 million b/d in June to under 400,000 b/d in October, forcing Riyadh to push higher crude volumes back through the perilous Strait of Hormuz. [1] , [2]\n\n• Shadow Fleet MMSI Cloning & Three-Carrier Deterrence: Satellite tracking from United Against Nuclear Iran (UANI) detected active identity spoofing on November 16 as the falsely flagged container vessel FLEXI 2 (off India's Gulf of Kutch) and the falsely flagged tanker NORITA (in the Gulf of Oman) began broadcasting the exact same MMSI number on AIS, while ALOR 2 adopted a false Aruba flag en route to Kandla. Simultaneously, the USS Theodore Roosevelt carrier strike group entered theater to join the USS George H.W. Bush and USS George Washington, positioning three U.S. carrier air wings within striking range of Iran. [1] , [2]\n\n🇨🇦 Trade Friction & Sovereign Re-shaping\n\n• The New Delhi CEPA Final Stretch: Round Six of India-Canada Comprehensive Economic Partnership Agreement (CEPA) negotiations continues in New Delhi through November 20 across 16 policy areas—including rules of origin, potash supply facilitation, and investment protections—following the closure of three services chapters. Both governments remain locked on a seventh and final negotiating round in December to sign the treaty before year-end. [1] , [2]\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Screen Charter Parties Against Iran's PGSA Non-Compliant Registry: Crude and product charterers must cross-check candidate vessels against Tehran's Persian Gulf Strait Authority (PGSA) blacklist before fixing Gulf voyages. Recent precision hits on the ON PHOENIX and Al Dhannah confirm Tehran is systematically targeting PGSA-listed hulls attempting U.S.-guided southern transits. [1]\n\n• 📊 Re-Price Hormuz Crude Dependence as Yanbu Bypass Folds: Energy procurement desks must adjust supply models to reflect the collapse of Saudi Arabia's Red Sea bypass. With Houthi forces holding Bab el-Mandeb and Saudi Red Sea exports dropping nearly 90% since June to under 400,000 b/d, global buyers face heightened concentration risk inside the Strait of Hormuz. [1]\n\n• ➡️ Upgrade Maritime Compliance Screening for Cloned AIS Transponders: Trade finance and port compliance teams operating in the Arabian Sea and Indian ports (including Kandla) must enforce IMO-number and satellite-imagery verification rather than relying on MMSI broadcasts. Active MMSI duplication between shadow vessels like FLEXI 2 and NORITA is actively masking sanctioned cargo movements. [1]",
+      "table": [
+        {
+          "indicator": "Chokepoint Security",
+          "signal_level": "HIGH",
+          "signal_label": "High Risk / Strike",
+          "detail": "UKMTO & Vanguard Tech confirm the PGSA-blacklisted tanker ON PHOENIX hit in the engine room 3nm off Oman at 05:58 UTC Nov 16 (all crew safe); IRGC claims 6 tankers struck mines since Nov 15, though unverified."
+        },
+        {
+          "indicator": "Maritime Chokepoints",
+          "signal_level": "HIGH",
+          "signal_label": "High Risk / Veto",
+          "detail": "Argus Media confirms Houthis claiming control of Bab el-Mandeb after Yemeni forces fell back to defend Aden; Kpler data shows Saudi Red Sea crude exports plunging from 3.5m b/d (June) to <400,000 b/d (October)."
+        },
+        {
+          "indicator": "Military Threats",
+          "signal_level": "HIGH",
+          "signal_label": "High Risk / Strike",
+          "detail": "ZeroHedge / Stars and Stripes logs the arrival of USS Theodore Roosevelt alongside USS George H.W. Bush and USS George Washington (up to 144 strike fighters) following Iran's 6-drone attack on a U.S. radar site in Bahrain."
+        },
+        {
+          "indicator": "Macro-Logistics",
+          "signal_level": "MEDIUM",
+          "signal_label": "Moderate Risk / Adaptive Routing",
+          "detail": "Clarksons Research records the ClarkSea Index at $64,148/day (+77% YTD; +95% vs 10-year trend) with global VLCC earnings at $519,000/day and Hormuz crude steady at ~10m bpd; UANI flags shared MMSI spoofing between FLEXI 2 and NORITA."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-11-16T19:35:00+00:00",
       "category": "Geopolitical",
       "title": "Iran's Islamic Revolutionary Guard Corps (IRGC) claims three oil tankers detonated naval mines and exploded in the southern Strait of Hormuz on Monday—bringing alleged chokepoint vessel fires to six…",
@@ -411,7 +445,9 @@
           "detail": "A proposed $60 billion reciprocal U.S.-China tariff reduction package remains strictly frozen as both powers maintain baseline non-tariff barriers ahead of the January 10, 2027 deadline."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-11-10T08:42:00+00:00",
       "category": "Geopolitical",
@@ -473,9 +509,7 @@
           "detail": "China's Ministry of Transport extends the suspension of special port fees on U.S.-linked vessels, lowering near-term regulatory friction for transpacific cargo traders."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-11-10T01:31:00+00:00",
       "category": "Geopolitical",
@@ -7789,7 +7823,9 @@
           "detail": "Cross-border tariff structures, automotive supply chain friction, and retaliatory timelines along the U.S.-Canada corridor remain unchanged since the previous update."
         }
       ]
-    },
+    }
+  ],
+  "past_6_months": [
     {
       "timestamp": "2026-08-26T15:12:00+00:00",
       "category": "Trade War",
@@ -7855,9 +7891,7 @@
       "impact_level": "HIGH",
       "summary": "Market read: XAU long catalyst.",
       "details": "The United States has initiated a significant shift in its West Asian strategy, prioritizing economic and energy infrastructure over direct military presence to integrate the region. Managed by U.S. Special Representative Tom Barak, who simultaneously serves as Ambassador to Turkey, this strategy consolidates the management of Iraq, Syria, and Turkey to facilitate regional integration. The aggressive maneuvering aims to secure a larger foothold in one of the world's cheapest remaining oil resource bases while actively squeezing out Moscow and Beijing. [1, 2, 3]\n\n📉 Strategic Impact Breakdown & Risk Analysis\n\n🗺️ Risk Matrix & Operational Intelligence## 🛢️ The Tri-Axis Energy Integration Strategy\n\nThe U.S. economic offensive across the Fertile Crescent relies heavily on integrating infrastructure across three primary nations: [3]\n\n* Iraq Hub: Baghdad has committed to disarming non-governmental armed groups following high-level meetings between Prime Minister Ali al-Zaidi and Tom Barak. Operationally, the U.S. is moving aggressively into Iraq's oil sector as Baghdad targets a production surge to 8–10 million barrels per day within six years. ConocoPhillips is taking a massive 42% stake in BP's Kirkuk venture, while Chevron is advancing plans for the giant West Qurna 2 and Nasiriyah fields. [1, 4]\n\n* Syria Transition: Syrian Energy Minister Muhammad al-Bashir held extensive meetings with U.S. firms in Washington, resulting in key development contracts signed by ConocoPhillips and Novaterra. Concurrently, U.S. firm HKN Energy has expanded its operations across the Kurdistan Region of Iraq, federal Iraq, and northeastern Syria, taking control of fields previously held by the Syrian Democratic Forces (SDF).\n\n* LNG Infrastructure: Excelerate Energy has confirmed a $450 million LNG project at Iraq's Khor Al Zubair port, with operations officially scheduled to commence in the second quarter of 2027.\n\n⚖️ Structural Hurdles & Political Skepticism\n\nDespite the rapid rollout of energy contracts, regional analysts note that the transition remains incomplete and highly vulnerable. The restoration of the 1952-era Kirkuk-Banias pipeline involves investment firm TI Capital, but the physical infrastructure still requires billions of dollars in funding. Furthermore, local Kurdish political actors—specifically the Kurdistan Democratic Party (KDP) and the Patriotic Union of Kurdistan (PUK)—are being leveraged as \"connecting layers\" within this trade framework. However, regional skepticism persists regarding the longevity of Washington's commitments, citing historical precedents like the 2017 Iraqi Kurdistan independence referendum as evidence of shifting U.S. priorities. Security also faces ongoing challenges from the continued regional influence of Iran. [4]"
-    }
-  ],
-  "past_6_months": [
+    },
     {
       "timestamp": "2026-08-26T01:12:00+00:00",
       "category": "Trade War",
