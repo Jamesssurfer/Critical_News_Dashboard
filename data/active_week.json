@@ -1,5 +1,73 @@
 [
   {
+    "timestamp": "2026-11-24T10:37:00+00:00",
+    "category": "Geopolitical",
+    "title": "A U.S. Air Force F-35A fighter declared an emergency near the Strait of Hormuz before diverting safely to Al Dhafra Air Base, amid heightened regional tensions and unverified reports of missing…",
+    "impact_level": "HIGH",
+    "summary": "Market read: Oil bullish / XAU long.",
+    "details": "A U.S. Air Force F-35A fighter declared an emergency near the Strait of Hormuz before diverting safely to Al Dhafra Air Base, amid heightened regional tensions and unverified reports of missing military aircraft. Meanwhile, the IRGC claimed missile and drone strikes against U.S. Patriot radars at Bahrain's Al-Riffa and Awali bases and Sakhir Air Base, alongside an industrial plant fire in Sitra that injured two civilians. U.S. authorities are also investigating suspected Iranian cyberattacks targeting up to 50 energy and chemical tankers worldwide. Iranian Foreign Minister Abbas Araghchi stated the Strait of Hormuz blockade will remain until demands are met—despite Qatari and Omani backchannel efforts—as IMO-verified maritime incidents reach 141 with 59 laden Iranian tankers bottlenecked coastside. [1] , [2] , [3] , [4] , [5] , [6] , [7]\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil & Chokepoint Risk\n\n• USAF F-35A Emergency Squawk & Aerial Contestation: Public flight records show a U.S. Air Force F-35A (registration 13-5067, callsign F35LTNG) transmitted squawk code 7700 near the Strait of Hormuz and Sweihan before diverting safely to Al Dhafra Air Base, following earlier November navigational anomalies. CENTCOM rejected Iranian claims of downing or damaging a U.S. aircraft in the area. [1] , [2]\n\n• Bahrain Radar Strikes & Sitra Industrial Fire: The IRGC claimed combined drone and missile strikes (\"Ya Umm al-Banin\") on U.S. Patriot radar sites at Bahrain's Al-Riffa and Awali bases and Sakhir Air Base. Bahrain confirmed an Iranian strike ignited a civilian industrial plant fire in Sitra, injuring two individuals, and invoked its right to self-defense under UN Charter Article 51. [1] , [2] , [3]\n\n• Maritime Cyber-Warfare Probe & Blockade Bottlenecks: According to The Wall Street Journal, U.S. officials are probing suspected cyberattacks against up to 50 commercial tankers carrying crude, LPG, and chemicals, alongside direct phone threats to crews. Simultaneously, UANI verified 141 regional incidents and 59 laden Iranian tankers stranded along domestic coasts. [1] , [2] , [3]\n\n🌐 Trade Friction & Sovereign Re-shaping\n\n• Tehran's Blockade Conditions & Regional Mediation: Foreign Minister Abbas Araghchi conditioned lifting the Hormuz blockade on Tehran's core demands, even as Qatari and Omani envoys engaged in diplomatic outreach. Foreign ministers from Pakistan and Turkey cautioned against escalating global energy contagion.\n\n• Washington War-Powers & Impeachment Escalation: Domestic U.S. political strain grew as House Democratic Leader Hakeem Jeffries threatened impeachment proceedings against President Donald Trump over Defense Secretary Pete Hegseth, creating legislative uncertainty surrounding naval escort operations.\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Harden Operational Technology (OT) & Navigation Systems on Energy Tankers: Audit integrated bridge and cargo controls on crude and chemical carriers immediately. U.S. investigations into cyberattacks on up to 50 tankers necessitate air-gapped OT protocols and U.S. Coast Guard coordination.\n\n• 📊 Audit Bahrain & UAE Industrial/Aviation Logistics Contingencies: Review terminal continuity and air-cargo routing protocols following the Sitra industrial plant fire and regional airbase strike claims.\n\n• ➡️ Hedge Against Prolonged Hormuz Blockade & Washington Policy Volatility: Maintain upside crude and freight volatility hedges given intransigent negotiations in Tehran and domestic U.S. political friction. [1] , [2] , [3] , [4] , [5]",
+    "table": [
+      {
+        "indicator": "Chokepoint Security",
+        "signal_level": "HIGH",
+        "signal_label": "High Risk / Strike",
+        "detail": "UANI Tracking logs 141 IMO-verified incidents and 25 seafarer deaths alongside 59 laden Iranian tankers anchored off Iran; WSJ reports U.S. investigations into suspected Iranian cyberstrikes on up to 50 oil, LPG, and chemical tankers."
+      },
+      {
+        "indicator": "Military Threats",
+        "signal_level": "HIGH",
+        "signal_label": "High Risk / Strike",
+        "detail": "The National and Al Jazeera confirm IRGC strike claims against U.S. Patriot radars at Bahrain's Al-Riffa and Awali bases plus a Sitra industrial plant fire injuring 2; CENTCOM rejects claims of damaging an F-16 near Qeshm Island."
+      },
+      {
+        "indicator": "Aviation & Force Posture",
+        "signal_level": "MEDIUM",
+        "signal_label": "Moderate Risk / Escort",
+        "detail": "Flight-Tracking Logs confirm a USAF F-35A (reg 13-5067) squawked 7700 near Hormuz before landing safely at Al Dhafra Air Base; U.S.-assisted Hormuz transits rise to 38.0 vessels/day (Nov 19–21)."
+      },
+      {
+        "indicator": "Diplomatic & Sovereign Friction",
+        "signal_level": "MEDIUM",
+        "signal_label": "Moderate Risk / Adaptive Routing",
+        "detail": "FM Abbas Araghchi vows the Hormuz blockade continues despite Qatari envoy Ali Al-Thawadi's visit to Tehran and Omani talks; U.S. House Democratic Leader Hakeem Jeffries threatens impeachment over Defense Secretary Pete Hegseth, while Pakistan and Turkey warn of broader economic fallout."
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-23T21:32:00+00:00",
+    "category": "Geopolitical",
+    "title": "The Monetary Authority of Singapore (MAS) has unveiled a new long-tenure corporate renminbi financing facility alongside 29 bilateral agreements at the 22nd Singapore–China Joint Council for…",
+    "impact_level": "HIGH",
+    "summary": "Market read: Oil bullish / XAU long.",
+    "details": "The Monetary Authority of Singapore (MAS) has unveiled a new long-tenure corporate renminbi financing facility alongside 29 bilateral agreements at the 22nd Singapore–China Joint Council for Bilateral Cooperation (JCBC), establishing an institutionalized non-USD trade-finance corridor as CSFTA 4.0 negotiations launch. Simultaneously, maritime intelligence analysts at Windward identified 31 laden sanctioned Iranian tankers holding in the Arabian Sea within a single day's steaming distance of the U.S. naval blockade line—carrying roughly 4.9 million barrels of crude alongside LPG and refined products—following Sunday's UKMTO-logged military encounter in the Gulf of Oman. As Houthi threats against Saudi Red Sea ports compound dual-chokepoint friction, Manila has also signed a landmark Philippines–Chile CEPA and initiated CPTPP accession talks to insulate Pacific trade flows.\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil & Chokepoint Risk\n\n• Arabian Sea Blockade-Line Staging & Gulf of Oman Encounter: Following Sunday afternoon's UKMTO Advisory 217-26—which logged an incident involving a commercial tanker and military forces in the Gulf of Oman at 14:25 UTC—forensic analysis from Windward reveals Tehran does not need to sortie the 14 vessels anchored off Kharg Island to challenge the U.S. blockade. Instead, 31 laden sanctioned tankers have already cleared the Strait of Hormuz and are holding in the Arabian Sea within a single day's steaming distance of the U.S. enforcement line—including four crude carriers holding 4.9 million barrels alongside LPG and refined product hulls, mirroring the 11 LPG tankers Tehran used to probe the blockade across September and October.\n\n• Khasab Strike Pattern & Weekly UKMTO Attrition: According to UKMTO's Weekly VRA Overview, combined Strait of Hormuz transits dropped to 263 vessels (115 outbound, 148 inbound)—roughly 65% below pre-conflict levels—with 45% of targeted ships listed on Iran's PGSA Non-Compliance List and 7 tankers struck since November 16 (including the Hong Kong-flagged Torkel and Arina off Khasab).\n\n• Ras Issa Dual-Pipeline Supply & Jeddah Threat Escalation: Windward's Red Sea investigation confirmed that 12 sanctioned tankers (11 U.S.-designated; 11 operating dark) discharged 3.26 million barrels at Houthi-controlled Ras Issa, anchored by a floating storage tanker three nautical miles offshore holding over 1 million barrels of predominantly Russian-origin fuel—with terminal wait times stretching from 2.5 weeks to over five months. Concurrently, SAFETY4SEA notes Houthi warnings to evacuate Jeddah and Saudi Red Sea ports have injected acute uncertainty just as Maersk and Hapag-Lloyd shift three additional Gemini Cooperation services back to the Suez Canal.\n\n🇸🇬🇨🇳 Trade Friction & Sovereign Re-shaping\n\n• Singapore–China RMB Corporate Facility & CSFTA 4.0: Speaking after co-chairing the 22nd Joint Council for Bilateral Cooperation (JCBC) in Singapore with Chinese Vice Premier Ding Xuexiang on Monday evening, Deputy Prime Minister Gan Kim Yong highlighted the launch of a Monetary Authority of Singapore (MAS) renminbi corporate facility to fund longer-tenure trade finance, working capital, and capital expenditure (CNA). Alongside 29 bilateral agreements—including fresh food import approvals from Hainan and digital trade protocols—negotiators initiated CSFTA 4.0 (targeting completion within one to two years) to codify cross-border data flows and digital economy rules (Lianhe Zaobao).\n\n• Philippines–Chile CEPA & CPTPP Expansion: Simultaneously, the Philippine Presidential Communications Office confirmed the signing of the landmark Philippines–Chile CEPA—Manila's first Latin American FTA covering ICT, logistics, and services—alongside formal steps to apply for accession to the 12-nation CPTPP bloc and launch FTA talks with Peru.\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Prepare for Kinetic Blockade Interdictions in the Arabian Sea: Energy desks and marine underwriters must monitor the 31 laden sanctioned tankers staged one day's sail from the Arabian Sea blockade line. Any coordinated push by those four crude VLCCs (4.9M bbl) or LPG carriers to breach the U.S. cordon risks immediate naval interdiction and sharp crude price spikes.\n\n• 📊 Audit Gemini Cooperation Suez Rerouting Against Jeddah Port Warnings: Supply chain logistics managers booking Far East–Europe cargo on Maersk and Hapag-Lloyd's returning Suez loops must maintain contingency routing and insurance buffers following Houthi evacuation warnings for Jeddah and Saudi Red Sea ports.\n\n• ➡️ Tap MAS Corporate RMB Financing & Map CSFTA 4.0 Digital Rules: Corporate treasuries and regional headquarters in Singapore should evaluate the newly launched MAS renminbi corporate facility for longer-tenure trade finance and capex hedging, while legal teams align cross-border data architectures with incoming CSFTA 4.0 standards.\n\nWould you like me to pull specific eligibility parameters for the new MAS corporate renminbi financing facility, or run a focused audit on the 31 sanctioned tankers staging near the Arabian Sea blockade line?",
+    "table": [
+      {
+        "indicator": "Chokepoint Security",
+        "signal_level": "HIGH",
+        "signal_label": "High Risk / Strike",
+        "detail": "SAFETY4SEA / UKMTO logs Advisory 217-26 on Nov 22 (14:25 UTC) for a Gulf of Oman tanker-military encounter following 3 Khasab projectile hits (Torkel, Arina); The Maritime Executive / Windward tracks 31 laden sanctioned tankers (4.9M bbl crude + LPG) staging within 1 day of the Arabian Sea blockade line."
+      },
+      {
+        "indicator": "Maritime Chokepoints",
+        "signal_level": "HIGH",
+        "signal_label": "High Risk / Veto",
+        "detail": "SAFETY4SEA / Windward and Hellenic Shipping News confirm 12 sanctioned tankers delivered 3.26M bbl of fuel (1.57M bbl northern Suez/Russian diesel; 1.3M bbl southern Hormuz/Iranian LPG) to Houthi-held Ras Issa amid new Houthi port-evacuation warnings for Jeddah."
+      },
+      {
+        "indicator": "Macro-Logistics",
+        "signal_level": "MEDIUM",
+        "signal_label": "Moderate Risk / Adaptive Routing",
+        "detail": "Clarksons Research holds the ClarkSea Index at $56,182/day (+2% WoW; +77% YoY; +95% vs 10-year trend) with $131.6B in YTD offshore FIDs, while Clarksons World Fleet Register confirms Hormuz crude steady at ~9m bpd alongside restarted Iraq–Türkiye Kirkuk–Ceyhan flows."
+      },
+      {
+        "indicator": "Sovereign De-Risking",
+        "signal_level": "MEDIUM",
+        "signal_label": "Moderate Risk / Escort",
+        "detail": "CNA reports MAS launching a new corporate RMB facility and 29 deals at the 22nd JCBC under CSFTA 4.0 (1–2 year target), while Philippine PCO confirms the Philippines–Chile CEPA signing and CPTPP accession bid."
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-23T15:39:00+00:00",
     "category": "Geopolitical",
     "title": "The UK Maritime Trade Operations (UKMTO) reported a direct incident involving a tanker and military forces in the Gulf of Oman near Chabahar on Sunday evening—coinciding with an Iranian tanker…",
@@ -540,40 +608,6 @@
         "signal_level": "MEDIUM",
         "signal_label": "Moderate Risk / Adaptive Routing",
         "detail": "Clarksons Research records the ClarkSea Index at $64,148/day (+77% YTD; +95% vs 10-year trend) with global VLCC earnings at $519,000/day and Hormuz crude steady at ~10m bpd; UANI flags shared MMSI spoofing between FLEXI 2 and NORITA."
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-11-16T19:35:00+00:00",
-    "category": "Geopolitical",
-    "title": "Iran's Islamic Revolutionary Guard Corps (IRGC) claims three oil tankers detonated naval mines and exploded in the southern Strait of Hormuz on Monday—bringing alleged chokepoint vessel fires to six…",
-    "impact_level": "HIGH",
-    "summary": "Market read: Oil bullish / XAU long.",
-    "details": "Iran's Islamic Revolutionary Guard Corps (IRGC) claims three oil tankers detonated naval mines and exploded in the southern Strait of Hormuz on Monday—bringing alleged chokepoint vessel fires to six since Sunday—while explicitly warning for the first time of widespread marine pollution across regional waters. Simultaneously, UKMTO logged an armed skiff approach 430 nautical miles east of Yemen's Socotra Island as Houthi forces formally claimed control over the Bab el-Mandeb Strait following the withdrawal of pro-government troops toward Aden. While Brent crude edges higher to $95.89/bbl amid the arrival of the third U.S. aircraft carrier strike group (USS Theodore Roosevelt), weekly data from Clarksons Research shows the cross-sector ClarkSea Index softening a further 14% to $55,298/day even as rates hold at double the 10-year average.\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil & Chokepoint Risk\n\n• The Environmental Weaponization & Mine Claims: In a significant rhetorical shift on Monday, November 16, the IRGC reported that three oil tankers collided with naval mines in the southern Strait of Hormuz—claiming six tankers have burned and begun sinking since Sunday—and explicitly highlighted that resulting oil pollution has spread across the entire strait's waters and coastline. While independent verification of the six claimed sinkings remains absent, Oman's National Committee for Emergency Management convened Monday to address a stranded tanker off Al Qibliya Island and establish coastal marine pollution containment protocols. [1] , [2] , [3]\n\n• The Socotra Boarding Approach & Bab el-Mandeb Consolidation: Concurrent with Houthi broadcasts claiming full control of the Bab el-Mandeb Strait following the retreat of Yemeni pro-government forces past Kharaz toward Aden, maritime security threats extended deep into the Indian Ocean. At 03:30 UTC on Monday, a tanker operating 430 nautical miles east of Socotra reported being approached by a suspected mother ship and a skiff carrying four armed men equipped with a boarding ladder. Meanwhile, Houthi spokesmen claimed missile launches against Saudi forces in Jazan, Riyadh's King Khalid International Airport, and a pumping station on Saudi Arabia's East-West Pipeline—a critical bypass artery for Gulf crude. [1] , [2] , [3]\n\n• Preemptive Strike Warnings & Three-Carrier Posture: Speaking at the 30th Economic Cooperation Organization ministerial meeting in Islamabad, Iranian Foreign Minister Abbas Araghchi accused Washington of using the naval blockade to violate international law, while a senior Tehran official warned Iran \"will not wait for the US to attack first\" following the arrival of the USS Theodore Roosevelt strike group alongside the USS George H.W. Bush and USS George Washington. [1] , [2] , [3]\n\n📊 Global Capacity & Freight Index Realignment\n\n• The ClarkSea Index Pullback vs. Structural Floor: According to Clarksons Research Weekly Shipping Highlights, the cross-segment ClarkSea Index fell 14% over the past week to $55,298/day, extending a moderate cool-down from recent all-time peaks. Despite the sequential pullback, the benchmark remains 77% higher year-to-date and 95% above its 10-year trend, keeping a firm freight-cost floor beneath Brent ($95.89/bbl) and WTI ($88.65/bbl) as total Hormuz transits sit 65% below pre-war levels. [1] , [2] , [3]\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Expand Citadel & Armed-Guard Protocols Beyond Bab el-Mandeb: Maritime security managers routing vessels through the Arabian Sea must extend high-alert anti-boarding watches well east of the Horn of Africa. Monday's armed skiff and mother-ship approach 430 nautical miles east of Socotra demonstrates active maritime interdiction threats far outside the immediate Red Sea corridor. [1] , [2]\n\n• 📊 Hedge Saudi East-West Pipeline & Yanbu Terminal Disruptions: Energy procurement desks relying on Saudi Arabia's Red Sea export outlets must review force majeure and alternative lifting contingencies. With Houthi forces consolidating control over Bab el-Mandeb and claiming strikes on an East-West Pipeline pumping station, Saudi Arabia's primary Hormuz-bypass route faces heightened operational vulnerability. [1] , [2] , [3]\n\n• ➡️ Capture Medium-Term Charter Windows During the ClarkSea Softening: Freight and logistics desks should utilize the 14% weekly dip in the ClarkSea Index ($55,298/day) to lock in multi-quarter time charters. With three U.S. aircraft carriers in theater and Iran warning of preemptive action, current rate softness offers a narrow tactical window before potential kinetic escalation drives another vertical spike. [1] , [2] , [3]",
-    "table": [
-      {
-        "indicator": "Chokepoint Security",
-        "signal_level": "HIGH",
-        "signal_label": "High Risk / Strike",
-        "detail": "Al Jazeera Live Desk reports IRGC claims of 3 tankers hitting sea mines on Nov 16 (6 claimed since Sunday) and spreading coastal oil pollution; UKMTO logs 139 outbound and 169 inbound transits (-65% vs baseline) and 163 cumulative war incidents."
-      },
-      {
-        "indicator": "Maritime Chokepoints",
-        "signal_level": "HIGH",
-        "signal_label": "High Risk / Veto",
-        "detail": "Il Sole 24 ORE confirms Houthis claiming control over the Bab el-Mandeb Strait after Yemeni forces withdrew to defend Aden; UKMTO logs a mother ship and armed skiff with boarding ladder approaching a tanker 430nm east of Socotra at 03:30 UTC."
-      },
-      {
-        "indicator": "Military Threats",
-        "signal_level": "HIGH",
-        "signal_label": "High Risk / Strike",
-        "detail": "Daily Sabah reports Foreign Minister Abbas Araghchi warning in Islamabad against U.S. economic blockade pressure as the USS Theodore Roosevelt joins two other U.S. carriers in theater; Houthis claim missile strikes on Jazan, Riyadh airport, and Saudi's East-West Pipeline."
-      },
-      {
-        "indicator": "Macro-Logistics",
-        "signal_level": "MEDIUM",
-        "signal_label": "Moderate Risk / Adaptive Routing",
-        "detail": "Clarksons Research records the ClarkSea Index softening 14% week-on-week to $55,298/day (+77% YTD; +95% vs 10-year trend), while Oman's National Committee for Emergency Management convenes over a stranded tanker off Al Qibliya Island."
       }
     ]
   }

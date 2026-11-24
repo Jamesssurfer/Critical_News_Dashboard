@@ -1,6 +1,40 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-11-16T19:35:00+00:00",
+      "category": "Geopolitical",
+      "title": "Iran's Islamic Revolutionary Guard Corps (IRGC) claims three oil tankers detonated naval mines and exploded in the southern Strait of Hormuz on Monday—bringing alleged chokepoint vessel fires to six…",
+      "impact_level": "HIGH",
+      "summary": "Market read: Oil bullish / XAU long.",
+      "details": "Iran's Islamic Revolutionary Guard Corps (IRGC) claims three oil tankers detonated naval mines and exploded in the southern Strait of Hormuz on Monday—bringing alleged chokepoint vessel fires to six since Sunday—while explicitly warning for the first time of widespread marine pollution across regional waters. Simultaneously, UKMTO logged an armed skiff approach 430 nautical miles east of Yemen's Socotra Island as Houthi forces formally claimed control over the Bab el-Mandeb Strait following the withdrawal of pro-government troops toward Aden. While Brent crude edges higher to $95.89/bbl amid the arrival of the third U.S. aircraft carrier strike group (USS Theodore Roosevelt), weekly data from Clarksons Research shows the cross-sector ClarkSea Index softening a further 14% to $55,298/day even as rates hold at double the 10-year average.\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil & Chokepoint Risk\n\n• The Environmental Weaponization & Mine Claims: In a significant rhetorical shift on Monday, November 16, the IRGC reported that three oil tankers collided with naval mines in the southern Strait of Hormuz—claiming six tankers have burned and begun sinking since Sunday—and explicitly highlighted that resulting oil pollution has spread across the entire strait's waters and coastline. While independent verification of the six claimed sinkings remains absent, Oman's National Committee for Emergency Management convened Monday to address a stranded tanker off Al Qibliya Island and establish coastal marine pollution containment protocols. [1] , [2] , [3]\n\n• The Socotra Boarding Approach & Bab el-Mandeb Consolidation: Concurrent with Houthi broadcasts claiming full control of the Bab el-Mandeb Strait following the retreat of Yemeni pro-government forces past Kharaz toward Aden, maritime security threats extended deep into the Indian Ocean. At 03:30 UTC on Monday, a tanker operating 430 nautical miles east of Socotra reported being approached by a suspected mother ship and a skiff carrying four armed men equipped with a boarding ladder. Meanwhile, Houthi spokesmen claimed missile launches against Saudi forces in Jazan, Riyadh's King Khalid International Airport, and a pumping station on Saudi Arabia's East-West Pipeline—a critical bypass artery for Gulf crude. [1] , [2] , [3]\n\n• Preemptive Strike Warnings & Three-Carrier Posture: Speaking at the 30th Economic Cooperation Organization ministerial meeting in Islamabad, Iranian Foreign Minister Abbas Araghchi accused Washington of using the naval blockade to violate international law, while a senior Tehran official warned Iran \"will not wait for the US to attack first\" following the arrival of the USS Theodore Roosevelt strike group alongside the USS George H.W. Bush and USS George Washington. [1] , [2] , [3]\n\n📊 Global Capacity & Freight Index Realignment\n\n• The ClarkSea Index Pullback vs. Structural Floor: According to Clarksons Research Weekly Shipping Highlights, the cross-segment ClarkSea Index fell 14% over the past week to $55,298/day, extending a moderate cool-down from recent all-time peaks. Despite the sequential pullback, the benchmark remains 77% higher year-to-date and 95% above its 10-year trend, keeping a firm freight-cost floor beneath Brent ($95.89/bbl) and WTI ($88.65/bbl) as total Hormuz transits sit 65% below pre-war levels. [1] , [2] , [3]\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Expand Citadel & Armed-Guard Protocols Beyond Bab el-Mandeb: Maritime security managers routing vessels through the Arabian Sea must extend high-alert anti-boarding watches well east of the Horn of Africa. Monday's armed skiff and mother-ship approach 430 nautical miles east of Socotra demonstrates active maritime interdiction threats far outside the immediate Red Sea corridor. [1] , [2]\n\n• 📊 Hedge Saudi East-West Pipeline & Yanbu Terminal Disruptions: Energy procurement desks relying on Saudi Arabia's Red Sea export outlets must review force majeure and alternative lifting contingencies. With Houthi forces consolidating control over Bab el-Mandeb and claiming strikes on an East-West Pipeline pumping station, Saudi Arabia's primary Hormuz-bypass route faces heightened operational vulnerability. [1] , [2] , [3]\n\n• ➡️ Capture Medium-Term Charter Windows During the ClarkSea Softening: Freight and logistics desks should utilize the 14% weekly dip in the ClarkSea Index ($55,298/day) to lock in multi-quarter time charters. With three U.S. aircraft carriers in theater and Iran warning of preemptive action, current rate softness offers a narrow tactical window before potential kinetic escalation drives another vertical spike. [1] , [2] , [3]",
+      "table": [
+        {
+          "indicator": "Chokepoint Security",
+          "signal_level": "HIGH",
+          "signal_label": "High Risk / Strike",
+          "detail": "Al Jazeera Live Desk reports IRGC claims of 3 tankers hitting sea mines on Nov 16 (6 claimed since Sunday) and spreading coastal oil pollution; UKMTO logs 139 outbound and 169 inbound transits (-65% vs baseline) and 163 cumulative war incidents."
+        },
+        {
+          "indicator": "Maritime Chokepoints",
+          "signal_level": "HIGH",
+          "signal_label": "High Risk / Veto",
+          "detail": "Il Sole 24 ORE confirms Houthis claiming control over the Bab el-Mandeb Strait after Yemeni forces withdrew to defend Aden; UKMTO logs a mother ship and armed skiff with boarding ladder approaching a tanker 430nm east of Socotra at 03:30 UTC."
+        },
+        {
+          "indicator": "Military Threats",
+          "signal_level": "HIGH",
+          "signal_label": "High Risk / Strike",
+          "detail": "Daily Sabah reports Foreign Minister Abbas Araghchi warning in Islamabad against U.S. economic blockade pressure as the USS Theodore Roosevelt joins two other U.S. carriers in theater; Houthis claim missile strikes on Jazan, Riyadh airport, and Saudi's East-West Pipeline."
+        },
+        {
+          "indicator": "Macro-Logistics",
+          "signal_level": "MEDIUM",
+          "signal_label": "Moderate Risk / Adaptive Routing",
+          "detail": "Clarksons Research records the ClarkSea Index softening 14% week-on-week to $55,298/day (+77% YTD; +95% vs 10-year trend), while Oman's National Committee for Emergency Management convenes over a stranded tanker off Al Qibliya Island."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-11-16T13:06:00+00:00",
       "category": "Geopolitical",
       "title": "Iran's Islamic Revolutionary Guard Corps (IRGC) claims two oil tankers detonated naval mines in the southern Strait of Hormuz—including a supertanker carrying over 2 million barrels of crude that…",
@@ -439,7 +473,9 @@
           "detail": "China's Ministry of Transport extends the suspension of special port fees on U.S.-linked vessels, lowering near-term regulatory friction for transpacific cargo traders."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-11-10T01:31:00+00:00",
       "category": "Geopolitical",
@@ -501,9 +537,7 @@
           "detail": "IMO Council issues formal international condemnation against ongoing Houthi shipping interdictions across the Bab al-Mandeb and Red Sea lifelines."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-11-09T15:42:00+00:00",
       "category": "Geopolitical",
@@ -1535,7 +1569,9 @@
           "detail": "Diplomatic wires confirm both nations have aggressively ironed out final legal text discrepancies on intellectual property and goods access, positioning the pact for full conclusion ahead of the year-end deadline."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-10-24T21:02:00+00:00",
       "category": "Geopolitical",
@@ -1563,9 +1599,7 @@
           "detail": "Following Round 5 in Ottawa, Canada and India establish technical frameworks to lower cross-border tariffs, targeting an incremental [GDP expansion up to $6.5 billion by the end of 2026."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-10-24T11:28:00+00:00",
       "category": "Geopolitical",
@@ -7821,7 +7855,9 @@
       "impact_level": "HIGH",
       "summary": "Market read: XAU long catalyst.",
       "details": "The United States has initiated a significant shift in its West Asian strategy, prioritizing economic and energy infrastructure over direct military presence to integrate the region. Managed by U.S. Special Representative Tom Barak, who simultaneously serves as Ambassador to Turkey, this strategy consolidates the management of Iraq, Syria, and Turkey to facilitate regional integration. The aggressive maneuvering aims to secure a larger foothold in one of the world's cheapest remaining oil resource bases while actively squeezing out Moscow and Beijing. [1, 2, 3]\n\n📉 Strategic Impact Breakdown & Risk Analysis\n\n🗺️ Risk Matrix & Operational Intelligence## 🛢️ The Tri-Axis Energy Integration Strategy\n\nThe U.S. economic offensive across the Fertile Crescent relies heavily on integrating infrastructure across three primary nations: [3]\n\n* Iraq Hub: Baghdad has committed to disarming non-governmental armed groups following high-level meetings between Prime Minister Ali al-Zaidi and Tom Barak. Operationally, the U.S. is moving aggressively into Iraq's oil sector as Baghdad targets a production surge to 8–10 million barrels per day within six years. ConocoPhillips is taking a massive 42% stake in BP's Kirkuk venture, while Chevron is advancing plans for the giant West Qurna 2 and Nasiriyah fields. [1, 4]\n\n* Syria Transition: Syrian Energy Minister Muhammad al-Bashir held extensive meetings with U.S. firms in Washington, resulting in key development contracts signed by ConocoPhillips and Novaterra. Concurrently, U.S. firm HKN Energy has expanded its operations across the Kurdistan Region of Iraq, federal Iraq, and northeastern Syria, taking control of fields previously held by the Syrian Democratic Forces (SDF).\n\n* LNG Infrastructure: Excelerate Energy has confirmed a $450 million LNG project at Iraq's Khor Al Zubair port, with operations officially scheduled to commence in the second quarter of 2027.\n\n⚖️ Structural Hurdles & Political Skepticism\n\nDespite the rapid rollout of energy contracts, regional analysts note that the transition remains incomplete and highly vulnerable. The restoration of the 1952-era Kirkuk-Banias pipeline involves investment firm TI Capital, but the physical infrastructure still requires billions of dollars in funding. Furthermore, local Kurdish political actors—specifically the Kurdistan Democratic Party (KDP) and the Patriotic Union of Kurdistan (PUK)—are being leveraged as \"connecting layers\" within this trade framework. However, regional skepticism persists regarding the longevity of Washington's commitments, citing historical precedents like the 2017 Iraqi Kurdistan independence referendum as evidence of shifting U.S. priorities. Security also faces ongoing challenges from the continued regional influence of Iran. [4]"
-    },
+    }
+  ],
+  "past_6_months": [
     {
       "timestamp": "2026-08-26T01:12:00+00:00",
       "category": "Trade War",
@@ -7877,9 +7913,7 @@
       "impact_level": "HIGH",
       "summary": "Market read: XAU long catalyst.",
       "details": "Critical new developments have emerged across your geopolitical tracking corridors. In a bid to defuse intensifying friction in the Levant, Azerbaijani President Ilham Aliyev has stepped in to broker an operational coordination mechanism between Israel and Turkey to actively prevent direct military clashes in Syria. Meanwhile, in the naval theatre, the USS Abraham Lincoln has altered its direct San Diego transit route, redirecting to Thailand for an early September port call after spending a grueling, record-setting 250 uninterrupted days at sea during the U.S.-Iran conflict. [1, 2]\n\n📊 Dashboard Metrics & Operational Signals\n\n🗺️ Intelligence Deep Dive## 🇸🇾 Syria Corridor: The Baku De-escalation Mechanism\n\nFollowing intense Israeli airstrikes targeting the Abu al-Duhur Airbase to block expanding Turkish footprints, Azerbaijani President Ilham Aliyev has launched a direct diplomatic mediation campaign. Because both Israel and Turkey maintain critical strategic and defense-industrial ties with Baku, Azerbaijani officials have established an operational coordination mechanism specifically designed to serve as a back-channel de-confliction filter on Syrian territory. [2]\n\nWhile Israeli Prime Minister Benjamin Netanyahu continues to caution that an unmonitored Turkish presence alters regional security dynamics, Syrian Foreign Minister Asaad al-Shaibani has backed the mediation efforts, claiming the facility is simply being rehabilitated for the sovereign Syrian Air Force rather than serving as a permanent Turkish base. This track runs alongside separate U.S.-mediated de-escalation frameworks established recently in Jordan. [2]\n\n🚢 Naval Theatre: USS Abraham Lincoln Redirects to Thailand\n\nFollowing a highly demanding deployment that exceeded the 206-day COVID-19 pandemic naval record, the USS Abraham Lincoln carrier strike group has officially commenced its homeward transit. However, family communications obtained by USA Today reveal the carrier group will delay its final arrival in San Diego to execute a scheduled port visit in Thailand in early September. [1]\n\nThe carrier was heavily extended past its original May 2026 return date due to intense operational redirection following the outbreak of the U.S.-Iran conflict on February 28, 2026. Severe logistics disruptions occurred after Iranian strikes destroyed the primary U.S. Naval Support Activity base in Bahrain, forcing the carrier group to rely on resupply lines running out of Diego Garcia, 2,200 miles away. While the Pentagon dismissed reports of a broad operational crisis, Democratic lawmakers continue to press for formal congressional hearings to investigate the extended strains placed on the carrier's 5,000 service members. [3]"
-    }
-  ],
-  "past_6_months": [
+    },
     {
       "timestamp": "2026-08-25T16:42:00+00:00",
       "category": "Trade War",
