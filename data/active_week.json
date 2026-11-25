@@ -582,39 +582,5 @@
         "detail": "Al Jazeera and Channel NewsAsia report Carney touting >50 critical minerals agreements across 15+ nations and renewed Canada-China central bank currency swaps at APEC in Shenzhen."
       }
     ]
-  },
-  {
-    "timestamp": "2026-11-18T06:55:00+00:00",
-    "category": "Geopolitical",
-    "title": "Iranian Foreign Minister Abbas Araghchi and Omani Foreign Minister Sayyid Badr Albusaidi convened emergency bilateral talks in Muscat to address maritime security and revive mediation channels…",
-    "impact_level": "HIGH",
-    "summary": "Market read: Oil bullish / XAU long.",
-    "details": "Iranian Foreign Minister Abbas Araghchi and Omani Foreign Minister Sayyid Badr Albusaidi convened emergency bilateral talks in Muscat to address maritime security and revive mediation channels following a sharp surge in Strait of Hormuz tanker strikes, including the rocket-propelled blaze aboard the Panama-flagged LPG carrier Tara Gas. Simultaneously, U.S. President Donald Trump is en route to China for high-stakes bilateral talks with President Xi Jinping and a scheduled trilateral summit with Russian President Vladimir Putin in Shenzhen on Thursday, November 19. While diplomatic backchannels mobilize across Muscat and Shenzhen, Tehran's top negotiator explicitly declared that the 1982 UN Convention on the Law of the Sea no longer applies to Hormuz, locking in permanent sovereign transit restrictions alongside Canada's newly expanded Indo-Pacific trade architecture.\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil & Chokepoint Risk\n\n• Muscat Mediation & Rejection of UNCLOS: On November 17, Iranian Foreign Minister Abbas Araghchi met Omani counterpart Sayyid Badr Albusaidi in Muscat to examine maritime corridor security and revive indirect diplomatic channels with Washington. However, Iranian Parliament Speaker and lead negotiator Mohammad Bagher Ghalibaf warned that Strait of Hormuz transit rules will never return to pre-war norms, asserting that the 1982 UN Convention on the Law of the Sea (UNCLOS) is inapplicable and that navigation is strictly governed by littoral state law.\n\n• The Tara Gas Aftermath & Kharg Island STS Workarounds: India's Foreign Ministry confirmed that 21 crew members were evacuated from the rocket-struck Panama-flagged LPG carrier Tara Gas off Khasab, with two hospitalized and one seafarer remaining missing. Simultaneously, UANI Satellite Intelligence tracked 55 tankers loaded with Iranian crude and petrochemicals bottlenecked under the U.S. naval blockade, capturing the feeder tanker OLYM (IMO 9212759) executing a ship-to-ship (STS) transfer of roughly 1 million barrels of crude south of Kharg Island on November 17.\n\n• Bab el-Mandeb Triangle & Arabian Sea AIS Spoofing: Following the withdrawal of Yemeni government forces from Dhubab on November 15, Houthi units have consolidated control over the strategic Aden–Bab el-Mandeb–Lahij triangle—threatening Aden's coastal supply lines despite 72 Saudi-led airstrikes in a 24-hour span. Further east, satellite monitors flagged the falsely flagged container ship FLEXI 2 (IMO 9246322) transiting into India's Gulf of Kutch on November 17 while broadcasting the stolen identity of NARITA (IMO 9197727).\n\n🇨🇦 Trade Friction & Sovereign Re-shaping\n\n• The Shenzhen APEC Summit & Canada's Dual-Track Pivot: Ahead of Thursday's Shenzhen summit uniting U.S. President Donald Trump, Chinese President Xi Jinping, and Russian President Vladimir Putin, Prime Minister Mark Carney expanded Ottawa's sovereign de-risking architecture. Beyond securing C$400 million (US$280 million) in Chinese tariff relief for frozen pork (C$116M) and seafood (C$285M), Canada extended two-year tariff remissions on Chinese steel and aluminum while adding 32 specific tariff items where domestic supply falls short—building directly on Ottawa's newly concluded bilateral free-trade pact with the Philippines and ongoing ASEAN negotiations.\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Price In Permanent Littoral Regulatory Friction in Hormuz: Maritime legal divisions and energy charterers must update long-term risk models to account for Tehran's formal repudiation of UNCLOS transit rights. Even if Muscat-mediated talks yield a tactical ceasefire, littoral inspection and toll regimes will remain a permanent operational cost.\n\n• 📊 Monitor Thursday's Shenzhen Trilateral Summit for Rapid Tariff & Sanctions Reversals: Portfolio desks and commodity traders should maintain tight volatility hedges ahead of November 19. High-level talks between Trump, Xi, and Putin in Shenzhen carry the potential to abruptly alter U.S.-China tariff ceilings, Russian energy enforcement, and secondary sanctions on Iranian oil buyers.\n\n• ➡️ Capture Added Canadian Steel/Aluminum Tariff Remissions & Audit Kutch Calls: Industrial procurement teams in Canada should immediately cross-reference the 32 newly added steel and aluminum tariff items eligible for two-year duty remission, while port compliance teams in Gujarat enforce physical IMO hull checks to screen out identity-spoofing vessels like FLEXI 2/NARITA.\n\nWould you like me to pull the specific list of 32 steel and aluminum tariff items added to Canada's remission schedule, or track live diplomatic readouts from Thursday's Shenzhen summit between Trump, Xi, and Putin?",
-    "table": [
-      {
-        "indicator": "Chokepoint Security",
-        "signal_level": "HIGH",
-        "signal_label": "High Risk / Strike",
-        "detail": "Oilprice.com and The National confirm Iranian-Omani emergency talks after a rocket hit the Tara Gas off Khasab (21 evacuated, 2 hospitalized, 1 missing); Speaker Ghalibaf declares UNCLOS void in Hormuz."
-      },
-      {
-        "indicator": "Maritime Chokepoints",
-        "signal_level": "HIGH",
-        "signal_label": "High Risk / Veto",
-        "detail": "UANI Tracking logs 55 tankers laden with Iranian oil/petrochemicals anchored under blockade and active STS transfers off Kharg Island (OLYM), while House of Saud confirms Houthi consolidation across the Aden–Bab el-Mandeb–Lahij triangle."
-      },
-      {
-        "indicator": "Macro-Logistics",
-        "signal_level": "MEDIUM",
-        "signal_label": "Moderate Risk / Adaptive Routing",
-        "detail": "Clarksons Research reports Hormuz crude flows steady at ~9m bpd as tanker earnings soften further against a record $220B global bunker bill (290mt market); UANI detects FLEXI 2 spoofing NARITA (IMO 9197727) entering India's Gulf of Kutch."
-      },
-      {
-        "indicator": "Sovereign De-Risking",
-        "signal_level": "MEDIUM",
-        "signal_label": "Moderate Risk / Escort",
-        "detail": "The Daily Star / AFP and Tasnim confirm Canada added 32 steel/aluminum tariff items to its 2-year remission extension alongside C$400M in Chinese pork/seafood relief, following Ottawa's newly concluded Philippines FTA."
-      }
-    ]
   }
 ]
