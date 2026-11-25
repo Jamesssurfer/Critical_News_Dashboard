@@ -1,5 +1,39 @@
 [
   {
+    "timestamp": "2026-11-25T06:16:00+00:00",
+    "category": "Geopolitical",
+    "title": "Three Sinokor Maritime VLCCs—Bahrain Prosperity, Cameroon Prosperity, and Romania Prosperity—were identified among the vessels targeted in the latest Strait of Hormuz strikes as the IRGC Navy claimed…",
+    "impact_level": "HIGH",
+    "summary": "Market read: Oil bullish / XAU long.",
+    "details": "Three Sinokor Maritime VLCCs—Bahrain Prosperity, Cameroon Prosperity, and Romania Prosperity—were identified among the vessels targeted in the latest Strait of Hormuz strikes as the IRGC Navy claimed three oil tankers hit naval mines while operating under U.S. military air cover and escort. Simultaneously, daily container freight data from the Xeneta Shipping Index (XSI®-C) shows Far East-to-North Europe spot rates ticking up 0.50% to $3,400/FEU while Far East-to-Mediterranean rates surged 6.8% over the week as container ship transits through the Bab el-Mandeb corridor dropped 28% from late-October peaks. While U.S.-facilitated dark transits through southern Hormuz surged to 38.0 vessels/day (114 crossings across November 19–21), Iranian authorities warned shipowners that U.S. military escort does not substitute for Tehran's traffic control clearance.\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil & Chokepoint Risk\n\n• Sinokor VLCC Targeting & IRGC Mine-Under-Escort Claims: According to The Insight International, the IRGC Navy declared that three oil tankers—one off the southern coast and two east of the strait—detonated naval mines while operating under extensive U.S. military air cover and escort, explicitly warning shipping companies that U.S. protection cannot replace clearance from Iran's traffic control center. Maritime security intelligence published by Riviera Maritime Media identified the three vessels struck on November 23 as Sinokor Maritime's VLCCs Bahrain Prosperity, Cameroon Prosperity, and Romania Prosperity—all listed on Tehran's expanded 240-vessel Persian Gulf Strait Authority (PGSA) non-compliance registry—while Iran's regular army separately claimed to down a U.S. LUCAS one-way attack drone east of Hormuz.\n\n• Blockade-Break Narrative Debunked & Port Klang Infiltration: Satellite monitoring by United Against Nuclear Iran (UANI) refuted Iranian state claims that a convoy of up to 14 laden tankers is actively challenging the U.S. blockade, confirming that 57 laden Iranian tankers remain clustered in domestic coastal anchorages while U.S.-facilitated southern-corridor transits accelerated to 38.0 vessels/day (114 crossings across November 19–21). However, UANI verified that the sanctioned Iran-flagged container vessel RAMA 3 (IMO 9303754) successfully evaded detection using multiple false AIS identities after departing Bandar Abbas on November 12, anchoring at Malaysia's Port Klang on November 24.\n\n📊 Global Capacity & Freight Index Realignment\n\n• Mediterranean Spot Rate Divergence & Bab el-Mandeb Retreat: Data from the Xeneta Shipping Index (XSI®-C) and Xeneta's Market Update reveal a sharp regional split in container pricing. While Far East-to-North Europe short-term FAK rates edged up 0.50% on the latest daily reading to $3,400/FEU (still down 2.80% week-on-week and 8.23% over 30 days), Far East-to-Mediterranean spot rates climbed 6.8% over the past week—widening the Mediterranean-over-North-Europe premium to $1,551/FEU. Xeneta Chief Analyst Peter Sand attributes the spike to carriers stalling their Red Sea return, with seven-day rolling container ship transits through the Bab el-Mandeb Strait falling 28% from a late-October peak of 16.6 vessels/day down to 11.9 vessels/day.\n\n🌐 Trade Friction & Sovereign Re-shaping\n\n• GCC Market Contagion & Diplomatic Stalemate: Regional financial markets absorbed immediate spillover from the widening Bahrain and Hormuz strikes, with benchmark equity indices dropping 1.7% in Saudi Arabia and 1.5% in Qatar (A47 News). Simultaneously, Qatari mediation between Washington and Tehran remains deadlocked over U.S. port blockades and frozen Iranian assets, even as Qatari Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani engages U.S. Secretary of State Marco Rubio in Washington during the eighth Qatar–U.S. Strategic Dialogue.\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Screen Out All 240 Vessels on Iran's Expanded PGSA Blacklist: Chartering desks and marine underwriters must cross-check candidate tankers against Tehran's expanded 240-vessel PGSA non-compliance list immediately; Monday's triple hit on Sinokor's Bahrain Prosperity, Cameroon Prosperity, and Romania Prosperity proves U.S. air cover does not insulate PGSA-listed hulls from precision strikes.\n\n• 📊 Hedge Mediterranean Container Surcharges & Extended Transit Times: Supply chain logistics managers moving cargo from Asia into the Mediterranean must budget for widening rate spreads (+$1,551/FEU over North Europe) as Bab el-Mandeb container transits contract by 28%.\n\n• ➡️ Enforce Visual IMO Checks at Port Klang & Monitor GCC Equity Volatility: Port agents and trade compliance teams in Malaysia must conduct physical hull verification on incoming feeders following the clandestine arrival of RAMA 3, while portfolio desks hedge regional GCC equity exposure amid stalled Qatari mediation.",
+    "table": [
+      {
+        "indicator": "Chokepoint Security",
+        "signal_level": "HIGH",
+        "signal_label": "High Risk / Strike",
+        "detail": "The Insight International logs IRGC claims of 3 tankers hitting mines under U.S. air escort plus the downing of a U.S. LUCAS drone; Riviera Maritime Media identifies PGSA-blacklisted Sinokor VLCCs Bahrain Prosperity, Cameroon Prosperity, and Romania Prosperity among attacked hulls."
+      },
+      {
+        "indicator": "Maritime Chokepoints",
+        "signal_level": "HIGH",
+        "signal_label": "High Risk / Veto",
+        "detail": "UANI Tracking confirms 141 IMO-verified incidents and 25 seafarer deaths alongside 57 laden Iranian tankers anchored coastside (debunking Tehran's 14-tanker blockade-break claim), while the Iran-flagged container ship RAMA 3 anchored at Port Klang after spoofing AIS."
+      },
+      {
+        "indicator": "Macro-Logistics",
+        "signal_level": "MEDIUM",
+        "signal_label": "Moderate Risk / Adaptive Routing",
+        "detail": "Xeneta Shipping Index (XSI®-C) records Far East–North Europe rates ticking up 0.50% daily to $3,400/FEU (down 2.80% WoW), while Xeneta Weekly Update logs Far East–Mediterranean rates jumping 6.8% (a $1,551/FEU spread over North Europe) as Bab el-Mandeb container transits fall 28% to 11.9/day."
+      },
+      {
+        "indicator": "Sovereign & Diplomatic Friction",
+        "signal_level": "MEDIUM",
+        "signal_label": "Moderate Risk / Escort",
+        "detail": "A47 News logs benchmark equity declines of 1.7% in Saudi Arabia and 1.5% in Qatar as Qatari mediation remains deadlocked over naval blockades and frozen assets, alongside ongoing U.S.–Qatar Strategic Dialogue talks in Washington."
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-24T23:23:00+00:00",
     "category": "Geopolitical",
     "title": "The UK Maritime Trade Operations (UKMTO) confirmed on Tuesday that three commercial vessels transiting east through the Strait of Hormuz were struck by unidentified projectiles on Monday…",
