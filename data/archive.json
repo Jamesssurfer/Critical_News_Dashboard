@@ -1,6 +1,68 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-11-17T23:33:00+00:00",
+      "category": "Geopolitical",
+      "title": "The Panama-flagged LPG tanker Tara Gas sustained two consecutive kinetic strikes seven nautical miles north of Khasab, Oman, sparking onboard fires and leaving one seafarer unaccounted for following…",
+      "impact_level": "HIGH",
+      "summary": "Market read: Oil bullish / XAU long.",
+      "details": "The Panama-flagged LPG tanker Tara Gas sustained two consecutive kinetic strikes seven nautical miles north of Khasab, Oman, sparking onboard fires and leaving one seafarer unaccounted for following an initial rescue report. Simultaneously, Washington has issued an immediate threat of 100% tariffs on all Canadian goods in direct retaliation for Prime Minister Mark Carney and President Xi Jinping expanding their bilateral trade pact in Shenzhen—an agreement that also activates a bilateral central bank currency swap and Panda bond issuance. With Brent crude rebounding 1.7% to $94.01/bbl on renewed Gulf gas-carrier attrition and North American trade friction threatening sudden 100% duty barriers, global energy and industrial supply chains face acute overlapping shocks.\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil & Chokepoint Risk\n\n• The Tara Gas Double-Strike & Escalating Gas Carrier Attrition: Under UKMTO Warning 208-26 (Update 001), the Panama-flagged LPG carrier Tara Gas was struck roughly seven nautical miles north of Khasab, Oman, disabling the vessel and igniting an engine-room fire before sustaining a second hit that sparked a secondary blaze. While India's Shipping Ministry initially reported all 25 crew safe, UKMTO's Tuesday follow-up confirmed one seafarer remains unaccounted for amid ongoing search-and-rescue operations, pushing Brent crude back up 1.7% to $94.01/bbl.\n\n• Bab el-Mandeb Air-Ground Escalation: Following the retreat of Saudi-backed Southern Armed Forces from Dhubab to reinforce Aden, Yemeni government forces escalated \"Operation Yemen Dawn\" with 900 strike operations within 24 hours against Houthi positions. Despite heavy aerial bombardment, Houthi forces retain physical control over the Bab el-Mandeb coastline and Perim Island, maintaining direct interdiction leverage over Red Sea commercial corridors.\n\n🇨🇦 Trade Friction & Sovereign Re-shaping\n\n• Washington's 100% Tariff Threat Over the Shenzhen Accord: Immediately following Prime Minister Carney and President Xi's announcement in Shenzhen—which removes a 25% Chinese tariff on C$400 million in Canadian pork, cold-water shrimp, Greenland halibut, and sea cucumber while extending Canadian steel and aluminum remissions through late 2028—President Trump threatened 100% tariffs on Canadian goods over the deepening bilateral accord.\n\n• Monetary Decoupling & Chinese EV Quota Expansion: Beyond tariff adjustments, China's Finance Ministry confirmed that Beijing and Ottawa are activating a bilateral local currency swap agreement and opening Chinese onshore markets for qualified Canadian institutions to issue yuan-denominated Panda bonds. Simultaneously, Chinese automakers BYD, Geely, and Chery are accelerating Canadian market entry under Ottawa's 6.1% EV tariff quota—which has already seen 16,211 Chinese EVs imported since March and scales from 49,000 to 70,000 vehicles annually over five years—further inflaming U.S. automotive trade friction.\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Hedge Cross-Border North American Supply Chains Against 100% Tariff Shock: Corporate trade compliance teams and portfolio desks with U.S.-Canada manufacturing exposure must immediately model scenarios for a sudden 100% U.S. tariff trigger. Front-run cross-border inventory transfers and review contractual tariff-pass-through clauses ahead of upcoming APEC bilateral meetings.\n\n• 📊 Upgrade Gas-Carrier War-Risk & Escort Protocols Near Khasab: LNG and LPG charterers transiting the Strait of Hormuz must enforce heightened multi-hit damage control and citadel readiness. The double-strike on the Tara Gas seven nautical miles off Khasab demonstrates that disabled vessels remain exposed to follow-on strikes while awaiting salvage.\n\n• ➡️ Evaluate Yuan-Denominated Trade Settlement & Panda Bond Liquidity: Treasury desks operating across Asia-Pacific corridors should assess the newly activated Canada-China local currency swap framework to reduce USD clearing friction and hedge against North American trade volatility.",
+      "table": [
+        {
+          "indicator": "Chokepoint Security",
+          "signal_level": "HIGH",
+          "signal_label": "High Risk / Strike",
+          "detail": "SAFETY4SEA and Oil & Gas Middle East confirm the LPG tanker Tara Gas hit twice 7nm north of Khasab (19:00 UTC Nov 16), leaving 1 crew missing; UKMTO logs 7 attacks since Nov 10 while Iran claims a 4th tanker hit a mine in 24 hours."
+        },
+        {
+          "indicator": "Bilateral Trade Realignment",
+          "signal_level": "HIGH",
+          "signal_label": "High Risk / Veto",
+          "detail": "France 24 reports President Trump threatening 100% tariffs on Canadian goods over Ottawa's expanded China trade pact; CNA confirms C$400M (US$280M) in new Chinese tariff relief alongside a bilateral local currency swap and Panda bond access."
+        },
+        {
+          "indicator": "Maritime Chokepoints",
+          "signal_level": "HIGH",
+          "signal_label": "High Risk / Strike",
+          "detail": "Al Jazeera reports Yemeni government forces launching 900 airstrikes in 24 hours under Operation Yemen Dawn as Houthis consolidate control over Bab el-Mandeb and advance toward Aden."
+        },
+        {
+          "indicator": "Macro-Logistics",
+          "signal_level": "MEDIUM",
+          "signal_label": "Moderate Risk / Adaptive Routing",
+          "detail": "Clarksons Research holds the ClarkSea Index at $64,148/day (+77% YTD) with VLCC earnings at $519,000/day and global bunker spend projected at a record $220B; Fujairah VLSFO trades at $860.50/mt (+$4.00) against Singapore at $878.00/mt."
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-11-17T19:28:00+00:00",
+      "category": "Trade War",
+      "title": "Canadian Prime Minister Mark Carney and Chinese President Xi Jinping have formally extended and expanded their bilateral Preliminary Joint Arrangement on trade in Shenzhen ahead of the APEC summit…",
+      "impact_level": "MEDIUM",
+      "summary": "Market read: Oil bullish / XAU long.",
+      "details": "Canadian Prime Minister Mark Carney and Chinese President Xi Jinping have formally extended and expanded their bilateral Preliminary Joint Arrangement on trade in Shenzhen ahead of the APEC summit, unlocking additional Chinese tariff relief for approximately C$400 million (US$280 million) in Canadian agricultural and seafood exports. In exchange, Ottawa agreed to extend existing tariff remission measures on targeted Chinese steel and aluminum products by two years beyond their late-2026 expiration. This agreement restores market access for over 90% of previously tariffed Canadian goods—nearly $7.5 billion in total trade—marking a decisive acceleration in Canada's sovereign de-risking away from U.S. tariff exposure.\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🇨🇦 Trade Friction & Sovereign Re-shaping\n\n• The Shenzhen Tariff Expansion: Meeting on the sidelines of the Asia-Pacific Economic Cooperation (APEC) Economic Leaders' Meeting in Shenzhen on November 17, Prime Minister Mark Carney and President Xi Jinping agreed to expand their Preliminary Joint Arrangement on Addressing Bilateral Economic and Trade Issues. Beijing is lowering duties on roughly C$400 million (US$280 million) in Canadian frozen pork cuts, fish, and seafood—building on prior reductions for canola seed, canola meal, peas, crab, and lobster—to advance Ottawa's target of boosting exports to China by 50% by the end of the decade. [1] , [2]\n\n• Industrial Remissions & Automotive Realignment: To secure agricultural market access and insulate domestic supply chains from U.S. duties of up to 50% on Canadian autos, steel, and aluminum, Ottawa extended existing tariff remissions for specific Chinese steel and aluminum products by two years. Simultaneously, Canadian regulators granted safety approval to a second Chinese automaker committing to import vehicles priced strictly under C$35,000. [1] , [2]\n\n• Institutional & Aviation Connectivity: Both leaders endorsed the Joint Outcomes from the 2nd Canada-China Economic and Financial Strategic Dialogue to deepen regulatory and monetary coordination. Commercial connectivity is also scaling up, highlighted by a new Canada-China CEO Roundtable co-chaired by the Canada-China Business Council and Bank of China, a 2027 Year of e-Commerce for Canadian SMEs, and new Air Canada routes between Vancouver and Guangzhou launching in May 2027. [1]\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Audit Transpacific Customs & Remission Schedules Before Year-End: Corporate trade compliance teams importing Chinese steel and aluminum inputs into Canada should immediately map eligible product codes against Ottawa's two-year remission extension to capture uninterrupted duty relief past the original end-of-2026 expiry. [1]\n\n• 📊 Hedge North American Rules-of-Origin Friction: Portfolio desks and industrial manufacturers exposed to integrated U.S.-Canada automotive and metals supply chains must monitor Washington's response to Ottawa's deepening tariff accommodations and Chinese EV safety approvals, which heighten bilateral friction ahead of future North American trade reviews. [1]\n\n• ➡️ Capture Agricultural Export & Air-Cargo Capacity for 2027: Agri-food exporters and freight forwarders should align Q1–Q2 cold-chain bookings with expanded Chinese tariff relief on pork and seafood, while locking in belly-cargo allocations ahead of Air Canada's May 2027 Vancouver–Guangzhou route expansion. [1] , [2]",
+      "table": [
+        {
+          "indicator": "Bilateral Trade Realignment",
+          "signal_level": "MEDIUM",
+          "signal_label": "Moderate Risk / Adaptive Routing",
+          "detail": "Prime Minister's Office Release and CNA confirm C$400M (US$280M) in new Chinese tariff relief on frozen pork and seafood, restoring access for >90% (~$7.5B) of previously tariffed Canadian exports."
+        },
+        {
+          "indicator": "Sovereign De-Risking",
+          "signal_level": "MEDIUM",
+          "signal_label": "Moderate Risk / Escort",
+          "detail": "The New York Times reports Ottawa extending tariff remissions on select Chinese steel and aluminum by 2 years and granting safety approval to a second Chinese automaker targeting sub-C$35,000 vehicles amid U.S. tariffs of up to 50%."
+        },
+        {
+          "indicator": "Macro-Logistics & Commercial Ties",
+          "signal_level": "MEDIUM",
+          "signal_label": "Moderate Risk / Adaptive Routing",
+          "detail": "Prime Minister's Office Release confirms Air Canada launching new Vancouver–Guangzhou flights in May 2027, alongside a Canada-China CEO Roundtable and a 2027 Year of e-Commerce."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-11-17T04:18:00+00:00",
       "category": "Geopolitical",
       "title": "The Panama-flagged oil tanker ON PHOENIX caught fire three nautical miles off Oman on November 16 after being struck in the engine room by an unknown projectile while exiting the Strait of Hormuz…",
@@ -7683,7 +7745,9 @@
           "detail": "No new tactical maritime blockades, infrastructure shocks, or military movements have altered thresholds across your tracked oil risk corridors over the last 12 hours."
         }
       ]
-    },
+    }
+  ],
+  "past_6_months": [
     {
       "timestamp": "2026-08-27T00:54:00+00:00",
       "category": "Trade War",
@@ -7823,9 +7887,7 @@
           "detail": "Cross-border tariff structures, automotive supply chain friction, and retaliatory timelines along the U.S.-Canada corridor remain unchanged since the previous update."
         }
       ]
-    }
-  ],
-  "past_6_months": [
+    },
     {
       "timestamp": "2026-08-26T15:12:00+00:00",
       "category": "Trade War",
