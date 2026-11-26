@@ -1,6 +1,40 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-11-19T16:19:00+00:00",
+      "category": "Geopolitical",
+      "title": "U.S. President Donald Trump has completed consecutive one-on-one bilateral meetings with Russian President Vladimir Putin and Chinese President Xi Jinping in Shenzhen ahead of their unprecedented…",
+      "impact_level": "HIGH",
+      "summary": "Market read: Oil bullish / XAU long.",
+      "details": "U.S. President Donald Trump has completed consecutive one-on-one bilateral meetings with Russian President Vladimir Putin and Chinese President Xi Jinping in Shenzhen ahead of their unprecedented three-way trilateral summit chaired by Xi on Thursday afternoon. Simultaneously, maritime security risks remain acute across Middle Eastern chokepoints following confirmation that an outbound tanker was hit in its engine room six nautical miles north of Khasab, Oman, on Wednesday evening—marking at least 18 to 19 confirmed commercial ship strikes in November—while weekly Suez Canal container capacity has officially overtaken the Cape of Good Hope route for the first time since December 2023. While Brent crude softens toward $89.95/bbl amid diplomatic optimism in Shenzhen, record global newbuild contracting and ongoing Houthi advances toward Aden keep structural freight and insurance baselines highly reactive.\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🇨🇦 Trade Friction & Sovereign Re-shaping\n\n• The Shenzhen Trilateral Summit & Bilateral Readouts: On Thursday, November 19, U.S. President Donald Trump concluded separate bilateral sit-downs with Russian President Vladimir Putin —a 40-minute session focused primarily on ending the Ukraine war—and Chinese President Xi Jinping at Shenzhen's Kylin Villa, where Xi declared China-U.S. relations \"stable and improved.\" The three leaders are now convening for an unprecedented trilateral summit chaired by Xi on the sidelines of the 33rd APEC Economic Leaders' Meeting to address the U.S.-Iran conflict, Ukraine, strategic nuclear stability, and trade barriers, even as European and Asian capitals express unease over great-power dealmaking.\n\n• Asia-Pacific Infrastructure & AI Policy Divergence: During plenary sessions in Shenzhen, President Xi pledged $20 million to establish a Center for Asia-Pacific Community Studies and reiterated calls to dismantle trade protectionism, while President Putin urged APEC economies to integrate with Russian logistics infrastructure despite sharp criticism from Australian Prime Minister Anthony Albanese over Ukraine. Simultaneously, President Trump opposed rigid artificial intelligence regulation as stifling to growth, signaling divergent regulatory frameworks across major technology corridors.\n\n🛢️ Middle East Oil & Chokepoint Risk\n\n• The Khasab Corridor Attrition & Navig8 Messi Fallout: Under a delayed advisory issued early Thursday, November 19, UKMTO confirmed an outbound tanker was hit in its engine room by an unknown projectile six nautical miles north of Khasab, Oman, at 16:45 UTC Wednesday, with all crew safe. The strike compounds a lethal week in Hormuz following Tuesday's attack on the PGSA-blacklisted ADNOC product tanker Navig8 Messi (leaving one crew member missing and 11 injured) and Monday's double-strike on the LPG carrier Tara Gas (one missing, two injured), alongside Wednesday's Iranian drone launches intercepted by Bahrain and Kuwait after U.S. strikes on Qeshm Island.\n\n• Suez Container Capacity Overtakes the Cape Amid Red Sea Volatility: According to vessel-tracking data cited by Container Management, weekly container capacity transiting the Suez Canal exceeded the Cape of Good Hope route for the first time since December 2023, reinforced by Ocean Network Express (ONE) routing its 8,110-TEU ONE Continuity northbound on the Premier Alliance's FE1 service on November 15 with three more alliance loops slated to follow. However, this rapid capacity shift occurs directly into the teeth of Houthi advances toward Aden following the withdrawal of Yemeni government forces from Bab el-Mandeb coastal positions, leaving returning container loops acutely exposed to insurgent interdiction.\n\n• Shadow Fleet Convergence at Port Said & Record Newbuild Orderbook: UANI Satellite Intelligence tracked multiple Iranian-flagged cargo vessels converging on Mediterranean and Baltic chokepoints on November 19—including ZARDIS and BASHT arriving at Port Said, BEHTA reaching Russia's Bronka Port, NYRA 2 transiting the Dover Strait, and OFAC-sanctioned SHABDIS loitering south of Suez. Meanwhile, Clarksons Research reported that global shipbuilding orders reached 2,859 vessels (79.7 million CGT) through October 2026—matching the 2007 all-time record—as shipowners lock in long-term fleet replacement amid persistent geopolitical rerouting.\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Hedge Against Sudden Sanctions & Tariff Shifts from the Shenzhen Trilateral: Portfolio desks and cross-border compliance teams must monitor immediate post-summit communiqués from the Trump-Xi-Putin trilateral meeting. Any bilateral accommodation on Russian energy sanctions, Iranian blockade enforcement, or U.S.-China tariff ceilings could trigger rapid repricing across crude ($89.95/bbl Brent) and transpacific freight indices.\n\n• 📊 Audit Premier Alliance & Suez-Routed Container Exposure Ahead of Aden Clashes: Supply chain logistics managers utilizing newly restored Suez loops—such as ONE's FE1 and Gemini's ME1—must maintain active contingency routing plans. With Suez container capacity now exceeding Cape tonnage even as Houthi forces advance toward Aden and hold Bab el-Mandeb coastal territory, any renewed Red Sea projectile strike will force abrupt, costly reversals.\n\n• ➡️ Enforce Strict Engine-Room & Citadel Hardening Within 15nm of Khasab: Maritime security managers operating tankers through the Strait of Hormuz must maintain maximum readiness off Oman's Musandam peninsula, where consecutive precision strikes on November 16, 17, and 18 demonstrate sustained coastal targeting of outbound hulls.\n\nWould you like me to pull the official joint communiqué or readouts as soon as the Trump-Xi-Putin trilateral summit concludes in Shenzhen, or run a focused audit on container surcharge adjustments across the returning Suez loops?",
+      "table": [
+        {
+          "indicator": "Chokepoint Security",
+          "signal_level": "HIGH",
+          "signal_label": "High Risk / Strike",
+          "detail": "Splash247 confirms an outbound tanker struck in the engine room 6nm north of Khasab at 16:45 UTC Nov 18 (all crew safe), following hits on ADNOC's Navig8 Messi (1 missing, 11 injured) and LPG carrier Tara Gas (1 missing, 2 injured)."
+        },
+        {
+          "indicator": "Maritime Chokepoints",
+          "signal_level": "HIGH",
+          "signal_label": "High Risk / Veto",
+          "detail": "UANI Tracking logs ~50 Iranian cargo ships operating globally (including SHABDIS loitering south of Suez), while Container Management reports weekly Suez container capacity surpassing the Cape route for the first time since Dec 2023."
+        },
+        {
+          "indicator": "Bilateral Trade Realignment",
+          "signal_level": "MEDIUM",
+          "signal_label": "Moderate Risk / Adaptive Routing",
+          "detail": "Al Jazeera Live Desk and CNBC confirm Trump concluded bilateral talks with Putin (40 mins) and Xi in Shenzhen before their historic trilateral summit on Ukraine, Iran, nuclear arms, and trade."
+        },
+        {
+          "indicator": "Macro-Logistics",
+          "signal_level": "MEDIUM",
+          "signal_label": "Moderate Risk / Adaptive Routing",
+          "detail": "Clarksons Research reports Jan–Oct 2026 global newbuild contracting at a record 2,859 ships (79.7m CGT)—more than double the 10-year average—while Hormuz crude flows hold steady near 9m bpd and Brent eases to $89.95/bbl."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-11-19T10:01:00+00:00",
       "category": "Geopolitical",
       "title": "An unknown projectile struck the engine room of an outbound tanker six nautical miles north of Khasab, Oman, late Wednesday evening—marking the 19th confirmed commercial vessel attack in and around…",
@@ -7259,7 +7293,9 @@
           "detail": "Downstream supply shifts remain acute following the US-Canada tariff breakdown. WTI crude fell to $80.52/bbl on broader macro pressures."
         }
       ]
-    },
+    }
+  ],
+  "past_6_months": [
     {
       "timestamp": "2026-08-28T15:54:00+00:00",
       "category": "Trade War",
@@ -7287,9 +7323,7 @@
           "detail": "U.S. automotive and steel tariff threat layers against Canada remain unchanged; private sector supply adjustments continue on the ground."
         }
       ]
-    }
-  ],
-  "past_6_months": [
+    },
     {
       "timestamp": "2026-08-28T12:01:00+00:00",
       "category": "Trade War",
