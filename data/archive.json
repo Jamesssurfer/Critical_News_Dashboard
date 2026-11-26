@@ -1,6 +1,40 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-11-19T10:01:00+00:00",
+      "category": "Geopolitical",
+      "title": "An unknown projectile struck the engine room of an outbound tanker six nautical miles north of Khasab, Oman, late Wednesday evening—marking the 19th confirmed commercial vessel attack in and around…",
+      "impact_level": "HIGH",
+      "summary": "Market read: Oil bullish / XAU long.",
+      "details": "An unknown projectile struck the engine room of an outbound tanker six nautical miles north of Khasab, Oman, late Wednesday evening—marking the 19th confirmed commercial vessel attack in and around the Strait of Hormuz this month following Tuesday's strike on the PGSA-blacklisted ADNOC tanker Navig8 Messi. Simultaneously, U.S. President Donald Trump , Chinese President Xi Jinping , and Russian President Vladimir Putin have convened in Shenzhen for the 33rd APEC Economic Leaders' Meeting and a historic trilateral summit addressing nuclear arms control, the Iran conflict, and global trade barriers. While U.S. CENTCOM chief Admiral Brad Cooper meets Saudi Crown Prince Mohammed bin Salman in Riyadh amid continuing Houthi missile interceptions and Bab el-Mandeb territorial consolidation, Canadian Prime Minister Mark Carney held direct trade discussions with President Trump in Shenzhen to manage acute bilateral tariff friction.\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil & Chokepoint Risk\n\n• The Khasab Corridor Attrition & Navig8 Messi Confirmation: Under a time-late advisory issued at 02:30 UTC on November 19, UKMTO confirmed an outbound tanker was struck in its engine room by an unknown projectile roughly six nautical miles north of Khasab, Oman, on Wednesday evening, with all crew reported safe. Simultaneously, maritime security firm Vanguard Tech identified the ADNOC Logistics & Services tanker hit 13 nautical miles north of Khasab on November 17 as the Liberian-flagged Navig8 Messi—which has been listed on Iran's Persian Gulf Strait Authority (PGSA) blacklist since August—leaving one crew member missing and 11 injured, while Iran's conventional army claimed three additional tankers detonated naval mines east of the strait.\n\n• Bab el-Mandeb Protracted Conflict & CENTCOM Coordination: Western officials disclosed to Reuters that Saudi Arabia is preparing for active hostilities with Houthi forces to continue for up to six more months into 2027 following the recent retreat of pro-government forces from Yemen's Red Sea coast. As Saudi air defenses intercepted a Houthi ballistic missile and two drones aimed at Riyadh and southern regions—prompting coalition strikes against a missile launcher in Saada—U.S. CENTCOM commander Admiral Brad Cooper arrived in Riyadh on Thursday for emergency defense consultations with Crown Prince Mohammed bin Salman and Defense Minister Prince Khalid bin Salman.\n\n• Blockade Evasion & U.S. Naval Positioning: Satellite intelligence from Institute for National Security Studies (INSS) confirms the bulk of the U.S. naval armada—including three carrier strike groups—remains positioned east of Hormuz in the Arabian Sea alongside two U.S. destroyers in the Red Sea. Meanwhile, UANI Tracking logged the OFAC-sanctioned Iranian container ship SHABDIS loitering south of the Gulf of Suez en route from Shanghai toward Libyan or Russian ports, while NYRA 2 and BEHTA transited northern European waters toward Port Said and Bronka Port.\n\n🇨🇦 Trade Friction & Sovereign Re-shaping\n\n• The Shenzhen Trilateral Summit & U.S.-Canada De-Escalation Talks: On Thursday, November 19, Chinese President Xi Jinping, U.S. President Donald Trump, and Russian President Vladimir Putin convened in Shenzhen for the 33rd APEC Economic Leaders' Meeting and their first-ever trilateral summit focused on global conflict resolution—including the Iran maritime crisis and Ukraine—and nuclear arms control. Crucially for North American supply chains, Canadian officials confirmed that Prime Minister Mark Carney and President Trump held direct trade discussions on the sidelines of the Shenzhen gathering to manage friction following Ottawa's expanded tariff-relief and currency-swap accord with Beijing.\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Enforce Strict Engine-Room & Citadel Hardening Near Khasab: Maritime risk managers routing vessels within 15 nautical miles of Khasab, Oman, must treat the corridor as an active kinetic kill-box. Consecutive engine-room strikes on November 17 (Navig8 Messi) and November 18 confirm precision targeting aimed at immobilizing outbound hulls without immediate sinking.\n\n• 📊 Factor a Six-Month Red Sea & Saudi Infrastructure Risk Floor into 2027 Budgets: Supply chain and energy desks must discard expectations of a near-term Yemen ceasefire. With Saudi defense planners preparing for six more months of Houthi conflict and insurgents holding coastal positions along Bab el-Mandeb, maintain elevated war-risk insurance and Cape rerouting contingencies through Q2 2027.\n\n• ➡️ Track Shenzhen Readouts for Immediate North American Tariff & Sanctions Pivots: Portfolio desks and cross-border compliance teams should monitor Thursday's official statements from the Trump-Carney bilateral and Trump-Xi-Putin trilateral meetings in Shenzhen for sudden adjustments to U.S. tariff threats against Canada or secondary sanctions enforcement on Iranian and Russian maritime networks.\n\nWould you like me to track live diplomatic readouts from today's Trump-Xi-Putin trilateral summit in Shenzhen, or pull updated Clarksons Research tanker rate benchmarks following this week's Khasab strikes?",
+      "table": [
+        {
+          "indicator": "Chokepoint Security",
+          "signal_level": "HIGH",
+          "signal_label": "High Risk / Strike",
+          "detail": "Gulf News reports an outbound tanker hit in the engine room 6nm north of Khasab at 16:45 UTC Nov 18 (all crew safe); Seatrade Maritime identifies the Nov 17 ADNOC vessel as Navig8 Messi (1 missing, 11 injured), lifting November attacks to 19."
+        },
+        {
+          "indicator": "Maritime Chokepoints",
+          "signal_level": "HIGH",
+          "signal_label": "High Risk / Veto",
+          "detail": "CBS News reports Saudi Arabia preparing for Yemen hostilities to run 6 more months into 2027 as Houthis hold Bab el-Mandeb coastal territory; UANI tracks ~50 Iranian cargo ships operating globally, including SHABDIS loitering south of Suez."
+        },
+        {
+          "indicator": "Military Threats",
+          "signal_level": "HIGH",
+          "signal_label": "High Risk / Strike",
+          "detail": "Al Jazeera Live Desk logs Saudi coalition strikes destroying a ballistic missile launcher in Saada after intercepting a ballistic missile and 2 drones over Riyadh and southern Saudi Arabia; CENTCOM chief Adm. Brad Cooper meets Crown Prince MBS in Riyadh."
+        },
+        {
+          "indicator": "Bilateral Trade Realignment",
+          "signal_level": "MEDIUM",
+          "signal_label": "Moderate Risk / Adaptive Routing",
+          "detail": "CNBC and The Standard confirm Trump, Xi, and Putin gathering in Shenzhen on Nov 19 for trilateral talks on Iran, Ukraine, and trade, while Trump and Canadian PM Carney hold bilateral trade talks on the summit sidelines."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-11-18T17:17:00+00:00",
       "category": "Geopolitical",
       "title": "Abu Dhabi state firm ADNOC Logistics & Services confirmed on Wednesday that one of its vessels was struck in the Strait of Hormuz on the evening of November 17, leaving one seafarer missing and 11…",
@@ -429,7 +463,9 @@
           "detail": "The Hindu Trade Wire confirms Round Six India-Canada CEPA negotiations in Visakhapatnam targeting a December signing, linking Canadian LNG expansion and a $2.5B uranium supply pact to India's SHANTI Act."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-11-12T12:43:00+00:00",
       "category": "Geopolitical",
@@ -519,9 +555,7 @@
           "detail": "The Hindu Trade Wire confirms high-level ministerial talks in New Delhi advancing the India-Canada CEPA ahead of Prime Minister Modi's December visit to Ottawa."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-11-11T08:30:00+00:00",
       "category": "Geopolitical",
@@ -1537,7 +1571,9 @@
           "detail": "Following Minister Sidhu's Team Canada mission which unlocked 34 contracts worth $300 million, both sides confirm technical schedules for the New Delhi sixth round."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-10-27T15:37:00+00:00",
       "category": "Geopolitical",
@@ -1621,9 +1657,7 @@
           "detail": "Final technical drafts are cleared ahead of the November 4 ministerial opening in New Delhi. The incoming text legally safeguards cross-border capital nodes against single-market tariff shifts."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-10-26T22:29:00+00:00",
       "category": "Geopolitical",
@@ -7253,7 +7287,9 @@
           "detail": "U.S. automotive and steel tariff threat layers against Canada remain unchanged; private sector supply adjustments continue on the ground."
         }
       ]
-    },
+    }
+  ],
+  "past_6_months": [
     {
       "timestamp": "2026-08-28T12:01:00+00:00",
       "category": "Trade War",
@@ -7365,9 +7401,7 @@
           "detail": "The U.S. Dollar has gained 1.4% since the war began, driven by chronic Japanese Yen weakness. Gold rebounded 15% this month on dollar debasement fears."
         }
       ]
-    }
-  ],
-  "past_6_months": [
+    },
     {
       "timestamp": "2026-08-28T01:13:00+00:00",
       "category": "Trade War",

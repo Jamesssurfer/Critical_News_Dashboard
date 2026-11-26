@@ -1,5 +1,101 @@
 [
   {
+    "timestamp": "2026-11-26T23:49:00+00:00",
+    "category": "Geopolitical",
+    "title": "Two commercial tankers were reported on fire following explosions in the Persian Gulf on Thursday—coinciding with UKMTO confirmation of an outbound tanker struck by an unidentified projectile 18…",
+    "impact_level": "HIGH",
+    "summary": "Market read: Oil bullish / XAU long.",
+    "details": "Two commercial tankers were reported on fire following explosions in the Persian Gulf on Thursday—coinciding with UKMTO confirmation of an outbound tanker struck by an unidentified projectile 18 nautical miles east of Khasab, Oman, as Strait of Hormuz throughput remains depressed at 49% of pre-conflict norms. Simultaneously, ANZ analysts warned that virtually zero spare crude capacity and low global inventories leave energy markets acutely exposed ahead of Sunday's November 29 OPEC+ ministerial meeting, even as Brent futures edged 0.6% lower to $90.00/bbl after climbing nearly 6% over the prior two sessions. While U.S. Vice President JD Vance and Qatari Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani navigate deadlocked regional mediation amid Houthi strikes on Saudi Red Sea ports and Ras Tanura, Indian and Canadian negotiators continue daily sessions to finalize their Comprehensive Economic Partnership Agreement (CEPA) ahead of Prime Minister Narendra Modi's December 11–12 visit to Canada.\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil & Chokepoint Risk\n\n• Thursday Gulf Tanker Fires & Khasab Projectile Strike: On Thursday, November 26, TradeWinds reported two additional crude tankers ablaze following explosions claimed by Iran in the Middle East Gulf, compounding UKMTO's confirmation of an outbound tanker struck by an unidentified projectile 18 nautical miles east of Khasab, Oman (with all crew safe and no environmental discharge). ANZ commodity analysts noted that while Strait of Hormuz transits ticked up slightly last week, overall throughput remains stuck at 49% of normal baselines—leaving global crude markets with low inventories and virtually zero spare capacity ahead of Sunday's November 29 OPEC+ policy meeting (Investing.com).\n\n• Saudi–Houthi Infrastructure Tit-for-Tat & Diplomatic Deadlock: Cross-border strikes across the Red Sea and Persian Gulf continue to threaten critical energy and port infrastructure following Wednesday's Houthi projectile impact at Jazan port and drone intercepts over Jeddah Islamic Port, Riyadh, and the Ras Tanura refinery—launched in retaliation for coalition airstrikes on Hodeidah port, which handles 90% of Yemen's imports (Al Jazeera). Meanwhile, high-level talks in Washington between U.S. Vice President JD Vance and Qatari Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani underscored persistent diplomatic gridlock, as Tehran insists on lifting the U.S. naval blockade, easing sanctions, and unfreezing assets before relaxing Hormuz transit controls.\n\n📊 Global Capacity & Freight Index Realignment\n\n• U.S. Crude Export Compression & Clarksons Capacity Floor: Data from the U.S. Energy Information Administration cited by Investing.com shows U.S. crude inventories posted a third consecutive weekly build (+1.1 million barrels) as elevated global freight costs and softer Asian buying pushed U.S. crude exports to their lowest pace since early August. Concurrently, Clarksons Research and the Clarksons World Fleet Register hold the cross-segment ClarkSea Index at $56,182/day (+77% YoY) against a record >$220 billion global bunker bill and 2,859 Jan–Oct newbuild orders (79.7 million CGT).\n\n🇨🇦 Trade Friction & Sovereign Re-shaping\n\n• India–Canada CEPA December Sprint: Following the November 11–20 conclusion of Round Six negotiations in New Delhi across goods, services, rules of origin, trade remedies, IP, and investment promotion, daily bilateral sessions have positioned the India–Canada CEPA for formal announcement during Prime Minister Narendra Modi's December 11–12 visit to Canada (Deccan Herald; The Hindu). Both governments aim to reverse FY26's 8.23% bilateral trade dip (to $7.95 billion) and scale two-way commerce toward $50 billion–C$70 billion by 2030.\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Hedge Crude & Freight Volatility Ahead of Sunday's November 29 OPEC+ Summit: Energy portfolio desks must maintain upside protection around $90.00/bbl Brent into the weekend. With Hormuz throughput capped at 49% of normal levels, zero spare buffer capacity, and internal OPEC+ friction over Iraq's output quota demands, any supply shock will trigger immediate price spikes.\n\n• 📊 Enforce Strict 20nm Khasab Stand-Off & Red Sea Terminal Contingencies: Maritime risk managers transiting the Musandam Peninsula must maintain heightened bridge watch and damage-control readiness east of Khasab following Thursday's twin Gulf tanker fires and 18nm projectile hit, while maintaining diversion options away from Jazan and Jeddah.\n\n• ➡️ Finalize Bilateral HS-Code & Mobility Audits Ahead of Dec 11–12: Corporate compliance and trade strategy teams operating between Canada and India should complete product-specific origin and visa-pathway preparations ahead of next month's summit to capture immediate Day-1 duty relief.",
+    "table": [
+      {
+        "indicator": "Chokepoint Security",
+        "signal_level": "HIGH",
+        "signal_label": "High Risk / Strike",
+        "detail": "TradeWinds and The Peninsula Qatar / UKMTO confirm 2 tankers reportedly ablaze in the Gulf on Nov 26 alongside an outbound tanker struck 18nm east of Khasab (crew safe, no spill); ANZ estimates Hormuz throughput at 49% of normal levels (Investing.com)."
+      },
+      {
+        "indicator": "Maritime Chokepoints",
+        "signal_level": "HIGH",
+        "signal_label": "High Risk / Strike",
+        "detail": "Al Jazeera confirms Houthi strikes hitting Jazan port, targeting Jeddah Islamic Port and the Ras Tanura refinery, and prompting explosions in Sanaa following coalition strikes on Hodeidah port (90% of northern Yemen's imports)."
+      },
+      {
+        "indicator": "Macro-Logistics",
+        "signal_level": "MEDIUM",
+        "signal_label": "Moderate Risk / Adaptive Routing",
+        "detail": "Clarksons Research holds the ClarkSea Index at $56,182/day (+77% YoY) with global bunker spend exceeding $220B and Jan–Oct newbuild orders at 2,859 ships (79.7m CGT); World Fleet Register maintains Hormuz flows at 9m–12m bpd as U.S. crude exports drop to early-August lows on high freight costs (Investing.com)."
+      },
+      {
+        "indicator": "Sovereign De-Risking",
+        "signal_level": "MEDIUM",
+        "signal_label": "Moderate Risk / Escort",
+        "detail": "Deccan Herald and The Hindu confirm daily post-Round Six sessions put India–Canada CEPA on track for announcement during PM Modi's Dec 11–12 visit toward a $50B–C$70B 2030 trade target."
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-26T20:23:00+00:00",
+    "category": "Geopolitical",
+    "title": "The UK Maritime Trade Operations (UKMTO) logged an explosion caused by an unknown projectile 50 nautical miles west of Dubai—leaving the targeted tanker undamaged and all crew safe—while the Baltic…",
+    "impact_level": "HIGH",
+    "summary": "Market read: Oil bullish / XAU long.",
+    "details": "The UK Maritime Trade Operations (UKMTO) logged an explosion caused by an unknown projectile 50 nautical miles west of Dubai—leaving the targeted tanker undamaged and all crew safe—while the Baltic Dry Index climbed an additional 39 points to reach 3,107 points. Simultaneously, Iran's Islamic Revolutionary Guard Corps (IRGC) reported two oil tankers struck sea mines near Oman's Khasab, even as Iranian officials walked back days of blockade-breaking convoy claims following U.S. warnings to sink any blockade-running vessels. These overlapping southern Gulf security incidents and rising dry-bulk freight benchmarks are reinforcing elevated cost and routing pressures across global maritime corridors.\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil & Chokepoint Risk\n\n• Projectile Explosion 50nm West of Dubai: According to Arab News, UKMTO issued an advisory after a tanker master reported an explosion caused by an unknown projectile 50 nautical miles west of Dubai in UAE waters. The vessel sustained no physical damage, triggered no environmental spill, and confirmed all crew members safe and accounted for, though the incident extends kinetic threats deeper into southern Persian Gulf approaches.\n\n• Khasab Mine Claims & Blockade-Convoy Walk-Back: Alongside UKMTO's Dubai advisory, Iran's IRGC claimed two oil tankers detonated sea mines near Oman's Khasab (Arab News). Concurrently, reporting by Iran International confirms Iranian state media and officials have walked back earlier claims that Tehran was preparing a tanker convoy to sail from Kharg Island through the U.S. naval blockade, with Kpler recording no new Iranian crude or condensate exports breaking past the cordon.\n\n📊 Global Capacity & Freight Index Realignment\n\n• Baltic Dry Index Advances to 3,107: Daily dry-bulk benchmark figures published by Hellenic Shipping News show the Baltic Exchange's Baltic Dry Index (BDI) climbing an additional 39 points to 3,107 points on November 25—building on the prior session's 68-point jump to 3,068 and reflecting sustained rate firmness across global coal, grain, and iron ore shipping routes.\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Expand Inner-Gulf Watch Perimeters West of Dubai: Maritime security officers and vessel masters operating between Dubai and the Strait of Hormuz must maintain heightened bridge and radar vigilance across southern UAE waters following the close-proximity projectile blast 50 nautical miles west of Dubai.\n\n• 📊 Lock In Dry-Bulk Freight Ceilings Amid Sequential BDI Gains: Commodity procurement and chartering desks moving coal, grain, and iron ore should hedge near-term voyage exposure as the Baltic Dry Index extends its rally by 39 points to 3,107.\n\n• ➡️ Discount Near-Term Blockade-Run Escalation While Pricing Insurer Risk-Sharing: Energy desks can moderate immediate expectations of an Iranian blockade-breaking convoy following Tehran's official walk-back, while factoring ongoing Gulf state insurance risk-sharing and U.S. military escort dependencies into Persian Gulf lifting costs.",
+    "table": [
+      {
+        "indicator": "Chokepoint Security",
+        "signal_level": "HIGH",
+        "signal_label": "High Risk / Strike",
+        "detail": "Arab News / UKMTO confirms a close-proximity projectile explosion 50nm west of Dubai (no vessel damage or environmental impact; all crew safe), while IRGC claims 2 oil tankers hit sea mines near Khasab, Oman."
+      },
+      {
+        "indicator": "Macro-Logistics",
+        "signal_level": "MEDIUM",
+        "signal_label": "Moderate Risk / Adaptive Routing",
+        "detail": "Hellenic Shipping News reports the London-based Baltic Dry Index rising 39 points to 3,107 points on Nov 25 (extending the prior day's climb to 3,068) across coal, grain, and iron ore routes."
+      },
+      {
+        "indicator": "Military & Blockade Posture",
+        "signal_level": "MEDIUM",
+        "signal_label": "Moderate Risk / Escort",
+        "detail": "Iran International reports Iranian officials walking back claims of an imminent Kharg Island tanker convoy to breach the U.S. naval blockade, while Kpler tracks zero new Iranian crude/condensate exports outside the blockade zone."
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-26T19:08:00+00:00",
+    "category": "Geopolitical",
+    "title": "Kpler maritime intelligence confirmed weekly Strait of Hormuz transits dropped 32%—from 217 to 147 vessels between November 1 and 23—with daily tanker crossings averaging just 11 ships against a…",
+    "impact_level": "HIGH",
+    "summary": "Market read: Oil bullish / XAU long.",
+    "details": "Kpler maritime intelligence confirmed weekly Strait of Hormuz transits dropped 32%—from 217 to 147 vessels between November 1 and 23—with daily tanker crossings averaging just 11 ships against a 50-per-day pre-war baseline, driving global crude oil prices higher on Thursday. Simultaneously, CBS News and Investing.com report that Houthi strikes targeting Saudi Arabia's Ras Tanura refinery—the kingdom's largest—alongside Jazan and Jeddah ports have eroded market perceptions of a crude supply glut, lifting IMO-verified regional vessel attacks to 141. As maritime bottlenecks tighten across both Middle Eastern chokepoints, Ottawa and New Delhi are holding daily bilateral sessions to lock in their Comprehensive Economic Partnership Agreement (CEPA) ahead of Prime Minister Narendra Modi's December 11–12 visit to Canada.\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil & Chokepoint Risk\n\n• Hormuz Throughput Contraction & Dark-Transit Dominance: New tracking figures from Kpler reveal a steep November contraction in Strait of Hormuz vessel crossings, with weekly transits dropping 32% from 217 to 147 ships between November 1 and November 23. Tanker crossings averaged just 11 vessels per day for the week ending November 21—down nearly 80% from the pre-conflict norm of 50 per day—with most surviving transits operating \"dark\" (AIS deactivated) to evade coastal targeting as cumulative IMO-verified attacks reached 141 (including at least 15 in November).\n\n• Ras Tanura Targeting & Glut Narrative Reversal: Energy market analysis from Investing.com highlights that Wednesday's Houthi strike on Saudi Arabia's Ras Tanura facility—the kingdom's largest refinery and crude export hub—combined with declining Kpler Gulf export tallies has actively reversed trader expectations of a global oil glut. Alongside Iranian state claims that an LNG carrier detonated a sea mine in southern Hormuz and UKMTO's confirmation of a projectile blast 50 nautical miles west of Dubai, persistent kinetic attrition is restoring an acute geopolitical risk floor under crude benchmarks.\n\n• Hodeidah–Jeddah Escalation Loop: Following coalition airstrikes against Hodeidah port—which handles 90% of food and essential imports into northern Yemen—Houthi forces struck Jazan port and targeted Jeddah Islamic Port alongside Riyadh (Al Jazeera). While coalition air defenses intercepted incoming threats over Jeddah and Riyadh, the tit-for-tat cycle threatens both Saudi Red Sea commercial gateways and Yemen's humanitarian import lifeline.\n\n📊 Global Capacity & Freight Index Realignment\n\n• Clarksons Fleet & Bunker Cost Baseline: According to Clarksons Research and the Clarksons World Fleet Register, the cross-segment ClarkSea Index maintains a +77% year-on-year gain at $56,182/day, underpinned by a record 226 million CGT ($700 billion) global shipbuilding orderbook and an all-time high global bunker bill exceeding $220 billion. With Kpler data showing Persian Gulf crude and product exports hovering near half of pre-war baselines, long-haul ton-mile displacement remains structurally locked in.\n\n🇨🇦 Trade Friction & Sovereign Re-shaping\n\n• India–Canada CEPA Final Sprint: Following the conclusion of Round Six negotiations in New Delhi (November 11–20), Indian and Canadian trade teams are holding daily virtual sessions to close remaining text across goods, services, rules of origin, and investment promotion (The Hindu). Both capitals remain aligned on announcing the pact during Prime Minister Narendra Modi's December 11–12 visit to Canada to scale bilateral trade from $7.95 billion (FY26) toward $50 billion–$70 billion by 2030 (Deccan Herald).\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Re-Price Crude Upside Risk as Gulf Export Compression Invalidates Glut Models: Energy portfolio desks and downstream buyers must unwind short positions predicated on a Q4–Q1 crude surplus. Kpler's confirmation of 11-tanker/day Hormuz throughput and direct strikes on Ras Tanura indicate physical Gulf export constraints are tightening faster than non-OPEC supply can offset.\n\n• 📊 Enforce Multi-Port Red Sea & Inner-Gulf Contingencies: Supply chain logistics managers routing cargo through Jeddah, Jazan, or inner Persian Gulf terminals must maintain active diversion bookings via Salalah, Duqm, or Sohar as Hodeidah–Jeddah retaliatory exchanges escalate.\n\n• ➡️ Finalize Bilateral Rules-of-Origin & Mobility Audits Ahead of Dec 11–12: Corporate compliance and trade strategy teams operating across Canada and India should complete product-specific origin and visa-pathway preparations ahead of next month's Ottawa summit to capture Day-1 duty relief.",
+    "table": [
+      {
+        "indicator": "Chokepoint Security",
+        "signal_level": "HIGH",
+        "signal_label": "High Risk / Strike",
+        "detail": "CBS News / Kpler logs weekly Hormuz crossings falling from 217 to 147 (Nov 1–23) with tanker transits at 11/day (vs 50 pre-war); IMO records 141 cumulative vessel attacks (≥15 in Nov) alongside an unverified Iranian claim of an LNG carrier hitting a sea mine."
+      },
+      {
+        "indicator": "Maritime Chokepoints",
+        "signal_level": "HIGH",
+        "signal_label": "High Risk / Strike",
+        "detail": "Al Jazeera and CBS News confirm Houthi strikes hit Jazan port, targeted Jeddah Islamic Port , and struck the Ras Tanura refinery after coalition strikes on Hodeidah port (which handles 90% of northern Yemen's imports)."
+      },
+      {
+        "indicator": "Macro-Logistics",
+        "signal_level": "MEDIUM",
+        "signal_label": "Moderate Risk / Adaptive Routing",
+        "detail": "Clarksons Research holds the ClarkSea Index at $56,182/day (+77% YoY) with global bunker spend exceeding $220B and Jan–Oct newbuild orders at 2,859 ships (79.7m CGT); World Fleet Register tracks Hormuz crude flows at 9m–12m bpd as crude rallies on tightening Gulf export availability."
+      },
+      {
+        "indicator": "Sovereign De-Risking",
+        "signal_level": "MEDIUM",
+        "signal_label": "Moderate Risk / Escort",
+        "detail": "The Hindu and Deccan Herald confirm daily post-Round Six talks bring India–Canada CEPA \"very close\" to finalization ahead of PM Modi's Dec 11–12 visit toward a $50B–$70B 2030 trade target."
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-26T10:18:00+00:00",
     "category": "Geopolitical",
     "title": "Yemen's Houthi forces executed retaliatory strikes against Saudi Arabia's Red Sea ports of Jazan and Jeddah on Wednesday—landing a projectile inside Jazan port while Saudi air defenses intercepted a…",
@@ -620,40 +716,6 @@
         "signal_level": "MEDIUM",
         "signal_label": "Moderate Risk / Adaptive Routing",
         "detail": "Clarksons Research reports Jan–Oct 2026 global newbuild contracting at a record 2,859 ships (79.7m CGT)—more than double the 10-year average—while Hormuz crude flows hold steady near 9m bpd and Brent eases to $89.95/bbl."
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-11-19T10:01:00+00:00",
-    "category": "Geopolitical",
-    "title": "An unknown projectile struck the engine room of an outbound tanker six nautical miles north of Khasab, Oman, late Wednesday evening—marking the 19th confirmed commercial vessel attack in and around…",
-    "impact_level": "HIGH",
-    "summary": "Market read: Oil bullish / XAU long.",
-    "details": "An unknown projectile struck the engine room of an outbound tanker six nautical miles north of Khasab, Oman, late Wednesday evening—marking the 19th confirmed commercial vessel attack in and around the Strait of Hormuz this month following Tuesday's strike on the PGSA-blacklisted ADNOC tanker Navig8 Messi. Simultaneously, U.S. President Donald Trump , Chinese President Xi Jinping , and Russian President Vladimir Putin have convened in Shenzhen for the 33rd APEC Economic Leaders' Meeting and a historic trilateral summit addressing nuclear arms control, the Iran conflict, and global trade barriers. While U.S. CENTCOM chief Admiral Brad Cooper meets Saudi Crown Prince Mohammed bin Salman in Riyadh amid continuing Houthi missile interceptions and Bab el-Mandeb territorial consolidation, Canadian Prime Minister Mark Carney held direct trade discussions with President Trump in Shenzhen to manage acute bilateral tariff friction.\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil & Chokepoint Risk\n\n• The Khasab Corridor Attrition & Navig8 Messi Confirmation: Under a time-late advisory issued at 02:30 UTC on November 19, UKMTO confirmed an outbound tanker was struck in its engine room by an unknown projectile roughly six nautical miles north of Khasab, Oman, on Wednesday evening, with all crew reported safe. Simultaneously, maritime security firm Vanguard Tech identified the ADNOC Logistics & Services tanker hit 13 nautical miles north of Khasab on November 17 as the Liberian-flagged Navig8 Messi—which has been listed on Iran's Persian Gulf Strait Authority (PGSA) blacklist since August—leaving one crew member missing and 11 injured, while Iran's conventional army claimed three additional tankers detonated naval mines east of the strait.\n\n• Bab el-Mandeb Protracted Conflict & CENTCOM Coordination: Western officials disclosed to Reuters that Saudi Arabia is preparing for active hostilities with Houthi forces to continue for up to six more months into 2027 following the recent retreat of pro-government forces from Yemen's Red Sea coast. As Saudi air defenses intercepted a Houthi ballistic missile and two drones aimed at Riyadh and southern regions—prompting coalition strikes against a missile launcher in Saada—U.S. CENTCOM commander Admiral Brad Cooper arrived in Riyadh on Thursday for emergency defense consultations with Crown Prince Mohammed bin Salman and Defense Minister Prince Khalid bin Salman.\n\n• Blockade Evasion & U.S. Naval Positioning: Satellite intelligence from Institute for National Security Studies (INSS) confirms the bulk of the U.S. naval armada—including three carrier strike groups—remains positioned east of Hormuz in the Arabian Sea alongside two U.S. destroyers in the Red Sea. Meanwhile, UANI Tracking logged the OFAC-sanctioned Iranian container ship SHABDIS loitering south of the Gulf of Suez en route from Shanghai toward Libyan or Russian ports, while NYRA 2 and BEHTA transited northern European waters toward Port Said and Bronka Port.\n\n🇨🇦 Trade Friction & Sovereign Re-shaping\n\n• The Shenzhen Trilateral Summit & U.S.-Canada De-Escalation Talks: On Thursday, November 19, Chinese President Xi Jinping, U.S. President Donald Trump, and Russian President Vladimir Putin convened in Shenzhen for the 33rd APEC Economic Leaders' Meeting and their first-ever trilateral summit focused on global conflict resolution—including the Iran maritime crisis and Ukraine—and nuclear arms control. Crucially for North American supply chains, Canadian officials confirmed that Prime Minister Mark Carney and President Trump held direct trade discussions on the sidelines of the Shenzhen gathering to manage friction following Ottawa's expanded tariff-relief and currency-swap accord with Beijing.\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Enforce Strict Engine-Room & Citadel Hardening Near Khasab: Maritime risk managers routing vessels within 15 nautical miles of Khasab, Oman, must treat the corridor as an active kinetic kill-box. Consecutive engine-room strikes on November 17 (Navig8 Messi) and November 18 confirm precision targeting aimed at immobilizing outbound hulls without immediate sinking.\n\n• 📊 Factor a Six-Month Red Sea & Saudi Infrastructure Risk Floor into 2027 Budgets: Supply chain and energy desks must discard expectations of a near-term Yemen ceasefire. With Saudi defense planners preparing for six more months of Houthi conflict and insurgents holding coastal positions along Bab el-Mandeb, maintain elevated war-risk insurance and Cape rerouting contingencies through Q2 2027.\n\n• ➡️ Track Shenzhen Readouts for Immediate North American Tariff & Sanctions Pivots: Portfolio desks and cross-border compliance teams should monitor Thursday's official statements from the Trump-Carney bilateral and Trump-Xi-Putin trilateral meetings in Shenzhen for sudden adjustments to U.S. tariff threats against Canada or secondary sanctions enforcement on Iranian and Russian maritime networks.\n\nWould you like me to track live diplomatic readouts from today's Trump-Xi-Putin trilateral summit in Shenzhen, or pull updated Clarksons Research tanker rate benchmarks following this week's Khasab strikes?",
-    "table": [
-      {
-        "indicator": "Chokepoint Security",
-        "signal_level": "HIGH",
-        "signal_label": "High Risk / Strike",
-        "detail": "Gulf News reports an outbound tanker hit in the engine room 6nm north of Khasab at 16:45 UTC Nov 18 (all crew safe); Seatrade Maritime identifies the Nov 17 ADNOC vessel as Navig8 Messi (1 missing, 11 injured), lifting November attacks to 19."
-      },
-      {
-        "indicator": "Maritime Chokepoints",
-        "signal_level": "HIGH",
-        "signal_label": "High Risk / Veto",
-        "detail": "CBS News reports Saudi Arabia preparing for Yemen hostilities to run 6 more months into 2027 as Houthis hold Bab el-Mandeb coastal territory; UANI tracks ~50 Iranian cargo ships operating globally, including SHABDIS loitering south of Suez."
-      },
-      {
-        "indicator": "Military Threats",
-        "signal_level": "HIGH",
-        "signal_label": "High Risk / Strike",
-        "detail": "Al Jazeera Live Desk logs Saudi coalition strikes destroying a ballistic missile launcher in Saada after intercepting a ballistic missile and 2 drones over Riyadh and southern Saudi Arabia; CENTCOM chief Adm. Brad Cooper meets Crown Prince MBS in Riyadh."
-      },
-      {
-        "indicator": "Bilateral Trade Realignment",
-        "signal_level": "MEDIUM",
-        "signal_label": "Moderate Risk / Adaptive Routing",
-        "detail": "CNBC and The Standard confirm Trump, Xi, and Putin gathering in Shenzhen on Nov 19 for trilateral talks on Iran, Ukraine, and trade, while Trump and Canadian PM Carney hold bilateral trade talks on the summit sidelines."
       }
     ]
   }
