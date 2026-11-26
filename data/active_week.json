@@ -1,5 +1,113 @@
 [
   {
+    "timestamp": "2026-11-26T10:18:00+00:00",
+    "category": "Geopolitical",
+    "title": "Yemen's Houthi forces executed retaliatory strikes against Saudi Arabia's Red Sea ports of Jazan and Jeddah on Wednesday—landing a projectile inside Jazan port while Saudi air defenses intercepted a…",
+    "impact_level": "HIGH",
+    "summary": "Market read: Oil bullish / XAU long.",
+    "details": "Yemen's Houthi forces executed retaliatory strikes against Saudi Arabia's Red Sea ports of Jazan and Jeddah on Wednesday—landing a projectile inside Jazan port while Saudi air defenses intercepted a drone over Jeddah Islamic Port alongside four drones targeting the Ras Tanura oil refinery and ballistic missiles aimed at Riyadh. Simultaneously, UKMTO logged a close-proximity projectile explosion 50 nautical miles west of Dubai at 21:30 UTC on November 25 as Tehran vowed to tighten traffic control over the Strait of Hormuz and reported two more tankers ablaze from naval mines. While dual-chokepoint friction spreads directly into Red Sea and Persian Gulf port infrastructure, Ontario Economic Development Minister Victor Fedeli confirmed on November 26 that the India–Canada Comprehensive Economic Partnership Agreement (CEPA) is on fast-track for conclusion during Prime Minister Narendra Modi's December 11–12 visit to Canada.\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil & Chokepoint Risk\n\n• Retaliatory Strikes on Saudi Red Sea Ports & Ras Tanura: Hours after issuing evacuation warnings for Saudi Red Sea terminals, Yemen's Houthi forces launched coordinated cross-border strikes on Wednesday, November 25, hitting Jazan port with a projectile (causing minor infrastructure damage) and targeting Jeddah Islamic Port —Saudi Arabia's largest commercial gateway—where coalition air defenses intercepted an incoming drone (Bloomberg; Al Jazeera). Simultaneously, Saudi forces intercepted four Houthi drones aimed at the 550,000 bpd Ras Tanura refinery and crude export terminal on the Persian Gulf coast—scattering debris inside the complex—alongside ballistic missiles targeting Riyadh in retaliation for 105 coalition airstrikes across Hodeidah, Sanaa, and 10 Yemeni governorates.\n\n• Dubai Outer-Anchorage Detonation & Tightened Hormuz Control: Late Wednesday at 21:30 UTC, UKMTO logged a suspicious projectile explosion in close proximity to a commercial tanker 50 nautical miles west of Dubai, leaving the vessel undamaged and crew safe. The incident coincided with Iranian Foreign Ministry declarations that Tehran is actively tightening traffic enforcement over the Strait of Hormuz, alongside unverified Iranian military claims that two additional tankers caught fire after detonating naval mines inside and east of the waterway (Al Jazeera Live Desk).\n\n📊 Global Capacity & Freight Index Realignment\n\n• Clarksons Capacity Metrics & Inner-Gulf Exposure: According to Clarksons Research, the cross-segment ClarkSea Index holds at $56,182/day (+77% YoY) against an all-time high global bunker bill exceeding $220 billion and Jan–Oct shipbuilding orders of 2,859 vessels (79.7 million CGT). While Clarksons World Fleet Register notes Hormuz crude throughput has held near 10 million bpd (only 2 million bpd below 2025 averages), Wednesday's close-range explosion 50 nautical miles west of Dubai and drone intercepts over Ras Tanura signal that inner-Gulf loading terminals and Dubai approaches face widening kinetic spillover.\n\n🇨🇦 Trade Friction & Sovereign Re-shaping\n\n• Ontario Industrial Alignment & December 11–12 CEPA Sprint: In an exclusive briefing published Thursday, November 26, Ontario Minister of Economic Development, Job Creation and Trade Victor Fedeli confirmed that Prime Minister Narendra Modi's December 11–12 visit to Canada will put the bilateral trade reset on a fast track toward concluding the India–Canada CEPA by year-end (NDTV). Following the November 20 conclusion of Round Six talks in New Delhi, Ottawa and New Delhi are aligning advanced manufacturing, aerospace, automotive, and critical-mineral supply chains—positioning Ontario as a primary North American beachhead for Indian firms while scaling bilateral trade toward a $50 billion to $70 billion target by 2030 (Deccan Herald).\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Audit Inner-Gulf & Red Sea Terminal Contingencies Immediately: Energy lifters and container carriers calling at Ras Tanura, Jebel Ali/Dubai approaches, Jeddah, and Jazan must enforce heightened terminal security protocols and verify force majeure coverage following Wednesday's simultaneous hits on Jazan port and drone intercepts over Jeddah and Ras Tanura.\n\n• 📊 Maintain Strict VHF Channel 16 & Route-Compliance Monitoring Off Dubai: Vessel masters operating within 50 nautical miles of Dubai and the southern Strait of Hormuz must adhere strictly to JMIC SEVERE-threat protocols, maintaining continuous bridge watch as projectile explosions push deeper into the southern Arabian Gulf.\n\n• ➡️ Finalize Bilateral Origin & Supply-Chain Mapping Ahead of Dec 11–12: Corporate compliance and procurement teams across Canada and India—particularly in aerospace, automotive, clean energy, and critical minerals—should complete product-origin audits ahead of Prime Minister Modi's December 11–12 visit to capture immediate Day-1 tariff and investment-facilitation advantages.",
+    "table": [
+      {
+        "indicator": "Maritime Chokepoints",
+        "signal_level": "HIGH",
+        "signal_label": "High Risk / Strike",
+        "detail": "Bloomberg and Al Jazeera confirm a Houthi projectile struck Jazan port (minor damage, no casualties) and a drone was intercepted over Jeddah Islamic Port on Nov 25 in retaliation for coalition strikes on Hodeidah."
+      },
+      {
+        "indicator": "Chokepoint Security",
+        "signal_level": "HIGH",
+        "signal_label": "High Risk / Strike",
+        "detail": "UKMTO logs a close-proximity projectile explosion 50nm west of Dubai at 21:30 UTC Nov 25 (crew safe, no damage), while Iranian state media reports 2 tankers hitting naval mines east/inside Hormuz alongside Tehran's pledge to tighten strait control."
+      },
+      {
+        "indicator": "Military Threats",
+        "signal_level": "HIGH",
+        "signal_label": "High Risk / Strike",
+        "detail": "Bloomberg confirms Saudi air defenses intercepted 4 Houthi drones targeting the 550,000 bpd Ras Tanura refinery and export hub (falling debris reported) plus ballistic missiles over Riyadh following 105 coalition strikes across Yemen in 24 hours."
+      },
+      {
+        "indicator": "Macro-Logistics",
+        "signal_level": "MEDIUM",
+        "signal_label": "Moderate Risk / Adaptive Routing",
+        "detail": "Clarksons Research holds the ClarkSea Index at $56,182/day (+77% YoY) with global bunker spend exceeding $220B and Jan–Oct newbuild orders at 2,859 ships (79.7m CGT); World Fleet Register maintains Hormuz crude flows near ~10m bpd (-2m bpd vs 2025)."
+      },
+      {
+        "indicator": "Sovereign De-Risking",
+        "signal_level": "MEDIUM",
+        "signal_label": "Moderate Risk / Escort",
+        "detail": "NDTV and Deccan Herald confirm India–Canada CEPA is positioned for announcement during PM Modi's Dec 11–12 visit to Canada toward a $50B–$70B 2030 trade target, anchoring Ontario aerospace, auto, and critical-mineral links."
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-25T20:50:00+00:00",
+    "category": "Geopolitical",
+    "title": "The UK Maritime Trade Operations (UKMTO) confirmed that three vessels transiting east through the Strait of Hormuz were struck by unidentified projectiles on November 24—with all three ships…",
+    "impact_level": "HIGH",
+    "summary": "Market read: Oil bullish / XAU long.",
+    "details": "The UK Maritime Trade Operations (UKMTO) confirmed that three vessels transiting east through the Strait of Hormuz were struck by unidentified projectiles on November 24—with all three ships continuing their voyages and all crew members accounted for—while the Baltic Dry Index climbed 68 points to reach 3,068 points. Simultaneously, regional maritime risks remain elevated across Persian Gulf terminals following recent air-defense intercepts in Bahrain and reported plans by Tehran to marshal a 14-tanker convoy against the U.S. naval blockade. These overlapping chokepoint attacks and upward freight rate movements are maintaining acute operational and cost pressures across global bulk and energy supply chains.\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil & Chokepoint Risk\n\n• Triple Eastbound Projectile Strikes in Hormuz: According to Reuters reporting relayed by The Times of Israel, UKMTO verified that three commercial vessels were hit by unidentified projectiles on November 24 while sailing east through the Strait of Hormuz. Despite taking direct hits, all three vessels remained seaworthy enough to continue their passages and all crew members were confirmed safe. [1]\n\n• Gulf Infrastructure & Blockade-Run Tension: Cross-Gulf aerial interceptions and strikes near industrial infrastructure in Bahrain and western Saudi Arabia continue to keep regional ports on high alert, compounded by reports that Tehran is preparing a convoy of 14 oil tankers to challenge the U.S. naval blockade. [1] , [2]\n\n📊 Global Capacity & Freight Index Realignment\n\n• Baltic Dry Index Climb to 3,068: Daily benchmark data published by Hellenic Shipping News shows the Baltic Exchange's Baltic Dry Index (BDI) advancing 68 points to 3,068 points on November 24. The gain underscores tightening vessel supply and elevated voyage pricing across major dry-bulk commodities including coal, grain, and iron ore. [1]\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Enforce Heightened Damage-Control & Transit Watch Protocols in Hormuz: Maritime risk managers routing eastbound vessels through the Strait of Hormuz must maintain maximum bridge watch and citadel readiness following UKMTO's confirmation of three simultaneous projectile hits on November 24. [1]\n\n• 📊 Hedge Dry Bulk Freight Exposure Against Upward BDI Momentum: Supply chain procurement desks moving coal, grain, and iron ore should lock in near-term charter rates as the Baltic Dry Index climbs 68 points to 3,068, signaling firming bulk carrier pricing. [1]\n\n• ➡️ Monitor Blockade Enforcement & Gulf Terminal Alerts: Energy desks and marine underwriters should maintain contingency buffers for Persian Gulf liftings given ongoing air-defense alerts across Bahrain and Saudi Arabia and potential naval friction around Tehran's threatened 14-tanker convoy. [1] , [2]",
+    "table": [
+      {
+        "indicator": "Chokepoint Security",
+        "signal_level": "HIGH",
+        "signal_label": "High Risk / Strike",
+        "detail": "The Times of Israel / Reuters confirms 3 eastbound vessels hit by unidentified projectiles in the Strait of Hormuz on Nov 24; all hulls continued transit with 100% of crew accounted for."
+      },
+      {
+        "indicator": "Macro-Logistics",
+        "signal_level": "MEDIUM",
+        "signal_label": "Moderate Risk / Adaptive Routing",
+        "detail": "Hellenic Shipping News reports the London-based Baltic Dry Index rising 68 points to 3,068 points on Nov 24, reflecting upward rate pressure across coal, grain, and iron ore routes."
+      },
+      {
+        "indicator": "Military Threats",
+        "signal_level": "HIGH",
+        "signal_label": "High Risk / Strike",
+        "detail": "Gulf News and The Economic Times highlight persistent aerial intercepts over Bahrain and western Saudi Arabia alongside Tehran's threatened 14-tanker blockade-breaking convoy."
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-25T15:01:00+00:00",
+    "category": "Geopolitical",
+    "title": "Yemen's Houthi forces issued a renewed Wednesday morning ultimatum ordering shipping companies and port personnel to immediately evacuate Jeddah and all Saudi Red Sea ports—publishing target maps…",
+    "impact_level": "HIGH",
+    "summary": "Market read: Oil bullish / XAU long.",
+    "details": "Yemen's Houthi forces issued a renewed Wednesday morning ultimatum ordering shipping companies and port personnel to immediately evacuate Jeddah and all Saudi Red Sea ports—publishing target maps covering Yanbu , Jazan , King Fahd Industrial Port , and Riyadh's KAFD —following a Houthi drone strike on Riyadh's tallest tower that injured 11 people. Simultaneously, maritime security analysts confirmed that all three Sinokor-managed VLCCs (Bahrain Prosperity, Cameroon Prosperity, and Romania Prosperity) struck within a 17-minute window in the Strait of Hormuz continued their eastbound voyages with all crew safe, even as Brent crude hovered near $91/bbl and Indian High Commissioner Dinesh Patnaik signaled that the India–Canada CEPA is poised for formal announcement during Prime Minister Narendra Modi's December 11–12 visit to Canada.\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil & Chokepoint Risk\n\n• Red Sea Port Evacuation Ultimatum & Riyadh Casualties: On Wednesday morning, November 25, Houthi military spokesman Yahya Saree threatened immediate strikes against Jeddah —which handles roughly 57% of Saudi Arabia's maritime trade—alongside Yanbu , Jazan , and King Fahd Industrial Port if the Saudi-led coalition continues attacking Hodeidah (The Star / Reuters; House of Saud). The ultimatum follows Tuesday's Houthi drone strike on a skyscraper in Riyadh's King Abdullah Financial District (KAFD)—which injured 11 civilians in the first confirmed casualties inside the business hub—and Wednesday morning coalition airstrikes against Houthi missile and drone infrastructure in Hodeidah, Saada , and Amran (Bloomberg / Energy Connects).\n\n• Sinokor Convoy Survival & Northern Hormuz Regime Split: Revised reporting from The Maritime Executive and Riviera Maritime Media confirms that the three Liberian-flagged Sinokor VLCCs struck 20.7 nautical miles northeast of Lima, Oman—Bahrain Prosperity (20:25 UTC), Cameroon Prosperity (20:32 UTC), and Romania Prosperity (20:42 UTC)—sustained minimal structural impairment and continued their eastbound voyages with all crew accounted for, while CENTCOM and UKMTO continue to refute Iranian claims of active sea-mine detonations (Australian Naval Institute). Meanwhile, Lloyd's List Intelligence data reveals that 28% of vessel transits (34 of 121 movements) utilizing Iran's northern traffic-control system in October were non-Iranian-linked bulkers, general cargo ships, and product tankers opting for Tehran's clearance over U.S.-escorted southern lanes.\n\n📊 Global Capacity & Freight Index Realignment\n\n• Crude Price Resilience & Saudi Fiscal Contraction: Despite seven vessel strikes in the heaviest week of Hormuz attacks since the conflict began, Brent crude traded steady near $91/bbl as continuous shuttle operations by Sinokor, ADNOC, Saudi, and Kuwaiti tankers maintained Gulf crude flows between 9 million and 12 million bpd (Clarksons World Fleet Register). However, compounding infrastructure attacks and Red Sea export losses have forced Riyadh to project a 2.1% economic contraction and a 4.9% fiscal deficit for 2026 (Bloomberg / Energy Connects).\n\n🇨🇦 Trade Friction & Sovereign Re-shaping\n\n• December 11–12 India–Canada CEPA Announcement Window: Speaking in Ottawa, Indian High Commissioner Dinesh Patnaik confirmed that the comprehensive India–Canada CEPA—covering goods, services, investment, and skilled labor mobility—is positioned for formal announcement during Prime Minister Narendra Modi's December 11–12 visit to Canada (Deccan Herald; The Hindu). Following last week's Round Six conclusion in New Delhi, daily virtual talks are finalizing text to scale bilateral commerce from $7.95 billion (FY26 goods) toward $50 billion by 2030.\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Activate Immediate Port-Diversion Contingencies for Jeddah & Yanbu: Supply chain logistics managers and crude lifters with December bookings at Saudi Red Sea ports must prepare alternative discharge and loading options via Oman (Salalah/Duqm) or eastern Gulf hubs; Wednesday's explicit Houthi target maps covering Jeddah (57% of Saudi maritime trade) and Yanbu signal acute near-term strike risk if coalition strikes on Hodeidah persist.\n\n• 📊 Evaluate Northern vs. Southern Hormuz Transit Risk Profiles by Cargo Class: Chartering desks moving dry bulk or non-sanctioned refined products should assess compliance and hull-insurance trade-offs between southern U.S.-facilitated shuttles and northern littoral lanes, where Lloyd's List confirms 28% of cleared transits are non-Iranian vessels avoiding southern projectile corridors.\n\n• ➡️ Finalize Bilateral HS-Code & Mobility Readiness Ahead of Dec 11–12: Corporate trade compliance and global mobility teams operating between Canada and India should complete product-origin and visa-pathway preparations ahead of Prime Minister Modi's December 11–12 summit in Canada to capture immediate Day-1 tariff and service-access benefits.\n\nWould you like me to run a focused contingency audit on Jeddah Islamic Port cargo diversions (Salalah vs. King Abdullah Port), or pull a granular breakdown of the goods and mobility chapters slated for announcement during PM Modi's December 11–12 Canada visit?",
+    "table": [
+      {
+        "indicator": "Maritime Chokepoints",
+        "signal_level": "HIGH",
+        "signal_label": "High Risk / Veto",
+        "detail": "The Star / Reuters and House of Saud confirm Houthi spokesman Yahya Saree warned shipping out of Jeddah, Yanbu, Jazan, and King Fahd Industrial Port on Nov 25 after 4 coalition strikes on Hodeidah in 6 days; Jeddah handles 57% of Saudi maritime trade."
+      },
+      {
+        "indicator": "Military Threats",
+        "signal_level": "HIGH",
+        "signal_label": "High Risk / Strike",
+        "detail": "Bloomberg / Energy Connects logs the first confirmed casualties in Riyadh's KAFD as a Houthi drone injured 11 people on Nov 24; Saudi Arabia projects a 2.1% GDP contraction and 4.9% fiscal deficit for 2026."
+      },
+      {
+        "indicator": "Chokepoint Security",
+        "signal_level": "HIGH",
+        "signal_label": "High Risk / Strike",
+        "detail": "The Maritime Executive and Riviera Maritime Media confirm Bahrain Prosperity, Cameroon Prosperity, and Romania Prosperity survived consecutive hits at 20:25–20:42 UTC (20.7nm NE of Lima, Oman) and continued transiting; CTI Helen hit at Dibba OPL anchorage."
+      },
+      {
+        "indicator": "Macro-Logistics",
+        "signal_level": "MEDIUM",
+        "signal_label": "Moderate Risk / Adaptive Routing",
+        "detail": "Clarksons Research holds the ClarkSea Index at $56,182/day (+77% YoY) with Hormuz flows steady at 9m–12m bpd (World Fleet Register) and Brent trading at $91/bbl; Lloyd's List notes 28% of vessels using Iran's northern traffic regime have no Iranian trade link."
+      },
+      {
+        "indicator": "Sovereign De-Risking",
+        "signal_level": "MEDIUM",
+        "signal_label": "Moderate Risk / Escort",
+        "detail": "Deccan Herald reports Indian High Commissioner Dinesh Patnaik confirming the India–Canada CEPA is likely to be announced during PM Modi's Dec 11–12 visit to Canada toward a $50B 2030 trade target."
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-25T06:16:00+00:00",
     "category": "Geopolitical",
     "title": "Three Sinokor Maritime VLCCs—Bahrain Prosperity, Cameroon Prosperity, and Romania Prosperity—were identified among the vessels targeted in the latest Strait of Hormuz strikes as the IRGC Navy claimed…",
