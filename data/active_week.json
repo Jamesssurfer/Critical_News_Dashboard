@@ -548,39 +548,5 @@
         "detail": "CNBC and The Standard confirm Trump, Xi, and Putin gathering in Shenzhen on Nov 19 for trilateral talks on Iran, Ukraine, and trade, while Trump and Canadian PM Carney hold bilateral trade talks on the summit sidelines."
       }
     ]
-  },
-  {
-    "timestamp": "2026-11-18T17:17:00+00:00",
-    "category": "Geopolitical",
-    "title": "Abu Dhabi state firm ADNOC Logistics & Services confirmed on Wednesday that one of its vessels was struck in the Strait of Hormuz on the evening of November 17, leaving one seafarer missing and 11…",
-    "impact_level": "HIGH",
-    "summary": "Market read: Oil bullish / XAU long.",
-    "details": "Abu Dhabi state firm ADNOC Logistics & Services confirmed on Wednesday that one of its vessels was struck in the Strait of Hormuz on the evening of November 17, leaving one seafarer missing and 11 injured. Simultaneously, the Saudi-led coalition launched heavy retaliatory airstrikes across 60 Houthi military targets in Sanaa, Hodeidah, Amran, and Saada after intercepting a cruise missile aimed at Riyadh, following the Houthis' recent recapture of territory overlooking the Bab el-Mandeb Strait. While dual-chokepoint violence keeps Brent crude elevated near $94.01/bbl, Chinese President Xi Jinping and Canadian Prime Minister Mark Carney pitched multilateral free trade and non-USD payment diversification at the 2026 APEC CEO Summit in Shenzhen ahead of President Donald Trump's arrival.\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil & Chokepoint Risk\n\n• The ADNOC L&S Strike & Hormuz Attrition: On Wednesday morning, November 18, ADNOC L&S confirmed that one of its vessels was hit while transiting the Strait of Hormuz on Tuesday evening, leaving one crew member missing and 11 injured while survivors were evacuated. The attack compounds the double-strike on the Panama-flagged LPG carrier Tara Gas seven nautical miles north of Khasab—which also left one Indian seafarer missing and two hospitalized—and brings confirmed UKMTO-logged incidents since November 10 to at least seven, alongside unverified IRGC claims of three tankers detonating naval mines.\n\n• Saudi Retaliation & Bab el-Mandeb Volatility: Following last weekend's withdrawal of Saudi-backed Yemeni forces from Dhubab to bolster Aden—which handed Houthi militants renewed territorial leverage over the Bab el-Mandeb Strait—coalition forces struck 60 military targets in Sanaa, Hodeidah, Amran, and Saada on November 18. The aerial campaign followed the interception of a Houthi cruise missile aimed at Riyadh, where recent barrages have damaged the financial district and targeted Saudi Arabia's 7 million b/d East-West pipeline.\n\n• Tanker Earnings vs. Crude Pricing: Despite Clarksons World Fleet Register data showing global average VLCC spot earnings cooling 20% week-on-week to $519,000/day (and Suezmax/Aframax down 37% and 47%) as ballasters build east of Suez, Brent crude gained 1.7% to $94.01/bbl as overlapping Hormuz and Red Sea kinetic risks offset forecasts of a near-term supply surplus.\n\n🇨🇦 Trade Friction & Sovereign Re-shaping\n\n• APEC Shenzhen De-Risking & Currency Swaps: Speaking at the 2026 APEC CEO Summit in Shenzhen on November 18 ahead of President Donald Trump's arrival for bilateral talks with President Xi Jinping and a scheduled trilateral meeting with Russian President Vladimir Putin, Canadian Prime Minister Mark Carney urged economies to diversify away from single payment channels. Finance Minister François-Philippe Champagne and Bank of Canada Governor Tiff Macklem formally renewed bilateral local-currency swap arrangements with People's Bank of China Governor Pan Gongsheng, complementing Ottawa's 50+ critical minerals deals across 15+ countries and expanded C$400 million tariff relief with Beijing.\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Audit GCC Counterparty & Charter Exposure on State-Linked Fleets: Maritime risk managers and energy charterers must immediately review war-risk coverage and crew evacuation contingencies for vessels operated by Gulf state entities. The confirmed November 17 strike on an ADNOC L&S vessel underscores that regional state-linked tonnage remains an active primary target in Hormuz.\n\n• 📊 Hedge Against Red Sea & Yanbu Pipeline Spillover: Supply chain desks routing cargo through the Bab el-Mandeb or lifting crude at Yanbu must maintain elevated insurance and routing buffers. Intensifying tit-for-tat strikes between Saudi coalition forces and Houthi units across Hodeidah and Riyadh heighten the risk of renewed interdictions at the Red Sea's southern entrance.\n\n• ➡️ Monitor APEC Shenzhen Readouts for Sudden Tariff & Payment Shifts: Portfolio desks and corporate treasuries should track incoming readouts from the Trump-Xi-Putin meetings in Shenzhen while evaluating non-USD settlement rails—such as the renewed Canada-China currency swap—to insulate cross-border trade from abrupt U.S. tariff escalations.",
-    "table": [
-      {
-        "indicator": "Chokepoint Security",
-        "signal_level": "HIGH",
-        "signal_label": "High Risk / Strike",
-        "detail": "Gulf News confirms an ADNOC L&S vessel was struck in Hormuz on Nov 17 (1 missing, 11 injured), alongside the double-strike on LPG tanker Tara Gas off Khasab and IRGC claims of 3 tankers hitting sea mines."
-      },
-      {
-        "indicator": "Military Threats",
-        "signal_level": "HIGH",
-        "signal_label": "High Risk / Strike",
-        "detail": "Bloomberg News reports Saudi-led coalition strikes on 60 Houthi military targets across four governorates on Nov 18 after intercepting a cruise missile targeting Riyadh."
-      },
-      {
-        "indicator": "Macro-Logistics",
-        "signal_level": "MEDIUM",
-        "signal_label": "Moderate Risk / Adaptive Routing",
-        "detail": "Clarksons Research logs the ClarkSea Index at $64,148/day (+77% YoY; +95% vs 10-year trend) with global VLCC spot earnings at $519,000/day (-20% w-o-w), while Hellenic Shipping News notes Brent crude up 1.7% to $94.01/bbl."
-      },
-      {
-        "indicator": "Sovereign De-Risking",
-        "signal_level": "MEDIUM",
-        "signal_label": "Moderate Risk / Escort",
-        "detail": "Al Jazeera and Channel NewsAsia report Carney touting >50 critical minerals agreements across 15+ nations and renewed Canada-China central bank currency swaps at APEC in Shenzhen."
-      }
-    ]
   }
 ]
