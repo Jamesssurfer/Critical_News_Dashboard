@@ -1,6 +1,40 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-11-20T08:33:00+00:00",
+      "category": "Geopolitical",
+      "title": "The first-ever trilateral summit between U.S. President Donald Trump , Chinese President Xi Jinping , and Russian President Vladimir Putin concluded in Shenzhen with a four-point declaration on…",
+      "impact_level": "HIGH",
+      "summary": "Market read: Oil bullish / XAU long.",
+      "details": "The first-ever trilateral summit between U.S. President Donald Trump , Chinese President Xi Jinping , and Russian President Vladimir Putin concluded in Shenzhen with a four-point declaration on nuclear risk reduction and global energy supply chains, but yielded zero concrete breakthroughs on the Iran maritime conflict or Ukraine—as Putin immediately ruled out any maritime or energy ceasefire following strikes on the Crimean Bridge. Simultaneously, cumulative IMO-verified shipping incidents across the Persian Gulf and Strait of Hormuz have reached 138 (with 27 seafarer fatalities and five missing), while U.S.-facilitated dark transits through southern Hormuz compressed to 26.5 vessels/day over the November 15–18 tracking cycle. As Houthi advances within 100 kilometers of Aden expand coastal interdiction positions over the Bab el-Mandeb corridor, global energy and freight markets face sustained dual-chokepoint friction without immediate diplomatic relief.\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil & Chokepoint Risk\n\n• The Shenzhen Trilateral Stalemate & Energy Supply Pledge: Concluding an 80-minute trilateral session in Shenzhen on November 19, Presidents Trump, Xi, and Putin issued the \"U.S.-Russia-China Heads of State Declaration toward Peace\"—affirming that a nuclear war cannot be won and pledging cooperation on UN reform and expanding global petroleum production. However, the communiqué made zero direct mention of the Iran naval blockade or Strait of Hormuz attacks, and President Putin immediately declared at a post-summit press conference that Moscow will refuse any maritime or energy ceasefire with Ukraine following strikes on the Crimean Bridge.\n\n• Hormuz Shuttle Compression & Salvage Interdiction: Maritime attack rates across October and November have more than doubled compared to the prior seven months, averaging roughly one strike per day. Satellite imagery Thursday morning confirmed smoke still rising from the abandoned LPG carrier Tara Gas off Khasab after Iran issued direct warnings to salvage tugs attempting to assist the vessel, while U.S.-facilitated dark transits through southern Hormuz slowed to 26.5 vessels/day between November 15 and 18 (down from 33.8/day the prior period).\n\n• Bab el-Mandeb & Gulf of Aden Targeting Expansion: A U.S.-led military coalition warned on November 19 that Houthi advances to new defensive lines less than 100 kilometers from Aden—paired with control over Perim Island—have expanded insurgent firing positions across both the Bab el-Mandeb Strait and the western Gulf of Aden, threatening Saudi Arabia's Yanbu export bypass (8.1m bpd in Q2) just as container carriers attempt to restore Suez Canal schedules.\n\n• Indian Coast Shadow-Fleet Convergence: Satellite tracking by UANI logged multiple Iranian-linked vessels maneuvering off India's western coast, including the sanctioned container ship ENZO 2 departing Mumbai anchorage to arrive at Kandla on November 20, the falsely flagged TAVA 4 transiting from Zhuhai toward Kandla for November 21 arrival, and FLEXI 2 going dark off the Gulf of Kutch to assume an alternate identity.\n\n🇨🇦 Trade Friction & Sovereign Re-shaping\n\n• China-ROK Phase 2 Anti-Reversal & Cultural Provisions: Further technical details released on November 20 regarding the substantially concluded China-ROK Phase 2 FTA confirm that both nations locked in anti-reversal provisions alongside negative-list market access across investment, services, and financial sectors. Beijing's first-ever treaty commitment to non-discriminatory pre-reviews for South Korean films and online games—following the November 18 Xi–Lee Jae Myung summit in Shenzhen—cements regional economic insulation across the $440.9 billion (10-month) bilateral trade corridor ahead of legal scrubbing and formal signing.\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Maintain Full Chokepoint Risk Premiums Post-Shenzhen Summit: Energy portfolio desks must not discount Middle East or Black Sea disruption risks following the Trump-Xi-Putin declaration. With the communiqué omitting any Hormuz ceasefire mechanism and Putin explicitly rejecting a Black Sea maritime/energy truce over the Crimean Bridge, supply-chain risk remains acutely elevated.\n\n• 📊 Audit Gulf of Aden Routing & Salvage Contingencies: Maritime risk managers must expand Red Sea threat perimeters into the western Gulf of Aden as Houthi coastal positions advance toward Aden, while ensuring charter parties account for Iranian threats against commercial salvage tugs operating near Khasab.\n\n• ➡️ Enforce Physical Hull Verification at Kandla & Mumbai: Port agents, insurers, and trade compliance teams operating along India's west coast must conduct visual IMO-number checks on incoming feeder container vessels across November 20–21 to screen out shadow-fleet assets (ENZO 2, TAVA 4, FLEXI 2).",
+      "table": [
+        {
+          "indicator": "Chokepoint Security",
+          "signal_level": "HIGH",
+          "signal_label": "High Risk / Strike",
+          "detail": "The New York Times and UANI Tracking confirm 138 IMO-verified regional incidents and 27 seafarer deaths; U.S.-facilitated Hormuz transits drop to 26.5 vessels/day (106 transits across Nov 15–18) as Tara Gas continues smoldering off Khasab."
+        },
+        {
+          "indicator": "Maritime Chokepoints",
+          "signal_level": "HIGH",
+          "signal_label": "High Risk / Veto",
+          "detail": "TradeWinds and Anadolu Agency confirm U.S.-led coalition warnings that Houthi advances to within 100 km of Aden expand anti-shipping launch positions across Bab el-Mandeb and the Gulf of Aden."
+        },
+        {
+          "indicator": "Bilateral Trade Realignment",
+          "signal_level": "MEDIUM",
+          "signal_label": "Moderate Risk / Adaptive Routing",
+          "detail": "The Guardian and Fox News report the 80-minute Shenzhen trilateral produced a 4-point statement pledging nuclear risk dialogue and increased global petroleum output, but omitted explicit Iran/Ukraine ceasefires; Putin vows retaliation over the Crimean Bridge."
+        },
+        {
+          "indicator": "Macro-Logistics",
+          "signal_level": "MEDIUM",
+          "signal_label": "Moderate Risk / Adaptive Routing",
+          "detail": "Clarksons Research holds the ClarkSea Index at $64,148/day (+77% YTD) with VLCC earnings at $519,000/day and global newbuild orderbooks at a record 226m CGT ($700bn); Caixin Global confirms negative-list and anti-reversal clauses in the upgraded China-ROK FTA."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-11-19T19:19:00+00:00",
       "category": "Trade War",
       "title": "China and the Republic of Korea (ROK) have substantially concluded the second phase of negotiations on their bilateral Free Trade Agreement (FTA) after more than eight years of talks, establishing a…",
@@ -457,7 +491,9 @@
           "detail": "Moneycontrol confirms Indian and Canadian negotiators concluded three services chapters on Nov 13, with 16 remaining chapters targeted for completion by December."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-11-13T14:08:00+00:00",
       "category": "Geopolitical",
@@ -525,9 +561,7 @@
           "detail": "The Hindu Trade Wire confirms Round Six India-Canada CEPA negotiations in Visakhapatnam targeting a December signing, linking Canadian LNG expansion and a $2.5B uranium supply pact to India's SHANTI Act."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-11-12T12:43:00+00:00",
       "category": "Geopolitical",
@@ -1577,7 +1611,9 @@
           "detail": "Chief negotiators formalize the New Delhi Sixth Round agenda for early November. Legal parameters focus on market access, rules of origin, and institutional investment protections."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-10-28T12:35:00+00:00",
       "category": "Geopolitical",
@@ -1605,9 +1641,7 @@
           "detail": "Negotiators clear final regulatory scripts ahead of the high-stakes November 4 loop in New Delhi. The incoming pact legally safeguards a C$70 billion annual bilateral trade target by 2030."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-10-27T23:12:00+00:00",
       "category": "Geopolitical",
@@ -7209,7 +7243,9 @@
           "detail": "The U.S.-Canada tariff barriers and upcoming September 8 counter-tariffs remain structurally unchanged over the last 12 hours."
         }
       ]
-    },
+    }
+  ],
+  "past_6_months": [
     {
       "timestamp": "2026-08-29T05:08:00+00:00",
       "category": "Trade War",
@@ -7237,9 +7273,7 @@
           "detail": "Market expectations solidify around an upcoming September Bank of Japan rate hike to defend the currency following the record 15.4 trillion yen intervention pipeline."
         }
       ]
-    }
-  ],
-  "past_6_months": [
+    },
     {
       "timestamp": "2026-08-29T01:25:00+00:00",
       "category": "Trade War",
