@@ -1,5 +1,95 @@
 [
   {
+    "timestamp": "2026-11-28T12:05:00+00:00",
+    "category": "Geopolitical",
+    "title": "Iranian forces reported multiple tankers and an LNG carrier detonated sea mines while taking unauthorized routes or transiting north of Khasab, Oman, on November 25–26—amid reports of over a dozen…",
+    "impact_level": "HIGH",
+    "summary": "Market read: Oil bullish / XAU long.",
+    "details": "Iranian forces reported multiple tankers and an LNG carrier detonated sea mines while taking unauthorized routes or transiting north of Khasab, Oman, on November 25–26—amid reports of over a dozen anti-ship cruise missiles fired and at least 25 tankers struck over the past week—while U.S. Central Command (CENTCOM) disabled the propulsion of the Palau-flagged M/V Pacific Archer in the Gulf of Oman on November 27 for evading the naval blockade. Simultaneously, UKMTO and Vanguard Tech confirmed projectile hits on commercial vessels including the Kun Peng (severely injuring one crew member) and Captain Leon 50 nautical miles west of Dubai on November 26, as regional spillover widened with a fatal drone strike on a vital Kuwaiti facility killing two Italian workers and Saudi retaliatory airstrikes across Yemen following Houthi attacks on Riyadh and a Jazan oil refinery. With Iran's Persian Gulf Strait Authority (PGSA) expanding its non-compliance blacklist from 240 to 266 vessels and domestic Iranian inflation hitting 88.7% year-on-year alongside rolling power cuts, dual-front maritime attrition and regional diplomatic realignment are intensifying ahead of OPEC+ talks.\n\n🔎 Intelligence Deep Dive & Core Developments\n\n🛢️ Middle East Oil & Chokepoint Risk\n\n• Khasab Mine Strikes, Dubai Projectile Hits & Cruise Missile Barrages: According to intelligence compiled by Times of India, maritime attacks in and around the Strait of Hormuz have reached their highest intensity since the conflict began in February 2026—with UKMTO logging over 30 attacks in October and at least 22 through November 22, while broader assessments indicate over a dozen anti-ship cruise missiles fired and at least 25 tankers struck over the past week. Between November 25 and 26, the IRGC and Iranian Army reported multiple tankers and an LNG carrier detonated sea mines while taking unauthorized routes or transiting north of Khasab, Oman, while UKMTO and Vanguard Tech confirmed projectile hits on vessels including the Kun Peng (leaving one crew member severely injured) and Captain Leon 50 nautical miles west of Dubai on November 26.\n\n• CENTCOM Blockade Interdiction & PGSA Blacklist Expansion: On November 27, U.S. Central Command disabled the propulsion of the Palau-flagged cargo vessel M/V Pacific Archer in the Gulf of Oman for attempting to evade the U.S. naval blockade—bringing total disabled non-compliant vessels to six alongside 158 redirected ships since April (Times of India). Concurrently, Iran's Persian Gulf Strait Authority (PGSA) expanded its non-compliance registry from 240 to 266 vessels on November 24 by adding 26 tugs and offshore support vessels, while Foreign Minister Abbas Araghchi tied any reopening of Hormuz during Qatari-mediated talks in Tehran to lifting the U.S. naval blockade on Iranian ports (reimposed in July 2026) and ending hostilities on all fronts.\n\n• Kuwait Drone Fatalities, Yemen Airstrikes & Islamabad Defense Talks: Regional spillover intensified across November 26–27 as Kuwait blamed Iran for a drone attack on a vital facility that killed two Italian workers—a claim Tehran denied while offering a joint investigation (Times of India). Simultaneously, Houthi strikes targeting Riyadh and a Jazan oil refinery prompted retaliatory Saudi airstrikes across Yemen and an emergency November 27 Mecca pact meeting in Islamabad among Türkiye, Pakistan, and Saudi Arabia, where officials pledged diplomatic and security support without announcing new troop deployments.\n\n🌐 Economic Pressure & Sovereign De-Risking\n\n• Iranian Domestic Inflation & U.S. Treasury Crackdown: Severe economic attrition continues to compound Tehran's blockade standoff, with October 2026 Iranian consumer prices surging 88.7% year-on-year and food and beverage inflation reaching 112.6% (Times of India). Damage to fuel and gas infrastructure forced rolling domestic power cuts starting November 22, followed on November 23 by sweeping U.S. Treasury sanctions blacklisting over two dozen Iranian exchange houses and front companies used to bypass financial restrictions.\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Audit Fleet & Towage Registries Against the Expanded 266-Vessel PGSA Blacklist: Maritime risk managers and chartering desks must immediately cross-check tankers, LNG carriers, and offshore support tugs against Iran's expanded 266-vessel PGSA non-compliance registry, while maintaining strict standoff buffers north of Khasab and west of Dubai following the Kun Peng and Captain Leon strikes.\n\n• 📊 Enforce Strict Blockade-Compliance Screening in the Gulf of Oman: Trade finance banks, insurers, and port agents must verify that contracted vessels strictly adhere to coalition maritime inspection protocols; CENTCOM's November 27 kinetic propulsion disablement of the M/V Pacific Archer demonstrates active physical interdiction of blockade-evading hulls.\n\n• ➡️ Review Regional Facility Security & Energy Contingencies Across Kuwait and Saudi Arabia: Corporate security and energy procurement desks with exposure to Kuwaiti industrial assets or Saudi Red Sea terminals (Jazan) must update emergency evacuation and supply-diversion plans amid widening cross-border drone and missile exchanges.",
+    "table": [
+      {
+        "indicator": "Chokepoint Security",
+        "signal_level": "HIGH",
+        "signal_label": "High Risk / Strike",
+        "detail": "Times of India logs IRGC/Iranian Army reports of multiple tankers and an LNG carrier hitting sea mines north of Khasab (Nov 25–26), >12 anti-ship cruise missiles fired, and ≥25 tankers struck over the past week; UKMTO/Vanguard Tech confirm projectile hits on Kun Peng (1 severely injured) and Captain Leon 50nm west of Dubai on Nov 26."
+      },
+      {
+        "indicator": "Regulatory & Naval Blockades",
+        "signal_level": "HIGH",
+        "signal_label": "High Risk / Veto",
+        "detail": "Times of India confirms CENTCOM disabled the propulsion of the Palau-flagged M/V Pacific Archer in the Gulf of Oman on Nov 27 (marking 6 disabled vessels and 158 redirected ships since April), while Iran's PGSA expanded its non-compliance list from 240 to 266 vessels by adding 26 tugs and offshore support vessels."
+      },
+      {
+        "indicator": "Military Threats & Spillover",
+        "signal_level": "HIGH",
+        "signal_label": "High Risk / Strike",
+        "detail": "Times of India reports Kuwait blaming Iran for a Nov 26–27 drone strike on a vital facility killing 2 Italian workers (denied by Tehran), while Houthi strikes on Riyadh and a Jazan oil refinery triggered Saudi airstrikes across Yemen and a Nov 27 Mecca pact meeting in Islamabad among Türkiye, Pakistan, and Saudi Arabia."
+      },
+      {
+        "indicator": "Economic & Sanctions Strain",
+        "signal_level": "MEDIUM",
+        "signal_label": "Moderate Risk / Adaptive Routing",
+        "detail": "Times of India records October 2026 Iranian consumer prices surging 88.7% YoY (food/beverages up 112.6%), rolling power cuts from fuel/gas infrastructure damage, and Nov 23 U.S. Treasury sanctions hitting >24 Iranian exchange houses and front companies."
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-28T05:55:00+00:00",
+    "category": "Geopolitical",
+    "title": "The cross-sector ClarkSea Index climbed another 2% this week to $57,181/day—up 76% year-to-date and 96% above its 10-year trend—as Clarksons Research confirmed nearly 90 commercial vessels totaling 7…",
+    "impact_level": "HIGH",
+    "summary": "Market read: Oil bullish / XAU long.",
+    "details": "The cross-sector ClarkSea Index climbed another 2% this week to $57,181/day—up 76% year-to-date and 96% above its 10-year trend—as Clarksons Research confirmed nearly 90 commercial vessels totaling 7 million gross tons have been attacked since September alongside a new post-Covid peak of 233 points in the Containership Time Charter Rate Index. Simultaneously, Clarksons' latest Middle East Conflict market assessment shows crude flows through the Strait of Hormuz holding near ~9 million bpd (~80% of normal total Middle Eastern flows) amid ongoing transit constraints and updated monthly outlooks across LPG carriers, containerships, and Middle East conflict transits.\n\n🔎 Intelligence Deep Dive & Core Developments\n\n📊 Global Capacity & Freight Index Realignment\n\n• ClarkSea Index Climb & Containership Post-Covid Peak: According to the November 27 Weekly Shipping Highlights published on the Clarksons Research Shipping Intelligence Network, cross-segment shipping earnings extended their upward trajectory with the ClarkSea Index rising 2% week-on-week to $57,181/day—marking a 76% year-to-date gain and sitting 96% above its 10-year trend. Simultaneously, Clarksons' updated monthly containership outlook confirmed that the Containership Time Charter (TC) Rate Index reached a new post-Covid high of 233 points, underscoring acute vessel supply tightness across global liner networks.\n\n🛢️ Middle East Oil & Chokepoint Risk\n\n• Cumulative Vessel Attrition & Hormuz Crude Throughput: In its newly released Middle East Conflict: Shipping Market Update dated November 27, Clarksons Research documented that nearly 90 vessels representing 7 million gross tons (GT) have come under attack since September. Despite sustained kinetic attrition and elevated transit restrictions, crude oil flows transiting the Strait of Hormuz remain near ~9 million barrels per day—accounting for roughly 80% of normal total Middle Eastern crude flows—as operators adapt routing and fleet deployments across tanker and LPG carrier segments.\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Lock In Multi-Quarter Containership & Tanker Charter Ceilings: Supply chain procurement and chartering desks must account for sustained upward rate momentum following the ClarkSea Index's climb to $57,181/day (+96% vs. 10-year trend) and the Containership TC Rate Index hitting a post-Covid record of 233 points.\n\n• 📊 Factor Cumulative 7M GT Hull Attrition Into Gulf Underwriting & Voyage Budgets: Marine insurers and energy lifters transiting the Persian Gulf must price in persistent physical attrition risks—with nearly 90 ships (7 million GT) struck since September—even as overall Hormuz crude flows stabilize near ~9 million bpd.\n\n• ➡️ Align LPG & Container Fleet Allocations with Updated Clarksons Monthly Outlooks: Logistics planners and energy desks should review charter renewal timelines across LPG carriers and container loops ahead of Q1 to mitigate capacity bottlenecks driven by ongoing Middle East conflict transit adjustments.",
+    "table": [
+      {
+        "indicator": "Macro-Logistics & Capacity",
+        "signal_level": "MEDIUM",
+        "signal_label": "Moderate Risk / Adaptive Routing",
+        "detail": "Clarksons Research logs the ClarkSea Index ticking up 2% WoW to $57,181/day (+76% YTD; +96% vs 10-year trend) in its Nov 27 Weekly Shipping Highlights, while the Containership TC Rate Index hits a post-Covid high of 233 points."
+      },
+      {
+        "indicator": "Chokepoint Security",
+        "signal_level": "HIGH",
+        "signal_label": "High Risk / Strike",
+        "detail": "Clarksons Research confirms nearly 90 ships totaling 7 million GT have been attacked since September in its Nov 27 Middle East Conflict Shipping Market Update."
+      },
+      {
+        "indicator": "Energy Flows & Transit Volume",
+        "signal_level": "HIGH",
+        "signal_label": "High Risk / Veto",
+        "detail": "Clarksons Research records Strait of Hormuz crude throughput holding near ~9 million bpd (~80% of normal total Middle Eastern flows) alongside updated monthly conflict-transit and LPG carrier outlooks."
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-28T02:37:00+00:00",
+    "category": "Geopolitical",
+    "title": "The newly published Xeneta Shipping Index (XSI®-C) daily container freight report registers a wide trans-regional pricing split across major East–West trade lanes, with Far East-to-US West Coast spot…",
+    "impact_level": "HIGH",
+    "summary": "Market read: Oil bullish / XAU long.",
+    "details": "The newly published Xeneta Shipping Index (XSI®-C) daily container freight report registers a wide trans-regional pricing split across major East–West trade lanes, with Far East-to-US West Coast spot rates holding at $7,632/FEU—more than double Far East-to-North Europe benchmarks at $3,349/FEU. Released on November 27, this latest global shipping index measurement underscores persistent capacity and routing imbalances across primary maritime corridors as carriers absorb sustained Red Sea and Persian Gulf chokepoint friction.\n\n🔎 Intelligence Deep Dive & Core Developments\n\n📊 Global Capacity & Freight Index Realignment\n\n• Transpacific vs. North Europe Container Rate Divergence: According to the November 27 daily assessment from the Xeneta Shipping Index (XSI®-C), global container freight pricing remains sharply bifurcated across major East–West headhaul corridors. Far East-to-US West Coast spot rates stand at $7,632 per 40-foot container (FEU), maintaining a $4,283/FEU premium over Far East-to-North Europe spot rates at $3,349/FEU as carriers manage vessel deployment, blank sailings, and persistent chokepoint diversions.\n\n• Pre-December Surcharge & Capacity Compression: The latest XSI®-C readout arrives just days ahead of scheduled December 1 carrier Freight All Kinds (FAK) hikes and Peak Season Surcharges (PSS), keeping short-term procurement costs elevated for shippers lacking locked-in multi-quarter contract floors.\n\n🛢️ Middle East Oil & Chokepoint Risk\n\n• Sustained Dual-Chokepoint Friction Ahead of OPEC+: While no new kinetic maritime strikes were logged since the prior briefing window, commercial shipping continues to operate under severe risk premiums across both the Strait of Hormuz and Bab el-Mandeb corridors as energy desks await Sunday's November 29 OPEC+ ministerial policy decision.\n\n💡 Strategic Advice & Market Actions\n\n• ⚠️ Benchmark Transpacific & European Spot Fixtures Against Nov 27 XSI®-C Tiers: Supply chain procurement desks must audit Q4–Q1 container rate cards immediately, leveraging the $3,349/FEU Far East–North Europe benchmark to challenge excessive carrier FAK hikes while locking in ceiling caps on $7,632/FEU US West Coast allocations.\n\n• 📊 Maintain Severe-Threat Routing & Port-Diversion Contingencies: Maritime risk managers must keep heightened bridge watch, citadel readiness, and Omani hub alternatives (Duqm/Salalah/Fujairah) active across Persian Gulf and Red Sea transits.\n\n• ➡️ Hold Crude & Freight Volatility Hedges Into Sunday's OPEC+ Session: Energy portfolio desks should preserve upside protection ahead of the November 29 OPEC+ readout given tight spare capacity and ongoing chokepoint insurance surcharges.",
+    "table": [
+      {
+        "indicator": "Macro-Logistics & Capacity",
+        "signal_level": "MEDIUM",
+        "signal_label": "Moderate Risk / Adaptive Routing",
+        "detail": "Xeneta Shipping Index (XSI®-C) logs Nov 27 daily container spot benchmarks at $7,632/FEU for Far East–US West Coast against $3,349/FEU for Far East–North Europe."
+      },
+      {
+        "indicator": "Chokepoint Security",
+        "signal_level": "HIGH",
+        "signal_label": "High Risk / Strike",
+        "detail": "Strait of Hormuz remains under SEVERE threat posture following recent Khasab projectile strikes, with MEG–China VLCC (TD3C) premiums holding near $1.09M/day ahead of Sunday's Nov 29 OPEC+ meeting."
+      },
+      {
+        "indicator": "Maritime Chokepoints",
+        "signal_level": "HIGH",
+        "signal_label": "High Risk / Veto",
+        "detail": "Bab el-Mandeb and Red Sea corridors remain on high alert following Houthi strikes on Jazan port and drone intercepts over Jeddah Islamic Port and Ras Tanura."
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-27T08:07:00+00:00",
     "category": "Geopolitical",
     "title": "Very Large Crude Carriers (VLCCs) loading inside the Arabian Gulf and transiting the Strait of Hormuz to China are still earning over $1 million per day—roughly triple the return of a Gulf of Oman…",

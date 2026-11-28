@@ -491,7 +491,9 @@
           "detail": "ThePrint Trade Desk confirms Round Six India-Canada CEPA negotiations continue in New Delhi through Nov 20 with 3 chapters closed and a final round slated for December ahead of year-end signing."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-11-14T05:21:00+00:00",
       "category": "Geopolitical",
@@ -525,9 +527,7 @@
           "detail": "Moneycontrol confirms Indian and Canadian negotiators concluded three services chapters on Nov 13, with 16 remaining chapters targeted for completion by December."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-11-13T14:08:00+00:00",
       "category": "Geopolitical",
@@ -1589,7 +1589,9 @@
           "detail": "Indian High Commissioner Dinesh K. Patnaik confirms total confidence in locking the CEPA trade pact text by November. The framework targets an incremental bilateral GDP expansion up to $6.5 billion."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-10-29T05:09:00+00:00",
       "category": "Geopolitical",
@@ -1617,9 +1619,7 @@
           "detail": "Canada and India finalize agendas for next week's New Delhi round. The free trade architecture legally safeguards bilateral supply lines to target a C$70 billion annual trade baseline by 2030."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-10-28T23:32:00+00:00",
       "category": "Geopolitical",
@@ -7137,7 +7137,9 @@
           "detail": "Front-month paper risk premiums cool marginally on expectations of diplomatic supply talks, though Persian Gulf refining remains 20% below baseline levels."
         }
       ]
-    },
+    }
+  ],
+  "past_6_months": [
     {
       "timestamp": "2026-08-30T09:24:00+00:00",
       "category": "Trade War",
@@ -7221,9 +7223,7 @@
           "detail": "Iran's currency hits an all-time low of 1,043,000 rials per dollar under compounding \"Economic D-Day\" pressure, driving aggressive de-dollarization directives."
         }
       ]
-    }
-  ],
-  "past_6_months": [
+    },
     {
       "timestamp": "2026-08-30T00:31:00+00:00",
       "category": "Trade War",
